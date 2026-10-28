@@ -1,0 +1,1734 @@
+# Referências do Lecionário (só referências; nenhum texto bíblico).
+# Gerado por scripts/ingest_lectionary.py; depois disso, mantido à mão.
+# status por leitura: verificado | fonte-unica | pendente. Fontes: docs/FONTES.md.
+leituras:
+  A.tc-10.domingo:
+    evangelho:
+      ref: Mt 9,9-13
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      precisao: versiculos-inteiros
+      ref: Os 6,3-6
+      status: verificado
+    salmo:
+      ref: Sl 49(50),1.8.12-13.14-15
+      status: verificado
+    segunda_leitura:
+      ref: Rm 4,18-25
+      status: verificado
+  A.tc-11.domingo:
+    evangelho:
+      ref: Mt 9,36-10,8
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Ex 19,2-6a
+      status: verificado
+    salmo:
+      ref: Sl 99(100),1-2.3.5
+      status: verificado
+    segunda_leitura:
+      ref: Rm 5,6-11
+      status: verificado
+  A.tc-12.domingo:
+    evangelho:
+      ref: Mt 10,26-33
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Jr 20,10-13
+      status: verificado
+    salmo:
+      ref: Sl 68(69),8-10.14.17.33-35
+      status: verificado
+    segunda_leitura:
+      ref: Rm 5,12-15
+      status: verificado
+  A.tc-13.domingo:
+    evangelho:
+      ref: Mt 10,37-42
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: 2Rs 4,8-11.14-16a
+      status: verificado
+    salmo:
+      ref: Sl 88(89),2-3.16-17.18-19
+      status: verificado
+    segunda_leitura:
+      ref: Rm 6,3-4.8-11
+      status: verificado
+  A.tc-14.domingo:
+    evangelho:
+      ref: Mt 11,25-30
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Zc 9,9-10
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 144(145),1-2.8-11.13-14
+      status: verificado
+    segunda_leitura:
+      ref: Rm 8,9.11-13
+      status: verificado
+  A.tc-15.domingo:
+    evangelho:
+      alternativas:
+      - Mt 13,1-9
+      ref: Mt 13,1-23
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 55,10-11
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 64(65),10-14
+      status: verificado
+    segunda_leitura:
+      ref: Rm 8,18-23
+      status: verificado
+  A.tc-16.domingo:
+    evangelho:
+      alternativas:
+      - Mt 13,24-30
+      ref: Mt 13,24-43
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Sb 12,13.16-19
+      status: verificado
+    salmo:
+      ref: Sl 85(86),5-6.9-10.15-16
+      status: verificado
+    segunda_leitura:
+      ref: Rm 8,26-27
+      status: verificado
+  A.tc-17.domingo:
+    evangelho:
+      alternativas:
+      - Mt 13,44-46
+      ref: Mt 13,44-52
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: 1Rs 3,5.7-12
+      status: verificado
+    salmo:
+      ref: Sl 118(119),57.72.76-77.127-128.129-130
+      status: verificado
+    segunda_leitura:
+      ref: Rm 8,28-30
+      status: verificado
+  A.tc-18.domingo:
+    evangelho:
+      ref: Mt 14,13-21
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 55,1-3
+      status: verificado
+    salmo:
+      ref: Sl 144(145),8-9.15-16.17-18
+      status: verificado
+    segunda_leitura:
+      ref: Rm 8,35.37-39
+      status: verificado
+  A.tc-19.domingo:
+    evangelho:
+      ref: Mt 14,22-33
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: 1Rs 19,9a.11-13a
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 84(85),9-14
+      status: verificado
+    segunda_leitura:
+      ref: Rm 9,1-5
+      status: verificado
+  A.tc-2.domingo:
+    evangelho:
+      ref: Jo 1,29-34
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 49,3.5-6
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 39(40),2.4.7-10
+      status: verificado
+    segunda_leitura:
+      ref: 1Cor 1,1-3
+      status: verificado
+  A.tc-20.domingo:
+    evangelho:
+      ref: Mt 15,21-28
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 56,1.6-7
+      status: verificado
+    salmo:
+      ref: Sl 66(67),2-3.5.6.8
+      status: verificado
+    segunda_leitura:
+      ref: Rm 11,13-15.29-32
+      status: verificado
+  A.tc-21.domingo:
+    evangelho:
+      ref: Mt 16,13-20
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 22,19-23
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 137(138),1-3.6.8
+      status: verificado
+    segunda_leitura:
+      ref: Rm 11,33-36
+      status: verificado
+  A.tc-22.domingo:
+    evangelho:
+      ref: Mt 16,21-27
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Jr 20,7-9
+      status: verificado
+    salmo:
+      ref: Sl 62(63),2.3-4.5-6.8-9
+      status: verificado
+    segunda_leitura:
+      ref: Rm 12,1-2
+      status: verificado
+  A.tc-23.domingo:
+    evangelho:
+      ref: Mt 18,15-20
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Ez 33,7-9
+      status: verificado
+    salmo:
+      ref: Sl 94(95),1-2.6-7.8-9
+      status: verificado
+    segunda_leitura:
+      ref: Rm 13,8-10
+      status: verificado
+  A.tc-24.domingo:
+    evangelho:
+      ref: Mt 18,21-35
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Eclo 27,30-28,7
+      status: verificado
+    salmo:
+      ref: Sl 102(103),1-2.3-4.9-10.11-12
+      status: verificado
+    segunda_leitura:
+      ref: Rm 14,7-9
+      status: verificado
+  A.tc-25.domingo:
+    evangelho:
+      ref: Mt 20,1-16a
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 55,6-9
+      status: verificado
+    salmo:
+      ref: Sl 144(145),2-3.8-9.17-18
+      status: verificado
+    segunda_leitura:
+      ref: Fl 1,20c-24.27a
+      status: verificado
+  A.tc-26.domingo:
+    evangelho:
+      ref: Mt 21,28-32
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Ez 18,25-28
+      status: verificado
+    salmo:
+      ref: Sl 24(25),4-5.6-7.8-9
+      status: verificado
+    segunda_leitura:
+      alternativas:
+      - Fl 2,1-5
+      ref: Fl 2,1-11
+      status: verificado
+  A.tc-27.domingo:
+    evangelho:
+      ref: Mt 21,33-43
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 5,1-7
+      status: verificado
+    salmo:
+      ref: Sl 79(80),9.12.13-14.15-16.19-20
+      status: verificado
+    segunda_leitura:
+      ref: Fl 4,6-9
+      status: verificado
+  A.tc-28.domingo:
+    evangelho:
+      alternativas:
+      - Mt 22,1-10
+      ref: Mt 22,1-14
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 25,6-10a
+      status: verificado
+    salmo:
+      ref: Sl 22(23),1-3a.3b-4.5.6
+      status: verificado
+    segunda_leitura:
+      ref: Fl 4,12-14.19-20
+      status: verificado
+  A.tc-29.domingo:
+    evangelho:
+      ref: Mt 22,15-21
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 45,1.4-6
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 95(96),1.3-5.7-10
+      status: verificado
+    segunda_leitura:
+      precisao: versiculos-inteiros
+      ref: 1Ts 1,1-5
+      status: verificado
+  A.tc-3.domingo:
+    evangelho:
+      alternativas:
+      - Mt 4,12-17
+      ref: Mt 4,12-23
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 8,23-9,3
+      status: verificado
+    salmo:
+      ref: Sl 26(27),1.4.13-14
+      status: verificado
+    segunda_leitura:
+      ref: 1Cor 1,10-13.17
+      status: verificado
+  A.tc-30.domingo:
+    evangelho:
+      ref: Mt 22,34-40
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Ex 22,20-26
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 17(18),2-4.47.51
+      status: verificado
+    segunda_leitura:
+      ref: 1Ts 1,5c-10
+      status: verificado
+  A.tc-31.domingo:
+    evangelho:
+      ref: Mt 23,1-12
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      precisao: versiculos-inteiros
+      ref: Ml 1,14-2,2.8-10
+      status: verificado
+    salmo:
+      ref: Sl 130(131),1.2.3
+      status: verificado
+    segunda_leitura:
+      ref: 1Ts 2,7b-9.13
+      status: verificado
+  A.tc-32.domingo:
+    evangelho:
+      ref: Mt 25,1-13
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Sb 6,12-16
+      status: verificado
+    salmo:
+      ref: Sl 62(63),2.3-4.5-6.7-8
+      status: verificado
+    segunda_leitura:
+      ref: 1Ts 4,13-18
+      status: verificado
+  A.tc-33.domingo:
+    evangelho:
+      alternativas:
+      - Mt 25,14-15.19-20
+      ref: Mt 25,14-30
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Pr 31,10-13.19-20.30-31
+      status: verificado
+    salmo:
+      ref: Sl 127(128),1-2.3.4-5
+      status: verificado
+    segunda_leitura:
+      ref: 1Ts 5,1-6
+      status: verificado
+  A.tc-4.domingo:
+    evangelho:
+      ref: Mt 5,1-12a
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Sf 2,3;3,12-13
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 145(146),6-7.8-9.9-10
+      ref: Sl 145(146),7.8-9a.9bc-10
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Cor 1,26-31
+      status: verificado
+  A.tc-5.domingo:
+    evangelho:
+      ref: Mt 5,13-16
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 58,7-10
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 111(112),4-9
+      status: verificado
+    segunda_leitura:
+      ref: 1Cor 2,1-5
+      status: verificado
+  A.tc-6.domingo:
+    evangelho:
+      alternativas:
+      - Mt 5,20-22a.27-28.33-34a.37
+      ref: Mt 5,17-37
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Eclo 15,15-20
+      status: verificado
+    salmo:
+      ref: Sl 118(119),1-2.4-5.17-18.33-34
+      status: verificado
+    segunda_leitura:
+      ref: 1Cor 2,6-10
+      status: verificado
+  A.tc-7.domingo:
+    evangelho:
+      ref: Mt 5,38-48
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Lv 19,1-2.17-18
+      status: verificado
+    salmo:
+      ref: Sl 102(103),1-2.3-4.8.10.12-13
+      status: verificado
+    segunda_leitura:
+      ref: 1Cor 3,16-23
+      status: verificado
+  A.tc-8.domingo:
+    evangelho:
+      ref: Mt 6,24-34
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 49,14-15
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 61(62),2-3.6-9
+      status: verificado
+    segunda_leitura:
+      ref: 1Cor 4,1-5
+      status: verificado
+  A.tc-9.domingo:
+    evangelho:
+      ref: Mt 7,21-27
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      divergencia:
+        litcal: Dt 11,18.26-28.32
+      ref: Dt 11,18.26-28
+      status: fonte-unica
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 30(31),2-4.17.25
+      status: verificado
+    segunda_leitura:
+      precisao: versiculos-inteiros
+      ref: Rm 3,21-25.28
+      status: verificado
+  A.tc.corpo-e-sangue-de-cristo:
+    evangelho:
+      ref: Jo 6,51-58
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Dt 8,2-3.14b-16a
+      status: verificado
+    salmo:
+      ref: Sl 147(147B),12-13.14-15.19-20
+      status: verificado
+    segunda_leitura:
+      ref: 1Cor 10,16-17
+      status: verificado
+  A.tc.cristo-rei:
+    evangelho:
+      ref: Mt 25,31-46
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Ez 34,11-12.15-17
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 22(23),1-3.5-6
+      status: verificado
+    segunda_leitura:
+      ref: 1Cor 15,20-26.28
+      status: verificado
+  A.tc.sagrado-coracao-de-jesus:
+    evangelho:
+      ref: Mt 11,25-30
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Dt 7,6-11
+      status: verificado
+    salmo:
+      ref: Sl 102(103),1-2.3-4.6-7.8.10
+      status: verificado
+    segunda_leitura:
+      ref: 1Jo 4,7-16
+      status: verificado
+  A.tc.santissima-trindade:
+    evangelho:
+      ref: Jo 3,16-18
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Ex 34,4b-6.8-9
+      status: verificado
+    salmo:
+      ref: Dn 3,52-56
+      status: verificado
+    segunda_leitura:
+      ref: 2Cor 13,11-13
+      status: verificado
+  B.tc-10.domingo:
+    evangelho:
+      ref: Mc 3,20-35
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Gn 3,9-15
+      status: fonte-unica
+    salmo:
+      ref: Sl 129(130),1-2.3-4.5-6.7-8
+      status: fonte-unica
+    segunda_leitura:
+      ref: 2Cor 4,13-5,1
+      status: fonte-unica
+  B.tc-11.domingo:
+    evangelho:
+      ref: Mc 4,26-34
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Ez 17,22-24
+      status: fonte-unica
+    salmo:
+      ref: Sl 91(92),2-3.13-14.15-16
+      status: fonte-unica
+    segunda_leitura:
+      ref: 2Cor 5,6-10
+      status: fonte-unica
+  B.tc-12.domingo:
+    evangelho:
+      ref: Mc 4,35-41
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Jó 38,1.8-11
+      status: fonte-unica
+    salmo:
+      ref: Sl 106(107),23-24.25-26.28-29.30-31
+      status: fonte-unica
+    segunda_leitura:
+      ref: 2Cor 5,14-17
+      status: fonte-unica
+  B.tc-13.domingo:
+    evangelho:
+      alternativas:
+      - Mc 5,21-24.35b-43
+      ref: Mc 5,21-43
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Sb 1,13-15;2,23-24
+      status: fonte-unica
+    salmo:
+      ref: Sl 29(30),2.4.5-6.11.12a.13b
+      status: fonte-unica
+    segunda_leitura:
+      ref: 2Cor 8,7.9.13-15
+      status: fonte-unica
+  B.tc-14.domingo:
+    evangelho:
+      ref: Mc 6,1-6
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Ez 2,2-5
+      status: fonte-unica
+    salmo:
+      ref: Sl 122(123),1.2.3-4
+      status: fonte-unica
+    segunda_leitura:
+      ref: 2Cor 12,7-10
+      status: fonte-unica
+  B.tc-15.domingo:
+    evangelho:
+      ref: Mc 6,7-13
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Am 7,12-15
+      status: fonte-unica
+    salmo:
+      ref: Sl 84(85),9ab.10.11-12.13-14
+      status: fonte-unica
+    segunda_leitura:
+      alternativas:
+      - Ef 1,3-10
+      ref: Ef 1,3-14
+      status: fonte-unica
+  B.tc-16.domingo:
+    evangelho:
+      ref: Mc 6,30-34
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Jr 23,1-6
+      status: fonte-unica
+    salmo:
+      ref: Sl 22(23),1-3a.3b-4.5.6
+      status: fonte-unica
+    segunda_leitura:
+      ref: Ef 2,13-18
+      status: fonte-unica
+  B.tc-17.domingo:
+    evangelho:
+      ref: Jo 6,1-15
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: 2Rs 4,42-44
+      status: fonte-unica
+    salmo:
+      ref: Sl 144(145),10-11.15-16.17-18
+      status: fonte-unica
+    segunda_leitura:
+      ref: Ef 4,1-6
+      status: fonte-unica
+  B.tc-18.domingo:
+    evangelho:
+      ref: Jo 6,24-35
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Ex 16,2-4.12-15
+      status: fonte-unica
+    salmo:
+      ref: Sl 77(78),3.4bc.23-24.25.54
+      status: fonte-unica
+    segunda_leitura:
+      ref: Ef 4,17.20-24
+      status: fonte-unica
+  B.tc-19.domingo:
+    evangelho:
+      ref: Jo 6,41-51
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: 1Rs 19,4-8
+      status: fonte-unica
+    salmo:
+      ref: Sl 33(34),2-3.4-5.6-7.8-9
+      status: fonte-unica
+    segunda_leitura:
+      ref: Ef 4,30-5,2
+      status: fonte-unica
+  B.tc-2.domingo:
+    evangelho:
+      ref: Jo 1,35-42
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: 1Sm 3,3b-10.19
+      status: fonte-unica
+    salmo:
+      ref: Sl 39(40),3.4.7-8a.8b-9.10
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Cor 6,13c-15a.17-20
+      status: fonte-unica
+  B.tc-20.domingo:
+    evangelho:
+      ref: Jo 6,51-58
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Pr 9,1-6
+      status: fonte-unica
+    salmo:
+      ref: Sl 33(34),2-3.10-11.12-13.14-15
+      status: fonte-unica
+    segunda_leitura:
+      ref: Ef 5,15-20
+      status: fonte-unica
+  B.tc-21.domingo:
+    evangelho:
+      ref: Jo 6,60-69
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Js 24,1-2a.15-17.18b
+      status: fonte-unica
+    salmo:
+      ref: Sl 33(34),2-3.16-17.18-19.20-21.22-23
+      status: fonte-unica
+    segunda_leitura:
+      ref: Ef 5,21-32
+      status: fonte-unica
+  B.tc-22.domingo:
+    evangelho:
+      ref: Mc 7,1-8.14-15.21-23
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Dt 4,1-2.6-8
+      status: fonte-unica
+    salmo:
+      ref: Sl 14(15),2-3a.3bc-4ab.5
+      status: fonte-unica
+    segunda_leitura:
+      ref: Tg 1,17-18.21b-22.27
+      status: fonte-unica
+  B.tc-23.domingo:
+    evangelho:
+      ref: Mc 7,31-37
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Is 35,4-7a
+      status: fonte-unica
+    salmo:
+      ref: Sl 145(146),7.8-9a.9bc-10
+      status: fonte-unica
+    segunda_leitura:
+      ref: Tg 2,1-5
+      status: fonte-unica
+  B.tc-24.domingo:
+    evangelho:
+      ref: Mc 8,27-35
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Is 50,5-9a
+      status: fonte-unica
+    salmo:
+      ref: Sl 114(116A),1-2.3-4.5-6.8-9
+      status: fonte-unica
+    segunda_leitura:
+      ref: Tg 2,14-18
+      status: fonte-unica
+  B.tc-25.domingo:
+    evangelho:
+      ref: Mc 9,30-37
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Sb 2,17-20
+      status: fonte-unica
+    salmo:
+      ref: Sl 53(54),3-4.5.6.8
+      status: fonte-unica
+    segunda_leitura:
+      ref: Tg 3,16-4,3
+      status: fonte-unica
+  B.tc-26.domingo:
+    evangelho:
+      ref: Mc 9,38-48
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Nm 11,25-29
+      status: fonte-unica
+    salmo:
+      ref: Sl 18(19),8.10.12-13.14
+      status: fonte-unica
+    segunda_leitura:
+      ref: Tg 5,1-6
+      status: fonte-unica
+  B.tc-27.domingo:
+    evangelho:
+      alternativas:
+      - Mc 10,2-12
+      ref: Mc 10,2-16
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Gn 2,18-24
+      status: fonte-unica
+    salmo:
+      ref: Sl 127(128),1-2.3.4-5.6
+      status: fonte-unica
+    segunda_leitura:
+      ref: Hb 2,9-11
+      status: fonte-unica
+  B.tc-28.domingo:
+    evangelho:
+      alternativas:
+      - Mc 10,17-27
+      ref: Mc 10,17-30
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Sb 7,7-11
+      status: fonte-unica
+    salmo:
+      ref: Sl 89(90),12-13.14-15.16-17
+      status: fonte-unica
+    segunda_leitura:
+      ref: Hb 4,12-13
+      status: fonte-unica
+  B.tc-29.domingo:
+    evangelho:
+      alternativas:
+      - Mc 10,42-45
+      ref: Mc 10,35-45
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Is 53,10-11
+      status: fonte-unica
+    salmo:
+      ref: Sl 32(33),4-5.18-19.20.22
+      status: fonte-unica
+    segunda_leitura:
+      ref: Hb 4,14-16
+      status: fonte-unica
+  B.tc-3.domingo:
+    evangelho:
+      ref: Mc 1,14-20
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Jn 3,1-5.10
+      status: fonte-unica
+    salmo:
+      ref: Sl 24(25),4-5.6-7bc.8-9
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Cor 7,29-31
+      status: fonte-unica
+  B.tc-30.domingo:
+    evangelho:
+      ref: Mc 10,46-52
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Jr 31,7-9
+      status: fonte-unica
+    salmo:
+      ref: Sl 125(126),1-2ab.2cd-3.4-5.6
+      status: fonte-unica
+    segunda_leitura:
+      ref: Hb 5,1-6
+      status: fonte-unica
+  B.tc-31.domingo:
+    evangelho:
+      ref: Mc 12,28b-34
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Dt 6,2-6
+      status: fonte-unica
+    salmo:
+      ref: Sl 17(18),2-3abc.3def-4.47.51ab
+      status: fonte-unica
+    segunda_leitura:
+      ref: Hb 7,23-28
+      status: fonte-unica
+  B.tc-32.domingo:
+    evangelho:
+      alternativas:
+      - Mc 12,41-44
+      ref: Mc 12,38-44
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: 1Rs 17,10-16
+      status: fonte-unica
+    salmo:
+      ref: Sl 145(146),7.8-9a.9bc-10
+      status: fonte-unica
+    segunda_leitura:
+      ref: Hb 9,24-28
+      status: fonte-unica
+  B.tc-33.domingo:
+    evangelho:
+      ref: Mc 13,24-32
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Dn 12,1-3
+      status: fonte-unica
+    salmo:
+      ref: Sl 15(16),5.8.9-10.11
+      status: fonte-unica
+    segunda_leitura:
+      ref: Hb 10,11-14.18
+      status: fonte-unica
+  B.tc-4.domingo:
+    evangelho:
+      ref: Mc 1,21-28
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Dt 18,15-20
+      status: fonte-unica
+    salmo:
+      ref: Sl 94(95),1-2.6-7.8-9
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Cor 7,32-35
+      status: fonte-unica
+  B.tc-5.domingo:
+    evangelho:
+      ref: Mc 1,29-39
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Jó 7,1-4.6-7
+      status: fonte-unica
+    salmo:
+      ref: Sl 146(147A),1-2.3-4.5-6
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Cor 9,16-19.22-23
+      status: fonte-unica
+  B.tc-6.domingo:
+    evangelho:
+      ref: Mc 1,40-45
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Lv 13,1-2.44-46
+      status: fonte-unica
+    salmo:
+      ref: Sl 31(32),1-2.5.11
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Cor 10,31-11,1
+      status: fonte-unica
+  B.tc-7.domingo:
+    evangelho:
+      ref: Mc 2,1-12
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Is 43,18-19.21-22.24b-25
+      status: fonte-unica
+    salmo:
+      ref: Sl 40(41),2-3.4-5.13-14
+      status: fonte-unica
+    segunda_leitura:
+      ref: 2Cor 1,18-22
+      status: fonte-unica
+  B.tc-8.domingo:
+    evangelho:
+      ref: Mc 2,18-22
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Os 2,16.17c.21-22
+      status: fonte-unica
+    salmo:
+      ref: Sl 102(103),1-2.3-4.8-10.12-13
+      status: fonte-unica
+    segunda_leitura:
+      ref: 2Cor 3,1b-6
+      status: fonte-unica
+  B.tc-9.domingo:
+    evangelho:
+      alternativas:
+      - Mc 2,23-28
+      ref: Mc 2,23-3,6
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Dt 5,12-15
+      status: fonte-unica
+    salmo:
+      ref: Sl 80(81),3-4.5-6ab.7-8a.10-11a
+      status: fonte-unica
+    segunda_leitura:
+      ref: 2Cor 4,6-11
+      status: fonte-unica
+  B.tc.corpo-e-sangue-de-cristo:
+    evangelho:
+      ref: Mc 14,12-16.22-26
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Ex 24,3-8
+      status: fonte-unica
+    salmo:
+      ref: Sl 115(116B),12-13.15-16.17-18
+      status: fonte-unica
+    segunda_leitura:
+      ref: Hb 9,11-15
+      status: fonte-unica
+  B.tc.cristo-rei:
+    evangelho:
+      ref: Jo 18,33-37
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Dn 7,13-14
+      status: fonte-unica
+    salmo:
+      ref: Sl 92(93),1a-c.1de-2.5
+      status: fonte-unica
+    segunda_leitura:
+      ref: Ap 1,5-8
+      status: fonte-unica
+  B.tc.sagrado-coracao-de-jesus:
+    evangelho:
+      ref: Jo 19,31-37
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Os 11,1.3-4.8c-9
+      status: fonte-unica
+    salmo:
+      ref: Is 12,2-3.4bcd.5-6
+      status: fonte-unica
+    segunda_leitura:
+      ref: Ef 3,8-12.14-19
+      status: fonte-unica
+  B.tc.santissima-trindade:
+    evangelho:
+      ref: Mt 28,16-20
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Dt 4,32-34.39-40
+      status: fonte-unica
+    salmo:
+      ref: Sl 32(33),4-5.6.9.18-19.20.22
+      status: fonte-unica
+    segunda_leitura:
+      ref: Rm 8,14-17
+      status: fonte-unica
+  C.tc-10.domingo:
+    evangelho:
+      ref: Lc 7,11-17
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: 1Rs 17,17-24
+      status: fonte-unica
+    salmo:
+      ref: Sl 29(30),2.4.5-6.11.12a.13b
+      status: fonte-unica
+    segunda_leitura:
+      ref: Gl 1,11-19
+      status: fonte-unica
+  C.tc-11.domingo:
+    evangelho:
+      alternativas:
+      - Lc 7,36-50
+      ref: Lc 7,36-8,3
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: 2Sm 12,7-10.13
+      status: fonte-unica
+    salmo:
+      ref: Sl 31(32),1-2.5.7.11
+      status: fonte-unica
+    segunda_leitura:
+      ref: Gl 2,16.19-21
+      status: fonte-unica
+  C.tc-12.domingo:
+    evangelho:
+      ref: Lc 9,18-24
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Zc 12,10-11
+      status: fonte-unica
+    salmo:
+      ref: Sl 62(63),2.3-4.5-6.8-9
+      status: fonte-unica
+    segunda_leitura:
+      ref: Gl 3,26-29
+      status: fonte-unica
+  C.tc-13.domingo:
+    evangelho:
+      ref: Lc 9,51-62
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: 1Rs 19,16b.19-21
+      status: fonte-unica
+    salmo:
+      ref: Sl 15(16),1-2a.5.7-8.9-10.11
+      status: fonte-unica
+    segunda_leitura:
+      ref: Gl 5,1.13-18
+      status: fonte-unica
+  C.tc-14.domingo:
+    evangelho:
+      alternativas:
+      - Lc 10,1-9
+      ref: Lc 10,1-12.17-20
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Is 66,10-14c
+      status: fonte-unica
+    salmo:
+      ref: Sl 65(66),1-3a.4-5.6-7a.16.20
+      status: fonte-unica
+    segunda_leitura:
+      ref: Gl 6,14-18
+      status: fonte-unica
+  C.tc-15.domingo:
+    evangelho:
+      ref: Lc 10,25-37
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Dt 30,10-14
+      status: fonte-unica
+    salmo:
+      alternativas:
+      - Sl 18(19),8.9.10.11
+      ref: Sl 68(69),14.17.30-31.36ab.37
+      status: fonte-unica
+    segunda_leitura:
+      ref: Cl 1,15-20
+      status: fonte-unica
+  C.tc-16.domingo:
+    evangelho:
+      ref: Lc 10,38-42
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Gn 18,1-10
+      status: fonte-unica
+    salmo:
+      ref: Sl 14(15),2.3-4.5
+      status: fonte-unica
+    segunda_leitura:
+      ref: Cl 1,24-28
+      status: fonte-unica
+  C.tc-17.domingo:
+    evangelho:
+      ref: Lc 11,1-13
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Gn 18,20-32
+      status: fonte-unica
+    salmo:
+      ref: Sl 137(138),1-2a.2bc-3.6-7ab.7c-8
+      status: fonte-unica
+    segunda_leitura:
+      ref: Cl 2,12-14
+      status: fonte-unica
+  C.tc-18.domingo:
+    evangelho:
+      ref: Lc 12,13-21
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Ecl 1,2;2,21-23
+      status: fonte-unica
+    salmo:
+      ref: Sl 89(90),3-4.5-6.12-13.14.17
+      status: fonte-unica
+    segunda_leitura:
+      ref: Cl 3,1-5.9-11
+      status: fonte-unica
+  C.tc-19.domingo:
+    evangelho:
+      alternativas:
+      - Lc 12,35-40
+      ref: Lc 12,32-48
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Sb 18,6-9
+      status: fonte-unica
+    salmo:
+      ref: Sl 32(33),1.12.18-19.20.22
+      status: fonte-unica
+    segunda_leitura:
+      alternativas:
+      - Hb 11,1-2.8-12
+      ref: Hb 11,1-2.8-19
+      status: fonte-unica
+  C.tc-2.domingo:
+    evangelho:
+      ref: Jo 2,1-12
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Is 62,1-5
+      status: fonte-unica
+    salmo:
+      ref: Sl 95(96),1.2a.2b-3.7-8a.9-10ac
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Cor 12,4-11
+      status: fonte-unica
+  C.tc-20.domingo:
+    evangelho:
+      ref: Lc 12,49-53
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Jr 38,4-6.8-10
+      status: fonte-unica
+    salmo:
+      ref: Sl 39(40),2.3.4.18
+      status: fonte-unica
+    segunda_leitura:
+      ref: Hb 12,1-4
+      status: fonte-unica
+  C.tc-21.domingo:
+    evangelho:
+      ref: Lc 13,22-30
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Is 66,18-21
+      status: fonte-unica
+    salmo:
+      ref: Sl 116(117),1.2
+      status: fonte-unica
+    segunda_leitura:
+      ref: Hb 12,5-7.11-13
+      status: fonte-unica
+  C.tc-22.domingo:
+    evangelho:
+      ref: Lc 14,1.7-14
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Eclo 3,17-18.20.28-29
+      status: fonte-unica
+    salmo:
+      ref: Sl 67(68),4-5ac.6-7ab.10-11
+      status: fonte-unica
+    segunda_leitura:
+      ref: Hb 12,18-19.22-24a
+      status: fonte-unica
+  C.tc-23.domingo:
+    evangelho:
+      ref: Lc 14,25-33
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Sb 9,13-18
+      status: fonte-unica
+    salmo:
+      ref: Sl 89(90),3-4.5-6.12-13.14.17
+      status: fonte-unica
+    segunda_leitura:
+      ref: Fm 9b-10.12-17
+      status: fonte-unica
+  C.tc-24.domingo:
+    evangelho:
+      alternativas:
+      - Lc 15,1-10
+      ref: Lc 15,1-32
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Ex 32,7-11.13-14
+      status: fonte-unica
+    salmo:
+      ref: Sl 50(51),3-4.12-13.17.19
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Tm 1,12-17
+      status: fonte-unica
+  C.tc-25.domingo:
+    evangelho:
+      alternativas:
+      - Lc 16,10-13
+      ref: Lc 16,1-13
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Am 8,4-7
+      status: fonte-unica
+    salmo:
+      ref: Sl 112(113),1-2.4-6.7-8
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Tm 2,1-8
+      status: fonte-unica
+  C.tc-26.domingo:
+    evangelho:
+      ref: Lc 16,19-31
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Am 6,1.3-7
+      status: fonte-unica
+    salmo:
+      ref: Sl 145(146),7.8-9a.9bc-10
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Tm 6,11-16
+      status: fonte-unica
+  C.tc-27.domingo:
+    evangelho:
+      ref: Lc 17,5-10
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Hab 1,2-3;2,2-4
+      status: fonte-unica
+    salmo:
+      ref: Sl 94(95),1-2.6-7.8-9
+      status: fonte-unica
+    segunda_leitura:
+      ref: 2Tm 1,6-8.13-14
+      status: fonte-unica
+  C.tc-28.domingo:
+    evangelho:
+      ref: Lc 17,11-19
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: 2Rs 5,14-17
+      status: fonte-unica
+    salmo:
+      ref: Sl 97(98),1.2-3a.3b-4
+      status: fonte-unica
+    segunda_leitura:
+      ref: 2Tm 2,8-13
+      status: fonte-unica
+  C.tc-29.domingo:
+    evangelho:
+      ref: Lc 18,1-8
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Ex 17,8-13
+      status: fonte-unica
+    salmo:
+      ref: Sl 120(121),1-2.3-4.5-6.7-8
+      status: fonte-unica
+    segunda_leitura:
+      ref: 2Tm 3,14-4,2
+      status: fonte-unica
+  C.tc-3.domingo:
+    evangelho:
+      ref: Lc 1,1-4;4,14-21
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Ne 8,2-4a.5-6.8-10
+      status: fonte-unica
+    salmo:
+      ref: Sl 18(19),8.9.10.15
+      status: fonte-unica
+    segunda_leitura:
+      alternativas:
+      - 1Cor 12,12-14.27
+      ref: 1Cor 12,12-30
+      status: fonte-unica
+  C.tc-30.domingo:
+    evangelho:
+      ref: Lc 18,9-14
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Eclo 35,12-14.16-18
+      status: fonte-unica
+    salmo:
+      ref: Sl 33(34),2-3.17-18.19.23
+      status: fonte-unica
+    segunda_leitura:
+      ref: 2Tm 4,6-8.16-18
+      status: fonte-unica
+  C.tc-31.domingo:
+    evangelho:
+      ref: Lc 19,1-10
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Sb 11,22-12,2
+      status: fonte-unica
+    salmo:
+      ref: Sl 144(145),1-2.8-9.10-11.13cd-14
+      status: fonte-unica
+    segunda_leitura:
+      ref: 2Ts 1,11-2,2
+      status: fonte-unica
+  C.tc-32.domingo:
+    evangelho:
+      alternativas:
+      - Lc 20,34-38
+      ref: Lc 20,27-38
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: 2Mc 7,1-2.9-14
+      status: fonte-unica
+    salmo:
+      ref: Sl 16(17),1.5-6.8.15
+      status: fonte-unica
+    segunda_leitura:
+      ref: 2Ts 2,16-3,5
+      status: fonte-unica
+  C.tc-33.domingo:
+    evangelho:
+      ref: Lc 21,5-19
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Ml 3,19-20a
+      status: fonte-unica
+    salmo:
+      ref: Sl 97(98),5-6.7-8.9
+      status: fonte-unica
+    segunda_leitura:
+      ref: 2Ts 3,7-12
+      status: fonte-unica
+  C.tc-4.domingo:
+    evangelho:
+      ref: Lc 4,21-30
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Jr 1,4-5.17-19
+      status: fonte-unica
+    salmo:
+      ref: Sl 70(71),1-2.3-4a.5-6ab.15.17
+      status: fonte-unica
+    segunda_leitura:
+      alternativas:
+      - 1Cor 13,4-13
+      ref: 1Cor 12,31-13,13
+      status: fonte-unica
+  C.tc-5.domingo:
+    evangelho:
+      ref: Lc 5,1-11
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Is 6,1-8
+      status: fonte-unica
+    salmo:
+      ref: Sl 137(138),1-2a.2bc-3.4-5.7c-8
+      status: fonte-unica
+    segunda_leitura:
+      alternativas:
+      - 1Cor 15,3-8.11
+      ref: 1Cor 15,1-11
+      status: fonte-unica
+  C.tc-6.domingo:
+    evangelho:
+      ref: Lc 6,17.20-26
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Jr 17,5-8
+      status: fonte-unica
+    salmo:
+      ref: Sl 1,1-2.3.4.6
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Cor 15,12.16-20
+      status: fonte-unica
+  C.tc-7.domingo:
+    evangelho:
+      ref: Lc 6,27-38
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: 1Sm 26,2.7-9.12-13.22-23
+      status: fonte-unica
+    salmo:
+      ref: Sl 102(103),1-2.3-4.8.10.12-13
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Cor 15,45-49
+      status: fonte-unica
+  C.tc-8.domingo:
+    evangelho:
+      ref: Lc 6,39-45
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Eclo 27,4-7
+      status: fonte-unica
+    salmo:
+      ref: Sl 91(92),2-3.13-14.15-16
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Cor 15,54-58
+      status: fonte-unica
+  C.tc-9.domingo:
+    evangelho:
+      ref: Lc 7,1-10
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: 1Rs 8,41-43
+      status: fonte-unica
+    salmo:
+      ref: Sl 116(117),1.2
+      status: fonte-unica
+    segunda_leitura:
+      ref: Gl 1,1-2.6-10
+      status: fonte-unica
+  C.tc.corpo-e-sangue-de-cristo:
+    evangelho:
+      ref: Lc 9,11b-17
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Gn 14,18-20
+      status: fonte-unica
+    salmo:
+      ref: Sl 109(110),1.2.3.4
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Cor 11,23-26
+      status: fonte-unica
+  C.tc.cristo-rei:
+    evangelho:
+      ref: Lc 23,35-43
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: 2Sm 5,1-3
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 121(122),1-3.3-4.4-5
+      ref: Sl 121(122),1-2.4-5
+      status: fonte-unica
+    segunda_leitura:
+      ref: Cl 1,12-20
+      status: verificado
+  C.tc.sagrado-coracao-de-jesus:
+    evangelho:
+      ref: Lc 15,3-7
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Ez 34,11-16
+      status: fonte-unica
+    salmo:
+      ref: Sl 22(23),1-3a.3b-4.5.6
+      status: fonte-unica
+    segunda_leitura:
+      ref: Rm 5,5b-11
+      status: fonte-unica
+  C.tc.santissima-trindade:
+    evangelho:
+      ref: Jo 16,12-15
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Pr 8,22-31
+      status: fonte-unica
+    salmo:
+      ref: Sl 8,4-5.6-7.8-9
+      status: fonte-unica
+    segunda_leitura:
+      ref: Rm 5,1-5
+      status: fonte-unica

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+/build/
+/dist/
+site/node_modules/
+site/out/
+site/.next/
+site/dados/*.json
+site/next-env.d.ts

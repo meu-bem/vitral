@@ -1,0 +1,39 @@
+# Links estáveis (páginas de seção, nunca endereços de um dia específico).
+# Conferidos no ar na data indicada. O workflow mensal verifica-os e abre issue se quebrarem.
+links:
+  - id: cnbb-liturgia-diaria
+    titulo: Liturgia Diária — CNBB
+    url: https://www.cnbb.org.br/liturgia-diaria/
+    tipo: liturgia-diaria
+    responsavel: Conferência Nacional dos Bispos do Brasil
+    verificado_em: "2026-10-27"
+  - id: paulus-liturgia-diaria
+    titulo: Liturgia Diária — Paulus
+    url: https://www.paulus.com.br/portal/liturgia-diaria/
+    tipo: liturgia-diaria
+    responsavel: Paulus Editora
+    verificado_em: "2026-10-27"
+  - id: cancao-nova-liturgia
+    titulo: Liturgia Diária — Canção Nova
+    url: https://liturgia.cancaonova.com/pb/
+    tipo: liturgia-diaria
+    responsavel: Comunidade Canção Nova
+    verificado_em: "2026-10-27"
+  - id: vatican-news-palavra-do-dia
+    titulo: Palavra do dia — Vatican News
+    url: https://www.vaticannews.va/pt/palavra-do-dia.html
+    tipo: comentario
+    responsavel: Dicastério para a Comunicação (Santa Sé)
+    verificado_em: "2026-10-27"
+  - id: cnbb-biblia
+    titulo: Bíblia — CNBB
+    url: https://www.cnbb.org.br/biblia/
+    tipo: biblia
+    responsavel: Conferência Nacional dos Bispos do Brasil
+    verificado_em: "2026-10-27"
+  - id: paulus-biblia-pastoral
+    titulo: Bíblia Sagrada, Edição Pastoral — Paulus
+    url: https://www.paulus.com.br/biblia-pastoral/_INDEX.HTM
+    tipo: biblia
+    responsavel: Paulus Editora
+    verificado_em: "2026-10-27"

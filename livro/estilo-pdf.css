@@ -1,0 +1,13 @@
+/* Somente PDF (WeasyPrint, A5). O EPUB usa só estilo.css. */
+@page { size: A5; margin: 16mm 14mm 18mm 16mm;
+  @bottom-center { content: counter(page); font-family: "Source Sans 3", sans-serif; font-size: 8pt; color: #777; } }
+@page :left { margin-left: 14mm; margin-right: 16mm; }
+@page rosto { @bottom-center { content: none; } }
+@page calendario { size: A5 landscape; margin: 10mm; }
+.pdf .rosto { page: rosto; }
+.pdf #calendario { page: calendario; }
+.pdf section.dia, .pdf section.texto, .pdf .mes { break-before: page; }
+.pdf .dia { string-set: cabecalho content(); }
+.pdf .anotacoes { border-top: 0.5px solid #ccc; min-height: 60mm;
+  background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 7.5mm, #e2ddd2 7.5mm, #e2ddd2 7.8mm); }
+.pdf .tabela tr { break-inside: avoid; }

@@ -1,0 +1,964 @@
+# Referências do Lecionário (só referências; nenhum texto bíblico).
+# Gerado por scripts/ingest_lectionary.py; depois disso, mantido à mão.
+# status por leitura: verificado | fonte-unica | pendente. Fontes: docs/FONTES.md.
+leituras:
+  A.pascoa-2.domingo:
+    evangelho:
+      ref: Jo 20,19-31
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 2,42-47
+      status: verificado
+    salmo:
+      ref: Sl 117(118),2-4.13-15.22-24
+      status: verificado
+    segunda_leitura:
+      ref: 1Pd 1,3-9
+      status: verificado
+  A.pascoa-3.domingo:
+    evangelho:
+      ref: Lc 24,13-35
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 2,14.22-33
+      status: verificado
+    salmo:
+      ref: Sl 15(16),1-2.5.7-8.9-10.11
+      status: verificado
+    segunda_leitura:
+      ref: 1Pd 1,17-21
+      status: verificado
+  A.pascoa-4.domingo:
+    evangelho:
+      ref: Jo 10,1-10
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 2,14a.36-41
+      status: verificado
+    salmo:
+      ref: Sl 22(23),1-3a.3b-4.5.6
+      status: verificado
+    segunda_leitura:
+      ref: 1Pd 2,20b-25
+      status: verificado
+  A.pascoa-4.segunda:
+    evangelho:
+      ref: Jo 10,11-18
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+  A.pascoa-5.domingo:
+    evangelho:
+      ref: Jo 14,1-12
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 6,1-7
+      status: verificado
+    salmo:
+      ref: Sl 32(33),1-2.4-5.18-19
+      status: verificado
+    segunda_leitura:
+      ref: 1Pd 2,4-9
+      status: verificado
+  A.pascoa-6.domingo:
+    evangelho:
+      ref: Jo 14,15-21
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 8,5-8.14-17
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 65(66),1-7.16.20
+      status: verificado
+    segunda_leitura:
+      ref: 1Pd 3,15-18
+      status: verificado
+  A.pascoa-7.domingo:
+    evangelho:
+      ref: Jo 17,1-11a
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 1,12-14
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 26(27),1.4.7-8
+      status: verificado
+    segunda_leitura:
+      ref: 1Pd 4,13-16
+      status: verificado
+  A.pascoa.ascensao:
+    evangelho:
+      ref: Mt 28,16-20
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 1,1-11
+      status: fonte-unica
+    salmo:
+      ref: Sl 46(47),2-3.6-7.8-9
+      status: fonte-unica
+    segunda_leitura:
+      ref: Ef 1,17-23
+      status: verificado
+  A.pascoa.pentecostes:
+    evangelho:
+      ref: Jo 20,19-23
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    segunda_leitura:
+      ref: 1Cor 12,3b-7.12-13
+      status: fonte-unica
+  B.pascoa-2.domingo:
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: At 4,32-35
+      status: fonte-unica
+    salmo:
+      ref: Sl 117(118),2-4.16ab-18.22-24
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Jo 5,1-6
+      status: fonte-unica
+  B.pascoa-3.domingo:
+    evangelho:
+      ref: Lc 24,35-48
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: At 3,13-15.17-19
+      status: fonte-unica
+    salmo:
+      ref: Sl 4,2.7.9
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Jo 2,1-5
+      status: fonte-unica
+  B.pascoa-4.domingo:
+    evangelho:
+      ref: Jo 10,11-18
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: At 4,8-12
+      status: fonte-unica
+    salmo:
+      ref: Sl 117(118),1.8-9.21-23.26.28.29
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Jo 3,1-2
+      status: fonte-unica
+  B.pascoa-5.domingo:
+    evangelho:
+      ref: Jo 15,1-8
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: At 9,26-31
+      status: fonte-unica
+    salmo:
+      ref: Sl 21(22),26b-27.28.30.31-32
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Jo 3,18-24
+      status: fonte-unica
+  B.pascoa-6.domingo:
+    evangelho:
+      ref: Jo 15,9-17
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: At 10,25-26.34-35.44-48
+      status: fonte-unica
+    salmo:
+      ref: Sl 97(98),1.2-3ab.3cd-4
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Jo 4,7-10
+      status: fonte-unica
+  B.pascoa-7.domingo:
+    evangelho:
+      ref: Jo 17,11b-19
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: At 1,15-17.20a.20c-26
+      status: fonte-unica
+    salmo:
+      ref: Sl 102(103),1-2.11-12.19-20
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Jo 4,11-16
+      status: fonte-unica
+  B.pascoa.ascensao:
+    evangelho:
+      ref: Mc 16,15-20
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    segunda_leitura:
+      ref: Ef 4,1-13
+      status: fonte-unica
+  B.pascoa.pentecostes:
+    evangelho:
+      ref: Jo 15,26-27;16,12-15
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    segunda_leitura:
+      ref: Gl 5,16-25
+      status: fonte-unica
+  C.pascoa-2.domingo:
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: At 5,12-16
+      status: fonte-unica
+    salmo:
+      ref: Sl 117(118),2-4.22-24.25-27a
+      status: fonte-unica
+    segunda_leitura:
+      ref: Ap 1,9-11a.12-13.17-19
+      status: fonte-unica
+  C.pascoa-3.domingo:
+    evangelho:
+      alternativas:
+      - Jo 21,1-14
+      ref: Jo 21,1-19
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: At 5,27b-32.40b-41
+      status: fonte-unica
+    salmo:
+      ref: Sl 29(30),2.4.5-6.11-12a.13b
+      status: fonte-unica
+    segunda_leitura:
+      ref: Ap 5,11-14
+      status: fonte-unica
+  C.pascoa-4.domingo:
+    evangelho:
+      ref: Jo 10,27-30
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: At 13,14.43-52
+      status: fonte-unica
+    salmo:
+      ref: Sl 99(100),1-2.3.5
+      status: fonte-unica
+    segunda_leitura:
+      ref: Ap 7,9.14b-17
+      status: fonte-unica
+  C.pascoa-5.domingo:
+    evangelho:
+      ref: Jo 13,31-33a.34-35
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: At 14,21b-27
+      status: fonte-unica
+    salmo:
+      ref: Sl 144(145),8-9.10-11.12-13ab
+      status: fonte-unica
+    segunda_leitura:
+      ref: Ap 21,1-5
+      status: fonte-unica
+  C.pascoa-6.domingo:
+    evangelho:
+      ref: Jo 14,23-29
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: At 15,1-2.22-29
+      status: fonte-unica
+    salmo:
+      ref: Sl 66(67),2-3.5.6.8
+      status: fonte-unica
+    segunda_leitura:
+      ref: Ap 21,10-14.22-23
+      status: fonte-unica
+  C.pascoa-7.domingo:
+    evangelho:
+      ref: Jo 17,20-26
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: At 7,55-60
+      status: fonte-unica
+    salmo:
+      ref: Sl 96(97),1.2b.6.7c.9
+      status: fonte-unica
+    segunda_leitura:
+      ref: Ap 22,12-14.16-17.20
+      status: fonte-unica
+  C.pascoa.ascensao:
+    evangelho:
+      ref: Lc 24,46-53
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    segunda_leitura:
+      ref: Hb 9,24-28;10,19-23
+      status: fonte-unica
+  C.pascoa.pentecostes:
+    evangelho:
+      ref: Jo 14,15-16.23-26
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    segunda_leitura:
+      ref: Rm 8,8-17
+      status: fonte-unica
+  pascoa-1.quarta:
+    evangelho:
+      ref: Lc 24,13-35
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 3,1-10
+      status: verificado
+    salmo:
+      ref: Sl 104(105),1-2.3-4.6-7.8-9
+      status: verificado
+  pascoa-1.quinta:
+    evangelho:
+      ref: Lc 24,35-48
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 3,11-26
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 8,2.5-9
+      status: verificado
+  pascoa-1.sabado:
+    evangelho:
+      ref: Mc 16,9-15
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 4,13-21
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 117(118),1.14-15ab.16-18.19-21
+      ref: Sl 117(118),1.14-15.16.18.19-21
+      status: fonte-unica
+  pascoa-1.segunda:
+    evangelho:
+      ref: Mt 28,8-15
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 2,14.22-33
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 15(16),1-2.5.7-11
+      status: verificado
+  pascoa-1.sexta:
+    evangelho:
+      ref: Jo 21,1-14
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 4,1-12
+      status: verificado
+    salmo:
+      ref: Sl 117(118),1-2.4.22-24.25-27a
+      status: verificado
+  pascoa-1.terca:
+    evangelho:
+      ref: Jo 20,11-18
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 2,36-41
+      status: verificado
+    salmo:
+      ref: Sl 32(33),4-5.18-19.20.22
+      status: verificado
+  pascoa-2.domingo:
+    evangelho:
+      ref: Jo 20,19-31
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+  pascoa-2.quarta:
+    evangelho:
+      ref: Jo 3,16-21
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 5,17-26
+      status: verificado
+    salmo:
+      ref: Sl 33(34),2-3.4-5.6-7.8-9
+      status: verificado
+  pascoa-2.quinta:
+    evangelho:
+      ref: Jo 3,31-36
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 5,27-33
+      status: verificado
+    salmo:
+      ref: Sl 33(34),2.9.17-18.19-20
+      status: verificado
+  pascoa-2.sabado:
+    evangelho:
+      ref: Jo 6,16-21
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 6,1-7
+      status: verificado
+    salmo:
+      ref: Sl 32(33),1-2.4-5.18-19
+      status: verificado
+  pascoa-2.segunda:
+    evangelho:
+      ref: Jo 3,1-8
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 4,23-31
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 2,1-9
+      status: verificado
+  pascoa-2.sexta:
+    evangelho:
+      ref: Jo 6,1-15
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 5,34-42
+      status: verificado
+    salmo:
+      ref: Sl 26(27),1.4.13-14
+      status: verificado
+  pascoa-2.terca:
+    evangelho:
+      precisao: versiculos-inteiros
+      ref: Jo 3,7-15
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 4,32-37
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 92(93),1-2.5
+      status: verificado
+  pascoa-3.quarta:
+    evangelho:
+      ref: Jo 6,35-40
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 8,1b-8
+      status: verificado
+    salmo:
+      ref: Sl 65(66),1-3a.4-5.6-7a
+      status: verificado
+  pascoa-3.quinta:
+    evangelho:
+      ref: Jo 6,44-51
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 8,26-40
+      status: verificado
+    salmo:
+      ref: Sl 65(66),8-9.16-17.20
+      status: verificado
+  pascoa-3.sabado:
+    evangelho:
+      ref: Jo 6,60-69
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 9,31-42
+      status: verificado
+    salmo:
+      ref: Sl 115(116B),12-13.14-15.16-17
+      status: verificado
+  pascoa-3.segunda:
+    evangelho:
+      ref: Jo 6,22-29
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 6,8-15
+      status: verificado
+    salmo:
+      ref: Sl 118(119),23-24.26-27.29-30
+      status: verificado
+  pascoa-3.sexta:
+    evangelho:
+      ref: Jo 6,52-59
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 9,1-20
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 116(117),1-2
+      status: verificado
+  pascoa-3.terca:
+    evangelho:
+      ref: Jo 6,30-35
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      divergencia:
+        litcal: At 518,1a
+      ref: At 7,51-8,1a
+      status: fonte-unica
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 30(31),3-4.6-8.17.21
+      status: verificado
+  pascoa-4.quarta:
+    evangelho:
+      ref: Jo 12,44-50
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      precisao: versiculos-inteiros
+      ref: At 12,24-13,5
+      status: verificado
+    salmo:
+      ref: Sl 66(67),2-3.5.6.8
+      status: verificado
+  pascoa-4.quinta:
+    evangelho:
+      ref: Jo 13,16-20
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 13,13-25
+      status: verificado
+    salmo:
+      ref: Sl 88(89),2-3.21-22.25.27
+      status: verificado
+  pascoa-4.sabado:
+    evangelho:
+      ref: Jo 14,7-14
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 13,44-52
+      status: verificado
+    salmo:
+      ref: Sl 97(98),1.2-3ab.3cd-4
+      status: verificado
+  pascoa-4.segunda:
+    evangelho:
+      divergencia:
+        litcal: Jo 10,11-18
+      ref: Jo 10,1-10
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 11,1-18
+      status: verificado
+    salmo:
+      ref: Sl 41(42),2-3;Sl 42(43),3.4
+      status: verificado
+  pascoa-4.sexta:
+    evangelho:
+      ref: Jo 14,1-6
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 13,26-33
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 2,6-11
+      status: verificado
+  pascoa-4.terca:
+    evangelho:
+      ref: Jo 10,22-30
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 11,19-26
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 86(87),1-7
+      status: verificado
+  pascoa-5.quarta:
+    evangelho:
+      ref: Jo 15,1-8
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 15,1-6
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 121(122),1-2.3-4ab.4cd-5
+      ref: Sl 121(122),1-2.4-5
+      status: fonte-unica
+  pascoa-5.quinta:
+    evangelho:
+      ref: Jo 15,9-11
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 15,7-21
+      status: verificado
+    salmo:
+      ref: Sl 95(96),1-2a.2b-3.10
+      status: verificado
+  pascoa-5.sabado:
+    evangelho:
+      ref: Jo 15,18-21
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 16,1-10
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 99(100),1-3.5
+      status: verificado
+  pascoa-5.segunda:
+    evangelho:
+      ref: Jo 14,21-26
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 14,5-18
+      status: verificado
+    salmo:
+      ref: Sl 113B(115),1-2.3-4.15-16
+      status: verificado
+  pascoa-5.sexta:
+    evangelho:
+      ref: Jo 15,12-17
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 15,22-31
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 56(57),8-9.10.12
+      ref: Sl 56(57),8-9.10-12
+      status: fonte-unica
+  pascoa-5.terca:
+    evangelho:
+      precisao: versiculos-inteiros
+      ref: Jo 14,27-31
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 14,19-28
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 144(145),10-13.21
+      status: verificado
+  pascoa-6.quarta:
+    evangelho:
+      ref: Jo 16,12-15
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 17,15.22-18,1
+      status: verificado
+    salmo:
+      ref: Sl 148,1-2.11-12.13.14
+      status: verificado
+  pascoa-6.quinta:
+    evangelho:
+      ref: Jo 16,16-20
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 18,1-8
+      status: verificado
+    salmo:
+      ref: Sl 97(98),1.2-3ab.3cd-4
+      status: verificado
+  pascoa-6.sabado:
+    evangelho:
+      ref: Jo 16,23b-28
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 18,23-28
+      status: verificado
+    salmo:
+      ref: Sl 46(47),2-3.8-9.10
+      status: verificado
+  pascoa-6.segunda:
+    evangelho:
+      precisao: versiculos-inteiros
+      ref: Jo 15,26-16,4
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 16,11-15
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 149,1-6.9
+      status: verificado
+  pascoa-6.sexta:
+    evangelho:
+      precisao: versiculos-inteiros
+      ref: Jo 16,20-23
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 18,9-18
+      status: verificado
+    salmo:
+      ref: Sl 46(47),2-3.4-5.6-7
+      status: verificado
+  pascoa-6.terca:
+    evangelho:
+      ref: Jo 16,5-11
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 16,22-34
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 137(138),1-3.7-8
+      status: verificado
+  pascoa-7.quarta:
+    evangelho:
+      ref: Jo 17,11b-19
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 20,28-38
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 67(68),29-30.33-36
+      status: verificado
+  pascoa-7.quinta:
+    evangelho:
+      ref: Jo 17,20-26
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 22,30;23,6-11
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 15(16),1-2.5.7-11
+      status: verificado
+  pascoa-7.sabado:
+    evangelho:
+      ref: Jo 21,20-25
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 28,16-20.30-31
+      status: verificado
+    salmo:
+      ref: Sl 10(11),4.5.7
+      status: verificado
+  pascoa-7.segunda:
+    evangelho:
+      ref: Jo 16,29-33
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 19,1-8
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 67(68),2-7
+      status: verificado
+  pascoa-7.sexta:
+    evangelho:
+      ref: Jo 21,15-19
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      precisao: versiculos-inteiros
+      ref: At 25,13-21
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 102(103),1-2.11-12.19-20
+      status: verificado
+  pascoa-7.terca:
+    evangelho:
+      ref: Jo 17,1-11a
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: At 20,17-27
+      status: verificado
+    salmo:
+      ref: Sl 67(68),10-11.20-21
+      status: verificado
+  pascoa.ascensao:
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: At 1,1-11
+      status: fonte-unica
+    salmo:
+      ref: Sl 46(47),2-3.6-7.8-9
+      status: fonte-unica
+  pascoa.domingo:
+    evangelho:
+      ref: Jo 20,1-9
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: At 10,34a.37-43
+      status: fonte-unica
+    salmo:
+      ref: Sl 117(118),1-2.16-17.22-23
+      status: fonte-unica
+    segunda_leitura:
+      alternativas:
+      - 1Cor 5,6b-8
+      ref: Cl 3,1-4
+      status: fonte-unica
+  pascoa.pentecostes:
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: At 2,1-11
+      status: fonte-unica
+    salmo:
+      ref: Sl 103(104),1ab.24ac.29bc-30.31.34
+      status: fonte-unica

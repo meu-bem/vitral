@@ -1,0 +1,46 @@
+# Regras nacionais do calendário litúrgico no Brasil.
+#
+# Cada regra traz `status` (verificado | pendente) e `fontes` (ids de
+# docs/FONTES.md). Regras pendentes continuam sendo aplicadas, mas os dias
+# afetados saem marcados como pendentes no livro.
+
+regras:
+  epifania_no_domingo:
+    valor: true
+    descricao: Epifania no domingo entre 2 e 8 de janeiro (NUALC 7a).
+    status: verificado
+    fontes: [nualc, diretorio-omb-2025]
+  ascensao_no_domingo:
+    valor: true
+    descricao: Ascensão no 7º Domingo da Páscoa (NUALC 7b).
+    status: verificado
+    fontes: [nualc, diretorio-omb-2025]
+  corpus_christi_no_domingo:
+    valor: false
+    descricao: >-
+      Santíssimo Corpo e Sangue de Cristo na quinta-feira depois da
+      Santíssima Trindade (dia de preceito no Brasil).
+    status: verificado
+    fontes: [diretorio-omb-2025]
+  transferencias_para_domingo:
+    valor: [sao-pedro-e-sao-paulo-apostolos, assuncao-da-bem-aventurada-virgem-maria, todos-os-santos]
+    descricao: >-
+      Quando não caem em domingo, vão para o domingo seguinte. Se esse domingo
+      já tiver celebração de grau igual ou maior, ficam na data própria
+      (Todos os Santos em 1/11/2025, com Finados no domingo 2/11).
+    status: verificado
+    fontes: [diretorio-omb-2025, diretorio-cnbb-2022, cnbb-finados-2025]
+  imaculada_no_domingo_do_advento:
+    valor: true
+    descricao: >-
+      A Imaculada Conceição (8/12), quando cai em domingo do Advento,
+      permanece no domingo (concessão da Santa Sé ao Brasil).
+    status: verificado
+    fontes: [diretorio-omb-2025]
+  batismo_na_segunda_feira:
+    valor: true
+    descricao: >-
+      Quando a Epifania cai em 7 ou 8 de janeiro, o Batismo do Senhor vai para
+      a segunda-feira seguinte.
+    status: verificado
+    fontes: [decreto-sccd-1977]

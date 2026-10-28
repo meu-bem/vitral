@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Regras nacionais (data/calendario/regras-brasil.yaml)",
+  "type": "object",
+  "required": ["regras"],
+  "additionalProperties": false,
+  "properties": {
+    "regras": {
+      "type": "object",
+      "required": ["epifania_no_domingo", "ascensao_no_domingo", "corpus_christi_no_domingo"],
+      "additionalProperties": {
+        "type": "object",
+        "required": ["valor", "descricao", "status", "fontes"],
+        "additionalProperties": false,
+        "properties": {
+          "valor": {"type": ["boolean", "array"]},
+          "descricao": {"type": "string", "minLength": 5},
+          "status": {"enum": ["verificado", "pendente"]},
+          "fontes": {"type": "array", "items": {"type": "string"}},
+          "observacao": {"type": "string"}
+        }
+      }
+    }
+  }
+}

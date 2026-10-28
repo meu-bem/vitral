@@ -1,0 +1,2969 @@
+# Referências do Lecionário (só referências; nenhum texto bíblico).
+# Gerado por scripts/ingest_lectionary.py; depois disso, mantido à mão.
+# status por leitura: verificado | fonte-unica | pendente. Fontes: docs/FONTES.md.
+leituras:
+  santos.anunciacao-do-senhor:
+    evangelho:
+      ref: Lc 1,26-38
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: true
+    primeira_leitura:
+      precisao: versiculos-inteiros
+      ref: Is 7,10-14;8,10
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 39(40)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 39(40),7-8a.8b-9.10.11
+      status: fonte-unica
+    segunda_leitura:
+      ref: Hb 10,4-10
+      status: verificado
+  santos.apresentacao-da-virgem-maria:
+    evangelho:
+      ref: Mt 12,46-50
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Zc 2,14-17
+      status: fonte-unica
+    salmo:
+      ref: Lc 1,47.48-49.50-51.52-53.54-55
+      status: fonte-unica
+  santos.apresentacao-do-senhor:
+    evangelho:
+      alternativas:
+      - Lc 2,22-32
+      ref: Lc 2,22-40
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: true
+    primeira_leitura:
+      ref: Ml 3,1-4
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 23(24)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 23(24),7.8.9.10
+      status: fonte-unica
+    segunda_leitura:
+      ref: Hb 2,14-18
+      status: verificado
+  santos.assuncao-da-bem-aventurada-virgem-maria:
+    evangelho:
+      ref: Lc 1,39-56
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: true
+    primeira_leitura:
+      precisao: versiculos-inteiros
+      ref: Ap 11,19-12,6.10
+      status: verificado
+    salmo:
+      ref: Sl 44(45),10.11-12.16
+      status: verificado
+    segunda_leitura:
+      divergencia:
+        litcal: 1Cor 15,20-27
+      ref: 1Cor 15,20-26
+      status: fonte-unica
+  santos.bem-aventurada-virgem-maria-mae-da-igreja:
+    evangelho:
+      ref: Jo 19,25-27
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      alternativas:
+      - At 1,12-14
+      ref: Gn 3,9-15.20
+      status: fonte-unica
+    salmo:
+      ref: Sl 86(87),1-2.3.5.6-7
+      status: fonte-unica
+  santos.bem-aventurada-virgem-maria-rainha-do-ceu:
+    evangelho:
+      ref: Lc 1,26-38
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Is 9,1-3.5-6
+      status: fonte-unica
+    salmo:
+      ref: Sl 112(113),1-2.3-4.5-6.7-8
+      status: fonte-unica
+  santos.catedra-de-sao-pedro-apostolo:
+    evangelho:
+      ref: Mt 16,13-19
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: true
+    primeira_leitura:
+      ref: 1Pd 5,1-4
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 22(23),1-6
+      status: verificado
+  santos.comemoracao-de-todos-os-fieis-defuntos:
+    evangelho:
+      alternativas:
+      - Jo 12,23-26
+      ref: Mt 11,25-30
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      ref: Lm 3,17-26
+      status: fonte-unica
+    salmo:
+      ref: Sl 102(103),8.10.13-14.15-16.17
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Cor 15,51-57
+      status: fonte-unica
+  santos.conversao-de-sao-paulo-apostolo:
+    evangelho:
+      ref: Mc 16,15-18
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: true
+    primeira_leitura:
+      alternativas:
+      - At 9,1-22
+      ref: At 22,3-16
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 116(117),1-2
+      status: verificado
+  santos.dedicacao-da-basilica-de-latrao:
+    evangelho:
+      ref: Jo 2,13-22
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ez 47,1-2.8-9.12
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 45(46)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 45(46),2-3.4c.5-6.8-9
+      status: fonte-unica
+    segunda_leitura:
+      precisao: versiculos-inteiros
+      ref: 1Cor 3,9-11.16-17
+      status: verificado
+  santos.dedicacao-da-basilica-de-santa-maria-maior:
+    evangelho:
+      ref: Lc 11,27-28
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ap 21,1-5a
+      status: fonte-unica
+    salmo:
+      ref: Jt 13,18bc.19-20a
+      status: fonte-unica
+  santos.dedicacao-das-basilicas-dos-santos-pedro-e-paulo-apostolos:
+    evangelho:
+      ref: Mt 14,22-23
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      ref: At 28,11-16.30-31
+      status: fonte-unica
+    salmo:
+      ref: Sl 97(98),1.2-3.4.5-6
+      status: fonte-unica
+  santos.exaltacao-da-santa-cruz:
+    evangelho:
+      ref: Jo 3,13-17
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      ref: Nm 21,4-9
+      status: fonte-unica
+    salmo:
+      ref: Sl 77(78),1-2.34-35.36-37.38
+      status: fonte-unica
+    segunda_leitura:
+      ref: Fl 2,6-11
+      status: fonte-unica
+  santos.imaculada-conceicao:
+    evangelho:
+      ref: Lc 1,26-38
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: true
+    primeira_leitura:
+      ref: Gn 3,9-15.20
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 97(98),1-4
+      status: verificado
+    segunda_leitura:
+      ref: Ef 1,3-6.11-12
+      status: verificado
+  santos.imaculado-coracao-de-maria:
+    evangelho:
+      ref: Lc 2,41-51
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      ref: Is 61,9-11
+      status: fonte-unica
+    salmo:
+      ref: 1Sm 2,1.4-5.6-7.8
+      status: fonte-unica
+  santos.martirio-de-sao-joao-batista:
+    evangelho:
+      ref: Mc 6,17-29
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      ref: Jr 1,17-19
+      status: fonte-unica
+    salmo:
+      ref: Sl 70(71),1-2.3-4a.5-6.15ab.17
+      status: fonte-unica
+  santos.nascimento-de-joao-batista:
+    evangelho:
+      ref: Lc 1,57-66.80
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: true
+    primeira_leitura:
+      ref: Is 49,1-6
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 138(139)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 138(139),1-3.13-14.15
+      status: fonte-unica
+    segunda_leitura:
+      ref: At 13,22-26
+      status: verificado
+  santos.natividade-da-virgem-santa-maria:
+    evangelho:
+      alternativas:
+      - Mt 1,18-23
+      ref: Mt 1,1-16.18-23
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      alternativas:
+      - Rm 8,28-30
+      ref: Mq 5,1-4a
+      status: fonte-unica
+    salmo:
+      ref: Sl 12(13),6
+      status: fonte-unica
+  santos.nossa-senhora-das-dores:
+    evangelho:
+      alternativas:
+      - Lc 2,33-35
+      ref: Jo 19,25-27
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      ref: Hb 5,7-9
+      status: fonte-unica
+    salmo:
+      ref: Sl 30(31),2-3ab.3c-4.5-6.15-16.20
+      status: fonte-unica
+  santos.nossa-senhora-de-guadalupe:
+    evangelho:
+      alternativas:
+      - Lc 1,39-47
+      ref: Lc 1,26-38
+      status: fonte-unica
+    fontes:
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      alternativas:
+      - Ap 11,19a;12,1-6a.10ab
+      ref: Zc 2,14-17
+      status: fonte-unica
+    salmo:
+      ref: Jt 13,18bcde.19
+      status: fonte-unica
+  santos.nossa-senhora-de-lourdes:
+    evangelho:
+      ref: Jo 2,1-11
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Is 66,10-14c
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Jt 13,18-19
+      ref: Jt 13,18ab.19-20a
+      status: fonte-unica
+  santos.nossa-senhora-do-monte-carmelo:
+    evangelho:
+      ref: Mt 12,46-50
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Zc 2,14-17
+      status: fonte-unica
+    salmo:
+      ref: Lc 1,47.48-49.50-51.52-53.54-55
+      status: fonte-unica
+  santos.nossa-senhora-do-rosario:
+    evangelho:
+      ref: Lc 1,26-38
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: At 1,12-14
+      status: fonte-unica
+    salmo:
+      ref: Lc 1,47.48-49.50-51.52-53.54-55
+      status: fonte-unica
+  santos.primeiros-martires-da-igreja-de-roma:
+    evangelho:
+      ref: Mt 24,4-13
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Rm 8,31b-39
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 123(124)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 123(124),2-3.4-5.7b-8
+      status: fonte-unica
+  santos.santa-agueda-da-sicilia-virgem-e-martir:
+    evangelho:
+      ref: Lc 9,23-26
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Cor 1,26-31
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 30(31)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 30(31),3cd-4.6.8ab.16b-17
+      status: fonte-unica
+  santos.santa-angela-merici-virgem:
+    evangelho:
+      divergencia:
+        litcal: Mc 9,33-37
+      ref: Mc 9,34-37
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      precisao: versiculos-inteiros
+      ref: 1Pd 4,7-11
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 148
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 148,1-2.11-13ab.13c-14
+      status: fonte-unica
+  santos.santa-brigida-religiosa:
+    evangelho:
+      ref: Jo 15,1-8
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Gl 2,19-20
+      status: fonte-unica
+    salmo:
+      ref: Sl 33(34),2-3.4-5.6-7.8-9.10-11
+      status: fonte-unica
+  santos.santa-catarina-de-alexandria-virgem-e-martir:
+    evangelho:
+      ref: Mt 10,28-33
+      status: fonte-unica
+    fontes:
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ap 21,5-7
+      status: fonte-unica
+    salmo:
+      ref: Sl 123(124),2-3.4-5.7cd-8
+      status: fonte-unica
+  santos.santa-catarina-de-siena-virgem-e-doutor-da-igreja:
+    evangelho:
+      ref: Mt 11,25-30
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Jo 1,5-2,2
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 102(103)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 102(103),1-2.3-4.8-9.13-14.17-18
+      status: fonte-unica
+  santos.santa-cecilia-virgem-e-martir:
+    evangelho:
+      ref: Mt 25,1-13
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Os 2,16.17b.21-22
+      status: fonte-unica
+    salmo:
+      ref: Sl 44(45),11-12.14-15.16-17
+      status: fonte-unica
+  santos.santa-clara-de-assis-virgem:
+    evangelho:
+      ref: Mt 19,27-29
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Fl 3,8-14
+      status: fonte-unica
+    salmo:
+      ref: Sl 15(16),1-2a.5.7-8.11
+      status: fonte-unica
+  santos.santa-edviges-religiosa:
+    evangelho:
+      ref: Mc 3,31-35
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Eclo 26,1-4.13-16
+      status: fonte-unica
+    salmo:
+      ref: Sl 127(128),1-2.3.4-5
+      status: fonte-unica
+  santos.santa-escolastica-virgem:
+    evangelho:
+      ref: Lc 10,38-42
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ct 8,6-7
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 148
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 148,1-2.11-13ab.13c-14
+      status: fonte-unica
+  santos.santa-faustina-kowalska-virgem:
+    evangelho:
+      ref: Mt 11,25-30
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ef 3,14-19
+      status: fonte-unica
+    salmo:
+      ref: Sl 102(103),1-2.3-4.8-9.13-14.17-18
+      status: fonte-unica
+  santos.santa-francisca-romana-religiosa:
+    evangelho:
+      ref: Mt 22,34-40
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Pr 31,10-13.19-20.30-31
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 33(34)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 33(34),2-3.4-5.6-7.8-9.10-11
+      status: fonte-unica
+  santos.santa-gertrudes-virgem:
+    evangelho:
+      ref: Jo 15,1-8
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ef 3,14-19
+      status: fonte-unica
+    salmo:
+      ref: Sl 22(23),1-3.4.5.6
+      status: fonte-unica
+  santos.santa-ines-de-roma-virgem-e-martir:
+    evangelho:
+      ref: Mt 13,44-46
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Cor 1,26-31
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 22(23),1-6
+      status: verificado
+  santos.santa-isabel-da-hungria-religiosa:
+    evangelho:
+      ref: Lc 6,27-38
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Jo 3,14-18
+      status: fonte-unica
+    salmo:
+      ref: Sl 33(34),2-3.4-5.6-7.8-9.10-11
+      status: fonte-unica
+  santos.santa-isabel-de-portugal:
+    evangelho:
+      alternativas:
+      - Mt 25,31-40
+      ref: Mt 25,31-46
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Jo 3,14-18
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 111(112)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 111(112),1-2.3-4.5-7a.7b-8.9
+      status: fonte-unica
+  santos.santa-joana-francisca-de-chantal-religiosa:
+    evangelho:
+      ref: Mc 3,31-35
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Pr 31,10-13.19-20.30-31
+      status: fonte-unica
+    salmo:
+      ref: Sl 130(131),1.2.3
+      status: fonte-unica
+  santos.santa-luzia-virgem-e-martir:
+    evangelho:
+      ref: Mt 25,1-13
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      precisao: versiculos-inteiros
+      ref: 2Cor 10,17-11,2
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 30(31),3-4.6.8.16-17
+      status: verificado
+  santos.santa-margarida-da-escocia:
+    evangelho:
+      ref: Jo 15,9-17
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Is 58,6-11
+      status: fonte-unica
+    salmo:
+      ref: Sl 111(112),1-2.3-4.5-7a.7b-8.9
+      status: fonte-unica
+  santos.santa-margarida-maria-alacoque-virgem:
+    evangelho:
+      ref: Mt 11,25-30
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ef 3,14-19
+      status: fonte-unica
+    salmo:
+      ref: Sl 22(23),1-3.4.5.6
+      status: fonte-unica
+  santos.santa-maria-goretti-virgem-e-martir:
+    evangelho:
+      ref: Jo 12,24-26
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Cor 6,13c-15a.17-20
+      status: fonte-unica
+    salmo:
+      ref: Sl 30(31),3cd-4.6.8ab.16b-17
+      status: fonte-unica
+  santos.santa-maria-madalena:
+    evangelho:
+      ref: Jo 20,1.11-18
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      alternativas:
+      - 2Cor 5,14-17
+      ref: Ct 3,1-4a
+      status: fonte-unica
+    salmo:
+      ref: Sl 62(63),2.3-4.5-6.8-9
+      status: fonte-unica
+  santos.santa-maria-madalena-de-pazzi-virgem:
+    evangelho:
+      ref: Mc 3,31-35
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Cor 7,25-35
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 148
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 148,1-2.11-13ab.13c-14
+      status: fonte-unica
+  santos.santa-marta-maria-e-lazaro:
+    evangelho:
+      alternativas:
+      - Lc 10,38-42
+      ref: Jo 11,19-27
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Jo 4,7-16
+      status: fonte-unica
+    salmo:
+      ref: Sl 33(34),2-3.4-5.6-7.8-9.10-11
+      status: fonte-unica
+  santos.santa-monica-de-hipona:
+    evangelho:
+      ref: Lc 7,11-17
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Eclo 26,1-4.13-16
+      status: fonte-unica
+    salmo:
+      ref: Sl 130(131),1.2.3
+      status: fonte-unica
+  santos.santa-rosa-de-lima-virgem:
+    evangelho:
+      ref: Mt 13,44-46
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Cor 10,17-11,2
+      status: fonte-unica
+    salmo:
+      ref: Sl 148,1-2.11-13a.13b-14
+      status: fonte-unica
+  santos.santa-teresa-de-jesus-virgem-e-doutora-da-igreja:
+    evangelho:
+      ref: Jo 15,1-8
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Rm 8,22-27
+      status: fonte-unica
+    salmo:
+      ref: Sl 18(19),9.10.11.12
+      status: fonte-unica
+  santos.santa-teresinha-do-menino-jesus-virgem-e-doutora-da-igreja:
+    evangelho:
+      ref: Mt 18,1-5
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Is 66,10-14c
+      status: fonte-unica
+    salmo:
+      ref: Sl 130(131),1.2.3
+      status: fonte-unica
+  santos.santas-perpetua-e-felicidade-martires:
+    evangelho:
+      ref: Mt 10,34-39
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Rm 8,31b-39
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 123(124)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 123(124),2-3.4-5.7b-8
+      status: fonte-unica
+  santos.santissimo-nome-de-jesus:
+    evangelho:
+      ref: Lc 2,21-24
+      status: fonte-unica
+    fontes:
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Fl 2,1-11
+      status: fonte-unica
+    salmo:
+      ref: Sl 8,4-5.6-7.8-9
+      status: fonte-unica
+  santos.santo-afonso-maria-liguori-bispo-e-doutor-da-igreja:
+    evangelho:
+      ref: Mt 5,13-19
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Rm 8,1-4
+      status: fonte-unica
+    salmo:
+      ref: Sl 118(119),9-10.11-12.13-14
+      status: fonte-unica
+  santos.santo-agostinho-bispo-e-doutor-da-igreja:
+    evangelho:
+      ref: Mt 23,8-12
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Jo 4,7-16
+      status: fonte-unica
+    salmo:
+      ref: Sl 118(119),9-10.11-12.13-14
+      status: fonte-unica
+  santos.santo-agostinho-de-cantuaria-bispo:
+    evangelho:
+      ref: Mt 9,35-38
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Ts 2,2b-8
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 95(96)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 95(96),1-2a.2b-3.7-8a.10
+      status: fonte-unica
+  santos.santo-alberto-magno-bispo-e-doutor-da-igreja:
+    evangelho:
+      ref: Mt 13,47-52
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Eclo 15,1-6
+      status: fonte-unica
+    salmo:
+      ref: Sl 118(119),9-10.11-12.13-14
+      status: fonte-unica
+  santos.santo-ambrosio-de-milao-bispo-e-doutor-da-igreja:
+    evangelho:
+      ref: Jo 10,11-16
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ef 3,8-12
+      status: fonte-unica
+    salmo:
+      ref: Sl 88(89),2-3.4-5.21-22.25.27
+      status: fonte-unica
+  santos.santo-andre-apostolo:
+    evangelho:
+      ref: Mt 4,18-22
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      ref: Rm 10,9-18
+      status: fonte-unica
+    salmo:
+      ref: Sl 18(19),2-3.4-5ab
+      status: fonte-unica
+  santos.santo-andre-dung-lac-e-companheiros-martires:
+    evangelho:
+      ref: Mt 10,17-22
+      status: fonte-unica
+    fontes:
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Sb 3,1-9
+      status: fonte-unica
+    salmo:
+      ref: Sl 125(126),1-2ab.2cd-3.4-5.6
+      status: fonte-unica
+  santos.santo-anselmo-de-cantuaria-bispo-e-doutor-da-igreja:
+    evangelho:
+      ref: Mt 7,21-29
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ef 3,14-19
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 33(34)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 33(34),2-3.4-5.6-7.8-9.10-11
+      status: fonte-unica
+  santos.santo-antao-abade:
+    evangelho:
+      ref: Mt 19,16-26
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ef 6,10-13.18
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 15(16)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 15(16),1-2a.5.7-8.11
+      status: fonte-unica
+  santos.santo-antonio-maria-claret-bispo:
+    evangelho:
+      ref: Mc 1,14-20
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Is 52,7-10
+      status: fonte-unica
+    salmo:
+      ref: Sl 95(96),1-2a.2b-3.7-8a.10
+      status: fonte-unica
+  santos.santo-antonio-maria-zacarias-presbitero:
+    evangelho:
+      ref: Mc 10,13-16
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Tm 1,13-14;2,1-3
+      status: fonte-unica
+    salmo:
+      ref: Sl 1,1-2.3.4.6
+      status: fonte-unica
+  santos.santo-antonio-presbitero-e-doutor-da-igreja:
+    evangelho:
+      ref: Lc 10,1-9
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      precisao: versiculos-inteiros
+      ref: Is 61,1-3
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 88(89)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 88(89),2-3.4-5.21-22.25.27
+      status: fonte-unica
+  santos.santo-atanasio-bispo-e-doutor-da-igreja:
+    evangelho:
+      ref: Mt 10,22-25a
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Jo 5,1-5
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 36(37)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 36(37),3-4.5-6.30-31
+      status: fonte-unica
+  santos.santo-efrem-diacono-e-doutor-da-igreja:
+    evangelho:
+      ref: Lc 6,43-45
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Cl 3,12-17
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 36(37)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 36(37),3-4.5-6.30-31
+      status: fonte-unica
+  santos.santo-estanislau-bispo-e-martir:
+    evangelho:
+      ref: Jo 17,11b-19
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ap 12,10-12a
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 33(34)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 33(34),2-3.4-5.6-7.8-9
+      status: fonte-unica
+  santos.santo-estevao-da-hungria:
+    evangelho:
+      alternativas:
+      - Mt 25,14-23
+      ref: Mt 25,14-30
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Dt 6,3-9
+      status: fonte-unica
+    salmo:
+      ref: Sl 111(112),1-2.3-4.5-7a.7b-8.9
+      status: fonte-unica
+  santos.santo-estevao-primeiro-martir:
+    evangelho:
+      ref: Mt 10,17-22
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: true
+    primeira_leitura:
+      divergencia:
+        litcal: At 6,8-10;7,54-59
+      ref: At 6,8-10;7,54-60
+      status: fonte-unica
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 30(31),3-4.6.8.16-17
+      status: verificado
+  santos.santo-eusebio-de-vercelli-bispo:
+    evangelho:
+      ref: Mt 5,1-12a
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Jo 5,1-5
+      status: fonte-unica
+    salmo:
+      ref: Sl 88(89),2-3.4-5.21-22.25.27
+      status: fonte-unica
+  santos.santo-henrique:
+    evangelho:
+      ref: Mt 7,21-27
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Mq 6,6-8
+      status: fonte-unica
+    salmo:
+      ref: Sl 1,1-2.3.4.6
+      status: fonte-unica
+  santos.santo-hilario-bispo-e-doutor-da-igreja:
+    evangelho:
+      ref: Mt 5,13-19
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Jo 2,18-25
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 109(110)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 109(110),1.2.3.4
+      status: fonte-unica
+  santos.santo-inacio-de-antioquia-bispo-e-martir:
+    evangelho:
+      ref: Jo 12,24-26
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Fl 3,17-4,1
+      status: fonte-unica
+    salmo:
+      ref: Sl 33(34),2-3.4-5.6-7.8-9
+      status: fonte-unica
+  santos.santo-inacio-de-loiola-presbitero:
+    evangelho:
+      ref: Lc 14,25-33
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Cor 10,31-11,1
+      status: fonte-unica
+    salmo:
+      ref: Sl 33(34),2-3.4-5.6-7.8-9.10-11
+      status: fonte-unica
+  santos.santo-irineu-de-lyon-bispo-doutor-da-igreja-e-martir:
+    evangelho:
+      ref: Jo 17,20-26
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Tm 2,22b-26
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 36(37)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 36(37),3-4.5-6.30-31
+      status: fonte-unica
+  santos.santo-isidoro-de-sevilha-bispo-e-doutor-da-igreja:
+    evangelho:
+      ref: Lc 6,43-45
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Cor 4,1-2.5-7
+      status: fonte-unica
+    salmo:
+      ref: Sl 36(37),3-4.5-6.30-31
+      status: fonte-unica
+  santos.santo-oscar-de-hamburgo-bispo:
+    evangelho:
+      ref: Mc 1,14-20
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Is 52,7-10
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 95(96)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 95(96),1-2a.2b-3.7-8a.10
+      status: fonte-unica
+  santos.santos-anjos-da-guarda:
+    evangelho:
+      ref: Mt 18,1-5.10
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      ref: Ex 23,20-23a
+      status: fonte-unica
+    salmo:
+      ref: Sl 90(91),1-2.3-4.5-6.10-11
+      status: fonte-unica
+  santos.santos-carlos-lwanga-e-companheiros-martires:
+    evangelho:
+      ref: Mt 5,1-12a
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Mc 7,1-2.9-14
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 123(124)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 123(124),2-3.4-5.7b-8
+      status: fonte-unica
+  santos.santos-cornelio-papa-e-cipriano-bispo-martires:
+    evangelho:
+      ref: Jo 17,11b-19
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Cor 4,7-15
+      status: fonte-unica
+    salmo:
+      ref: Sl 125(126),1-2ab.2cd-3.4-5.6
+      status: fonte-unica
+  santos.santos-cosme-e-damiao-martires:
+    evangelho:
+      ref: Mt 10,28-33
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Sb 3,1-9
+      status: fonte-unica
+    salmo:
+      ref: Sl 125(126),1-2ab.2cd-3.4-5.6
+      status: fonte-unica
+  santos.santos-inocentes-martires:
+    evangelho:
+      ref: Mt 2,13-18
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: true
+    primeira_leitura:
+      ref: 1Jo 1,5-2,2
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 123(124),2-5.7-8
+      status: verificado
+  santos.santos-joao-de-brebeuf-e-isaac-jogues-presbiteros-e-companheiros-martires:
+    evangelho:
+      ref: Mt 28,16-20
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Cor 4,7-15
+      status: fonte-unica
+    salmo:
+      ref: Sl 125(126),1-2ab.2cd-3.4-5.6
+      status: fonte-unica
+  santos.santos-joao-fisher-bispo-e-tomas-more-martires:
+    evangelho:
+      ref: Mt 10,34-39
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Pd 4,12-19
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 125(126),1-6
+      status: verificado
+  santos.santos-joaquim-e-ana-pais-da-virgem-santa-maria:
+    evangelho:
+      ref: Mt 13,16-17
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      ref: Eclo 44,1.10-15
+      status: fonte-unica
+    salmo:
+      ref: Sl 131(132),11.13-14.17-18
+      status: fonte-unica
+  santos.santos-marcelino-e-pedro-martires:
+    evangelho:
+      ref: Jo 17,11b-19
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Cor 6,4-10
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 123(124)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 123(124),2-3.4-5.7b-8
+      status: fonte-unica
+  santos.santos-miguel-gabriel-e-rafael-arcanjos:
+    evangelho:
+      ref: Jo 1,47-51
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      alternativas:
+      - Ap 12,7-12a
+      ref: Dn 7,9-10.13-14
+      status: fonte-unica
+    salmo:
+      ref: Sl 137(138),1-2a.2b-3.4-5
+      status: fonte-unica
+  santos.santos-nereu-e-aquileu-martires:
+    evangelho:
+      ref: Mt 10,17-22
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ap 7,9-17
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 123(124)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 123(124),2-3.4-5.7b-8
+      status: fonte-unica
+  santos.santos-paulo-miki-e-companheiros-martires:
+    evangelho:
+      ref: Mt 28,16-20
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Gl 2,19-20
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 125(126),1-6
+      status: verificado
+  santos.santos-ponciano-papa-e-hipolito-presbitero-martires:
+    evangelho:
+      ref: Jo 15,18-21
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Pd 4,12-19
+      status: fonte-unica
+    salmo:
+      ref: Sl 123(124),2-3.4-5.7b-8
+      status: fonte-unica
+  santos.santos-sete-fundadores-da-ordem-dos-servitas:
+    evangelho:
+      ref: Mt 19,27-29
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Rm 8,26-30
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 33(34)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 33(34),2-3.4-5.6-7.8-9.10-11
+      status: fonte-unica
+  santos.santos-simao-e-sao-judas-tadeu-apostolos:
+    evangelho:
+      ref: Lc 6,12-19
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      ref: Ef 2,19-22
+      status: fonte-unica
+    salmo:
+      ref: Sl 18(19),2-3.4-5
+      status: fonte-unica
+  santos.santos-timoteo-e-tito-bispos:
+    evangelho:
+      ref: Lc 10,1-9
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      alternativas:
+      - Tt 1,1-5
+      ref: 2Tm 1,1-8
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 95(96)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 95(96),1-2a.2b-3.7-8a.10
+      status: fonte-unica
+  santos.sao-barnabe-apostolo:
+    evangelho:
+      ref: Mt 10,7-13
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: true
+    primeira_leitura:
+      ref: At 11,21b-26;13,1-3
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 97(98)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 97(98),1.2-3.4.5-6
+      status: fonte-unica
+  santos.sao-bartolomeu-apostolo:
+    evangelho:
+      ref: Jo 1,45-51
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      ref: Ap 21,9b-14
+      status: fonte-unica
+    salmo:
+      ref: Sl 144(145),10-11.12-13ab.17-18
+      status: fonte-unica
+  santos.sao-basilio-magno-e-sao-gregorio-nazianzeno-bispos-e-doutores-da-igreja:
+    evangelho:
+      ref: Mt 23,8-12
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ef 4,1-7.11-13
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 22(23),1-6
+      status: verificado
+  santos.sao-beda-veneravel-presbitero-e-doutor-da-igreja:
+    evangelho:
+      ref: Mt 7,21-29
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Cor 2,10b-16
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 118(119)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 118(119),9-10.11-12.13-14
+      status: fonte-unica
+  santos.sao-bento-abade:
+    evangelho:
+      ref: Mt 19,27-29
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Pr 2,1-9
+      status: fonte-unica
+    salmo:
+      ref: Sl 33(34),2-3.4-5.6-7.8-9.10-11
+      status: fonte-unica
+  santos.sao-bernardino-de-sena-presbitero:
+    evangelho:
+      ref: Lc 9,57-62
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: At 4,8-12
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 39(40)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 39(40),2.4a.7-8a.8b-9.10
+      status: fonte-unica
+  santos.sao-bernardo-abade-e-doutor-da-igreja:
+    evangelho:
+      ref: Jo 17,20-26
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Eclo 15,1-6
+      status: fonte-unica
+    salmo:
+      ref: Sl 118(119),9-10.11-12.13-14
+      status: fonte-unica
+  santos.sao-boaventura-bispo-e-doutor-da-igreja:
+    evangelho:
+      ref: Mt 23,8-12
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ef 3,14-19
+      status: fonte-unica
+    salmo:
+      ref: Sl 118(119),9-10.11-12.13-14
+      status: fonte-unica
+  santos.sao-bonifacio-bispo-e-martir:
+    evangelho:
+      ref: Jo 10,11-16
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: At 26,19-23
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 116(117),1-2
+      status: verificado
+  santos.sao-bras-bispo-e-martir:
+    evangelho:
+      ref: Mc 16,15-20
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Rm 5,1-5
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 116(117),1-2
+      status: verificado
+  santos.sao-bruno-presbitero:
+    evangelho:
+      ref: Lc 9,57-62
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Fl 3,8-14
+      status: fonte-unica
+    salmo:
+      ref: Sl 1,1-2.3.4.6
+      status: fonte-unica
+  santos.sao-caetano-presbitero:
+    evangelho:
+      ref: Lc 12,32-34
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Eclo 2,7-13
+      status: fonte-unica
+    salmo:
+      ref: Sl 111(112),1-2.3-4.5-7a.7b-8.9
+      status: fonte-unica
+  santos.sao-calisto-i-papa-e-martir:
+    evangelho:
+      ref: Lc 22,24-30
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Pd 5,1-4
+      status: fonte-unica
+    salmo:
+      ref: Sl 39(40),2.4ab.7-8a.8b-9.10
+      status: fonte-unica
+  santos.sao-camilo-de-lellis-presbitero:
+    evangelho:
+      ref: Jo 15,9-17
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Jo 3,14-18
+      status: fonte-unica
+    salmo:
+      ref: Sl 111(112),1-2.3-4.5-7a.7b-8.9
+      status: fonte-unica
+  santos.sao-carlos-borromeu-bispo:
+    evangelho:
+      ref: Jo 10,11-16
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Rm 12,3-13
+      status: fonte-unica
+    salmo:
+      ref: Sl 88(89),2-3.4-5.21-22.25.27
+      status: fonte-unica
+  santos.sao-casimiro:
+    evangelho:
+      ref: Jo 15,9-17
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Fl 3,8-14
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 14(15)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 14(15),2-3a.3bc-4ab.5
+      status: fonte-unica
+  santos.sao-cirilo-de-alexandria-bispo-e-doutor-da-igreja:
+    evangelho:
+      ref: Mt 5,13-19
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Tm 4,1-5
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 88(89)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 88(89),2-3.4-5.21-22.25.27
+      status: fonte-unica
+  santos.sao-cirilo-de-jerusalem-bispo-e-doutor-da-igreja:
+    evangelho:
+      ref: Jo 15,1-8
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Jo 5,1-5
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 18(19)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 18(19),8.9.10.11
+      status: fonte-unica
+  santos.sao-cirilo-o-filosofo-monge-e-sao-metodio-bispo:
+    evangelho:
+      ref: Lc 10,1-9
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: At 13,46-49
+      status: fonte-unica
+    salmo:
+      ref: Sl 116(117),1.2
+      status: fonte-unica
+  santos.sao-clemente-i-papa-e-martir:
+    evangelho:
+      ref: Mt 16,13-19
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Pd 5,1-4
+      status: fonte-unica
+    salmo:
+      ref: Sl 88(89),2-3.4-5.21-22.25.27
+      status: fonte-unica
+  santos.sao-columbano-abade:
+    evangelho:
+      ref: Lc 9,57-62
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Is 52,7-10
+      status: fonte-unica
+    salmo:
+      ref: Sl 95(96),1-2a.2b-3.7-8a.10
+      status: fonte-unica
+  santos.sao-damaso-i-papa:
+    evangelho:
+      ref: Jo 15,9-17
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: At 20,17-18a.28-32.36
+      status: verificado
+    salmo:
+      ref: Sl 109(110),1.2.3.4
+      status: verificado
+  santos.sao-dionisio-bispo-e-companheiros-martires:
+    evangelho:
+      ref: Mt 5,13-16
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Cor 6,4-10
+      status: fonte-unica
+    salmo:
+      ref: Sl 125(126),1-2ab.2cd-3.4-5.6
+      status: fonte-unica
+  santos.sao-domingos-presbitero:
+    evangelho:
+      ref: Lc 9,57-62
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Cor 2,1-10a
+      status: fonte-unica
+    salmo:
+      ref: Sl 95(96),1-2a.2b-3.7-8a.10
+      status: fonte-unica
+  santos.sao-fabiano-pap-e-martir:
+    evangelho:
+      ref: Jo 21,15-17
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Pd 5,1-4
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 39(40)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 39(40),2.4ab.7-8a.8b-9.10
+      status: fonte-unica
+  santos.sao-fiel-de-sigmaringa-presbitero-e-martir:
+    evangelho:
+      ref: Jo 17,20-26
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Cl 1,24-29
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 33(34)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 33(34),2-3.4-5.6-7.8-9
+      status: fonte-unica
+  santos.sao-filipe-e-tiago-apostolos:
+    evangelho:
+      ref: Jo 14,6-14
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: true
+    primeira_leitura:
+      precisao: versiculos-inteiros
+      ref: 1Cor 15,1-8
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 18(19)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 18(19),2-3.4-5
+      status: fonte-unica
+  santos.sao-filipe-neri-presbitero:
+    evangelho:
+      ref: Jo 17,20-26
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Fl 4,4-9
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 33(34)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 33(34),2-3.4-5.6-7.8-9.10-11
+      status: fonte-unica
+  santos.sao-francisco-de-assis-religioso:
+    evangelho:
+      ref: Mt 11,25-30
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Gl 6,14-18
+      status: fonte-unica
+    salmo:
+      ref: Sl 15(16),1-2a.5.7-8.11
+      status: fonte-unica
+  santos.sao-francisco-de-paula-eremita:
+    evangelho:
+      ref: Lc 12,32-34
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Fl 3,8-14
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 15(16)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 15(16),1-2a.5.7-8.11
+      status: fonte-unica
+  santos.sao-francisco-de-sales-bispo-e-doutor-da-igreja:
+    evangelho:
+      ref: Jo 15,9-17
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ef 3,8-12
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 36(37)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 36(37),3-4.5-6.30-31
+      status: fonte-unica
+  santos.sao-francisco-xavier-presbitero:
+    evangelho:
+      ref: Mc 16,15-20
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Cor 9,16-19.22-23
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 116(117),1-2
+      status: verificado
+  santos.sao-gregorio-magno-papa-e-doutor-da-igreja:
+    evangelho:
+      ref: Lc 22,24-30
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Cor 4,1-2.5-7
+      status: fonte-unica
+    salmo:
+      ref: Sl 95(96),1-2a.2b-3.7-8a.10
+      status: fonte-unica
+  santos.sao-gregorio-vii-papa:
+    evangelho:
+      ref: Mt 16,13-19
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: At 20,17-18a.28-32.36
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 109(110)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 109(110),1.2.3.4
+      status: fonte-unica
+  santos.sao-januario-bispo-e-martir:
+    evangelho:
+      ref: Jo 12,24-26
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Hb 10,32-36
+      status: fonte-unica
+    salmo:
+      ref: Sl 125(126),1-2ab.2cd-3.4-5.6
+      status: fonte-unica
+  santos.sao-jeronimo-emiliani:
+    evangelho:
+      alternativas:
+      - Mc 10,17-27
+      ref: Mc 10,17-30
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Tb 12,6-13
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 33(34)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 33(34),2-3.4-5.6-7.8-9.10-11
+      status: fonte-unica
+  santos.sao-jeronimo-presbitero-e-doutor-da-igreja:
+    evangelho:
+      ref: Mt 13,47-52
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Tm 3,14-17
+      status: fonte-unica
+    salmo:
+      ref: Sl 118(119),9-10.11-12.13-14
+      status: fonte-unica
+  santos.sao-joao-apostolo-e-evangelista:
+    evangelho:
+      divergencia:
+        litcal: Jo 20,1a.2-8
+      ref: Jo 20,2-8
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: true
+    primeira_leitura:
+      ref: 1Jo 1,1-4
+      status: verificado
+    salmo:
+      ref: Sl 96(97),1-2.5-6.11-12
+      status: verificado
+  santos.sao-joao-batista-de-la-salle-presbitero:
+    evangelho:
+      ref: Mt 18,1-5
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      divergencia:
+        litcal: 1Tm 1,13-14;2,1-3
+      ref: 2Tm 1,13-14;2,1-3
+      status: fonte-unica
+    salmo:
+      divergencia:
+        litcal: Sl 1
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 1,1-2.3.4.6
+      status: fonte-unica
+  santos.sao-joao-bosco-presbitero:
+    evangelho:
+      ref: Mt 18,1-5
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Fl 4,4-9
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 102(103)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 102(103),1-2.3-4.8-9.13-14.17-18
+      status: fonte-unica
+  santos.sao-joao-crisostomo-bispo-e-doutor-da-igreja:
+    evangelho:
+      alternativas:
+      - Mc 4,1-9
+      ref: Mc 4,1-10.13-20
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ef 4,1-7.11-13
+      status: fonte-unica
+    salmo:
+      ref: Sl 39(40),2.4ab.7-8a.8b-9.10
+      status: fonte-unica
+  santos.sao-joao-da-cruz-presbitero-e-doutor-da-igreja:
+    evangelho:
+      ref: Lc 14,25-33
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Cor 2,1-10a
+      status: fonte-unica
+    salmo:
+      ref: Sl 36(37),3-4.5-6.30-31
+      status: fonte-unica
+  santos.sao-joao-damasceno-presbitero-e-doutor-da-igreja:
+    evangelho:
+      ref: Mt 25,14-30
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Tm 1,13-14;2,1-3
+      status: verificado
+    salmo:
+      ref: Sl 18(19),8.9.10.11
+      status: verificado
+  santos.sao-joao-de-capistrano-presbitero:
+    evangelho:
+      ref: Lc 9,57-62
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Cor 5,14-20
+      status: fonte-unica
+    salmo:
+      ref: Sl 15(16),1-2a.5.7-8.11
+      status: fonte-unica
+  santos.sao-joao-de-deus-religioso:
+    evangelho:
+      ref: Mt 25,31-40
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Jo 3,14-18
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 111(112)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 111(112),1-2.3-4.5-7a.7b-8.9
+      status: fonte-unica
+  santos.sao-joao-de-kenty-presbitero:
+    evangelho:
+      ref: Lc 6,27-38
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Tg 2,14-17
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 111(112),1-9
+      status: verificado
+  santos.sao-joao-diogo-cuauhtlatoatzin:
+    evangelho:
+      ref: Mt 11,25-30
+      status: fonte-unica
+    fontes:
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Cor 1,26-31
+      status: fonte-unica
+    salmo:
+      ref: Sl 130(131),1bcde.2.3
+      status: fonte-unica
+  santos.sao-joao-eudes-presbitero:
+    evangelho:
+      ref: Mt 11,25-30
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ef 3,14-19
+      status: fonte-unica
+    salmo:
+      ref: Sl 130(131),1.2.3
+      status: fonte-unica
+  santos.sao-joao-i-papa-e-martir:
+    evangelho:
+      ref: Lc 22,24-30
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ap 3,14b.20-22
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 22(23),1-6
+      status: verificado
+  santos.sao-joao-maria-vianney-presbitero:
+    evangelho:
+      ref: Mt 9,35-10,1
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ez 3,16-21
+      status: fonte-unica
+    salmo:
+      ref: Sl 116(117),1.2
+      status: fonte-unica
+  santos.sao-john-henry-newman-presbitero-e-doutor-da-igreja:
+    evangelho:
+      ref: Lc 5,1-11
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Cor 4,1-2.5-7
+      status: fonte-unica
+    salmo:
+      ref: Sl 95(96),1-2a.2b-3.7-8a.10
+      status: fonte-unica
+  santos.sao-jorge-martir:
+    evangelho:
+      ref: Lc 9,23-26
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ap 21,5-7
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 125(126),1-6
+      status: verificado
+  santos.sao-josafa-kuncewicz-bispo:
+    evangelho:
+      ref: Jo 17,20-26
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ef 4,1-7.11-13
+      status: fonte-unica
+    salmo:
+      ref: Sl 1,1-2.3.4.6
+      status: fonte-unica
+  santos.sao-jose-de-calasanz-presbitero:
+    evangelho:
+      ref: Mt 18,1-5
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      alternativas:
+      - 1Cor 13,4-13
+      ref: 1Cor 12,31-13,13
+      status: fonte-unica
+    salmo:
+      ref: Sl 33(34),2-3.4-5.6-7.8-9.10-11
+      status: fonte-unica
+  santos.sao-jose-esposo-de-maria:
+    evangelho:
+      alternativas:
+      - Lc 2,41-51a
+      ref: Mt 1,16.18-21.24a
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      ref: 2Sm 7,4-5a.12-14a.16
+      status: fonte-unica
+    salmo:
+      ref: Sl 88(89),2-3.4-5.27.29
+      status: fonte-unica
+    segunda_leitura:
+      ref: Rm 4,13.16-18.22
+      status: fonte-unica
+  santos.sao-jose-operario:
+    evangelho:
+      ref: Mt 13,54-58
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: true
+    primeira_leitura:
+      alternativas:
+      - Cl 3,14-15.17.23-24
+      ref: Gn 1,26-2,3
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 89(90)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 89(90),2.3-4.12-13.14.16
+      status: fonte-unica
+  santos.sao-justino-martir:
+    evangelho:
+      divergencia:
+        litcal: Mc 12,1-12
+      ref: Mt 5,13-19
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Cor 1,18-25
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 33(34)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 33(34),2-3.4-5.6-7.8-9
+      status: fonte-unica
+  santos.sao-leao-magno-papa-e-doutor-da-igreja:
+    evangelho:
+      ref: Mt 16,13-19
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Eclo 39,6-10
+      status: fonte-unica
+    salmo:
+      ref: Sl 36(37),3-4.5-6.30-31
+      status: fonte-unica
+  santos.sao-lourenco-de-brindes-presbitero-e-doutor-da-igreja:
+    evangelho:
+      ref: Mc 4,1-10.13-20
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Cor 4,1-2.5-7
+      status: fonte-unica
+    salmo:
+      ref: Sl 39(40),2.4ab.7-8a.8b-9.10
+      status: fonte-unica
+  santos.sao-lourenco-de-roma-diacono-e-martir:
+    evangelho:
+      ref: Jo 12,24-26
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      ref: 2Cor 9,6-10
+      status: fonte-unica
+    salmo:
+      ref: Sl 111(112),1-2.5-6.7-8.9
+      status: fonte-unica
+  santos.sao-lucas-evangelista:
+    evangelho:
+      ref: Lc 10,1-9
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      ref: 2Tm 4,9-17
+      status: fonte-unica
+    salmo:
+      ref: Sl 144(145),10-11.12-13ab.17-18
+      status: fonte-unica
+  santos.sao-luis-de-franca:
+    evangelho:
+      ref: Mt 22,34-40
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Is 58,6-11
+      status: fonte-unica
+    salmo:
+      ref: Sl 111(112),1-2.3-4.5-7a.7b-8.9
+      status: fonte-unica
+  santos.sao-luis-gonzaga-religioso:
+    evangelho:
+      ref: Mt 22,34-40
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Jo 5,1-5
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 15(16)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 15(16),1-2a.5.7-8.11
+      status: fonte-unica
+  santos.sao-marcos-evangelista:
+    evangelho:
+      ref: Mc 16,15-20
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: true
+    primeira_leitura:
+      ref: 1Pd 5,5b-14
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 88(89)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 88(89),2-3.6-7.16-17
+      status: fonte-unica
+  santos.sao-martinho-de-porres-religioso:
+    evangelho:
+      ref: Mt 22,34-40
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Fl 4,4-9
+      status: fonte-unica
+    salmo:
+      ref: Sl 130(131),1.2.3
+      status: fonte-unica
+  santos.sao-martinho-de-tours-bispo:
+    evangelho:
+      ref: Mt 25,31-40
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Is 61,1-3
+      status: fonte-unica
+    salmo:
+      ref: Sl 88(89),2-3.4-5.21-22.25.27
+      status: fonte-unica
+  santos.sao-martinho-i-papa-e-martir:
+    evangelho:
+      ref: Jo 15,18-21
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Tm 2,8-13;3,10-12
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 125(126),1-6
+      status: verificado
+  santos.sao-mateus-apostolo-e-evangelista:
+    evangelho:
+      ref: Mt 9,9-13
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      ref: Ef 4,1-7.11-13
+      status: fonte-unica
+    salmo:
+      ref: Sl 18(19),2-3.4-5
+      status: fonte-unica
+  santos.sao-matias-apostolo:
+    evangelho:
+      ref: Jo 15,9-17
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: true
+    primeira_leitura:
+      ref: At 1,15-17.20-26
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 112(113)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 112(113),1-2.3-4.5-6.7-8
+      status: fonte-unica
+  santos.sao-maximiliano-maria-kolbe-presbitero-e-martir:
+    evangelho:
+      ref: Jo 15,9-17
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Jo 3,14-18
+      status: fonte-unica
+    salmo:
+      ref: Sl 115(116B),12-13.15-16.17-18
+      status: fonte-unica
+  santos.sao-nicolau-bispo:
+    evangelho:
+      ref: Lc 10,1-9
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Is 6,1-8
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 39(40),2.4.7-8a.8b-9.10.11
+      ref: Sl 39(40),2.4ab.7-8a.8b-9.10
+      status: fonte-unica
+  santos.sao-norberto-obispo:
+    evangelho:
+      ref: Lc 14,25-33
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ez 34,11-16
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 22(23),1-6
+      status: verificado
+  santos.sao-pancracio-martir:
+    evangelho:
+      ref: Mt 11,25-30
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ap 19,1.5-9a
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 102(103)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 102(103),1-2.3-4.8-9.13-14.17-18
+      status: fonte-unica
+  santos.sao-patricio-bispo:
+    evangelho:
+      ref: Lc 5,1-11
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      precisao: versiculos-inteiros
+      ref: 1Pd 4,7-11
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 95(96)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 95(96),1-2a.2b-3.7-8a.10
+      status: fonte-unica
+  santos.sao-paulino-de-nola-bispo:
+    evangelho:
+      ref: Lc 12,32-34
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Cor 8,9-15
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 39(40)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 39(40),2.4ab.7-8a.8b-9.10
+      status: fonte-unica
+  santos.sao-paulo-da-cruz-presbitero:
+    evangelho:
+      ref: Mt 16,24-27
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Cor 1,18-25
+      status: fonte-unica
+    salmo:
+      ref: Sl 116(117),1.2
+      status: fonte-unica
+  santos.sao-paulo-vi-papa:
+    evangelho:
+      ref: Mt 16,13-19
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Cor 9,16-19.22-23
+      status: fonte-unica
+    salmo:
+      ref: Sl 95(96),1-2a.2b-3.7-8a.10
+      status: fonte-unica
+  santos.sao-pedro-canisio-presbitero-e-doutor-da-igreja:
+    evangelho:
+      ref: Mt 5,13-19
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Tm 4,1-5
+      status: fonte-unica
+    salmo:
+      ref: Sl 39(40),2.4ab.7-8a.8b-9.10
+      status: fonte-unica
+  santos.sao-pedro-chanel-presbitero-e-martir:
+    evangelho:
+      ref: Mc 1,14-20
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Cor 1,18-25
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 116(117),1-2
+      status: verificado
+  santos.sao-pedro-crisologo-bispo:
+    evangelho:
+      ref: Lc 6,43-45
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ef 3,8-12
+      status: fonte-unica
+    salmo:
+      ref: Sl 118(119),9-10.11-12.13-14
+      status: fonte-unica
+  santos.sao-pedro-damiao-bispo-e-doutor-da-igreja:
+    evangelho:
+      ref: Jo 15,1-8
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Tm 4,1-5
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 15(16)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 15(16),1-2a.5.7-8.11
+      status: fonte-unica
+  santos.sao-pedro-e-sao-paulo-apostolos:
+    evangelho:
+      ref: Mt 16,13-19
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: true
+    primeira_leitura:
+      ref: At 12,1-11
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 33(34)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 33(34),2-3.4-5.6-7.8-9
+      status: fonte-unica
+    segunda_leitura:
+      ref: 2Tm 4,6-8.17-18
+      status: verificado
+  santos.sao-pio-v-papa:
+    evangelho:
+      ref: Jo 21,15-17
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Cor 4,1-5
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 109(110)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 109(110),1.2.3.4
+      status: fonte-unica
+  santos.sao-pio-x-papa:
+    evangelho:
+      ref: Jo 21,15-17
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Ts 2,2b-8
+      status: fonte-unica
+    salmo:
+      ref: Sl 88(89),2-3.4-5.21-22.25.27
+      status: fonte-unica
+  santos.sao-policarpo-bispo-e-martir:
+    evangelho:
+      ref: Jo 15,18-21
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ap 2,8-11
+      status: fonte-unica
+    salmo:
+      ref: Sl 30(31),3cd-4.6.8.16bc-17
+      status: fonte-unica
+  santos.sao-raimundo-de-penyafort-presbitero:
+    evangelho:
+      ref: Lc 12,35-40
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Cor 5,14-20
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 102(103)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 102(103),1-2.3-4.8-9.13-14.17-18
+      status: fonte-unica
+  santos.sao-roberto-belarmino-bispo-e-doutor-da-igreja:
+    evangelho:
+      ref: Mt 7,21-29
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Sb 7,7-10.15-16
+      status: fonte-unica
+    salmo:
+      ref: Sl 18(19),8.9.10.11
+      status: fonte-unica
+  santos.sao-romualdo-abade:
+    evangelho:
+      ref: Lc 14,25-33
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      divergencia:
+        litcal: Fl 3,8-10
+      ref: Fl 3,8-14
+      status: fonte-unica
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 130(131),1-3
+      status: verificado
+  santos.sao-sebastiao-martir:
+    evangelho:
+      ref: Mt 10,28-33
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Pd 3,14-17
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 33(34)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 33(34),2-3.4-5.6-7.8-9
+      status: fonte-unica
+  santos.sao-silvestre-i-papa:
+    evangelho:
+      ref: Mt 16,13-19
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Ez 34,11-16
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 22(23),1-6
+      status: verificado
+  santos.sao-sisto-ii-papa-e-seus-companheiros-martires:
+    evangelho:
+      ref: Mt 10,28-33
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Sb 3,1-9
+      status: fonte-unica
+    salmo:
+      ref: Sl 125(126),1-2ab.2cd-3.4-5.6
+      status: fonte-unica
+  santos.sao-tiago-apostolo:
+    evangelho:
+      ref: Mt 20,20-28
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      ref: 2Cor 4,7-15
+      status: fonte-unica
+    salmo:
+      ref: Sl 125(126),1-2ab.2cd-3.4-5.6
+      status: fonte-unica
+  santos.sao-tomas-de-aquino-presbitero-e-doutor-da-igreja:
+    evangelho:
+      ref: Mt 23,8-12
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: Sb 7,7-10.15-16
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 118(119)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 118(119),9-10.11-12.13-14
+      status: fonte-unica
+  santos.sao-tomas-de-cantuaria-bispo:
+    evangelho:
+      ref: Mt 16,24-27
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Tm 2,8-13;3,10-12
+      status: verificado
+    salmo:
+      ref: Sl 33(34),2-3.4-5.6-7.8-9
+      status: verificado
+  santos.sao-tome-apostolo:
+    evangelho:
+      ref: Jo 20,24-29
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: true
+    primeira_leitura:
+      ref: Ef 2,19-22
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 116(117),1-2
+      status: verificado
+  santos.sao-turibio-de-mongrovejo-bispo:
+    evangelho:
+      ref: Mt 9,35-38
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Tm 1,13-14;2,1-3
+      status: fonte-unica
+    salmo:
+      ref: Sl 95(96),1-2a.2b-3.7-8a.10
+      status: fonte-unica
+  santos.sao-venceslau-martir:
+    evangelho:
+      ref: Mt 10,34-39
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Pd 3,14-17
+      status: fonte-unica
+    salmo:
+      ref: Sl 125(126),1-2ab.2cd-3.4-5.6
+      status: fonte-unica
+  santos.sao-vicente-de-paulo-presbitero:
+    evangelho:
+      ref: Mt 9,35-38
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 1Cor 1,26-31
+      status: fonte-unica
+    salmo:
+      ref: Sl 111(112),1-2.3-4.5-7a.7b-8.9
+      status: fonte-unica
+  santos.sao-vicente-de-saragoca-diacono:
+    evangelho:
+      ref: Mt 10,17-22
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Cor 4,7-15
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 33(34)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 33(34),2-3.4-5.6-7.8-9
+      status: fonte-unica
+  santos.sao-vicente-ferrer-presbitero:
+    evangelho:
+      ref: Lc 12,35-40
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: false
+    primeira_leitura:
+      ref: 2Tm 4,1-5
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 39(40)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 39(40),2.4ab.7-8a.8b-9.10
+      status: fonte-unica
+  santos.todos-os-santos:
+    evangelho:
+      ref: Mt 5,1-12a
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      ref: Ap 7,2-4.9-14
+      status: fonte-unica
+    salmo:
+      ref: Sl 23(24),1-2.3-4ab.5-6
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Jo 3,1-3
+      status: fonte-unica
+  santos.transfiguracao-do-senhor:
+    evangelho:
+      alternativas:
+      - Mc 9,2-9
+      - Lc 9,28b-36
+      ref: Mt 17,1-9
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    leituras_proprias: true
+    primeira_leitura:
+      ref: Dn 7,9-10.13-14
+      status: fonte-unica
+    salmo:
+      ref: Sl 96(97),1-2.5-6.9
+      status: fonte-unica
+    segunda_leitura:
+      ref: 2Pd 1,16-19
+      status: fonte-unica
+  santos.visitacao-da-nossa-senhora:
+    evangelho:
+      ref: Lc 1,39-56
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    leituras_proprias: true
+    primeira_leitura:
+      alternativas:
+      - Rm 12,9-16b
+      ref: Sf 3,14-18
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Is 12,2-6
+      status: verificado

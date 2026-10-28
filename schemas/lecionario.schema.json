@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Referências do Lecionário (data/lecionario/*.yaml)",
+  "type": "object",
+  "required": ["leituras"],
+  "additionalProperties": false,
+  "properties": {
+    "leituras": {
+      "type": "object",
+      "patternProperties": {
+        "^((A|B|C|I|II)\\.)?[a-z0-9]+([.-][a-z0-9]+)*$": {"$ref": "#/$defs/dia"}
+      },
+      "additionalProperties": false
+    }
+  },
+  "$defs": {
+    "leitura": {
+      "type": "object",
+      "required": ["ref", "status"],
+      "additionalProperties": false,
+      "properties": {
+        "ref": {"type": ["string", "null"]},
+        "status": {"enum": ["verificado", "fonte-unica", "pendente"]},
+        "precisao": {"enum": ["versiculos-inteiros"]},
+        "capitulo": {"type": ["string", "null"]},
+        "alternativas": {"type": "array", "items": {"type": "string"}},
+        "candidatos": {"type": "object", "additionalProperties": {"type": "string"}},
+        "divergencia": {"type": "object", "additionalProperties": {"type": "string"}},
+        "fontes": {"type": "array", "items": {"type": "string"}},
+        "observacao": {"type": "string"}
+      }
+    },
+    "dia": {
+      "type": "object",
+      "required": ["fontes"],
+      "properties": {
+        "fontes": {"type": "array", "items": {"type": "string"}},
+        "leituras_proprias": {"type": "boolean"},
+        "observacao": {"type": "string"}
+      },
+      "patternProperties": {
+        "^(evangelho_procissao|primeira_leitura|salmo|segunda_leitura|evangelho|leitura_[1-8]|salmo_[1-8])$": {"$ref": "#/$defs/leitura"}
+      },
+      "additionalProperties": false
+    }
+  }
+}

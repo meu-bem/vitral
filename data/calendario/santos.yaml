@@ -1,0 +1,3634 @@
+# Próprio dos santos e memórias móveis (calendário geral + Brasil).
+# Gerado uma vez por scripts/ingest_sanctorale.py; a partir daí, mantido à mão.
+# status: verificado (romcal + outra fonte concordam) | fonte-unica | pendente.
+# Fontes: ver docs/FONTES.md.
+celebracoes:
+- id: sao-basilio-magno-e-sao-gregorio-nazianzeno-bispos-e-doutores-da-igreja
+  nome: São Basílio Magno e São Gregório Nazianzeno, bispos e doutores da Igreja
+  data: 01-02
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: basil_the_great_and_gregory_nazianzen_bishops
+    litcal: StsBasilGreg
+    tamil: Saints Basil the Great and Gregory Nazianzen, bishops and doctors
+- id: santissimo-nome-de-jesus
+  nome: Santíssimo Nome de Jesus
+  data: 01-03
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: most_holy_name_of_jesus
+    litcal: NameJesus
+    tamil: The Most Holy Name of Jesus
+- id: sao-raimundo-de-penyafort-presbitero
+  nome: São Raimundo de Penyafort, presbítero
+  data: 01-07
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: raymond_of_penyafort_priest
+    litcal: StRayPenyafort
+    tamil: Saint Raymond of Penyafort, priest
+- id: santo-hilario-bispo-e-doutor-da-igreja
+  nome: Santo Hilário, bispo e doutor da Igreja
+  data: 01-13
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: hilary_of_poitiers_bishop
+    litcal: StHilaryPoitiers
+    tamil: Saint Hilary of Poitiers, bishop and doctor
+- id: santo-antao-abade
+  nome: Santo Antão, abade
+  data: 01-17
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: anthony_of_egypt_abbot
+    litcal: StAnthonyEgypt
+    tamil: Saint Anthony of Egypt, abbot
+- id: sao-fabiano-pap-e-martir
+  nome: São Fabiano, pap e mártir
+  data: 01-20
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: fabian_i_pope
+    litcal: StFabianPope
+    tamil: Saint Fabian, pope and martyr
+- id: sao-sebastiao-martir
+  nome: São Sebastião, mártir
+  data: 01-20
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: sebastian_of_milan_martyr
+    litcal: StSebastian
+    tamil: Saint Sebastian, martyr
+- id: santa-ines-de-roma-virgem-e-martir
+  nome: Santa Inês de Roma, virgem e mártir
+  data: 01-21
+  grau: memoria
+  precedencia: 10
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: agnes_of_rome_virgin
+    litcal: StAgnes
+    tamil: Saint Agnes, virgin and martyr
+- id: sao-vicente-de-saragoca-diacono
+  nome: São Vicente de Saragoça, diácono
+  data: 01-22
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: vincent_of_saragossa_deacon
+    litcal: StVincentDeacon
+    tamil: Saint Vincent, deacon and martyr
+- id: sao-francisco-de-sales-bispo-e-doutor-da-igreja
+  nome: São Francisco de Sales, bispo e doutor da Igreja
+  data: 01-24
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: francis_de_sales_bishop
+    litcal: StFrancisDeSales
+    tamil: Saint Francis de Sales, bishop and doctor
+- id: conversao-de-sao-paulo-apostolo
+  nome: Conversão de São Paulo, Apóstolo
+  data: 01-25
+  grau: festa
+  precedencia: 7
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: conversion_of_saint_paul_the_apostle
+    litcal: ConversionStPaul
+    tamil: The Conversion of Saint Paul, apostle
+- id: santos-timoteo-e-tito-bispos
+  nome: Santos Timóteo e Tito, bispos
+  data: 01-26
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: timothy_of_ephesus_and_titus_of_crete_bishops
+    litcal: StsTimothyTitus
+    tamil: Saints Timothy and Titus, bishops
+- id: santa-angela-merici-virgem
+  nome: Santa Angela Merici, virgem
+  data: 01-27
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: angela_merici_virgin
+    litcal: StAngelaMerici
+    tamil: Saint Angela Merici, virgin
+- id: sao-tomas-de-aquino-presbitero-e-doutor-da-igreja
+  nome: São Tomás de Aquino, presbítero e doutor da Igreja
+  data: 01-28
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: thomas_aquinas_priest
+    litcal: StThomasAquinas
+    tamil: Saint Thomas Aquinas, priest and doctor
+- id: sao-joao-bosco-presbitero
+  nome: São João Bosco, presbítero
+  data: 01-31
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: john_bosco_priest
+    litcal: StJohnBosco
+    tamil: Saint John Bosco, priest
+- id: apresentacao-do-senhor
+  nome: Apresentação do Senhor
+  data: 02-02
+  grau: festa
+  precedencia: 5
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: presentation_of_the_lord
+    litcal: Presentation
+    tamil: Presentation of the Lord
+- id: santo-oscar-de-hamburgo-bispo
+  nome: Santo Oscar de Hamburgo, bispo
+  data: 02-03
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: ansgar_of_hamburg_bishop
+    litcal: StAnsgar
+    tamil: Saint Ansgar, bishop
+- id: sao-bras-bispo-e-martir
+  nome: São Brás, bispo e mártir
+  data: 02-03
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  ids_externos:
+    romcal: blaise_of_sebaste_bishop
+    litcal: StBlase
+- id: santa-agueda-da-sicilia-virgem-e-martir
+  nome: Santa Águeda da Sicília, virgem e mártir
+  data: 02-05
+  grau: memoria
+  precedencia: 10
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: agatha_of_sicily_virgin
+    litcal: StAgatha
+    tamil: Saint Agatha, virgin and martyr
+- id: santos-paulo-miki-e-companheiros-martires
+  nome: Santos Paulo Miki e Companheiros, mártires
+  data: 02-06
+  grau: memoria
+  precedencia: 10
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: paul_miki_and_companions_martyrs
+    litcal: StsPaulMiki
+    tamil: Saints Paul Miki and companions, martyrs
+- id: santa-josefina-bakhita-virgem
+  nome: Santa Josefina Bakhita, virgem
+  data: 02-08
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: josephine_bakhita_virgin
+    litcal: StJosephineBakhita
+    tamil: Saint Josephine Bakhita, virgin
+- id: sao-jeronimo-emiliani
+  nome: São Jerônimo Emiliani
+  data: 02-08
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: jerome_emiliani
+    litcal: StJeromeEmiliani
+    tamil: Saint Jerome Emiliani, priest
+- id: santa-escolastica-virgem
+  nome: Santa Escolástica, virgem
+  data: 02-10
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: scholastica_of_nursia_virgin
+    litcal: StScholastica
+    tamil: Saint Scholastica, virgin
+- id: nossa-senhora-de-lourdes
+  nome: Nossa Senhora de Lourdes
+  data: 02-11
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: our_lady_of_lourdes
+    litcal: OurLadyOfLourdes
+    tamil: Our Lady of Lourdes
+- id: sao-cirilo-o-filosofo-monge-e-sao-metodio-bispo
+  nome: São Cirilo o Filósofo, monge, e São Metódio, bispo
+  data: 02-14
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: cyril_constantine_the_philosopher_monk_and_methodius_michael_of_thessaloniki_bishop
+    tamil: Saints Cyril, monk, and Methodius, bishop
+- id: santos-sete-fundadores-da-ordem-dos-servitas
+  nome: Santos Sete Fundadores da Ordem dos Servitas
+  data: 02-17
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: seven_holy_founders_of_the_servite_order
+    litcal: SevenHolyFounders
+    tamil: Seven Holy Founders of the Servite Order
+- id: sao-pedro-damiao-bispo-e-doutor-da-igreja
+  nome: São Pedro Damião, bispo e doutor da Igreja
+  data: 02-21
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: peter_damian_bishop
+    litcal: StPeterDamian
+    tamil: Saint Peter Damian, bishop and doctor of the Church
+- id: catedra-de-sao-pedro-apostolo
+  nome: Cátedra de São Pedro, Apóstolo
+  data: 02-22
+  grau: festa
+  precedencia: 7
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: chair_of_saint_peter_the_apostle
+    litcal: ChairStPeter
+    tamil: Chair of Saint Peter, apostle
+- id: sao-policarpo-bispo-e-martir
+  nome: São Policarpo, bispo e mártir
+  data: 02-23
+  grau: memoria
+  precedencia: 10
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: polycarp_of_smyrna_bishop
+    tamil: Saint Polycarp, bishop and martyr
+- id: sao-gregorio-de-narek-abade-e-doutor-da-igreja
+  nome: São Gregório de Narek, abade e doutor da Igreja
+  data: 02-27
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: gregory_of_narek_abbot
+    litcal: StGregoryNarek
+    tamil: Saint Gregory of Narek, abbot and doctor of the Church
+- id: sao-casimiro
+  nome: São Casimiro
+  data: 03-04
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: casimir_of_poland
+    litcal: StCasimir
+    tamil: Saint Casimir
+- id: santas-perpetua-e-felicidade-martires
+  nome: Santas Perpétua e Felicidade, mártires
+  data: 03-07
+  grau: memoria
+  precedencia: 10
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: perpetua_of_carthage_and_felicity_of_carthage_martyrs
+    litcal: StsPerpetuaFelicity
+    tamil: Saints Perpetua and Felicity, martyrs
+- id: sao-joao-de-deus-religioso
+  nome: São João de Deus, religioso
+  data: 03-08
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: john_of_god_duarte_cidade_religious
+    litcal: StJohnGod
+    tamil: Saint John of God, religious
+- id: santa-francisca-romana-religiosa
+  nome: Santa Francisca Romana, religiosa
+  data: 03-09
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: frances_of_rome_religious
+    litcal: StFrancesRome
+    tamil: Saint Frances of Rome, religious
+- id: sao-patricio-bispo
+  nome: São Patrício, bispo
+  data: 03-17
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: patrick_of_ireland_bishop
+    litcal: StPatrick
+    tamil: Saint Patrick, bishop
+- id: sao-cirilo-de-jerusalem-bispo-e-doutor-da-igreja
+  nome: São Cirilo de Jerusalém, bispo e doutor da Igreja
+  data: 03-18
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: cyril_of_jerusalem_bishop
+    litcal: StCyrilJerusalem
+    tamil: Saint Cyril of Jerusalem, bishop and doctor
+- id: sao-jose-esposo-de-maria
+  nome: São José, esposo de Maria
+  data: 03-19
+  grau: solenidade
+  precedencia: 3
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: joseph_spouse_of_mary
+    tamil: Saint Joseph Husband of the Blessed Virgin Mary
+- id: sao-turibio-de-mongrovejo-bispo
+  nome: São Turíbio de Mongrovejo, bispo
+  data: 03-23
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: turibius_of_mogrovejo_bishop
+    tamil: Saint Turibius of Mogrovejo, bishop
+- id: anunciacao-do-senhor
+  nome: Anunciação do Senhor
+  data: 03-25
+  grau: solenidade
+  precedencia: 3
+  cor: branco
+  calendario: geral
+  regra_semana_santa: segunda-apos-2-domingo-da-pascoa
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: annunciation_of_the_lord
+    litcal: Annunciation
+    tamil: Annunciation of the Lord
+- id: sao-francisco-de-paula-eremita
+  nome: São Francisco de Paula, eremita
+  data: 04-02
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: francis_of_paola_hermit
+    litcal: StFrancisPaola
+    tamil: Saint Francis of Paola, hermit
+- id: santo-isidoro-de-sevilha-bispo-e-doutor-da-igreja
+  nome: Santo Isidoro de Sevilha, bispo e doutor da Igreja
+  data: 04-04
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: isidore_of_seville_bishop
+    tamil: Saint Isidore, bishop and doctor of the Church
+- id: sao-vicente-ferrer-presbitero
+  nome: São Vicente Ferrer, presbítero
+  data: 04-05
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: vincent_ferrer_priest
+    litcal: StVincentFerrer
+    tamil: Saint Vincent Ferrer, priest
+- id: sao-joao-batista-de-la-salle-presbitero
+  nome: São João Batista de La Salle, presbítero
+  data: 04-07
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: john_baptist_de_la_salle_priest
+    litcal: StJohnBaptistDeLaSalle
+    tamil: Saint John Baptist de la Salle, priest
+- id: santo-estanislau-bispo-e-martir
+  nome: Santo Estanislau, bispo e mártir
+  data: 04-11
+  grau: memoria
+  precedencia: 10
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: stanislaus_of_szczepanow_bishop
+    litcal: StStanislaus
+    tamil: Saint Stanislaus, bishop and martyr
+  divergencias:
+  - grau diverge do calendário tâmil (memoria-facultativa)
+- id: sao-martinho-i-papa-e-martir
+  nome: São Martinho I, papa e mártir
+  data: 04-13
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: martin_i_pope
+    litcal: StMartinPope
+    tamil: Saint Martin I, pope and martyr
+- id: santo-anselmo-de-cantuaria-bispo-e-doutor-da-igreja
+  nome: Santo Anselmo de Cantuária, bispo e doutor da Igreja
+  data: 04-21
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: anselm_of_canterbury_bishop
+    litcal: StAnselm
+    tamil: Saint Anselm of Canterbury, bishop and doctor of the Church
+- id: santo-adalberto-de-praga-bispo-e-martir
+  nome: Santo Adalberto de Praga, bispo e mártir
+  data: 04-23
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: adalbert_of_prague_bishop
+    litcal: StAdalbert
+    tamil: Saint Adalbert, bishop and martyr
+- id: sao-jorge-martir
+  nome: São Jorge, mártir
+  data: 04-23
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: george_of_lydda_martyr
+    litcal: StGeorge
+    tamil: Saint George, martyr
+- id: sao-fiel-de-sigmaringa-presbitero-e-martir
+  nome: São Fiel de Sigmaringa, presbítero e mártir
+  data: 04-24
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: fidelis_of_sigmaringen_priest
+    litcal: StFidelisSigmaringen
+    tamil: Saint Fidelis of Sigmaringen, priest and martyr
+- id: sao-marcos-evangelista
+  nome: São Marcos, evangelista
+  data: 04-25
+  grau: festa
+  precedencia: 7
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: mark_evangelist
+    litcal: StMarkEvangelist
+    tamil: Saint Mark the Evangelist
+- id: sao-luis-maria-grignion-de-montfort-presbitero
+  nome: São Luís Maria Grignion de Montfort, presbítero
+  data: 04-28
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: louis_grignion_de_montfort_priest
+    litcal: StLouisGrignionMontfort
+    tamil: Saint Louis Grignon de Montfort, priest
+- id: sao-pedro-chanel-presbitero-e-martir
+  nome: São Pedro Chanel, presbítero e mártir
+  data: 04-28
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: peter_chanel_priest
+    litcal: StPeterChanel
+    tamil: Saint Peter Chanel, priest and martyr
+- id: santa-catarina-de-siena-virgem-e-doutor-da-igreja
+  nome: Santa Catarina de Siena, virgem e doutor da Igreja
+  data: 04-29
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: catherine_of_siena_virgin
+    litcal: StCatherineSiena
+    tamil: Saint Catherine of Siena, virgin and doctor of the Church
+- id: sao-pio-v-papa
+  nome: São Pio V, papa
+  data: 04-30
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: pius_v_pope
+    litcal: StPiusV
+    tamil: Saint Pius V, pope
+- id: sao-jose-operario
+  nome: São José Operário
+  data: 05-01
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: joseph_the_worker
+    litcal: StJosephWorker
+    tamil: Saint Joseph the Worker
+- id: santo-atanasio-bispo-e-doutor-da-igreja
+  nome: Santo Atanásio, bispo e doutor da Igreja
+  data: 05-02
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: athanasius_of_alexandria_bishop
+    litcal: StAthanasius
+    tamil: Saint Athanasius, bishop and doctor
+- id: sao-filipe-e-tiago-apostolos
+  nome: São Filipe e Tiago, apóstolos
+  data: 05-03
+  grau: festa
+  precedencia: 7
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: philip_and_james_apostles
+    litcal: StsPhilipJames
+    tamil: Saints Philip and James, Apostles
+- id: sao-joao-de-avila-presbitero-e-doutor-da-igreja
+  nome: São João De Ávila, presbítero e doutor da Igreja
+  data: 05-10
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: john_of_avila_priest
+    litcal: StJohnAvila
+    tamil: Saint John of Avila, priest and doctor
+- id: santos-nereu-e-aquileu-martires
+  nome: Santos Nereu e Aquileu, mártires
+  data: 05-12
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: nereus_of_terracina_and_achilleus_of_terracina_martyrs
+    litcal: StsNereusAchilleus
+    tamil: Saints Nereus and Achilleus, martyrs
+- id: sao-pancracio-martir
+  nome: São Pancrácio, mártir
+  data: 05-12
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: pancras_of_rome_martyr
+    litcal: StPancras
+    tamil: Saint Pancras, martyr
+- id: nossa-senhora-de-fatima
+  nome: Nossa Senhora de Fatima
+  data: 05-13
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: our_lady_of_fatima
+    litcal: OurLadyOfFatima
+    tamil: Our Lady of Fatima
+- id: sao-matias-apostolo
+  nome: São Matias, apóstolo
+  data: 05-14
+  grau: festa
+  precedencia: 7
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: matthias_apostle
+    litcal: StMatthiasAp
+    tamil: Saint Matthias the Apostle
+- id: sao-joao-i-papa-e-martir
+  nome: São João I, papa e mártir
+  data: 05-18
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: john_i_pope
+    litcal: StJohnIPope
+    tamil: Saint John I, pope and martyr
+- id: sao-bernardino-de-sena-presbitero
+  nome: São Bernardino de Sena, presbítero
+  data: 05-20
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: bernardine_of_siena_priest
+    litcal: StBernardineSiena
+    tamil: Saint Bernardine of Siena, priest
+- id: santos-cristovao-de-magalhaes-presbitero-e-companheiros-martires
+  nome: Santos Cristóvão de Magalhães, presbítero, e Companheiros, mártires
+  data: 05-21
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: christopher_magallanes_priest_and_companions_martyrs
+    litcal: StChristopherMagallanes
+    tamil: Saint Christopher Magallanes and companions, martyrs
+- id: santa-rita-de-cassia-religiosa
+  nome: Santa Rita de Cássia, religiosa
+  data: 05-22
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: rita_of_cascia_religious
+    litcal: StRitaCascia
+    tamil: Saint Rita of Cascia
+- id: santa-maria-madalena-de-pazzi-virgem
+  nome: Santa Maria Madalena de Pazzi, virgem
+  data: 05-25
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: mary_magdalene_de_pazzi_virgin
+    litcal: StMaryMagdalenePazzi
+    tamil: Saint Mary Magdalene de Pazzi, virgin
+- id: sao-beda-veneravel-presbitero-e-doutor-da-igreja
+  nome: São Beda Venerável, presbítero e doutor da Igreja
+  data: 05-25
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: bede_the_venerable_priest
+    litcal: StBedeVenerable
+    tamil: Saint Bede the Venerable, priest and doctor
+- id: sao-gregorio-vii-papa
+  nome: São Gregório VII, papa
+  data: 05-25
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: gregory_vii_pope
+    litcal: StGregoryVII
+    tamil: Saint Gregory VII, pope
+- id: sao-filipe-neri-presbitero
+  nome: São Filipe Néri, presbítero
+  data: 05-26
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: philip_neri_priest
+    litcal: StPhilipNeri
+    tamil: Saint Philip Neri, priest
+- id: santo-agostinho-de-cantuaria-bispo
+  nome: Santo Agostinho de Cantuária, bispo
+  data: 05-27
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: augustine_of_canterbury_bishop
+    litcal: StAugustineCanterbury
+    tamil: Saint Augustine (Austin) of Canterbury, bishop
+- id: sao-paulo-vi-papa
+  nome: São Paulo VI, papa
+  data: 05-29
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: paul_vi_pope
+    litcal: StPaulVI
+    tamil: Saint Paul VI, pope
+- id: visitacao-da-nossa-senhora
+  nome: Visitação da Nossa Senhora
+  data: 05-31
+  grau: festa
+  precedencia: 7
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: visitation_of_mary
+    litcal: Visitation
+    tamil: Visitation of the Blessed Virgin Mary
+- id: sao-justino-martir
+  nome: São Justino, mártir
+  data: 06-01
+  grau: memoria
+  precedencia: 10
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: justin_martyr
+    litcal: StJustinMartyr
+    tamil: Saint Justin Martyr
+- id: santos-marcelino-e-pedro-martires
+  nome: Santos Marcelino e Pedro, mártires
+  data: 06-02
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: marcellinus_of_rome_and_peter_the_exorcist_martyrs
+    litcal: StsMarcellinusPeter
+    tamil: Saints Marcellinus and Peter, martyrs
+- id: santos-carlos-lwanga-e-companheiros-martires
+  nome: Santos Carlos Lwanga e companheiros, mártires
+  data: 06-03
+  grau: memoria
+  precedencia: 10
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: charles_lwanga_and_companions_martyrs
+    litcal: StsCharlesLwanga
+    tamil: Saints Charles Lwanga and companions, martyrs
+- id: sao-bonifacio-bispo-e-martir
+  nome: São Bonifácio, bispo e mártir
+  data: 06-05
+  grau: memoria
+  precedencia: 10
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: boniface_of_mainz_bishop
+    litcal: StBoniface
+    tamil: Saint Boniface, bishop and martyr
+- id: sao-norberto-obispo
+  nome: São Norberto, obispo
+  data: 06-06
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: norbert_of_xanten_bishop
+    litcal: StNorbert
+    tamil: Saint Norbert, bishop
+- id: santo-efrem-diacono-e-doutor-da-igreja
+  nome: Santo Efrém, diácono e doutor da Igreja
+  data: 06-08
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: brasil
+  status: fonte-unica
+  fontes:
+  - romcal
+  ids_externos:
+    romcal: ephrem_the_syrian_deacon
+    litcal: StEphrem
+- id: sao-jose-de-anchieta-presbitero
+  nome: São José de Anchieta, presbítero
+  data: 06-09
+  grau: memoria
+  precedencia: 11
+  cor: branco
+  calendario: brasil
+  status: fonte-unica
+  fontes:
+  - romcal
+  ids_externos:
+    romcal: joseph_de_anchieta_priest
+    litcal: StJosephCalasanz
+- id: sao-barnabe-apostolo
+  nome: São Barnabé, apóstolo
+  data: 06-11
+  grau: memoria
+  precedencia: 10
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: barnabas_apostle
+    litcal: StBarnabasAp
+    tamil: Saint Barnabas the Apostle
+- id: santo-antonio-presbitero-e-doutor-da-igreja
+  nome: Santo Antônio, presbítero e doutor da Igreja
+  data: 06-13
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: anthony_of_padua_priest
+    litcal: StAnthonyPadua
+    tamil: Saint Anthony of Padua, priest and doctor
+- id: sao-romualdo-abade
+  nome: São Romualdo, abade
+  data: 06-19
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: romuald_of_ravenna_abbot
+    litcal: StRomuald
+    tamil: Saint Romuald, abbot
+- id: sao-luis-gonzaga-religioso
+  nome: São Luís Gonzaga, religioso
+  data: 06-21
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: aloysius_gonzaga_religious
+    litcal: StAloysiusGonzaga
+    tamil: Saint Aloysius Gonzaga, religious
+- id: santos-joao-fisher-bispo-e-tomas-more-martires
+  nome: Santos João Fisher, bispo e Tomás More, mártires
+  data: 06-22
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: john_fisher_bishop_and_thomas_more_martyrs
+    litcal: StsJohnFisherThomasMore
+    tamil: Saints John Fisher, bishop and martyr and Thomas More, martyr
+- id: sao-paulino-de-nola-bispo
+  nome: São Paulino de Nola, bispo
+  data: 06-22
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: paulinus_of_nola_bishop
+    litcal: StPaulinusNola
+    tamil: Saint Paulinus of Nola, bishop
+- id: nascimento-de-joao-batista
+  nome: Nascimento de João Batista
+  data: 06-24
+  grau: solenidade
+  precedencia: 3
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: nativity_of_john_the_baptist
+    litcal: NativityJohnBaptist
+    tamil: Birth of Saint John the Baptist
+- id: sao-cirilo-de-alexandria-bispo-e-doutor-da-igreja
+  nome: São Cirilo de Alexandria, bispo e doutor da Igreja
+  data: 06-27
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: cyril_of_alexandria_bishop
+    litcal: StCyrilAlexandria
+    tamil: Saint Cyril of Alexandria, bishop and doctor
+- id: santo-irineu-de-lyon-bispo-doutor-da-igreja-e-martir
+  nome: Santo Irineu de Lyon, bispo, doutor da Igreja e mártir
+  data: 06-28
+  grau: memoria
+  precedencia: 10
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: irenaeus_of_lyon_bishop
+    litcal: StIrenaeus
+    tamil: Saint Irenaeus, bishop and martyr
+- id: sao-pedro-e-sao-paulo-apostolos
+  nome: São Pedro e São Paulo, Apóstolos
+  data: 06-29
+  grau: solenidade
+  precedencia: 3
+  cor: vermelho
+  calendario: geral
+  transferencia: domingo-seguinte
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: peter_and_paul_apostles
+    litcal: StsPeterPaulAp
+    tamil: Saints Peter and Paul, Apostles
+- id: primeiros-martires-da-igreja-de-roma
+  nome: Primeiros mártires da Igreja de Roma
+  data: 06-30
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: first_martyrs_of_the_holy_roman_church
+    litcal: FirstMartyrsRome
+    tamil: First Martyrs of the Church of Rome
+- id: sao-tome-apostolo
+  nome: São Tomé, apóstolo
+  data: 07-03
+  grau: festa
+  precedencia: 7
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: thomas_apostle
+    litcal: StThomasAp
+    tamil: Saint Thomas the Apostle
+- id: santa-isabel-de-portugal
+  nome: Santa Isabel de Portugal
+  data: 07-04
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: elizabeth_of_portugal
+    litcal: StElizabethPortugal
+    tamil: Saint Elizabeth of Portugal
+- id: santo-antonio-maria-zacarias-presbitero
+  nome: Santo Antônio Maria Zacarias, presbítero
+  data: 07-05
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: anthony_zaccaria_priest
+    litcal: StAnthonyZaccaria
+    tamil: Saint Anthony Zaccaria, priest
+- id: santa-maria-goretti-virgem-e-martir
+  nome: Santa Maria Goretti, virgem e mártir
+  data: 07-06
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: maria_goretti_virgin
+    litcal: StMariaGoretti
+    tamil: Saint Maria Goretti, virgin and martyr
+- id: santos-agostinho-zhao-rong-presbitero-e-companheiros-martires
+  nome: Santos Agostinho Zhao Rong, presbítero, e Companheiros, mártires
+  data: 07-08
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: brasil
+  status: fonte-unica
+  fontes:
+  - romcal
+  ids_externos:
+    romcal: augustine_zhao_rong_priest_and_companions_martyrs
+    litcal: StAugustineZhaoRong
+    tamil: Saint Augustine Zhao Rong and companions, martyrs
+- id: santa-paulina-do-coracao-agonizante-de-jesus-virgem
+  nome: Santa Paulina do Coração Agonizante de Jesus, virgem
+  data: 07-09
+  grau: memoria
+  precedencia: 11
+  cor: branco
+  calendario: brasil
+  status: fonte-unica
+  fontes:
+  - romcal
+  ids_externos:
+    romcal: paulina_of_the_agonizing_heart_of_jesus_visintainer_virgin
+- id: sao-bento-abade
+  nome: São Bento, abade
+  data: 07-11
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: benedict_of_nursia_abbot
+    litcal: StBenedict
+    tamil: Saint Benedict, abbot
+- id: santo-henrique
+  nome: Santo Henrique
+  data: 07-13
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: henry_ii_emperor
+    litcal: StHenry
+    tamil: Saint Henry
+- id: sao-camilo-de-lellis-presbitero
+  nome: São Camilo de Lellis, presbítero
+  data: 07-14
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: camillus_de_lellis_priest
+    litcal: StCamillusDeLellis
+    tamil: Saint Camillus de Lellis, priest
+- id: sao-boaventura-bispo-e-doutor-da-igreja
+  nome: São Boaventura, bispo e doutor da Igreja
+  data: 07-15
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: bonaventure_of_bagnoregio_bishop
+    litcal: StBonaventure
+    tamil: Saint Bonaventure, bishop and doctor
+- id: nossa-senhora-do-monte-carmelo
+  nome: Nossa Senhora do Monte Carmelo
+  data: 07-16
+  grau: festa
+  precedencia: 8
+  cor: branco
+  calendario: brasil
+  status: fonte-unica
+  fontes:
+  - romcal
+  ids_externos:
+    romcal: our_lady_of_mount_carmel
+    litcal: OurLadyOfMountCarmel
+    tamil: Our Lady of Mount Carmel
+- id: bem-aventurado-inacio-de-azevedo-presbitero-e-companheiros-martires
+  nome: Bem-aventurado Inácio de Azevedo, presbítero, e companheiros, mártires
+  data: 07-17
+  grau: memoria
+  precedencia: 11
+  cor: vermelho
+  calendario: brasil
+  status: fonte-unica
+  fontes:
+  - romcal
+  ids_externos:
+    romcal: ignatius_de_azevedo_priest_and_companions_martyrs
+- id: santo-apolinario-bispo-e-martir
+  nome: Santo Apolinário, bispo e mártir
+  data: 07-20
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: apollinaris_of_ravenna_bishop
+    litcal: StApollinaris
+    tamil: Saint Apollinaris, bishop and martyr
+- id: sao-lourenco-de-brindes-presbitero-e-doutor-da-igreja
+  nome: São Lourenço de Brindes, presbítero e doutor da Igreja
+  data: 07-21
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: lawrence_of_brindisi_priest
+    litcal: StLawrenceBrindisi
+    tamil: Saint Lawrence of Brindisi, priest and doctor
+- id: santa-maria-madalena
+  nome: Santa Maria Madalena
+  data: 07-22
+  grau: festa
+  precedencia: 7
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: mary_magdalene
+    litcal: StMaryMagdalene
+    tamil: Saint Mary Magdalene
+- id: santa-brigida-religiosa
+  nome: Santa Brígida, religiosa
+  data: 07-23
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  ids_externos:
+    romcal: bridget_of_sweden_religious
+    litcal: StBridget
+- id: sao-charbel-makhluf-presbitero
+  nome: São Charbel Makhluf, presbítero
+  data: 07-24
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: sharbel_makhluf_priest
+    litcal: StSharbelMakhluf
+    tamil: Saint Sharbel Makhluf, hermit
+- id: sao-tiago-apostolo
+  nome: São Tiago, Apóstolo
+  data: 07-25
+  grau: festa
+  precedencia: 7
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: james_apostle
+    litcal: StJamesAp
+    tamil: Saint James, apostle
+- id: santos-joaquim-e-ana-pais-da-virgem-santa-maria
+  nome: Santos Joaquim e Ana, pais da Virgem Santa Maria
+  data: 07-26
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: joachim_and_anne_parents_of_mary
+    litcal: StsJoachimAnne
+    tamil: Saints Joachim and Anne
+- id: santa-marta-maria-e-lazaro
+  nome: Santa Marta, Maria e Lázaro
+  data: 07-29
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: martha_of_bethany_mary_of_bethany_and_lazarus_of_bethany
+    litcal: StMartha
+    tamil: Saints Martha, Mary and Lazarus
+- id: sao-pedro-crisologo-bispo
+  nome: São Pedro Crisólogo, bispo
+  data: 07-30
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: peter_chrysologus_bishop
+    litcal: StPeterChrysologus
+    tamil: Saint Peter Chrysologus, bishop and doctor
+- id: santo-inacio-de-loiola-presbitero
+  nome: Santo Inácio de Loiola, presbítero
+  data: 07-31
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: ignatius_of_loyola_priest
+    litcal: StIgnatiusLoyola
+    tamil: Saint Ignatius of Loyola, priest
+- id: santo-afonso-maria-liguori-bispo-e-doutor-da-igreja
+  nome: Santo Afonso Maria Liguori, bispo e doutor da Igreja
+  data: 08-01
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: alphonsus_mary_liguori_bishop
+    litcal: StAlphonsusMariaDeLiguori
+    tamil: Saint Alphonsus Maria de Liguori, bishop and doctor of the Church
+- id: santo-eusebio-de-vercelli-bispo
+  nome: Santo Eusébio de Vercelli, bispo
+  data: 08-02
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: eusebius_of_vercelli_bishop
+    litcal: StEusebius
+    tamil: Saint Eusebius of Vercelli, bishop
+- id: sao-pedro-juliano-eymard-presbitero
+  nome: São Pedro Juliano Eymard, presbítero
+  data: 08-02
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: peter_julian_eymard_priest
+    litcal: StPeterJulianEymard
+    tamil: Saint Peter Julian Eymard, priest
+- id: sao-joao-maria-vianney-presbitero
+  nome: São João Maria Vianney, presbítero
+  data: 08-04
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: john_mary_vianney_priest
+    litcal: StJeanVianney
+    tamil: Saint Jean Vianney (the Curé of Ars), priest
+- id: dedicacao-da-basilica-de-santa-maria-maior
+  nome: Dedicação da basílica de Santa Maria Maior
+  data: 08-05
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: dedication_of_the_basilica_of_saint_mary_major
+    litcal: DedicationStMaryMajor
+    tamil: Dedication of the Basilica of Saint Mary Major
+- id: transfiguracao-do-senhor
+  nome: Transfiguração do Senhor
+  data: 08-06
+  grau: festa
+  precedencia: 5
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: transfiguration_of_the_lord
+    litcal: Transfiguration
+    tamil: Transfiguration of the Lord
+- id: sao-caetano-presbitero
+  nome: São Caetano, presbítero
+  data: 08-07
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: cajetan_of_thiene_priest
+    litcal: StCajetan
+    tamil: Saint Cajetan, priest
+- id: sao-sisto-ii-papa-e-seus-companheiros-martires
+  nome: São Sisto II, papa, e seus companheiros, mártires
+  data: 08-07
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: sixtus_ii_pope_and_companions_martyrs
+    litcal: StSixtusIIPope
+    tamil: Saint Sixtus II, pope, and companions, martyrs
+- id: sao-domingos-presbitero
+  nome: São Domingos, presbítero
+  data: 08-08
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: dominic_de_guzman_priest
+    litcal: StDominic
+    tamil: Saint Dominic, priest
+- id: santa-teresa-benedita-da-cruz-virgem-e-martir
+  nome: Santa Teresa Benedita da Cruz, virgem e mártir
+  data: 08-09
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: teresa_benedicta_of_the_cross_stein_virgin
+    litcal: StEdithStein
+    tamil: Saint Teresa Benedicta of the Cross (Edith Stein), virgin and martyr
+- id: sao-lourenco-de-roma-diacono-e-martir
+  nome: São Lourenço de Roma, diácono e mártir
+  data: 08-10
+  grau: festa
+  precedencia: 7
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: lawrence_of_rome_deacon
+    litcal: StLawrenceDeacon
+    tamil: Saint Lawrence, deacon and martyr
+- id: santa-clara-de-assis-virgem
+  nome: Santa Clara de Assis, virgem
+  data: 08-11
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: clare_of_assisi_virgin
+    litcal: StClare
+    tamil: Saint Clare, virgin
+- id: santa-joana-francisca-de-chantal-religiosa
+  nome: Santa Joana Francisca de Chantal, religiosa
+  data: 08-12
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: jane_frances_de_chantal_religious
+    litcal: StJaneFrancesDeChantal
+    tamil: Saint Jane Frances de Chantal, religious
+  divergencias:
+  - data diverge da LitCal (12-12)
+- id: santos-ponciano-papa-e-hipolito-presbitero-martires
+  nome: Santos Ponciano, papa, e Hipólito, presbítero, mártires
+  data: 08-12
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: brasil
+  status: fonte-unica
+  fontes:
+  - romcal
+  ids_externos:
+    romcal: pontian_i_pope_and_hippolytus_of_rome_priest
+    litcal: StsPontianHippolytus
+- id: santa-dulce-lopes-pontes-virgem
+  nome: Santa Dulce Lopes Pontes, virgem
+  data: 08-13
+  grau: memoria
+  precedencia: 11
+  cor: branco
+  calendario: brasil
+  status: fonte-unica
+  fontes:
+  - romcal
+  ids_externos:
+    romcal: dulce_lopes_pontes_virgin
+- id: sao-maximiliano-maria-kolbe-presbitero-e-martir
+  nome: São Maximiliano Maria Kolbe, presbítero e mártir
+  data: 08-14
+  grau: memoria
+  precedencia: 10
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: maximilian_mary_raymund_kolbe_priest
+    litcal: StMaximilianKolbe
+    tamil: Saint Maximilian Mary Kolbe, priest and martyr
+- id: assuncao-da-bem-aventurada-virgem-maria
+  nome: Assunção da Bem-aventurada Virgem Maria
+  data: 08-15
+  grau: solenidade
+  precedencia: 3
+  cor: branco
+  calendario: geral
+  transferencia: domingo-seguinte
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: assumption_of_the_blessed_virgin_mary
+    litcal: Assumption
+    tamil: Assumption of the Blessed Virgin Mary
+- id: santo-estevao-da-hungria
+  nome: Santo Estêvão da Hungria
+  data: 08-16
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: stephen_i_of_hungary
+    litcal: StStephenHungary
+    tamil: Saint Stephen of Hungary
+- id: sao-joao-eudes-presbitero
+  nome: São João Eudes, presbítero
+  data: 08-19
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: john_eudes_priest
+    litcal: StJohnEudes
+    tamil: Saint John Eudes, priest
+- id: sao-bernardo-abade-e-doutor-da-igreja
+  nome: São Bernardo, abade e doutor da Igreja
+  data: 08-20
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: bernard_of_clairvaux_abbot
+    litcal: StBernardClairvaux
+    tamil: Saint Bernard of Clairvaux, abbot and doctor of the Church
+- id: sao-pio-x-papa
+  nome: São Pio X, papa
+  data: 08-21
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: pius_x_pope
+    litcal: StPiusX
+    tamil: Saint Pius X, pope
+- id: bem-aventurada-virgem-maria-rainha-do-ceu
+  nome: Bem-aventurada virgem Maria, Rainha do Céu
+  data: 08-22
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: queenship_of_the_blessed_virgin_mary
+    litcal: QueenshipMary
+    tamil: Queenship of Blessed Virgin Mary
+- id: santa-rosa-de-lima-virgem
+  nome: Santa Rosa de Lima, virgem
+  data: 08-23
+  grau: festa
+  precedencia: 8
+  cor: branco
+  calendario: brasil
+  status: fonte-unica
+  fontes:
+  - romcal
+  ids_externos:
+    romcal: rose_of_lima_virgin
+    litcal: StRoseLima
+    tamil: Saint Rose of Lima, virgin
+- id: sao-bartolomeu-apostolo
+  nome: São Bartolomeu, apóstolo
+  data: 08-24
+  grau: festa
+  precedencia: 7
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: bartholomew_apostle
+    litcal: StBartholomewAp
+    tamil: Saint Bartholomew the Apostle
+- id: sao-jose-de-calasanz-presbitero
+  nome: São José de Calasanz, presbítero
+  data: 08-25
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: joseph_of_calasanz_priest
+    litcal: StJosephCalasanz
+    tamil: Saint Joseph of Calasanz, priest
+- id: sao-luis-de-franca
+  nome: São Luis de França
+  data: 08-25
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: louis_ix_of_france
+    litcal: StLouis
+    tamil: Saint Louis
+- id: santa-monica-de-hipona
+  nome: Santa Mônica de Hipona
+  data: 08-27
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: monica_of_hippo
+    litcal: StMonica
+    tamil: Saint Monica
+- id: santo-agostinho-bispo-e-doutor-da-igreja
+  nome: Santo Agostinho, bispo e doutor da Igreja
+  data: 08-28
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: augustine_of_hippo_bishop
+    litcal: StAugustineHippo
+    tamil: Saint Augustine of Hippo, bishop and doctor of the Church
+- id: martirio-de-sao-joao-batista
+  nome: Martírio de São João Batista
+  data: 08-29
+  grau: memoria
+  precedencia: 10
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: passion_of_saint_john_the_baptist
+    litcal: BeheadingJohnBaptist
+    tamil: The Beheading of Saint John the Baptist, martyr
+- id: sao-gregorio-magno-papa-e-doutor-da-igreja
+  nome: São Gregório Magno, papa e doutor da Igreja
+  data: 09-03
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: gregory_i_the_great_pope
+    litcal: StGregoryGreat
+    tamil: Saint Gregory the Great, pope and doctor
+- id: santa-teresa-de-calcuta-virgem
+  nome: Santa Teresa de Calcutá, virgem
+  data: 09-05
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: fonte-unica
+  fontes:
+  - romcal
+  ids_externos:
+    romcal: teresa_of_calcutta_virgin
+- id: natividade-da-virgem-santa-maria
+  nome: Natividade da Virgem Santa Maria
+  data: 09-08
+  grau: festa
+  precedencia: 7
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: nativity_of_the_blessed_virgin_mary
+    litcal: NativityVirginMary
+    tamil: Birth of the Blessed Virgin Mary
+- id: sao-pedro-claver-presbitero
+  nome: São Pedro Claver, presbítero
+  data: 09-09
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: peter_claver_priest
+    litcal: StPeterClaver
+    tamil: Saint Peter Claver, priest
+- id: santissimo-nome-de-maria
+  nome: Santíssimo Nome de Maria
+  data: 09-12
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: most_holy_name_of_mary
+    litcal: HolyNameMary
+    tamil: Holy Name of the Blessed Virgin Mary
+- id: sao-joao-crisostomo-bispo-e-doutor-da-igreja
+  nome: São João Crisóstomo, bispo e doutor da Igreja
+  data: 09-13
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: john_chrysostom_bishop
+    litcal: StJohnChrysostom
+    tamil: Saint John Chrysostom, bishop and doctor
+- id: exaltacao-da-santa-cruz
+  nome: Exaltação da Santa Cruz
+  data: 09-14
+  grau: festa
+  precedencia: 5
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: exaltation_of_the_holy_cross
+    litcal: ExaltationCross
+    tamil: Exaltation of the Holy Cross
+- id: nossa-senhora-das-dores
+  nome: Nossa Senhora das Dores
+  data: 09-15
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: our_lady_of_sorrows
+    litcal: OurLadyOfSorrows
+    tamil: Our Lady of Sorrows
+- id: santos-cornelio-papa-e-cipriano-bispo-martires
+  nome: Santos Cornélio, papa, e Cipriano, bispo, mártires
+  data: 09-16
+  grau: memoria
+  precedencia: 10
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: cornelius_i_pope_and_cyprian_of_carthage_bishop_martyrs
+    litcal: StsCorneliusCyprian
+    tamil: Saints Cornelius, pope, and Cyprian, bishop, martyrs
+- id: santa-hildegarda-de-bingen-virgem-e-doutora-da-igreja
+  nome: Santa Hildegarda de Bingen, virgem e doutora da Igreja
+  data: 09-17
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: hildegard_of_bingen_abbess
+    litcal: StHildegardBingen
+    tamil: Saint Hildegard of Bingen, Virgin and Doctor
+- id: sao-roberto-belarmino-bispo-e-doutor-da-igreja
+  nome: São Roberto Belarmino, bispo e doutor da Igreja
+  data: 09-17
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: robert_bellarmine_bishop
+    litcal: StRobertBellarmine
+    tamil: Saint Robert Bellarmine, bishop and doctor
+- id: sao-januario-bispo-e-martir
+  nome: São Januário, bispo e mártir
+  data: 09-19
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: januarius_i_of_benevento_bishop
+    litcal: StJanuarius
+    tamil: Saint Januarius, bishop and martyr
+- id: santos-andre-kim-taegon-presbitero-paulo-chang-hasang-e-companheiros-martires
+  nome: Santos André Kim Taegon, presbítero, Paulo Chang Hasang e Companheiros, mártires
+  data: 09-20
+  grau: memoria
+  precedencia: 10
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: andrew_kim_tae_gon_priest_paul_chong_ha_sang_and_companions_martyrs
+    litcal: StAndrewKimTaegon
+    tamil: Saint Andrew Kim Taegon, priest, and Paul Chong Hasang and companions, martyrs
+- id: sao-mateus-apostolo-e-evangelista
+  nome: São Mateus, apóstolo e evangelista
+  data: 09-21
+  grau: festa
+  precedencia: 7
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: matthew_apostle
+    litcal: StMatthewEvangelist
+    tamil: Saint Matthew the Evangelist, Apostle, Evangelist
+- id: sao-pio-de-pietrelcina-presbitero
+  nome: São Pio de Pietrelcina, presbítero
+  data: 09-23
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: pius_francesco_forgione_priest
+    litcal: StPioPietrelcina
+    tamil: Saint Pio of Pietrelcina (Padre Pio), priest
+- id: santos-cosme-e-damiao-martires
+  nome: Santos Cosme e Damião, mártires
+  data: 09-26
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: cosmas_of_cilicia_and_damian_of_cilicia_martyrs
+    litcal: StsCosmasDamian
+    tamil: Saints Cosmas and Damian, martyrs
+- id: sao-vicente-de-paulo-presbitero
+  nome: São Vicente de Paulo, presbítero
+  data: 09-27
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: vincent_de_paul_priest
+    litcal: StVincentDePaul
+    tamil: Saint Vincent de Paul, priest
+- id: santos-lourenco-ruiz-e-companheiros-martires
+  nome: Santos Lourenço Ruiz e Companheiros, mártires
+  data: 09-28
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: lawrence_ruiz_and_companions_martyrs
+    litcal: StsLawrenceRuiz
+    tamil: Saints Lawrence Ruiz and companions, martyrs
+- id: sao-venceslau-martir
+  nome: São Venceslau, mártir
+  data: 09-28
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: wenceslaus_i_of_bohemia_martyr
+    litcal: StWenceslaus
+    tamil: Saint Wenceslaus, martyr
+- id: santos-miguel-gabriel-e-rafael-arcanjos
+  nome: Santos Miguel, Gabriel e Rafael, arcanjos
+  data: 09-29
+  grau: festa
+  precedencia: 7
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: michael_gabriel_and_raphael_archangels
+    litcal: StsArchangels
+    tamil: Saints Michael, Gabriel and Raphael, Archangels
+- id: sao-jeronimo-presbitero-e-doutor-da-igreja
+  nome: São Jerônimo, presbítero e doutor da Igreja
+  data: 09-30
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: jerome_of_stridon_priest
+    litcal: StJerome
+    tamil: Saint Jerome, priest and doctor
+- id: santa-teresinha-do-menino-jesus-virgem-e-doutora-da-igreja
+  nome: Santa Teresinha do Menino Jesus, virgem e doutora da Igreja
+  data: 10-01
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: therese_of_the_child_jesus_and_the_holy_face_of_lisieux_virgin
+    litcal: StThereseChildJesus
+    tamil: Saint Thérèse of the Child Jesus, virgin and doctor
+- id: santos-anjos-da-guarda
+  nome: Santos Anjos da Guarda
+  data: 10-02
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: holy_guardian_angels
+    litcal: GuardianAngels
+    tamil: Guardian Angels
+- id: santos-andre-de-soveral-e-ambrosio-francisco-ferro-presbiteros-e-martires
+  nome: Santos André de Soveral e Ambrósio Francisco Ferro, presbíteros e mártires
+  data: 10-03
+  grau: memoria
+  precedencia: 11
+  cor: vermelho
+  calendario: brasil
+  status: fonte-unica
+  fontes:
+  - romcal
+  ids_externos:
+    romcal: andrew_de_soveral_and_ambrose_francis_ferro_priests
+- id: sao-francisco-de-assis-religioso
+  nome: São Francisco de Assis, religioso
+  data: 10-04
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: francis_of_assisi
+    litcal: StFrancisAssisi
+    tamil: Saint Francis of Assisi
+- id: sao-benedito-o-negro-religioso
+  nome: São Benedito, o Negro, religioso
+  data: 10-05
+  grau: memoria
+  precedencia: 11
+  cor: branco
+  calendario: brasil
+  status: fonte-unica
+  fontes:
+  - romcal
+  ids_externos:
+    romcal: benedict_the_moor_religious
+- id: santa-faustina-kowalska-virgem
+  nome: Santa Faustina Kowalska, virgem
+  data: 10-06
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: brasil
+  status: fonte-unica
+  fontes:
+  - romcal
+  ids_externos:
+    romcal: faustina_kowalska_virgin
+    litcal: StFaustinaKowalska
+    tamil: Saint Maria Faustina Kowalska, virgin
+- id: sao-bruno-presbitero
+  nome: São Bruno, presbítero
+  data: 10-06
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: bruno_of_cologne_priest
+    litcal: StBruno
+    tamil: Saint Bruno, priest
+- id: nossa-senhora-do-rosario
+  nome: Nossa Senhora do Rosário
+  data: 10-07
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: our_lady_of_the_rosary
+    litcal: OurLadyOfTheRosary
+    tamil: Our Lady of the Rosary
+- id: sao-dionisio-bispo-e-companheiros-martires
+  nome: São Dionísio, bispo, e companheiros, mártires
+  data: 10-09
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: denis_of_paris_bishop_and_companions_martyrs
+    litcal: StDenis
+    tamil: Saint Denis and companions, martyrs
+- id: sao-joao-leonardi-presbitero
+  nome: São João Leonardi, presbítero
+  data: 10-09
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: john_leonardi_priest
+    litcal: StJohnLeonardi
+    tamil: Saint John Leonardi, priest
+- id: sao-john-henry-newman-presbitero-e-doutor-da-igreja
+  nome: São John Henry Newman, presbítero e doutor da Igreja
+  data: 10-09
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: john_henry_newman_priest
+    litcal: StJohnNewman
+    tamil: Saint John Leonardi, priest
+- id: papa-sao-joao-xxiii
+  nome: Papa São João XXIII
+  data: 10-11
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: john_xxiii_pope
+    litcal: StJohnXXIII
+    tamil: Saint John XXIII, pope
+- id: nossa-senhora-da-conceicao-aparecida-padroeira-do-brasil
+  nome: Nossa Senhora da Conceição Aparecida, Padroeira do Brasil
+  data: 10-12
+  grau: solenidade
+  precedencia: 4
+  cor: branco
+  calendario: brasil
+  status: fonte-unica
+  fontes:
+  - romcal
+  ids_externos:
+    romcal: our_lady_of_aparecida
+- id: sao-calisto-i-papa-e-martir
+  nome: São Calisto I, papa e mártir
+  data: 10-14
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: callistus_i_pope
+    litcal: StCallistusIPope
+    tamil: Saint Callistus I, pope and martyr
+- id: santa-teresa-de-jesus-virgem-e-doutora-da-igreja
+  nome: Santa Teresa de Jesus, virgem e doutora da Igreja
+  data: 10-15
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: teresa_of_jesus_of_avila_virgin
+    litcal: StTeresaJesus
+    tamil: Saint Teresa of Jesus, virgin and doctor
+- id: santa-edviges-religiosa
+  nome: Santa Edviges, religiosa
+  data: 10-16
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: hedwig_of_silesia_religious
+    litcal: StHedwig
+    tamil: Saint Hedwig, religious
+- id: santa-margarida-maria-alacoque-virgem
+  nome: Santa Margarida Maria Alacoque, virgem
+  data: 10-16
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: margaret_mary_alacoque_virgin
+    litcal: StMargaretAlacoque
+    tamil: Saint Margaret Mary Alacoque, virgin
+- id: santo-inacio-de-antioquia-bispo-e-martir
+  nome: Santo Inácio de Antioquia, bispo e mártir
+  data: 10-17
+  grau: memoria
+  precedencia: 10
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: ignatius_of_antioch_bishop
+    litcal: StIgnatiusAntioch
+    tamil: Saint Ignatius of Antioch, bishop and martyr
+- id: sao-lucas-evangelista
+  nome: São Lucas, evangelista
+  data: 10-18
+  grau: festa
+  precedencia: 7
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: luke_evangelist
+    litcal: StLukeEvangelist
+    tamil: Saint Luke the Evangelist
+- id: santos-joao-de-brebeuf-e-isaac-jogues-presbiteros-e-companheiros-martires
+  nome: Santos João de Brébeuf e Isaac Jogues, presbíteros e companheiros, mártires
+  data: 10-19
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: john_de_brebeuf_isaac_jogues_priests_and_companions_martyrs
+    litcal: StsJeanBrebeuf
+    tamil: Saints Jean de Brébeuf, Isaac Jogues, priests and martyrs; and their companions, martyrs
+- id: sao-paulo-da-cruz-presbitero
+  nome: São Paulo da Cruz, presbítero
+  data: 10-19
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: paul_of_the_cross_priest
+    litcal: StPaulCross
+    tamil: Saint Paul of the Cross, priest
+- id: sao-pedro-de-alcantara-presbitero
+  nome: São Pedro de Alcântara, presbítero
+  data: 10-19
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: brasil
+  status: fonte-unica
+  fontes:
+  - romcal
+  ids_externos:
+    romcal: peter_of_alcantara_priest
+    litcal: StPeterClaver
+- id: papa-sao-joao-paulo-ii
+  nome: Papa São João Paulo II
+  data: 10-22
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: john_paul_ii_pope
+    litcal: StJohnPaulII
+    tamil: Saint John Paul II, pope
+- id: sao-joao-de-capistrano-presbitero
+  nome: São João de Capistrano, presbítero
+  data: 10-23
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: john_of_capistrano_priest
+    litcal: StJohnCapistrano
+    tamil: Saint John of Capistrano, priest
+- id: santo-antonio-maria-claret-bispo
+  nome: Santo Antônio Maria Claret, bispo
+  data: 10-24
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: anthony_mary_claret_bishop
+    litcal: StAnthonyMaryClaret
+    tamil: Saint Anthony Mary Claret, bishop
+- id: santo-antonio-de-santana-galvao-presbitero
+  nome: Santo Antônio de Sant’Ana Galvão, presbítero
+  data: 10-25
+  grau: memoria
+  precedencia: 11
+  cor: branco
+  calendario: brasil
+  status: fonte-unica
+  fontes:
+  - romcal
+  ids_externos:
+    romcal: anthony_of_saint_anne_galvao_priest
+- id: santos-simao-e-sao-judas-tadeu-apostolos
+  nome: Santos Simão e São Judas Tadeu, apóstolos
+  data: 10-28
+  grau: festa
+  precedencia: 7
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: simon_and_jude_apostles
+    litcal: StSimonStJudeAp
+    tamil: Saint Simon and Saint Jude, apostles
+- id: todos-os-santos
+  nome: Todos os Santos
+  data: 11-01
+  grau: solenidade
+  precedencia: 3
+  cor: branco
+  calendario: geral
+  transferencia: domingo-seguinte
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: all_saints
+    litcal: AllSaints
+    tamil: All Saints
+- id: comemoracao-de-todos-os-fieis-defuntos
+  nome: Comemoração de Todos os Fiéis Defuntos
+  data: 11-02
+  grau: comemoracao
+  precedencia: 3
+  cor: roxo
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  ids_externos:
+    romcal: commemoration_of_all_the_faithful_departed
+    litcal: AllSouls
+- id: sao-martinho-de-porres-religioso
+  nome: São Martinho de Porres, religioso
+  data: 11-03
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: martin_de_porres_religious
+    litcal: StMartinPorres
+    tamil: Saint Martin de Porres, religious
+- id: sao-carlos-borromeu-bispo
+  nome: São Carlos Borromeu, bispo
+  data: 11-04
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: charles_borromeo_bishop
+    litcal: StCharlesBorromeo
+    tamil: Saint Charles Borromeo, bishop
+- id: dedicacao-da-basilica-de-latrao
+  nome: Dedicação da basílica de Latrão
+  data: 11-09
+  grau: festa
+  precedencia: 5
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: dedication_of_the_lateran_basilica
+    litcal: DedicationLateran
+    tamil: Dedication of the Lateran basilica
+- id: sao-leao-magno-papa-e-doutor-da-igreja
+  nome: São Leão Magno, papa e doutor da Igreja
+  data: 11-10
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: leo_i_the_great_pope
+    litcal: StLeoGreat
+    tamil: Saint Leo the Great, pope and doctor
+- id: sao-martinho-de-tours-bispo
+  nome: São Martinho de Tours, bispo
+  data: 11-11
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: martin_of_tours_bishop
+    litcal: StMartinTours
+    tamil: Saint Martin of Tours, bishop
+- id: sao-josafa-kuncewicz-bispo
+  nome: São Josafa Kuncewicz, bispo
+  data: 11-12
+  grau: memoria
+  precedencia: 10
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: josaphat_kuntsevych_bishop
+    litcal: StJosaphat
+    tamil: Saint Josaphat, bishop and martyr
+- id: santo-alberto-magno-bispo-e-doutor-da-igreja
+  nome: Santo Alberto Magno, bispo e doutor da Igreja
+  data: 11-15
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: albert_the_great_bishop
+    litcal: StAlbertGreat
+    tamil: Saint Albert the Great, bishop and doctor
+- id: santa-gertrudes-virgem
+  nome: Santa Gertrudes, virgem
+  data: 11-16
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: gertrude_the_great_virgin
+    litcal: StGertrudeGreat
+    tamil: Saint Gertrude the Great, virgin
+- id: santa-margarida-da-escocia
+  nome: Santa Margarida da Escócia
+  data: 11-16
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: margaret_of_scotland
+    litcal: StMargaretScotland
+    tamil: Saint Margaret of Scotland
+- id: santa-isabel-da-hungria-religiosa
+  nome: Santa Isabel da Hungria, religiosa
+  data: 11-17
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: elizabeth_of_hungary_religious
+    litcal: StElizabethHungary
+    tamil: Saint Elizabeth of Hungary, religious
+- id: dedicacao-das-basilicas-dos-santos-pedro-e-paulo-apostolos
+  nome: Dedicação das Basílicas dos Santos Pedro e Paulo, Apóstolos
+  data: 11-18
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: dedication_of_the_basilicas_of_saints_peter_and_paul_apostles
+    litcal: DedicationStsPeterPaul
+    tamil: Dedication of the basilicas of Saints Peter and Paul, Apostles
+- id: santos-roque-gonzalez-afonso-rodriguez-e-joao-de-castillo-presbiteros-e-martires
+  nome: Santos Roque González, Afonso Rodríguez e João de Castillo, presbíteros e mártires
+  data: 11-19
+  grau: memoria
+  precedencia: 11
+  cor: vermelho
+  calendario: brasil
+  status: fonte-unica
+  fontes:
+  - romcal
+  ids_externos:
+    romcal: roch_gonzalez_alphonsus_rodriguez_and_john_del_castillo_priests
+- id: apresentacao-da-virgem-maria
+  nome: Apresentação da Virgem Maria
+  data: 11-21
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: presentation_of_the_blessed_virgin_mary
+    litcal: PresentationMary
+    tamil: Presentation of the Blessed Virgin Mary
+- id: santa-cecilia-virgem-e-martir
+  nome: Santa Cecília, virgem e mártir
+  data: 11-22
+  grau: memoria
+  precedencia: 10
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: cecilia_of_rome_virgin
+    litcal: StCecilia
+    tamil: Saint Cecilia
+- id: sao-clemente-i-papa-e-martir
+  nome: São Clemente I, papa e mártir
+  data: 11-23
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: clement_i_pope
+    litcal: StClementIPope
+    tamil: Saint Clement I, pope and martyr
+- id: sao-columbano-abade
+  nome: São Columbano, abade
+  data: 11-23
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  ids_externos:
+    romcal: columban_of_luxeuil_abbot
+    litcal: StColumban
+- id: santo-andre-dung-lac-e-companheiros-martires
+  nome: Santo André Dũng-Lạc e Companheiros, mártires
+  data: 11-24
+  grau: memoria
+  precedencia: 10
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: andrew_dung_lac_priest_and_companions_martyrs
+    litcal: StAndrewDungLac
+    tamil: Saint Andrew Dung-Lac and his companions, martyrs
+- id: santa-catarina-de-alexandria-virgem-e-martir
+  nome: Santa Catarina de Alexandria, virgem e mártir
+  data: 11-25
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: catherine_of_alexandria_virgin
+    litcal: StCatherineAlexandria
+    tamil: Saint Catherine of Alexandria
+- id: santo-andre-apostolo
+  nome: Santo André, apóstolo
+  data: 11-30
+  grau: festa
+  precedencia: 7
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: andrew_apostle
+    litcal: StAndrewAp
+    tamil: Saint Andrew the Apostle
+- id: sao-francisco-xavier-presbitero
+  nome: São Francisco Xavier, presbítero
+  data: 12-03
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: francis_xavier_priest
+    litcal: StFrancisXavier
+    tamil: Saint Francis Xavier, priest
+- id: sao-joao-damasceno-presbitero-e-doutor-da-igreja
+  nome: São João Damasceno, presbítero e doutor da Igreja
+  data: 12-04
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: john_damascene_priest
+    litcal: StJohnDamascene
+    tamil: Saint John Damascene, priest and doctor
+- id: sao-nicolau-bispo
+  nome: São Nicolau, bispo
+  data: 12-06
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: nicholas_of_myra_bishop
+    litcal: StNicholas
+    tamil: Saint Nicholas, bishop
+- id: santo-ambrosio-de-milao-bispo-e-doutor-da-igreja
+  nome: Santo Ambrósio de Milão, bispo e doutor da Igreja
+  data: 12-07
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: ambrose_of_milan_bishop
+    litcal: StAmbrose
+    tamil: Saint Ambrose, bishop and doctor
+- id: imaculada-conceicao
+  nome: Imaculada Conceição
+  data: 12-08
+  grau: solenidade
+  precedencia: 3
+  cor: branco
+  calendario: geral
+  prevalece_sobre_domingo_privilegiado: true
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: immaculate_conception_of_the_blessed_virgin_mary
+    litcal: ImmaculateConception
+    tamil: Immaculate Conception of the Blessed Virgin Mary
+- id: sao-joao-diogo-cuauhtlatoatzin
+  nome: São João Diogo Cuauhtlatoatzin
+  data: 12-09
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: juan_diego_cuauhtlatoatzin
+    litcal: JuanDiego
+    tamil: Saint Juan Diego
+- id: nossa-senhora-de-loreto
+  nome: Nossa Senhora de Loreto
+  data: 12-10
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: our_lady_of_loreto
+    litcal: OurLadyOfLoreto
+    tamil: Our Lady of Loreto
+- id: sao-damaso-i-papa
+  nome: São Dâmaso I, papa
+  data: 12-11
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: damasus_i_pope
+    litcal: StDamasusIPope
+    tamil: Saint Damasus I, pope
+- id: nossa-senhora-de-guadalupe
+  nome: Nossa Senhora de Guadalupe
+  data: 12-12
+  grau: festa
+  precedencia: 8
+  cor: branco
+  calendario: america
+  status: fonte-unica
+  fontes:
+  - romcal
+  ids_externos:
+    romcal: our_lady_of_guadalupe
+    litcal: OurLadyOfGuadalupe
+    tamil: Our Lady of Guadalupe
+- id: santa-luzia-virgem-e-martir
+  nome: Santa Luzia, virgem e mártir
+  data: 12-13
+  grau: memoria
+  precedencia: 10
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: lucy_of_syracuse_virgin
+    litcal: StLucySyracuse
+    tamil: Saint Lucy of Syracuse, virgin and martyr
+- id: sao-joao-da-cruz-presbitero-e-doutor-da-igreja
+  nome: São João da Cruz, presbítero e doutor da Igreja
+  data: 12-14
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: john_of_the_cross_priest
+    litcal: StJohnCross
+    tamil: Saint John of the Cross, priest and doctor
+- id: sao-pedro-canisio-presbitero-e-doutor-da-igreja
+  nome: São Pedro Canísio, presbítero e doutor da Igreja
+  data: 12-21
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: peter_canisius_priest
+    litcal: StPeterCanisius
+    tamil: Saint Peter Canisius, priest and doctor
+- id: sao-joao-de-kenty-presbitero
+  nome: São João de Kenty, presbítero
+  data: 12-23
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: john_of_kanty_priest
+    litcal: StJohnKanty
+    tamil: Saint John of Kanty, priest
+- id: santo-estevao-primeiro-martir
+  nome: Santo Estêvão, primeiro mártir
+  data: 12-26
+  grau: festa
+  precedencia: 7
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: stephen_the_first_martyr
+    litcal: StStephenProtomartyr
+    tamil: Saint Stephen, the first martyr
+- id: sao-joao-apostolo-e-evangelista
+  nome: São João, apóstolo e evangelista
+  data: 12-27
+  grau: festa
+  precedencia: 7
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: john_apostle
+    litcal: StJohnEvangelist
+    tamil: Saint John the Apostle and evangelist
+- id: santos-inocentes-martires
+  nome: Santos Inocentes, mártires
+  data: 12-28
+  grau: festa
+  precedencia: 7
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: holy_innocents_martyrs
+    litcal: HolyInnocents
+    tamil: Holy Innocents, martyrs
+- id: sao-tomas-de-cantuaria-bispo
+  nome: São Tomás de Cantuária, bispo
+  data: 12-29
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: vermelho
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: thomas_becket_bishop
+    litcal: StThomasBecket
+    tamil: Saint Thomas Becket, bishop and martyr
+- id: sao-silvestre-i-papa
+  nome: São Silvestre I, papa
+  data: 12-31
+  grau: memoria-facultativa
+  precedencia: 12
+  cor: branco
+  calendario: geral
+  status: verificado
+  fontes:
+  - romcal
+  - litcal
+  - lecionario-tamil
+  ids_externos:
+    romcal: sylvester_i_pope
+    litcal: StSylvesterIPope
+    tamil: Saint Sylvester I, pope
+- id: bem-aventurada-virgem-maria-mae-da-igreja
+  nome: Bem-aventurada Virgem Maria, Mãe da Igreja
+  movel:
+    ancora: pentecostes
+    dias: 1
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: fonte-unica
+  prevalece_sobre_memorias: true
+  fontes:
+  - romcal
+  - ccdds-2018-mater-ecclesiae
+  ids_externos:
+    romcal: mary_mother_of_the_church
+- id: imaculado-coracao-de-maria
+  nome: Imaculado Coração de Maria
+  movel:
+    ancora: sagrado-coracao
+    dias: 1
+  grau: memoria
+  precedencia: 10
+  cor: branco
+  calendario: geral
+  status: fonte-unica
+  prevalece_sobre_memorias: true
+  fontes:
+  - romcal
+  - ccdds-2018-mater-ecclesiae
+  ids_externos:
+    romcal: immaculate_heart_of_mary

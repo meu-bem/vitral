@@ -1,0 +1,19 @@
+# Leituras do próprio do Brasil que não existem nas fontes abertas.
+# Mantido à mão (não é gerado por scripts/ingest_lectionary.py). Só referências.
+# Fonte de cada entrada em docs/FONTES.md.
+leituras:
+  santos.nossa-senhora-da-conceicao-aparecida-padroeira-do-brasil:
+    fontes: [cnbb-celebrar-em-familia-aparecida]
+    primeira_leitura:
+      ref: Est 5,1b-2;7,2b-3
+      status: fonte-unica
+    salmo:
+      ref: Sl 44(45)
+      status: fonte-unica
+      observacao: a fonte indica o salmo sem os versículos
+    segunda_leitura:
+      ref: Ap 12,1.5.13a.15-16a
+      status: fonte-unica
+    evangelho:
+      ref: Jo 2,1-11
+      status: fonte-unica

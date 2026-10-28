@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Próprio dos santos (data/calendario/santos.yaml)",
+  "type": "object",
+  "required": ["celebracoes"],
+  "additionalProperties": false,
+  "properties": {
+    "celebracoes": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/celebracao"}}
+  },
+  "$defs": {
+    "status": {"enum": ["verificado", "fonte-unica", "pendente"]},
+    "celebracao": {
+      "type": "object",
+      "required": ["id", "nome", "grau", "precedencia", "cor", "calendario", "status", "fontes"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"},
+        "nome": {"type": "string", "minLength": 3},
+        "data": {"type": "string", "pattern": "^(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])$"},
+        "movel": {
+          "type": "object", "required": ["ancora", "dias"], "additionalProperties": false,
+          "properties": {"ancora": {"enum": ["pentecostes", "sagrado-coracao", "pascoa"]}, "dias": {"type": "integer"}}
+        },
+        "grau": {"enum": ["solenidade", "festa", "comemoracao", "memoria", "memoria-facultativa"]},
+        "precedencia": {"type": "integer", "minimum": 3, "maximum": 12},
+        "cor": {"enum": ["branco", "vermelho", "verde", "roxo", "rosa", "preto"]},
+        "calendario": {"enum": ["geral", "brasil", "america"]},
+        "transferencia": {"enum": ["domingo-seguinte"]},
+        "prevalece_sobre_domingo_privilegiado": {"type": "boolean"},
+        "prevalece_sobre_memorias": {"type": "boolean"},
+        "regra_semana_santa": {"enum": ["segunda-apos-2-domingo-da-pascoa"]},
+        "status": {"$ref": "#/$defs/status"},
+        "fontes": {"type": "array", "items": {"type": "string"}},
+        "ids_externos": {"type": "object", "additionalProperties": {"type": "string"}},
+        "divergencias": {"type": "array", "items": {"type": "string"}},
+        "observacao": {"type": "string"}
+      }
+    }
+  }
+}

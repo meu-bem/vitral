@@ -1,0 +1,1002 @@
+# Referências do Lecionário (só referências; nenhum texto bíblico).
+# Gerado por scripts/ingest_lectionary.py; depois disso, mantido à mão.
+# status por leitura: verificado | fonte-unica | pendente. Fontes: docs/FONTES.md.
+leituras:
+  A.advento-1.domingo:
+    evangelho:
+      ref: Mt 24,37-44
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 2,1-5
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 121(122),1-2.3-4.4-5.6-7.8-9
+      ref: Sl 121(122),1-2.4-5.6-7.8-9
+      status: fonte-unica
+    segunda_leitura:
+      ref: Rm 13,11-14
+      status: verificado
+  A.advento-1.segunda:
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Is 4,2-6
+      status: fonte-unica
+  A.advento-2.domingo:
+    evangelho:
+      ref: Mt 3,1-12
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 11,1-10
+      status: verificado
+    salmo:
+      ref: Sl 71(72),1-2.7-8.12-13.17
+      status: verificado
+    segunda_leitura:
+      ref: Rm 15,4-9
+      status: verificado
+  A.advento-3.domingo:
+    evangelho:
+      ref: Mt 11,2-11
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 35,1-6a.10
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 145(146),6-7.8-9.9-10
+      ref: Sl 145(146),7.8.9-10
+      status: fonte-unica
+    segunda_leitura:
+      ref: Tg 5,7-10
+      status: verificado
+  A.advento-4.domingo:
+    evangelho:
+      ref: Mt 1,18-24
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 7,10-14
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 23(24),1-6
+      status: verificado
+    segunda_leitura:
+      ref: Rm 1,1-7
+      status: verificado
+  A.natal.batismo-do-senhor:
+    evangelho:
+      ref: Mt 3,13-17
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 42,1-4.6-7
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 28(29),1-4.9-10
+      status: verificado
+    segunda_leitura:
+      ref: At 10,34-38
+      status: verificado
+  A.natal.sagrada-familia:
+    evangelho:
+      ref: Mt 2,13-15.19-23
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      divergencia:
+        litcal: Eclo 3,2-6.12-14
+      ref: Eclo 3,2-7.12-14a
+      status: fonte-unica
+    salmo:
+      ref: Sl 127(128),1-2.3.4-5
+      status: verificado
+    segunda_leitura:
+      ref: Cl 3,12-21
+      status: verificado
+  B.advento-1.domingo:
+    evangelho:
+      ref: Mc 13,33-37
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Is 63,16b-17.19;64,2b-7
+      status: fonte-unica
+    salmo:
+      ref: Sl 79(80),2ac.3b.15-16.18-19
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Cor 1,3-9
+      status: fonte-unica
+  B.advento-2.domingo:
+    evangelho:
+      ref: Mc 1,1-8
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Is 40,1-5.9-11
+      status: fonte-unica
+    salmo:
+      ref: Sl 84(85),9ab-10.11-12.13-14
+      status: fonte-unica
+    segunda_leitura:
+      ref: 2Pd 3,8-14
+      status: fonte-unica
+  B.advento-3.domingo:
+    evangelho:
+      ref: Jo 1,6-8.19-28
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Is 61,1-2a.10-11
+      status: fonte-unica
+    salmo:
+      ref: Lc 1,47-48.49-50.53-54
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Ts 5,16-24
+      status: fonte-unica
+  B.advento-4.domingo:
+    evangelho:
+      ref: Lc 1,26-38
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: 2Sm 7,1-5.8b-12.14-16
+      status: fonte-unica
+    salmo:
+      ref: Sl 88(89),2-3.4-5.27.29
+      status: fonte-unica
+    segunda_leitura:
+      ref: Rm 16,25-27
+      status: fonte-unica
+  B.natal.batismo-do-senhor:
+    evangelho:
+      ref: Mc 1,7-11
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Is 55,1-11
+      status: fonte-unica
+    salmo:
+      ref: Is 12,2-3.4.5-6
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Jo 5,1-9
+      status: fonte-unica
+  B.natal.sagrada-familia:
+    evangelho:
+      alternativas:
+      - Lc 2,22.39-40
+      ref: Lc 2,22-40
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Gn 15,1-6;21,1-3
+      status: fonte-unica
+    salmo:
+      ref: Sl 104(105),1-2.3-4.5-6.8-9
+      status: fonte-unica
+    segunda_leitura:
+      ref: Hb 11,8.11-12.17-19
+      status: fonte-unica
+  C.advento-1.domingo:
+    evangelho:
+      ref: Lc 21,25-28.34-36
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Jr 33,14-16
+      status: fonte-unica
+    salmo:
+      ref: Sl 24(25),4-5ab.8-9.10.14
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Ts 3,12-4,2
+      status: fonte-unica
+  C.advento-2.domingo:
+    evangelho:
+      ref: Lc 3,1-6
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Br 5,1-9
+      status: fonte-unica
+    salmo:
+      ref: Sl 125(126),1-2ab.2cd-3.4-5.6
+      status: fonte-unica
+    segunda_leitura:
+      ref: Fl 1,4-6.8-11
+      status: fonte-unica
+  C.advento-3.domingo:
+    evangelho:
+      ref: Lc 3,10-18
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Sf 3,14-17
+      status: fonte-unica
+    salmo:
+      ref: Is 12,2-3.4.5-6
+      status: fonte-unica
+    segunda_leitura:
+      ref: Fl 4,4-7
+      status: fonte-unica
+  C.advento-4.domingo:
+    evangelho:
+      ref: Lc 1,39-45
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Mq 5,1-4a
+      status: fonte-unica
+    salmo:
+      ref: Sl 79(80),2ac-3b.15-16.18-19
+      status: fonte-unica
+    segunda_leitura:
+      ref: Hb 10,5-10
+      status: fonte-unica
+  C.natal.batismo-do-senhor:
+    evangelho:
+      ref: Lc 3,15-16.21-22
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: Is 40,1-5.9-11
+      status: fonte-unica
+    salmo:
+      ref: Sl 103(104),1-2.3-4.24-25.27-28.29-30
+      status: fonte-unica
+    segunda_leitura:
+      ref: Tt 2,11-14;3,4-7
+      status: fonte-unica
+  C.natal.sagrada-familia:
+    evangelho:
+      ref: Lc 2,41-52
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: 1Sm 1,20-22.24-28
+      status: fonte-unica
+    salmo:
+      ref: Sl 83(84),2-3.5-6.9-10
+      status: fonte-unica
+    segunda_leitura:
+      ref: 1Jo 3,1-2.21-24
+      status: fonte-unica
+  advento-1.quarta:
+    evangelho:
+      ref: Mt 15,29-37
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 25,6-10a
+      status: verificado
+    salmo:
+      ref: Sl 22(23),1-3a.3b-4.5.6
+      status: verificado
+  advento-1.quinta:
+    evangelho:
+      ref: Mt 7,21.24-27
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      precisao: versiculos-inteiros
+      ref: Is 26,1-6
+      status: verificado
+    salmo:
+      ref: Sl 117(118),1.8-9.19-21.25-27a
+      status: verificado
+  advento-1.sabado:
+    evangelho:
+      divergencia:
+        litcal: Mt 9,35-38;10,1.5a.6-8
+      ref: Mt 9,35-10,1.6-8
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 30,19-21.23-26
+      status: verificado
+    salmo:
+      ref: Sl 146(147A),1-2.3-4.5-6
+      status: verificado
+  advento-1.segunda:
+    evangelho:
+      ref: Mt 8,5-11
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      divergencia:
+        litcal: Is 4,2-6
+      ref: Is 2,1-5
+      status: fonte-unica
+    salmo:
+      divergencia:
+        litcal: Sl 121(122),1-2.3-4b.4cd-5.6-7.8-9
+      ref: Sl 121(122),1-2.4-5.6-7.8-9
+      status: fonte-unica
+  advento-1.sexta:
+    evangelho:
+      ref: Mt 9,27-31
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 29,17-24
+      status: verificado
+    salmo:
+      ref: Sl 26(27),1.4.13-14
+      status: verificado
+  advento-1.terca:
+    evangelho:
+      ref: Lc 10,21-24
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 11,1-10
+      status: verificado
+    salmo:
+      ref: Sl 71(72),1-2.7-8.12-13.17
+      status: verificado
+  advento-2.quarta:
+    evangelho:
+      ref: Mt 11,28-30
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 40,25-31
+      status: verificado
+    salmo:
+      ref: Sl 102(103),1-2.3-4.8.10
+      status: verificado
+  advento-2.quinta:
+    evangelho:
+      ref: Mt 11,11-15
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 41,13-20
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 144(145),1.9-13
+      status: verificado
+  advento-2.sabado:
+    evangelho:
+      divergencia:
+        litcal: Mt 17,9a.10-13
+      ref: Mt 17,10-13
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Eclo 48,1-4.9-11
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 79(80),2-3.15-16.18-19
+      status: verificado
+  advento-2.segunda:
+    evangelho:
+      ref: Lc 5,17-26
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 35,1-10
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 84(85),9-14
+      status: verificado
+  advento-2.sexta:
+    evangelho:
+      ref: Mt 11,16-19
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 48,17-19
+      status: verificado
+    salmo:
+      ref: Sl 1,1-2.3.4.6
+      status: verificado
+  advento-2.terca:
+    evangelho:
+      ref: Mt 18,12-14
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 40,1-11
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 95(96),1-3.10-13
+      status: verificado
+  advento-3.quarta:
+    evangelho:
+      divergencia:
+        litcal: Lc 7,18b-23
+      ref: Lc 7,19-23
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      precisao: versiculos-inteiros
+      ref: Is 45,6-8.18.21-25
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 84(85),9-14
+      status: verificado
+  advento-3.quinta:
+    evangelho:
+      ref: Lc 7,24-30
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 54,1-10
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 29(30),2.4-6.11-13
+      status: verificado
+  advento-3.segunda:
+    evangelho:
+      ref: Mt 21,23-27
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Nm 24,2-7.15-17a
+      status: verificado
+    salmo:
+      ref: Sl 24(25),4-5ab.6.7bc.8-9
+      status: verificado
+  advento-3.sexta:
+    evangelho:
+      ref: Jo 5,33-36
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      precisao: versiculos-inteiros
+      ref: Is 56,1-3.6-8
+      status: verificado
+    salmo:
+      ref: Sl 66(67),2-3.5.7-8
+      status: verificado
+  advento-3.terca:
+    evangelho:
+      ref: Mt 21,28-32
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Sf 3,1-2.9-13
+      status: verificado
+    salmo:
+      ref: Sl 33(34),2-3.6-7.17-18.19.23
+      status: verificado
+  advento.12-17:
+    evangelho:
+      ref: Mt 1,1-17
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      divergencia:
+        litcal: Gn 49,2.8-10
+      ref: Gn 49,1-2.8-10
+      status: fonte-unica
+    salmo:
+      ref: Sl 71(72),1-2.3-4ab.7-8.17
+      status: verificado
+  advento.12-18:
+    evangelho:
+      divergencia:
+        litcal: Mt 1,18-25
+      ref: Mt 1,18-24
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Jr 23,5-8
+      status: verificado
+    salmo:
+      ref: Sl 71(72),1-2.12-13.18-19
+      status: verificado
+  advento.12-19:
+    evangelho:
+      ref: Lc 1,5-25
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      precisao: versiculos-inteiros
+      ref: Jz 13,2-7.24-25
+      status: verificado
+    salmo:
+      ref: Sl 70(71),3-4a.5-6ab.16-17
+      status: verificado
+  advento.12-20:
+    evangelho:
+      ref: Lc 1,26-38
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 7,10-14
+      status: verificado
+    salmo:
+      ref: Sl 23(24),1-2.3-4ab.5-6
+      status: verificado
+  advento.12-21:
+    evangelho:
+      ref: Lc 1,39-45
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      alternativas:
+      - Sf 3,14-17
+      ref: Ct 2,8-14
+      status: verificado
+    salmo:
+      ref: Sl 32(33),2-3.11-12.20-21
+      status: verificado
+  advento.12-22:
+    evangelho:
+      ref: Lc 1,46-56
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: 1Sm 1,24-28
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: 1Sm 2,1.4-8
+      status: verificado
+  advento.12-23:
+    evangelho:
+      ref: Lc 1,57-66
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Ml 3,1-4.23-24
+      status: verificado
+    salmo:
+      ref: Sl 24(25),4-5ab.8-9.10.14
+      status: verificado
+  advento.12-24:
+    evangelho:
+      ref: Lc 1,67-79
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      divergencia:
+        litcal: 2Sm 7,1-5.8b-12.14a.16
+      ref: 2Sm 7,1-5.8b-12.16
+      status: fonte-unica
+    salmo:
+      ref: Sl 88(89),2-3.4-5.27.29
+      status: verificado
+  natal-2.domingo:
+    evangelho:
+      alternativas:
+      - Jo 1,1-5.9-14
+      ref: Jo 1,1-18
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      divergencia:
+        litcal: Eclo 24,1-4.12-16
+      ref: Eclo 24,1-2.8-12
+      status: fonte-unica
+    salmo:
+      ref: Sl 147(147B),12-13.14-15.19-20
+      status: verificado
+    segunda_leitura:
+      ref: Ef 1,3-6.15-18
+      status: verificado
+  natal.01-02:
+    evangelho:
+      ref: Jo 1,19-28
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: 1Jo 2,22-28
+      status: fonte-unica
+    salmo:
+      ref: Sl 97(98),1.2-3a.3b-4
+      status: fonte-unica
+  natal.01-03:
+    evangelho:
+      ref: Jo 1,29-34
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: 1Jo 2,29-3,6
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 97(98),1.3-6
+      status: verificado
+  natal.01-04:
+    evangelho:
+      ref: Jo 1,35-42
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: 1Jo 3,7-10
+      status: fonte-unica
+    salmo:
+      ref: Sl 97(98),1.7-8.9
+      status: fonte-unica
+  natal.01-05:
+    evangelho:
+      divergencia:
+        litcal: Mt 4,12-17.23-25
+      ref: Jo 1,43-51
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      divergencia:
+        litcal: 1Jo 3,22-24;4,1-6
+      ref: 1Jo 3,11-21
+      status: fonte-unica
+    salmo:
+      divergencia:
+        litcal: Sl 2,7bc-8.10-12a
+      ref: Sl 99(100),1-2.3.4.5
+      status: fonte-unica
+  natal.01-06:
+    evangelho:
+      ref: Mc 1,7-11
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      divergencia:
+        litcal: 1Jo 5,5-13
+      ref: 1Jo 5,5-6.8-13
+      status: fonte-unica
+    salmo:
+      divergencia:
+        litcal: Sl 146(147A)
+      ref: Sl 147(147B),12-13.14-15.19-20
+      status: fonte-unica
+  natal.01-07:
+    evangelho:
+      divergencia:
+        litcal: Jo 2,1-11
+      ref: Jo 2,1-12
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: 1Jo 5,14-21
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 149
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 149,1-2.3-4.5-6a.9b
+      status: fonte-unica
+  natal.12-29:
+    evangelho:
+      ref: Lc 2,22-35
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: 1Jo 2,3-11
+      status: verificado
+    salmo:
+      ref: Sl 95(96),1-2a.2b-3.5b-6
+      status: verificado
+  natal.12-30:
+    evangelho:
+      ref: Lc 2,36-40
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: 1Jo 2,12-17
+      status: fonte-unica
+    salmo:
+      ref: Sl 95(96),7-8a.8b-9.10
+      status: fonte-unica
+  natal.12-31:
+    evangelho:
+      ref: Jo 1,1-18
+      status: fonte-unica
+    fontes:
+    - lecionario-tamil
+    primeira_leitura:
+      ref: 1Jo 2,18-21
+      status: fonte-unica
+    salmo:
+      ref: Sl 95(96),1-2.11-12.13
+      status: fonte-unica
+  natal.depois-da-epifania.quarta:
+    evangelho:
+      ref: Mc 6,45-52
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: 1Jo 4,11-18
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 71(72)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 71(72),1-2.10-11.12-13
+      status: fonte-unica
+  natal.depois-da-epifania.quinta:
+    evangelho:
+      precisao: versiculos-inteiros
+      ref: Lc 4,14-22
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: 1Jo 4,19-5,4
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 71(72)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 71(72),1-2.14-15bc.17
+      status: fonte-unica
+  natal.depois-da-epifania.sabado:
+    evangelho:
+      ref: Jo 3,22-30
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: 1Jo 5,14-21
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 149
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 149,1-2.3-4.5-6a.9b
+      status: fonte-unica
+  natal.depois-da-epifania.segunda:
+    evangelho:
+      ref: Mt 4,12-17.23-25
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: 1Jo 3,22-4,6
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 2
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 2,7-8.10-11
+      status: fonte-unica
+  natal.depois-da-epifania.sexta:
+    evangelho:
+      ref: Lc 5,12-16
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: 1Jo 5,5-13
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 146(147A)
+      ref: Sl 147(147B),12-13.14-15.19-20
+      status: fonte-unica
+  natal.depois-da-epifania.terca:
+    evangelho:
+      ref: Mc 6,34-44
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: 1Jo 4,7-10
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 71(72)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 71(72),1-2.3-4ab.7-8
+      status: fonte-unica
+  natal.epifania:
+    evangelho:
+      ref: Mt 2,1-12
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 60,1-6
+      status: verificado
+    salmo:
+      ref: Sl 71(72),1-2.7-8.10-11.12-13
+      status: verificado
+    segunda_leitura:
+      ref: Ef 3,2-3a.5-6
+      status: verificado
+  natal.natal-do-senhor:
+    evangelho:
+      alternativas:
+      - Jo 1,1-5.9-14
+      ref: Jo 1,1-18
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 52,7-10
+      status: verificado
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 97(98),1-6
+      status: verificado
+    segunda_leitura:
+      ref: Hb 1,1-6
+      status: verificado
+  natal.natal-do-senhor.aurora:
+    evangelho:
+      ref: Lc 2,15-20
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 62,11-12
+      status: verificado
+    salmo:
+      ref: Sl 96(97),1.6.11-12
+      status: verificado
+    segunda_leitura:
+      ref: Tt 3,4-7
+      status: verificado
+  natal.natal-do-senhor.noite:
+    evangelho:
+      ref: Lc 2,1-14
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      divergencia:
+        litcal: Is 9,1-6
+      ref: Is 9,1-3.5-6
+      status: fonte-unica
+    salmo:
+      precisao: versiculos-inteiros
+      ref: Sl 95(96),1-3.11-13
+      status: verificado
+    segunda_leitura:
+      ref: Tt 2,11-14
+      status: verificado
+  natal.natal-do-senhor.vigilia:
+    evangelho:
+      alternativas:
+      - Mt 1,18-25
+      ref: Mt 1,1-25
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Is 62,1-5
+      status: verificado
+    salmo:
+      ref: Sl 88(89),4-5.16-17.27.29
+      status: verificado
+    segunda_leitura:
+      ref: At 13,16-17.22-25
+      status: verificado
+  natal.santa-maria-mae-de-deus:
+    evangelho:
+      ref: Lc 2,16-21
+      status: verificado
+    fontes:
+    - lecionario-tamil
+    - litcal
+    primeira_leitura:
+      ref: Nm 6,22-27
+      status: verificado
+    salmo:
+      divergencia:
+        litcal: Sl 66(67)
+      observacao: a LitCal confirma livro e capítulo, sem versículos
+      ref: Sl 66(67),2-3.5.6.8
+      status: fonte-unica
+    segunda_leitura:
+      ref: Gl 4,4-7
+      status: verificado

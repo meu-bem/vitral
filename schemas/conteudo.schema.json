@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Front matter de conteudo/*.md",
+  "type": "object",
+  "required": ["autor", "licenca", "dia"],
+  "additionalProperties": false,
+  "properties": {
+    "titulo": {"type": "string"},
+    "autor": {"type": "string", "minLength": 2},
+    "licenca": {"enum": ["CC0", "CC-BY-4.0", "CC-BY-SA-4.0", "dominio-publico"]},
+    "dia": {"type": "string", "pattern": "^((A|B|C|I|II)\\.)?[a-z0-9]+([.-][a-z0-9]+)*$"},
+    "fonte": {
+      "type": "object",
+      "required": ["obra", "edicao", "ano"],
+      "additionalProperties": false,
+      "properties": {
+        "obra": {"type": "string", "minLength": 2},
+        "edicao": {"type": "string", "minLength": 2},
+        "tradutor": {"type": "string"},
+        "ano": {"type": ["integer", "string"]},
+        "url": {"type": "string", "pattern": "^https?://"}
+      }
+    },
+    "url_licenca": {"type": "string", "pattern": "^https?://"}
+  }
+}

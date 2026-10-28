@@ -1,0 +1,64 @@
+/* Estilo comum ao PDF (WeasyPrint, A5) e ao EPUB. Fontes livres (SIL OFL) em livro/fontes/. */
+
+@font-face { font-family: "EB Garamond"; src: url("fontes/EBGaramond-Regular.ttf"); font-weight: normal; font-style: normal; }
+@font-face { font-family: "EB Garamond"; src: url("fontes/EBGaramond-Italic.ttf"); font-weight: normal; font-style: italic; }
+@font-face { font-family: "EB Garamond"; src: url("fontes/EBGaramond-SemiBold.ttf"); font-weight: bold; font-style: normal; }
+@font-face { font-family: "Source Sans 3"; src: url("fontes/SourceSans3-Regular.ttf"); font-weight: normal; font-style: normal; }
+@font-face { font-family: "Source Sans 3"; src: url("fontes/SourceSans3-It.ttf"); font-weight: normal; font-style: italic; }
+@font-face { font-family: "Source Sans 3"; src: url("fontes/SourceSans3-Semibold.ttf"); font-weight: bold; font-style: normal; }
+
+html { font-family: "EB Garamond", Georgia, serif; font-size: 11pt; line-height: 1.38; color: #1d1d1d; }
+body { margin: 0; hyphens: auto; }
+h1, h2, h3, .data, .meta, .leituras th, .busca-rotulo, .url, .nota, .credito, .tabela, figcaption,
+.anotacoes-rotulo, .subtitulo, .ciclo { font-family: "Source Sans 3", "Helvetica Neue", Arial, sans-serif; }
+h1 { font-size: 1.5em; font-weight: bold; margin: 0 0 0.6em; }
+h2 { font-size: 1.1em; margin: 1.2em 0 0.4em; }
+a { color: inherit; text-decoration: none; }
+code { font-size: 0.9em; }
+
+/* Página de rosto */
+.rosto { text-align: center; padding-top: 30%; }
+.rosto h1 { font-family: "EB Garamond", serif; font-size: 3.2em; font-weight: normal; letter-spacing: 0.04em; margin: 0; }
+.rosto .subtitulo { font-size: 1.1em; letter-spacing: 0.08em; text-transform: uppercase; color: #555; }
+.rosto .ano { font-size: 1.4em; margin-top: 3em; }
+.rosto .ciclo { color: #555; }
+
+.texto p, .texto li { text-align: justify; }
+.links li { margin-bottom: 0.3em; }
+.links a, .url a { word-break: break-all; }
+
+/* Calendário e tabela */
+figure.calendario { margin: 0; }
+figure.calendario svg { width: 100%; height: auto; }
+figcaption { font-size: 0.8em; color: #555; margin-top: 0.4em; }
+.tabela { width: 100%; border-collapse: collapse; font-size: 0.78em; }
+.tabela th { text-align: left; border-bottom: 1px solid #999; }
+.tabela td, .tabela th { padding: 0.15em 0.3em; vertical-align: top; }
+.tabela tr:nth-child(even) td { background: #f6f3ec; }
+
+/* Página de cada dia */
+.mes-titulo { font-size: 1.8em; text-align: center; margin-top: 35%; font-weight: normal; }
+.dia .data { font-size: 0.85em; color: #555; margin: 0; text-transform: uppercase; letter-spacing: 0.05em; }
+.dia .nome { font-family: "EB Garamond", serif; font-size: 1.45em; font-weight: bold; margin: 0.1em 0 0.15em; line-height: 1.15; }
+.dia .meta { font-size: 0.8em; color: #444; margin: 0 0 0.5em; }
+.chip { display: inline-block; width: 0.8em; height: 0.8em; border-radius: 0.15em; border: 0.5px solid #8c8577; vertical-align: -0.05em; margin-right: 0.15em; }
+.nota { font-size: 0.8em; color: #444; margin: 0.1em 0; font-style: italic; }
+.leituras { width: 100%; border-collapse: collapse; margin: 0.6em 0; }
+.leituras th { font-size: 0.75em; font-weight: bold; text-align: left; color: #555; width: 34%; padding: 0.2em 0.4em 0.2em 0; vertical-align: baseline; text-transform: uppercase; letter-spacing: 0.03em; }
+.leituras td { font-size: 1.05em; padding: 0.2em 0; vertical-align: baseline; }
+.leituras tr { border-bottom: 0.5px solid #ddd6c8; }
+.marca { font-size: 0.7em; vertical-align: super; margin-left: 0.1em; color: #777; }
+.alt { font-size: 0.8em; color: #666; }
+
+.buscas { display: flex; gap: 0.8em; margin-top: 0.6em; }
+.busca { flex: 1; min-width: 0; }
+.qr svg { width: 22mm; height: 22mm; display: block; }
+.busca-rotulo { font-size: 0.72em; font-weight: bold; margin: 0.2em 0 0; }
+.url { font-size: 0.55em; color: #555; margin: 0; line-height: 1.25; font-family: "Source Sans 3", sans-serif; }
+
+.comentario { margin-top: 0.8em; border-top: 0.5px solid #bbb; padding-top: 0.4em; }
+.comentario p { text-align: justify; margin: 0.3em 0; }
+.credito { font-size: 0.72em; color: #555; }
+
+.anotacoes { margin-top: 0.8em; }
+.anotacoes-rotulo { font-size: 0.72em; color: #777; text-transform: uppercase; letter-spacing: 0.05em; margin: 0; }

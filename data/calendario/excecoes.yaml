@@ -1,0 +1,8 @@
+# Decisões pontuais e datadas (CNBB ou Santa Sé) que mudam uma data num ano específico,
+# quando as regras gerais (NUALC 5 e 60) não bastam. Toda exceção precisa de fonte
+# registrada em docs/FONTES.md. Formato:
+#   - celebracao: <id de santos.yaml>
+#     data_propria: "AAAA-MM-DD"
+#     nova_data: "AAAA-MM-DD"
+#     fontes: [<id da fonte>]
+excecoes: []

@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vitral"
+version = "0.1.0"
+description = "Livro anual de leituras litúrgicas (referências e links) para lectio divina"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.11"
+# Versões exatas e hashes ficam em requirements.txt (gerado por uv pip compile).
+dependencies = ["pyyaml", "weasyprint", "segno", "markdown-it-py"]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
