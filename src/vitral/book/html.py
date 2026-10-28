@@ -39,6 +39,7 @@ NORMS = [
     "Responsum ad dubia de calendario liturgico pro anno 2022 (Congregação para o Culto Divino e a Disciplina "
     "dos Sacramentos, 2020)",
 ]
+WEEKDAY_ABBR = ["seg", "ter", "qua", "qui", "sex", "sáb", "dom"]
 FONTS = [("EB Garamond", "SIL Open Font License 1.1"), ("Source Sans 3", "SIL Open Font License 1.1")]
 
 
@@ -118,6 +119,23 @@ def day_section(bd: BookDay, anchor: bool = True) -> str:
     h.append('<div class="anotacoes"><p class="anotacoes-rotulo">Anotações</p></div>')
     h.append("</section>")
     return "\n".join(h)
+
+
+def toc_page(book: BookYear, href) -> str:
+    """Sumário com todos os dias, por mês. ``href(bd)`` dá o destino do link de cada dia.
+
+    No PDF, o CSS acrescenta o número da página (``target-counter``); no EPUB o link basta."""
+    out = ['<section class="texto toc" id="sumario"><h1>Sumário</h1>',
+           '<p class="toc-dica">Procure o mês e o dia que deseja; cada dia começa em uma página nova.</p>']
+    for label, days in book.months():
+        out.append(f'<h2>{e(label)}</h2><ul>')
+        for bd in days:
+            d = bd.date
+            out.append(f'<li><a href="{e(href(bd))}"><span class="toc-data">{WEEKDAY_ABBR[d.weekday()]} {d.day:02d}</span>'
+                       f'<span class="toc-nome">{e(bd.day.name)}</span></a></li>')
+        out.append("</ul>")
+    out.append("</section>")
+    return "\n".join(out)
 
 
 def links_list(book: BookYear) -> str:
