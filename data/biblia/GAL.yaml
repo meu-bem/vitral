@@ -1,0 +1,516 @@
+livro: GAL
+fonte: sblgnt
+versiculos:
+  '1:1':
+    texto: Paulo, apóstolo não da parte de homens nem por meio de homem, mas por Jesus Cristo e por Deus
+      Pai, que o ressuscitou dos mortos,
+    status: ia-sem-revisao
+  '1:2':
+    texto: 'E todos os irmãos que estão comigo, às Igrejas da Galácia:'
+    status: ia-sem-revisao
+  '1:3':
+    texto: Graça e paz a vós da parte de Deus Pai e de nosso Senhor Jesus Cristo,
+    status: ia-sem-revisao
+  '1:4':
+    texto: Que se entregou a si mesmo pelos nossos pecados, para nos arrancar do presente século mau,
+      segundo a vontade de nosso Deus e Pai,
+    status: ia-sem-revisao
+  '1:5':
+    texto: A quem seja a glória pelos séculos dos séculos. Amém.
+    status: ia-sem-revisao
+  '1:6':
+    texto: Admira-me que tão depressa vos afasteis daquele que vos chamou na graça de Cristo para outro
+      evangelho,
+    status: ia-sem-revisao
+  '1:7':
+    texto: Que não é outro; apenas há alguns que vos perturbam e querem deturpar o Evangelho de Cristo.
+    status: ia-sem-revisao
+  '1:8':
+    texto: Mas, ainda que nós mesmos ou um anjo do céu vos anunciasse um evangelho diferente do que vos
+      anunciamos, seja anátema.
+    status: ia-sem-revisao
+  '1:9':
+    texto: 'Como já dissemos, agora de novo o digo: se alguém vos anuncia um evangelho diferente do que
+      recebestes, seja anátema.'
+    status: ia-sem-revisao
+  '1:10':
+    texto: Procuro eu, agora, persuadir homens ou a Deus? Ou procuro agradar a homens? Se ainda agradasse
+      a homens, não seria servo de Cristo.
+    status: ia-sem-revisao
+  '1:11':
+    texto: Faço-vos saber, irmãos, que o Evangelho por mim anunciado não é segundo o homem;
+    status: ia-sem-revisao
+  '1:12':
+    texto: Pois eu não o recebi nem aprendi de homem algum, mas por revelação de Jesus Cristo.
+    status: ia-sem-revisao
+  '1:13':
+    texto: 'Ouvistes, com efeito, qual foi outrora a minha conduta no judaísmo: perseguia com furor a
+      Igreja de Deus e a devastava,'
+    status: ia-sem-revisao
+  '1:14':
+    texto: E progredia no judaísmo mais do que muitos contemporâneos do meu povo, sendo extremamente zeloso
+      das tradições paternas.
+    status: ia-sem-revisao
+  '1:15':
+    texto: Mas, quando aprouve àquele que me separou desde o ventre de minha mãe e me chamou por sua graça
+    status: ia-sem-revisao
+  '1:16':
+    texto: Revelar em mim o seu Filho, para que eu o anunciasse entre as nações, imediatamente não consultei
+      carne e sangue,
+    status: ia-sem-revisao
+  '1:17':
+    texto: Nem subi a Jerusalém, aos que eram apóstolos antes de mim, mas parti para a Arábia e voltei
+      de novo a Damasco.
+    status: ia-sem-revisao
+  '1:18':
+    texto: Depois, passados três anos, subi a Jerusalém para conhecer Cefas, e permaneci com ele quinze
+      dias;
+    status: ia-sem-revisao
+  '1:19':
+    texto: Mas não vi nenhum outro dos apóstolos, a não ser Tiago, o irmão do Senhor.
+    status: ia-sem-revisao
+  '1:20':
+    texto: O que vos escrevo, eis que diante de Deus não minto.
+    status: ia-sem-revisao
+  '1:21':
+    texto: Depois fui às regiões da Síria e da Cilícia.
+    status: ia-sem-revisao
+  '1:22':
+    texto: Eu era pessoalmente desconhecido das Igrejas da Judeia que estão em Cristo;
+    status: ia-sem-revisao
+  '1:23':
+    texto: 'Apenas ouviam dizer: “Aquele que outrora nos perseguia agora anuncia a fé que outrora devastava.”'
+    status: ia-sem-revisao
+  '1:24':
+    texto: E glorificavam a Deus por causa de mim.
+    status: ia-sem-revisao
+  '2:1':
+    texto: Depois, passados catorze anos, subi de novo a Jerusalém com Barnabé, levando também Tito.
+    status: ia-sem-revisao
+  '2:2':
+    texto: Subi por uma revelação; e expus-lhes o Evangelho que prego entre as nações, em particular aos
+      que gozam de autoridade, para não correr ou ter corrido em vão.
+    status: ia-sem-revisao
+  '2:3':
+    texto: Mas nem Tito, que estava comigo, sendo grego, foi obrigado a circuncidar-se;
+    status: ia-sem-revisao
+  '2:4':
+    texto: E isso por causa dos falsos irmãos intrusos, que se infiltraram para espiar a nossa liberdade,
+      que temos em Cristo Jesus, a fim de nos reduzirem à escravidão —
+    status: ia-sem-revisao
+  '2:5':
+    texto: Aos quais nem por um momento cedemos com submissão, para que a verdade do Evangelho permanecesse
+      entre vós.
+    status: ia-sem-revisao
+  '2:6':
+    texto: E dos que gozavam de autoridade — quem foram outrora, não me interessa; Deus não faz acepção
+      de pessoas —, esses, os de autoridade, nada me acrescentaram;
+    status: ia-sem-revisao
+  '2:7':
+    texto: Pelo contrário, vendo que me foi confiado o Evangelho dos incircuncisos, como a Pedro o dos
+      circuncisos,
+    status: ia-sem-revisao
+  '2:8':
+    texto: Pois aquele que agiu em Pedro para o apostolado dos circuncisos agiu também em mim para as
+      nações,
+    status: ia-sem-revisao
+  '2:9':
+    texto: E, reconhecendo a graça que me foi dada, Tiago, Cefas e João, os que eram considerados colunas,
+      deram a mim e a Barnabé a mão direita em sinal de comunhão, para que nós fôssemos às nações e eles
+      aos circuncisos;
+    status: ia-sem-revisao
+  '2:10':
+    texto: Recomendaram-nos apenas que nos lembrássemos dos pobres, o que também me esforcei por fazer.
+    status: ia-sem-revisao
+  '2:11':
+    texto: Mas, quando Cefas veio a Antioquia, resisti-lhe face a face, porque era condenável;
+    status: ia-sem-revisao
+  '2:12':
+    texto: Pois, antes de chegarem alguns da parte de Tiago, comia com os gentios; mas, quando chegaram,
+      retraía-se e se separava, temendo os circuncisos.
+    status: ia-sem-revisao
+  '2:13':
+    texto: E os demais judeus fingiram com ele, de modo que até Barnabé se deixou levar pela sua hipocrisia.
+    status: ia-sem-revisao
+  '2:14':
+    texto: 'Mas, quando vi que não andavam retamente segundo a verdade do Evangelho, disse a Cefas diante
+      de todos: “Se tu, sendo judeu, vives como gentio e não como judeu, como forças os gentios a viver
+      como judeus?”'
+    status: ia-sem-revisao
+  '2:15':
+    texto: Nós, judeus de nascimento e não pecadores vindos das nações,
+    status: ia-sem-revisao
+  '2:16':
+    texto: Sabendo que o homem não é justificado pelas obras da Lei, mas somente pela fé em Jesus Cristo,
+      também nós cremos em Cristo Jesus, para sermos justificados pela fé em Cristo e não pelas obras
+      da Lei, porque pelas obras da Lei ninguém será justificado.
+    status: ia-sem-revisao
+  '2:17':
+    texto: Se, buscando ser justificados em Cristo, fomos achados também nós pecadores, é Cristo então
+      ministro do pecado? De modo algum!
+    status: ia-sem-revisao
+  '2:18':
+    texto: Pois, se reconstruo o que destruí, constituo-me a mim mesmo transgressor.
+    status: ia-sem-revisao
+  '2:19':
+    texto: 'Pois eu, pela Lei, morri para a Lei, a fim de viver para Deus: com Cristo estou crucificado;'
+    status: ia-sem-revisao
+  '2:20':
+    texto: E já não sou eu que vivo, mas é Cristo que vive em mim; a vida que agora vivo na carne, vivo-a
+      na fé do Filho de Deus, que me amou e se entregou por mim.
+    status: ia-sem-revisao
+  '2:21':
+    texto: Não anulo a graça de Deus; pois, se a justiça vem pela Lei, então Cristo morreu em vão.
+    status: ia-sem-revisao
+  '3:1':
+    texto: Ó gálatas insensatos, quem vos fascinou, a vós, ante cujos olhos foi exposto Jesus Cristo crucificado?
+    status: ia-sem-revisao
+  '3:2':
+    texto: 'Só quero saber isto de vós: recebestes o Espírito pelas obras da Lei ou pela escuta da fé?'
+    status: ia-sem-revisao
+  '3:3':
+    texto: Sois assim tão insensatos? Tendo começado pelo Espírito, agora acabais pela carne?
+    status: ia-sem-revisao
+  '3:4':
+    texto: Tanto sofrestes em vão? Se é que foi em vão.
+    status: ia-sem-revisao
+  '3:5':
+    texto: Aquele, pois, que vos concede o Espírito e opera milagres entre vós, fá-lo pelas obras da Lei
+      ou pela escuta da fé?
+    status: ia-sem-revisao
+  '3:6':
+    texto: Assim Abraão “creu em Deus, e isso lhe foi atribuído como justiça”.
+    status: ia-sem-revisao
+  '3:7':
+    texto: Sabei, pois, que os que são da fé, estes é que são filhos de Abraão.
+    status: ia-sem-revisao
+  '3:8':
+    texto: 'A Escritura, prevendo que Deus justificaria as nações pela fé, anunciou de antemão a Abraão:
+      “Em ti serão abençoadas todas as nações.”'
+    status: ia-sem-revisao
+  '3:9':
+    texto: De modo que os que são da fé são abençoados com o fiel Abraão.
+    status: ia-sem-revisao
+  '3:10':
+    texto: 'Pois todos os que se apoiam nas obras da Lei estão sob maldição, porque está escrito: “Maldito
+      todo aquele que não permanece em todas as coisas escritas no livro da Lei, para as cumprir.”'
+    status: ia-sem-revisao
+  '3:11':
+    texto: Que ninguém é justificado pela Lei diante de Deus é evidente, pois “o justo viverá pela fé”,
+    status: ia-sem-revisao
+  '3:12':
+    texto: 'E a Lei não é da fé, mas: “Quem as praticar viverá por elas.”'
+    status: ia-sem-revisao
+  '3:13':
+    texto: 'Cristo nos resgatou da maldição da Lei, tornando-se maldição por nós, pois está escrito: “Maldito
+      todo aquele que é pendurado em madeiro”,'
+    status: ia-sem-revisao
+  '3:14':
+    texto: Para que a bênção de Abraão chegasse às nações em Cristo Jesus, a fim de recebermos, pela fé,
+      a promessa do Espírito.
+    status: ia-sem-revisao
+  '3:15':
+    texto: 'Irmãos, falo à maneira humana: ninguém anula ou acrescenta algo a um testamento humano já
+      ratificado.'
+    status: ia-sem-revisao
+  '3:16':
+    texto: 'Ora, as promessas foram feitas a Abraão e à sua descendência. Não diz: “E às descendências”,
+      como se fossem muitas, mas como de uma só: “E à tua descendência”, que é Cristo.'
+    status: ia-sem-revisao
+  '3:17':
+    texto: 'Digo isto: um testamento anteriormente ratificado por Deus não o anula a Lei surgida quatrocentos
+      e trinta anos depois, de modo a abolir a promessa.'
+    status: ia-sem-revisao
+  '3:18':
+    texto: Pois, se a herança vem da Lei, já não vem da promessa; mas Deus a concedeu a Abraão por meio
+      da promessa.
+    status: ia-sem-revisao
+  '3:19':
+    texto: Para que, então, a Lei? Foi acrescentada por causa das transgressões, até que viesse a descendência
+      a quem foi feita a promessa, promulgada por anjos pela mão de um mediador.
+    status: ia-sem-revisao
+  '3:20':
+    texto: Ora, o mediador não é de um só, mas Deus é um só.
+    status: ia-sem-revisao
+  '3:21':
+    texto: Então a Lei é contra as promessas de Deus? De modo algum! Pois, se tivesse sido dada uma lei
+      capaz de dar vida, a justiça viria realmente da Lei.
+    status: ia-sem-revisao
+  '3:22':
+    texto: Mas a Escritura encerrou tudo sob o pecado, para que a promessa, pela fé em Jesus Cristo, fosse
+      dada aos que creem.
+    status: ia-sem-revisao
+  '3:23':
+    texto: Antes que viesse a fé, estávamos guardados sob a Lei, encerrados para a fé que haveria de se
+      revelar.
+    status: ia-sem-revisao
+  '3:24':
+    texto: Assim, a Lei foi nosso pedagogo até Cristo, para sermos justificados pela fé;
+    status: ia-sem-revisao
+  '3:25':
+    texto: Mas, vinda a fé, já não estamos sob o pedagogo.
+    status: ia-sem-revisao
+  '3:26':
+    texto: Pois todos sois filhos de Deus pela fé em Cristo Jesus.
+    status: ia-sem-revisao
+  '3:27':
+    texto: Pois todos vós que fostes batizados em Cristo vos revestistes de Cristo.
+    status: ia-sem-revisao
+  '3:28':
+    texto: Não há judeu nem grego, não há escravo nem livre, não há homem e mulher; pois todos vós sois
+      um só em Cristo Jesus.
+    status: ia-sem-revisao
+  '3:29':
+    texto: Se sois de Cristo, então sois descendência de Abraão, herdeiros segundo a promessa.
+    status: ia-sem-revisao
+  '4:1':
+    texto: 'Digo ainda: enquanto o herdeiro é menor, em nada difere de um escravo, embora seja senhor
+      de tudo,'
+    status: ia-sem-revisao
+  '4:2':
+    texto: Mas está sob tutores e administradores até o tempo marcado pelo pai.
+    status: ia-sem-revisao
+  '4:3':
+    texto: Assim também nós, quando éramos menores, estávamos escravizados sob os elementos do mundo;
+    status: ia-sem-revisao
+  '4:4':
+    texto: Mas, quando chegou a plenitude do tempo, Deus enviou o seu Filho, nascido de mulher, nascido
+      sob a Lei,
+    status: ia-sem-revisao
+  '4:5':
+    texto: Para resgatar os que estavam sob a Lei, a fim de recebermos a adoção filial.
+    status: ia-sem-revisao
+  '4:6':
+    texto: 'E, porque sois filhos, Deus enviou aos nossos corações o Espírito do seu Filho, que clama:
+      “Abbá, Pai!”'
+    status: ia-sem-revisao
+  '4:7':
+    texto: De modo que já não és escravo, mas filho; e, se filho, também herdeiro por Deus.
+    status: ia-sem-revisao
+  '4:8':
+    texto: Mas outrora, não conhecendo a Deus, servíeis a seres que por natureza não são deuses;
+    status: ia-sem-revisao
+  '4:9':
+    texto: Agora, porém, conhecendo a Deus, ou antes, sendo conhecidos por Deus, como voltais de novo
+      aos elementos fracos e pobres, aos quais de novo quereis servir como antes?
+    status: ia-sem-revisao
+  '4:10':
+    texto: Observais dias, meses, estações e anos.
+    status: ia-sem-revisao
+  '4:11':
+    texto: Receio por vós que eu tenha trabalhado em vão entre vós.
+    status: ia-sem-revisao
+  '4:12':
+    texto: Sede como eu, pois também eu sou como vós, irmãos, eu vos peço. Em nada me ofendestes;
+    status: ia-sem-revisao
+  '4:13':
+    texto: Sabeis que foi por uma enfermidade da carne que vos anunciei o Evangelho a primeira vez,
+    status: ia-sem-revisao
+  '4:14':
+    texto: E a prova que isso era para vós na minha carne não a desprezastes nem a rejeitastes, mas me
+      recebestes como a um anjo de Deus, como a Cristo Jesus.
+    status: ia-sem-revisao
+  '4:15':
+    texto: Onde está, pois, a vossa felicidade? Pois vos testemunho que, se possível, teríeis arrancado
+      os vossos olhos para mos dar.
+    status: ia-sem-revisao
+  '4:16':
+    texto: Tornei-me, então, vosso inimigo por vos dizer a verdade?
+    status: ia-sem-revisao
+  '4:17':
+    texto: Eles têm zelo por vós, mas não com boa intenção; querem excluir-vos, para que vós tenhais zelo
+      por eles.
+    status: ia-sem-revisao
+  '4:18':
+    texto: É bom ter zelo no bem sempre, e não somente quando estou presente entre vós,
+    status: ia-sem-revisao
+  '4:19':
+    texto: Meus filhos, por quem sofro de novo as dores de parto até que Cristo seja formado em vós.
+    status: ia-sem-revisao
+  '4:20':
+    texto: Quereria estar agora junto de vós e mudar de tom, pois estou perplexo a vosso respeito.
+    status: ia-sem-revisao
+  '4:21':
+    texto: 'Dizei-me, vós que quereis estar sob a Lei: não ouvis a Lei?'
+    status: ia-sem-revisao
+  '4:22':
+    texto: Pois está escrito que Abraão teve dois filhos, um da escrava e outro da livre;
+    status: ia-sem-revisao
+  '4:23':
+    texto: Mas o da escrava nasceu segundo a carne, e o da livre, por meio da promessa.
+    status: ia-sem-revisao
+  '4:24':
+    texto: 'Isto tem um sentido alegórico: essas mulheres são duas alianças: uma, do monte Sinai, que
+      gera para a escravidão, é Agar;'
+    status: ia-sem-revisao
+  '4:25':
+    texto: Agar é o monte Sinai, na Arábia, e corresponde à Jerusalém atual, pois é escrava com os seus
+      filhos;
+    status: ia-sem-revisao
+  '4:26':
+    texto: Mas a Jerusalém do alto é livre, e é a nossa mãe;
+    status: ia-sem-revisao
+  '4:27':
+    texto: 'Pois está escrito: “Alegra-te, estéril, que não dás à luz; rompe em gritos de júbilo, tu que
+      não conheces as dores de parto; porque são mais numerosos os filhos da abandonada do que os da que
+      tem marido.”'
+    status: ia-sem-revisao
+  '4:28':
+    texto: Vós, irmãos, sois, como Isaac, filhos da promessa;
+    status: ia-sem-revisao
+  '4:29':
+    texto: Mas, assim como então o nascido segundo a carne perseguia o nascido segundo o Espírito, assim
+      também agora.
+    status: ia-sem-revisao
+  '4:30':
+    texto: Mas que diz a Escritura? “Expulsa a escrava e o filho dela, pois o filho da escrava não herdará
+      com o filho da livre.”
+    status: ia-sem-revisao
+  '4:31':
+    texto: Assim, irmãos, não somos filhos de escrava, mas da livre.
+    status: ia-sem-revisao
+  '5:1':
+    texto: Foi para a liberdade que Cristo nos libertou. Permanecei, pois, firmes e não vos submetais
+      de novo ao jugo da escravidão.
+    status: ia-sem-revisao
+  '5:2':
+    texto: 'Eis que eu, Paulo, vos digo: se vos circuncidardes, Cristo de nada vos servirá.'
+    status: ia-sem-revisao
+  '5:3':
+    texto: Declaro de novo a todo homem que se circuncida que ele é obrigado a cumprir toda a Lei.
+    status: ia-sem-revisao
+  '5:4':
+    texto: Separastes-vos de Cristo, vós que procurais ser justificados pela Lei; decaístes da graça.
+    status: ia-sem-revisao
+  '5:5':
+    texto: Pois nós, pelo Espírito, aguardamos da fé a esperança da justiça.
+    status: ia-sem-revisao
+  '5:6':
+    texto: Pois em Cristo Jesus nem a circuncisão tem valor, nem a incircuncisão, mas a fé que age pelo
+      amor.
+    status: ia-sem-revisao
+  '5:7':
+    texto: Corríeis bem; quem vos impediu de obedecer à verdade?
+    status: ia-sem-revisao
+  '5:8':
+    texto: Essa persuasão não vem daquele que vos chama.
+    status: ia-sem-revisao
+  '5:9':
+    texto: Um pouco de fermento leveda toda a massa.
+    status: ia-sem-revisao
+  '5:10':
+    texto: Confio em vós, no Senhor, que não pensareis de outro modo; mas quem vos perturba carregará
+      a condenação, seja quem for.
+    status: ia-sem-revisao
+  '5:11':
+    texto: Quanto a mim, irmãos, se ainda prego a circuncisão, por que ainda sou perseguido? Então estaria
+      abolido o escândalo da cruz.
+    status: ia-sem-revisao
+  '5:12':
+    texto: Oxalá se mutilassem os que vos perturbam!
+    status: ia-sem-revisao
+  '5:13':
+    texto: Vós, irmãos, fostes chamados à liberdade; apenas não uses a liberdade como pretexto para a
+      carne, mas servi-vos uns aos outros pelo amor;
+    status: ia-sem-revisao
+  '5:14':
+    texto: 'Pois toda a Lei se cumpre numa só palavra: “Amarás o teu próximo como a ti mesmo.”'
+    status: ia-sem-revisao
+  '5:15':
+    texto: Mas, se vos mordeis e devorais uns aos outros, cuidai para não vos consumirdes uns aos outros.
+    status: ia-sem-revisao
+  '5:16':
+    texto: 'Digo, porém: andai pelo Espírito e não satisfareis os desejos da carne.'
+    status: ia-sem-revisao
+  '5:17':
+    texto: Pois a carne deseja contra o Espírito, e o Espírito contra a carne; estes se opõem um ao outro,
+      para que não façais o que quereis.
+    status: ia-sem-revisao
+  '5:18':
+    texto: Mas, se sois conduzidos pelo Espírito, não estais sob a Lei.
+    status: ia-sem-revisao
+  '5:19':
+    texto: 'São manifestas as obras da carne: imoralidade, impureza, libertinagem,'
+    status: ia-sem-revisao
+  '5:20':
+    texto: Idolatria, feitiçaria, inimizades, discórdia, ciúme, ira, rivalidades, divisões, facções,
+    status: ia-sem-revisao
+  '5:21':
+    texto: 'Invejas, bebedeiras, orgias e coisas semelhantes a estas, das quais vos previno, como já vos
+      preveni: os que praticam tais coisas não herdarão o Reino de Deus.'
+    status: ia-sem-revisao
+  '5:22':
+    texto: O fruto do Espírito, porém, é amor, alegria, paz, longanimidade, benignidade, bondade, fidelidade,
+    status: ia-sem-revisao
+  '5:23':
+    texto: Mansidão, domínio de si; contra tais coisas não há lei.
+    status: ia-sem-revisao
+  '5:24':
+    texto: Os que são de Cristo crucificaram a carne com as suas paixões e desejos.
+    status: ia-sem-revisao
+  '5:25':
+    texto: Se vivemos pelo Espírito, andemos também pelo Espírito.
+    status: ia-sem-revisao
+  '5:26':
+    texto: Não nos tornemos vaidosos, provocando-nos uns aos outros, invejando-nos uns aos outros.
+    status: ia-sem-revisao
+  '6:1':
+    texto: Irmãos, se alguém for surpreendido em alguma falta, vós que sois espirituais, corrigi-o com
+      espírito de mansidão, olhando para ti mesmo, para que também tu não sejas tentado.
+    status: ia-sem-revisao
+  '6:2':
+    texto: Carregai os fardos uns dos outros, e assim cumprireis a lei de Cristo.
+    status: ia-sem-revisao
+  '6:3':
+    texto: Pois, se alguém julga ser alguma coisa, não sendo nada, engana-se a si mesmo;
+    status: ia-sem-revisao
+  '6:4':
+    texto: Cada um examine a sua própria obra, e então terá motivo de glória somente em si mesmo, e não
+      em relação ao outro,
+    status: ia-sem-revisao
+  '6:5':
+    texto: Pois cada um carregará o seu próprio fardo.
+    status: ia-sem-revisao
+  '6:6':
+    texto: Quem é instruído na palavra partilhe todos os bens com quem o instrui.
+    status: ia-sem-revisao
+  '6:7':
+    texto: 'Não vos enganeis: de Deus não se zomba; pois o que o homem semear, isso também colherá.'
+    status: ia-sem-revisao
+  '6:8':
+    texto: Quem semeia para a sua carne, da carne colherá corrupção; quem semeia para o Espírito, do Espírito
+      colherá vida eterna.
+    status: ia-sem-revisao
+  '6:9':
+    texto: Não desanimemos de fazer o bem, pois, a seu tempo, colheremos, se não desfalecermos.
+    status: ia-sem-revisao
+  '6:10':
+    texto: Assim, enquanto temos tempo, façamos o bem a todos, mas sobretudo aos da família da fé.
+    status: ia-sem-revisao
+  '6:11':
+    texto: Vede com que letras grandes vos escrevi, de meu próprio punho.
+    status: ia-sem-revisao
+  '6:12':
+    texto: Todos os que querem fazer boa figura na carne, esses vos obrigam a circuncidar-vos, só para
+      não serem perseguidos pela cruz de Cristo;
+    status: ia-sem-revisao
+  '6:13':
+    texto: Pois nem os que se circuncidam guardam a Lei, mas querem que vos circuncideis para se gloriarem
+      na vossa carne.
+    status: ia-sem-revisao
+  '6:14':
+    texto: Quanto a mim, jamais me glorie, a não ser na cruz de nosso Senhor Jesus Cristo, pela qual o
+      mundo está crucificado para mim e eu para o mundo.
+    status: ia-sem-revisao
+  '6:15':
+    texto: Pois nem a circuncisão é coisa alguma, nem a incircuncisão, mas a nova criação.
+    status: ia-sem-revisao
+  '6:16':
+    texto: E a todos os que seguirem esta norma, paz e misericórdia sobre eles e sobre o Israel de Deus.
+    status: ia-sem-revisao
+  '6:17':
+    texto: Daqui em diante, ninguém me moleste, pois eu trago no meu corpo as marcas de Jesus.
+    status: ia-sem-revisao
+  '6:18':
+    texto: A graça de nosso Senhor Jesus Cristo esteja com o vosso espírito, irmãos. Amém.
+    status: ia-sem-revisao

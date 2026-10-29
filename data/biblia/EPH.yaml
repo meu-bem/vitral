@@ -1,0 +1,540 @@
+livro: EPH
+fonte: sblgnt
+versiculos:
+  '1:1':
+    texto: 'Paulo, apóstolo de Cristo Jesus por vontade de Deus, aos santos [que estão em Éfeso] e fiéis
+      em Cristo Jesus:'
+    status: ia-sem-revisao
+    observacao: O SBLGNT põe “em Éfeso” entre colchetes, pois os manuscritos mais antigos não o trazem;
+      a Nova Vulgata o traz.
+  '1:2':
+    texto: Graça e paz a vós da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.
+    status: ia-sem-revisao
+  '1:3':
+    texto: Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, que nos abençoou com toda bênção espiritual
+      nos céus, em Cristo,
+    status: ia-sem-revisao
+  '1:4':
+    texto: Assim como nos escolheu nele antes da fundação do mundo, para sermos santos e irrepreensíveis
+      diante dele, no amor,
+    status: ia-sem-revisao
+  '1:5':
+    texto: Predestinando-nos para a adoção filial por meio de Jesus Cristo, para ele, segundo o beneplácito
+      da sua vontade,
+    status: ia-sem-revisao
+  '1:6':
+    texto: Para louvor da glória da sua graça, com a qual nos agraciou no Amado,
+    status: ia-sem-revisao
+  '1:7':
+    texto: Nele temos a redenção pelo seu sangue, o perdão das transgressões, segundo a riqueza da sua
+      graça,
+    status: ia-sem-revisao
+  '1:8':
+    texto: Que fez superabundar em nós, com toda sabedoria e inteligência,
+    status: ia-sem-revisao
+  '1:9':
+    texto: Dando-nos a conhecer o mistério da sua vontade, segundo o seu beneplácito, que nele propôs
+    status: ia-sem-revisao
+  '1:10':
+    texto: 'Para a execução na plenitude dos tempos: reunir sob uma só cabeça, em Cristo, todas as coisas,
+      as que estão nos céus e as que estão na terra; nele,'
+    status: ia-sem-revisao
+  '1:11':
+    texto: Em quem também fomos feitos herança, predestinados segundo o desígnio daquele que realiza tudo
+      conforme o conselho da sua vontade,
+    status: ia-sem-revisao
+  '1:12':
+    texto: Para sermos louvor da sua glória, nós que de antemão esperamos em Cristo;
+    status: ia-sem-revisao
+  '1:13':
+    texto: Nele também vós, tendo ouvido a palavra da verdade, o Evangelho da vossa salvação, nele também,
+      tendo crido, fostes selados com o Espírito Santo da promessa,
+    status: ia-sem-revisao
+  '1:14':
+    texto: Que é o penhor da nossa herança, para a redenção do povo adquirido, para louvor da sua glória.
+    status: ia-sem-revisao
+  '1:15':
+    texto: Por isso também eu, tendo ouvido falar da fé que tendes no Senhor Jesus e do amor para com
+      todos os santos,
+    status: ia-sem-revisao
+  '1:16':
+    texto: Não cesso de dar graças por vós, fazendo memória de vós nas minhas orações,
+    status: ia-sem-revisao
+  '1:17':
+    texto: Para que o Deus de nosso Senhor Jesus Cristo, o Pai da glória, vos dê um espírito de sabedoria
+      e de revelação no conhecimento dele,
+    status: ia-sem-revisao
+  '1:18':
+    texto: Iluminados os olhos do vosso coração, para saberdes qual é a esperança da sua vocação, qual
+      a riqueza da glória da sua herança entre os santos,
+    status: ia-sem-revisao
+  '1:19':
+    texto: E qual a extraordinária grandeza do seu poder para conosco, os que cremos, segundo a ação da
+      força do seu poder
+    status: ia-sem-revisao
+  '1:20':
+    texto: Que ele exerceu em Cristo, ressuscitando-o dos mortos e fazendo-o sentar à sua direita nos
+      céus,
+    status: ia-sem-revisao
+  '1:21':
+    texto: Muito acima de todo principado, autoridade, poder e soberania, e de todo nome que se possa
+      nomear, não só neste século, mas também no futuro;
+    status: ia-sem-revisao
+  '1:22':
+    texto: E tudo submeteu debaixo dos seus pés, e o constituiu, acima de tudo, cabeça da Igreja,
+    status: ia-sem-revisao
+  '1:23':
+    texto: Que é o seu corpo, a plenitude daquele que plenifica tudo em todos.
+    status: ia-sem-revisao
+  '2:1':
+    texto: Também vós, que estáveis mortos pelas vossas transgressões e pecados,
+    status: ia-sem-revisao
+  '2:2':
+    texto: Nos quais outrora andastes segundo o curso deste mundo, segundo o príncipe do poder do ar,
+      o espírito que agora opera nos filhos da desobediência;
+    status: ia-sem-revisao
+  '2:3':
+    texto: Entre os quais todos nós também vivemos outrora nos desejos da nossa carne, fazendo as vontades
+      da carne e dos pensamentos, e éramos por natureza filhos da ira, como os demais.
+    status: ia-sem-revisao
+  '2:4':
+    texto: Mas Deus, que é rico em misericórdia, por causa do grande amor com que nos amou,
+    status: ia-sem-revisao
+  '2:5':
+    texto: Estando nós mortos pelas transgressões, deu-nos vida com Cristo — pela graça sois salvos —
+    status: ia-sem-revisao
+  '2:6':
+    texto: E nos ressuscitou com ele e nos fez sentar com ele nos céus, em Cristo Jesus,
+    status: ia-sem-revisao
+  '2:7':
+    texto: Para mostrar, nos séculos vindouros, a extraordinária riqueza da sua graça, em bondade para
+      conosco, em Cristo Jesus.
+    status: ia-sem-revisao
+  '2:8':
+    texto: Pois pela graça sois salvos, mediante a fé; e isto não vem de vós, é dom de Deus;
+    status: ia-sem-revisao
+  '2:9':
+    texto: Não vem das obras, para que ninguém se glorie.
+    status: ia-sem-revisao
+  '2:10':
+    texto: Pois somos obra sua, criados em Cristo Jesus para as boas obras que Deus de antemão preparou
+      para que nelas andemos.
+    status: ia-sem-revisao
+  '2:11':
+    texto: Por isso, lembrai-vos de que outrora vós, as nações na carne, chamados incircuncisão por aqueles
+      que se chamam circuncisão, feita na carne por mão de homem,
+    status: ia-sem-revisao
+  '2:12':
+    texto: Naquele tempo estáveis sem Cristo, excluídos da cidadania de Israel e estranhos às alianças
+      da promessa, sem esperança e sem Deus no mundo.
+    status: ia-sem-revisao
+  '2:13':
+    texto: Agora, porém, em Cristo Jesus, vós, que outrora estáveis longe, fostes aproximados pelo sangue
+      de Cristo.
+    status: ia-sem-revisao
+  '2:14':
+    texto: Pois ele é a nossa paz, ele que dos dois fez um só e derrubou o muro de separação, a inimizade,
+      em sua carne,
+    status: ia-sem-revisao
+  '2:15':
+    texto: Abolindo a Lei dos mandamentos com seus decretos, para criar em si mesmo, dos dois, um só homem
+      novo, fazendo a paz,
+    status: ia-sem-revisao
+  '2:16':
+    texto: E reconciliar ambos com Deus em um só corpo, por meio da cruz, tendo nela matado a inimizade.
+    status: ia-sem-revisao
+  '2:17':
+    texto: E, vindo, anunciou a paz a vós que estáveis longe e a paz aos que estavam perto;
+    status: ia-sem-revisao
+  '2:18':
+    texto: Porque por ele temos, os dois, acesso ao Pai em um só Espírito.
+    status: ia-sem-revisao
+  '2:19':
+    texto: Assim, já não sois estrangeiros nem forasteiros, mas concidadãos dos santos e membros da família
+      de Deus,
+    status: ia-sem-revisao
+  '2:20':
+    texto: Edificados sobre o fundamento dos apóstolos e profetas, sendo o próprio Cristo Jesus a pedra
+      angular,
+    status: ia-sem-revisao
+  '2:21':
+    texto: Nele todo o edifício, bem ajustado, cresce para ser templo santo no Senhor;
+    status: ia-sem-revisao
+  '2:22':
+    texto: Nele também vós sois edificados juntamente para morada de Deus, no Espírito.
+    status: ia-sem-revisao
+  '3:1':
+    texto: Por isso eu, Paulo, o prisioneiro de Cristo Jesus por vós, as nações —
+    status: ia-sem-revisao
+  '3:2':
+    texto: Se é que ouvistes falar da administração da graça de Deus que me foi dada para vós;
+    status: ia-sem-revisao
+  '3:3':
+    texto: Por revelação foi-me dado a conhecer o mistério, como atrás escrevi em poucas palavras,
+    status: ia-sem-revisao
+  '3:4':
+    texto: Pelas quais, lendo, podeis perceber a minha compreensão do mistério de Cristo,
+    status: ia-sem-revisao
+  '3:5':
+    texto: 'Que em outras gerações não foi dado a conhecer aos filhos dos homens, como agora foi revelado
+      aos seus santos apóstolos e profetas no Espírito:'
+    status: ia-sem-revisao
+  '3:6':
+    texto: Que as nações são co-herdeiras, membros do mesmo corpo e co-participantes da promessa em Cristo
+      Jesus, pelo Evangelho,
+    status: ia-sem-revisao
+  '3:7':
+    texto: Do qual me tornei ministro, segundo o dom da graça de Deus que me foi concedida, conforme a
+      ação do seu poder —
+    status: ia-sem-revisao
+  '3:8':
+    texto: A mim, o menor de todos os santos, foi dada esta graça — de anunciar às nações a insondável
+      riqueza de Cristo
+    status: ia-sem-revisao
+  '3:9':
+    texto: E de iluminar a todos sobre a dispensação do mistério escondido desde os séculos em Deus, que
+      criou todas as coisas,
+    status: ia-sem-revisao
+  '3:10':
+    texto: Para que agora seja dada a conhecer, às autoridades e aos poderes nos céus, por meio da Igreja,
+      a multiforme sabedoria de Deus,
+    status: ia-sem-revisao
+  '3:11':
+    texto: Segundo o desígnio eterno que realizou em Cristo Jesus, nosso Senhor,
+    status: ia-sem-revisao
+  '3:12':
+    texto: Em quem temos a ousadia e o acesso com confiança, pela fé nele.
+    status: ia-sem-revisao
+  '3:13':
+    texto: Por isso peço que não desanimeis por causa das minhas tribulações por vós, que são a vossa
+      glória.
+    status: ia-sem-revisao
+  '3:14':
+    texto: Por esta razão dobro os joelhos diante do Pai,
+    status: ia-sem-revisao
+  '3:15':
+    texto: De quem toda família nos céus e na terra recebe o nome,
+    status: ia-sem-revisao
+  '3:16':
+    texto: Para que ele vos conceda, segundo a riqueza da sua glória, serdes fortalecidos em poder pelo
+      seu Espírito no homem interior,
+    status: ia-sem-revisao
+  '3:17':
+    texto: Para que Cristo habite, pela fé, em vossos corações, enraizados e fundados no amor,
+    status: ia-sem-revisao
+  '3:18':
+    texto: A fim de serdes capazes de compreender, com todos os santos, qual é a largura, o comprimento,
+      a altura e a profundidade,
+    status: ia-sem-revisao
+  '3:19':
+    texto: E de conhecer o amor de Cristo que excede todo conhecimento, para serdes plenificados até toda
+      a plenitude de Deus.
+    status: ia-sem-revisao
+  '3:20':
+    texto: Àquele que, pelo poder que atua em nós, é capaz de fazer infinitamente mais do que pedimos
+      ou pensamos,
+    status: ia-sem-revisao
+  '3:21':
+    texto: A ele a glória na Igreja e em Cristo Jesus, por todas as gerações, pelos séculos dos séculos.
+      Amém.
+    status: ia-sem-revisao
+  '4:1':
+    texto: Exorto-vos, pois, eu, o prisioneiro no Senhor, a que andeis de modo digno da vocação a que
+      fostes chamados,
+    status: ia-sem-revisao
+  '4:2':
+    texto: Com toda humildade e mansidão, com longanimidade, suportando-vos uns aos outros no amor,
+    status: ia-sem-revisao
+  '4:3':
+    texto: 'Procurando guardar a unidade do Espírito pelo vínculo da paz:'
+    status: ia-sem-revisao
+  '4:4':
+    texto: Um só corpo e um só Espírito, como fostes chamados numa só esperança da vossa vocação;
+    status: ia-sem-revisao
+  '4:5':
+    texto: Um só Senhor, uma só fé, um só batismo;
+    status: ia-sem-revisao
+  '4:6':
+    texto: Um só Deus e Pai de todos, que está acima de todos, age por todos e está em todos.
+    status: ia-sem-revisao
+  '4:7':
+    texto: A cada um de nós foi dada a graça segundo a medida do dom de Cristo.
+    status: ia-sem-revisao
+  '4:8':
+    texto: 'Por isso diz: “Subindo às alturas, levou cativo um cativeiro, deu dons aos homens.”'
+    status: ia-sem-revisao
+  '4:9':
+    texto: Que significa “subiu”, senão que também desceu às regiões inferiores da terra?
+    status: ia-sem-revisao
+  '4:10':
+    texto: Aquele que desceu é o mesmo que subiu acima de todos os céus, para plenificar todas as coisas.
+    status: ia-sem-revisao
+  '4:11':
+    texto: E ele mesmo deu uns como apóstolos, outros como profetas, outros como evangelistas, outros
+      como pastores e mestres,
+    status: ia-sem-revisao
+  '4:12':
+    texto: Para o aperfeiçoamento dos santos, para a obra do ministério, para a edificação do corpo de
+      Cristo,
+    status: ia-sem-revisao
+  '4:13':
+    texto: Até que todos cheguemos à unidade da fé e do conhecimento do Filho de Deus, ao homem perfeito,
+      à medida da estatura da plenitude de Cristo,
+    status: ia-sem-revisao
+  '4:14':
+    texto: Para que não sejamos mais crianças, agitados e levados por todo vento de doutrina, pela astúcia
+      dos homens, pela esperteza que leva ao erro,
+    status: ia-sem-revisao
+  '4:15':
+    texto: Mas, vivendo a verdade no amor, cresçamos em tudo naquele que é a cabeça, Cristo,
+    status: ia-sem-revisao
+  '4:16':
+    texto: Do qual todo o corpo, bem ajustado e unido por todas as articulações, segundo a atividade correspondente
+      a cada parte, realiza o seu crescimento para a sua própria edificação no amor.
+    status: ia-sem-revisao
+  '4:17':
+    texto: 'Digo, pois, isto e atesto no Senhor: que não andeis mais como andam as nações, na vaidade
+      da sua mente,'
+    status: ia-sem-revisao
+  '4:18':
+    texto: Obscurecidos no entendimento, alheios à vida de Deus, por causa da ignorância que há neles,
+      por causa da dureza do seu coração;
+    status: ia-sem-revisao
+  '4:19':
+    texto: Os quais, tendo perdido toda sensibilidade, entregaram-se à libertinagem, para praticar com
+      avidez toda espécie de impureza.
+    status: ia-sem-revisao
+  '4:20':
+    texto: Vós, porém, não aprendestes assim a Cristo,
+    status: ia-sem-revisao
+  '4:21':
+    texto: Se é que o ouvistes e nele fostes instruídos, conforme é a verdade em Jesus,
+    status: ia-sem-revisao
+  '4:22':
+    texto: A despojar-vos, quanto à vida anterior, do homem velho, que se corrompe segundo os desejos
+      enganosos,
+    status: ia-sem-revisao
+  '4:23':
+    texto: A renovar-vos no espírito da vossa mente,
+    status: ia-sem-revisao
+  '4:24':
+    texto: E a revestir-vos do homem novo, criado segundo Deus na justiça e santidade da verdade.
+    status: ia-sem-revisao
+  '4:25':
+    texto: Por isso, deixando a mentira, falai a verdade cada um com o seu próximo, porque somos membros
+      uns dos outros.
+    status: ia-sem-revisao
+  '4:26':
+    texto: Irai-vos, mas não pequeis; não se ponha o sol sobre a vossa ira,
+    status: ia-sem-revisao
+  '4:27':
+    texto: E não deis lugar ao diabo.
+    status: ia-sem-revisao
+  '4:28':
+    texto: O que roubava não roube mais; antes, trabalhe, fazendo com as próprias mãos o bem, para ter
+      o que repartir com quem tem necessidade.
+    status: ia-sem-revisao
+  '4:29':
+    texto: Nenhuma palavra má saia da vossa boca, mas só a que for boa para a edificação, conforme a necessidade,
+      para que dê graça aos que a ouvem.
+    status: ia-sem-revisao
+  '4:30':
+    texto: E não entristeçais o Espírito Santo de Deus, no qual fostes selados para o dia da redenção.
+    status: ia-sem-revisao
+  '4:31':
+    texto: Toda amargura, indignação, ira, gritaria e blasfêmia sejam afastadas de vós, com toda malícia.
+    status: ia-sem-revisao
+  '4:32':
+    texto: Sede bondosos uns para com os outros, compassivos, perdoando-vos mutuamente, como também Deus
+      em Cristo vos perdoou.
+    status: ia-sem-revisao
+  '5:1':
+    texto: Sede, pois, imitadores de Deus, como filhos amados,
+    status: ia-sem-revisao
+  '5:2':
+    texto: E andai no amor, como também Cristo nos amou e se entregou por nós, como oferenda e sacrifício
+      a Deus, em odor suave.
+    status: ia-sem-revisao
+  '5:3':
+    texto: Quanto à imoralidade e a toda impureza ou avareza, nem sequer se mencionem entre vós, como
+      convém a santos;
+    status: ia-sem-revisao
+  '5:4':
+    texto: Nem obscenidade, conversa tola ou gracejos indecentes, que não convêm, mas antes ação de graças.
+    status: ia-sem-revisao
+  '5:5':
+    texto: 'Pois sabei bem isto: nenhum imoral, impuro ou avarento, que é idólatra, tem herança no Reino
+      de Cristo e de Deus.'
+    status: ia-sem-revisao
+  '5:6':
+    texto: Ninguém vos engane com palavras vãs, pois por causa destas coisas vem a ira de Deus sobre os
+      filhos da desobediência.
+    status: ia-sem-revisao
+  '5:7':
+    texto: Não sejais, pois, seus cúmplices;
+    status: ia-sem-revisao
+  '5:8':
+    texto: Pois outrora éreis trevas, mas agora sois luz no Senhor; andai como filhos da luz,
+    status: ia-sem-revisao
+  '5:9':
+    texto: Pois o fruto da luz consiste em toda bondade, justiça e verdade,
+    status: ia-sem-revisao
+  '5:10':
+    texto: Discernindo o que é agradável ao Senhor;
+    status: ia-sem-revisao
+  '5:11':
+    texto: E não tomeis parte nas obras infrutuosas das trevas, antes, denunciai-as,
+    status: ia-sem-revisao
+  '5:12':
+    texto: Pois o que eles fazem em segredo é vergonhoso até de se dizer;
+    status: ia-sem-revisao
+  '5:13':
+    texto: Mas tudo o que é denunciado pela luz torna-se manifesto,
+    status: ia-sem-revisao
+  '5:14':
+    texto: 'Pois tudo o que se torna manifesto é luz. Por isso diz: “Desperta, tu que dormes, levanta-te
+      dentre os mortos, e Cristo te iluminará.”'
+    status: ia-sem-revisao
+  '5:15':
+    texto: Vede, pois, com exatidão como andais, não como insensatos, mas como sábios,
+    status: ia-sem-revisao
+  '5:16':
+    texto: Aproveitando bem o tempo, porque os dias são maus.
+    status: ia-sem-revisao
+  '5:17':
+    texto: Por isso não sejais insensatos, mas compreendei qual é a vontade do Senhor.
+    status: ia-sem-revisao
+  '5:18':
+    texto: E não vos embriagueis com vinho, no qual há devassidão, mas enchei-vos do Espírito,
+    status: ia-sem-revisao
+  '5:19':
+    texto: Falando uns aos outros com salmos, hinos e cânticos espirituais, cantando e salmodiando de
+      coração ao Senhor,
+    status: ia-sem-revisao
+  '5:20':
+    texto: Dando graças sempre por tudo, em nome de nosso Senhor Jesus Cristo, a Deus Pai,
+    status: ia-sem-revisao
+  '5:21':
+    texto: Submetendo-vos uns aos outros no temor de Cristo.
+    status: ia-sem-revisao
+  '5:22':
+    texto: As mulheres, aos seus próprios maridos, como ao Senhor,
+    status: ia-sem-revisao
+  '5:23':
+    texto: Porque o marido é cabeça da mulher, como também Cristo é cabeça da Igreja, ele que é o salvador
+      do corpo.
+    status: ia-sem-revisao
+  '5:24':
+    texto: Mas, como a Igreja se submete a Cristo, assim também as mulheres aos maridos, em tudo.
+    status: ia-sem-revisao
+  '5:25':
+    texto: Maridos, amai as vossas mulheres, como também Cristo amou a Igreja e se entregou por ela,
+    status: ia-sem-revisao
+  '5:26':
+    texto: Para a santificar, purificando-a com o banho da água pela palavra,
+    status: ia-sem-revisao
+  '5:27':
+    texto: A fim de apresentar a si mesmo a Igreja gloriosa, sem mancha nem ruga nem coisa semelhante,
+      mas santa e imaculada.
+    status: ia-sem-revisao
+  '5:28':
+    texto: Assim devem também os maridos amar as suas mulheres como os seus próprios corpos; quem ama
+      a sua mulher ama a si mesmo,
+    status: ia-sem-revisao
+  '5:29':
+    texto: Pois ninguém jamais odiou a sua própria carne, mas a alimenta e cuida dela, como também Cristo
+      faz com a Igreja,
+    status: ia-sem-revisao
+  '5:30':
+    texto: Porque somos membros do seu corpo.
+    status: ia-sem-revisao
+  '5:31':
+    texto: “Por isso o homem deixará o pai e a mãe e se unirá à sua mulher, e os dois serão uma só carne.”
+    status: ia-sem-revisao
+  '5:32':
+    texto: Este mistério é grande; digo-o em relação a Cristo e à Igreja.
+    status: ia-sem-revisao
+  '5:33':
+    texto: Quanto a vós, cada um de vós ame a sua mulher como a si mesmo, e a mulher respeite o marido.
+    status: ia-sem-revisao
+  '6:1':
+    texto: Filhos, obedecei a vossos pais no Senhor, pois isto é justo.
+    status: ia-sem-revisao
+  '6:2':
+    texto: “Honra o teu pai e a tua mãe” — que é o primeiro mandamento com promessa —,
+    status: ia-sem-revisao
+  '6:3':
+    texto: “Para que te vá bem e vivas muito tempo sobre a terra.”
+    status: ia-sem-revisao
+  '6:4':
+    texto: E vós, pais, não provoqueis à ira os vossos filhos, mas criai-os na disciplina e na instrução
+      do Senhor.
+    status: ia-sem-revisao
+  '6:5':
+    texto: Escravos, obedecei aos vossos senhores segundo a carne, com temor e tremor, na simplicidade
+      do vosso coração, como a Cristo,
+    status: ia-sem-revisao
+  '6:6':
+    texto: Não servindo só quando sois vistos, como quem procura agradar aos homens, mas como servos de
+      Cristo, fazendo de coração a vontade de Deus,
+    status: ia-sem-revisao
+  '6:7':
+    texto: Servindo de boa vontade, como ao Senhor e não aos homens,
+    status: ia-sem-revisao
+  '6:8':
+    texto: Sabendo que cada um receberá do Senhor o bem que tiver feito, seja escravo, seja livre.
+    status: ia-sem-revisao
+  '6:9':
+    texto: E vós, senhores, fazei o mesmo para com eles, deixando as ameaças, sabendo que o Senhor deles
+      e vosso está nos céus, e que nele não há acepção de pessoas.
+    status: ia-sem-revisao
+  '6:10':
+    texto: Quanto ao mais, fortalecei-vos no Senhor e na força do seu poder.
+    status: ia-sem-revisao
+  '6:11':
+    texto: Revesti-vos da armadura de Deus, para poderdes resistir às ciladas do diabo;
+    status: ia-sem-revisao
+  '6:12':
+    texto: Pois a nossa luta não é contra o sangue e a carne, mas contra os principados, contra as autoridades,
+      contra os dominadores deste mundo de trevas, contra os espíritos do mal nas regiões celestes.
+    status: ia-sem-revisao
+  '6:13':
+    texto: Por isso, tomai a armadura de Deus, para poderdes resistir no dia mau e, tendo superado tudo,
+      permanecer de pé.
+    status: ia-sem-revisao
+  '6:14':
+    texto: Permanecei, pois, de pé, cingidos os vossos rins com a verdade, revestidos da couraça da justiça,
+    status: ia-sem-revisao
+  '6:15':
+    texto: E calçados os pés com a prontidão do Evangelho da paz;
+    status: ia-sem-revisao
+  '6:16':
+    texto: Em tudo, tomai o escudo da fé, com o qual podereis apagar todas as flechas inflamadas do Maligno;
+    status: ia-sem-revisao
+  '6:17':
+    texto: Tomai também o capacete da salvação e a espada do Espírito, que é a palavra de Deus,
+    status: ia-sem-revisao
+  '6:18':
+    texto: Com toda oração e súplica, orando em todo tempo no Espírito e vigiando nisto com toda perseverança
+      e súplica por todos os santos,
+    status: ia-sem-revisao
+  '6:19':
+    texto: E por mim, para que me seja dada a palavra ao abrir a minha boca, para anunciar com ousadia
+      o mistério do Evangelho,
+    status: ia-sem-revisao
+  '6:20':
+    texto: Pelo qual sou embaixador em cadeias, para que nele eu fale com ousadia como devo falar.
+    status: ia-sem-revisao
+  '6:21':
+    texto: Para que também vós saibais as minhas coisas, o que faço, tudo vos fará saber Tíquico, o irmão
+      amado e fiel ministro no Senhor,
+    status: ia-sem-revisao
+  '6:22':
+    texto: A quem vos enviei precisamente para que saibais as nossas coisas e ele console os vossos corações.
+    status: ia-sem-revisao
+  '6:23':
+    texto: Paz aos irmãos e amor com fé, da parte de Deus Pai e do Senhor Jesus Cristo.
+    status: ia-sem-revisao
+  '6:24':
+    texto: A graça esteja com todos os que amam a nosso Senhor Jesus Cristo com amor incorruptível.
+    status: ia-sem-revisao

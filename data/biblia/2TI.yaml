@@ -1,0 +1,294 @@
+livro: 2TI
+fonte: sblgnt
+versiculos:
+  '1:1':
+    texto: Paulo, apóstolo de Cristo Jesus por vontade de Deus, segundo a promessa da vida que há em Cristo
+      Jesus,
+    status: ia-sem-revisao
+  '1:2':
+    texto: 'A Timóteo, amado filho: graça, misericórdia e paz da parte de Deus Pai e de Cristo Jesus,
+      nosso Senhor.'
+    status: ia-sem-revisao
+  '1:3':
+    texto: Dou graças a Deus, a quem sirvo desde os meus antepassados com consciência pura, porque sem
+      cessar me lembro de ti nas minhas súplicas, noite e dia,
+    status: ia-sem-revisao
+  '1:4':
+    texto: Desejando ver-te, lembrando-me das tuas lágrimas, para ser cheio de alegria,
+    status: ia-sem-revisao
+  '1:5':
+    texto: Recordando a fé sem fingimento que há em ti, que habitou primeiro em tua avó Loide e em tua
+      mãe Eunice, e estou persuadido de que também em ti.
+    status: ia-sem-revisao
+  '1:6':
+    texto: Por isso te lembro que reavives o dom de Deus que há em ti pela imposição das minhas mãos;
+    status: ia-sem-revisao
+  '1:7':
+    texto: Pois Deus não nos deu um espírito de timidez, mas de poder, de amor e de sensatez.
+    status: ia-sem-revisao
+  '1:8':
+    texto: Não te envergonhes, pois, do testemunho de nosso Senhor, nem de mim, seu prisioneiro, mas sofre
+      comigo pelo Evangelho, segundo o poder de Deus,
+    status: ia-sem-revisao
+  '1:9':
+    texto: Que nos salvou e nos chamou com uma vocação santa, não segundo as nossas obras, mas segundo
+      o seu próprio desígnio e graça, que nos foi dada em Cristo Jesus antes dos tempos eternos,
+    status: ia-sem-revisao
+  '1:10':
+    texto: E agora foi manifestada pela aparição de nosso Salvador Jesus Cristo, que destruiu a morte
+      e fez resplandecer a vida e a incorruptibilidade pelo Evangelho,
+    status: ia-sem-revisao
+  '1:11':
+    texto: Para o qual fui constituído pregador, apóstolo e mestre.
+    status: ia-sem-revisao
+  '1:12':
+    texto: Por essa causa sofro também estas coisas, mas não me envergonho, pois sei em quem acreditei
+      e estou persuadido de que ele é poderoso para guardar o meu depósito até aquele dia.
+    status: ia-sem-revisao
+  '1:13':
+    texto: Tem por modelo as sãs palavras que de mim ouviste, na fé e no amor que há em Cristo Jesus;
+    status: ia-sem-revisao
+  '1:14':
+    texto: Guarda o bom depósito, pelo Espírito Santo que habita em nós.
+    status: ia-sem-revisao
+  '1:15':
+    texto: 'Sabes isto: todos os que estão na Ásia me abandonaram, entre os quais Fígelo e Hermógenes.'
+    status: ia-sem-revisao
+  '1:16':
+    texto: Conceda o Senhor misericórdia à casa de Onesíforo, porque muitas vezes me reconfortou e não
+      se envergonhou das minhas cadeias;
+    status: ia-sem-revisao
+  '1:17':
+    texto: Pelo contrário, quando esteve em Roma, procurou-me com empenho e me achou —
+    status: ia-sem-revisao
+  '1:18':
+    texto: Conceda-lhe o Senhor achar misericórdia junto ao Senhor naquele dia — e quanto serviu em Éfeso,
+      tu o sabes melhor.
+    status: ia-sem-revisao
+  '2:1':
+    texto: Tu, pois, meu filho, fortalece-te na graça que há em Cristo Jesus,
+    status: ia-sem-revisao
+  '2:2':
+    texto: E o que de mim ouviste diante de muitas testemunhas, confia-o a homens fiéis, que sejam capazes
+      de ensinar também a outros.
+    status: ia-sem-revisao
+  '2:3':
+    texto: Sofre comigo, como bom soldado de Cristo Jesus.
+    status: ia-sem-revisao
+  '2:4':
+    texto: Nenhum soldado em serviço se envolve nos negócios da vida civil, para agradar àquele que o
+      alistou;
+    status: ia-sem-revisao
+  '2:5':
+    texto: Também o atleta só é coroado se competir segundo as regras;
+    status: ia-sem-revisao
+  '2:6':
+    texto: O agricultor que trabalha deve ser o primeiro a participar dos frutos.
+    status: ia-sem-revisao
+  '2:7':
+    texto: Compreende o que digo; pois o Senhor te dará inteligência em tudo.
+    status: ia-sem-revisao
+  '2:8':
+    texto: Lembra-te de Jesus Cristo, ressuscitado dos mortos, da descendência de Davi, segundo o meu
+      Evangelho,
+    status: ia-sem-revisao
+  '2:9':
+    texto: Pelo qual sofro até as cadeias, como malfeitor; mas a palavra de Deus não está acorrentada.
+    status: ia-sem-revisao
+  '2:10':
+    texto: Por isso suporto tudo pelos eleitos, para que também eles alcancem a salvação que há em Cristo
+      Jesus, com glória eterna.
+    status: ia-sem-revisao
+  '2:11':
+    texto: 'Fiel é esta palavra: se morremos com ele, também com ele viveremos;'
+    status: ia-sem-revisao
+  '2:12':
+    texto: Se perseveramos, também com ele reinaremos; se o renegarmos, também ele nos renegará;
+    status: ia-sem-revisao
+  '2:13':
+    texto: Se somos infiéis, ele permanece fiel, pois não pode renegar-se a si mesmo.
+    status: ia-sem-revisao
+  '2:14':
+    texto: Lembra isto, conjurando diante do Senhor que não se discuta sobre palavras, o que não serve
+      para nada e leva à ruína os que ouvem.
+    status: ia-sem-revisao
+  '2:15':
+    texto: Esforça-te por te apresentares a Deus aprovado, como trabalhador que não tem de que se envergonhar,
+      que maneja retamente a palavra da verdade.
+    status: ia-sem-revisao
+  '2:16':
+    texto: Evita as conversas vãs e profanas; pois levam cada vez mais à impiedade,
+    status: ia-sem-revisao
+  '2:17':
+    texto: E a sua palavra corroerá como a gangrena. Entre eles estão Himeneu e Fileto,
+    status: ia-sem-revisao
+  '2:18':
+    texto: Que se desviaram da verdade, dizendo que a ressurreição já aconteceu, e transtornam a fé de
+      alguns.
+    status: ia-sem-revisao
+  '2:19':
+    texto: 'Contudo, o sólido fundamento de Deus permanece firme, tendo este selo: “O Senhor conhece os
+      que são seus” e: “Afaste-se da injustiça todo aquele que pronuncia o nome do Senhor.”'
+    status: ia-sem-revisao
+  '2:20':
+    texto: Numa casa grande não há somente vasos de ouro e de prata, mas também de madeira e de barro;
+      uns para uso nobre, outros para uso vil.
+    status: ia-sem-revisao
+  '2:21':
+    texto: Se alguém, pois, se purificar destas coisas, será vaso para uso nobre, santificado, útil ao
+      seu senhor, preparado para toda boa obra.
+    status: ia-sem-revisao
+  '2:22':
+    texto: Foge dos desejos da juventude, busca a justiça, a fé, o amor, a paz, com os que invocam o Senhor
+      com coração puro.
+    status: ia-sem-revisao
+  '2:23':
+    texto: Evita as questões insensatas e sem instrução, sabendo que geram contendas;
+    status: ia-sem-revisao
+  '2:24':
+    texto: Ora, o servo do Senhor não deve contender, mas ser amável com todos, apto para ensinar, paciente
+      no sofrimento,
+    status: ia-sem-revisao
+  '2:25':
+    texto: Corrigindo com mansidão os que se opõem, na esperança de que Deus lhes dê a conversão para
+      o conhecimento da verdade,
+    status: ia-sem-revisao
+  '2:26':
+    texto: E voltem à sensatez, livrando-se do laço do diabo, que os mantém cativos para fazerem a sua
+      vontade.
+    status: ia-sem-revisao
+  '3:1':
+    texto: 'Sabe isto: que nos últimos dias virão tempos difíceis.'
+    status: ia-sem-revisao
+  '3:2':
+    texto: Pois os homens serão egoístas, avarentos, jactanciosos, soberbos, blasfemos, rebeldes aos pais,
+      ingratos, ímpios,
+    status: ia-sem-revisao
+  '3:3':
+    texto: Sem afeto, implacáveis, caluniadores, intemperantes, cruéis, inimigos do bem,
+    status: ia-sem-revisao
+  '3:4':
+    texto: Traidores, temerários, enfatuados, mais amigos dos prazeres do que de Deus,
+    status: ia-sem-revisao
+  '3:5':
+    texto: Tendo aparência de piedade, mas negando o seu poder. Afasta-te também destes.
+    status: ia-sem-revisao
+  '3:6':
+    texto: Pois deles são os que se introduzem nas casas e cativam mulherzinhas carregadas de pecados,
+      levadas por desejos variados,
+    status: ia-sem-revisao
+  '3:7':
+    texto: Que estão sempre aprendendo e jamais podem chegar ao conhecimento da verdade.
+    status: ia-sem-revisao
+  '3:8':
+    texto: Assim como Janes e Jambres se opuseram a Moisés, assim também estes se opõem à verdade, homens
+      de mente corrompida, reprovados na fé.
+    status: ia-sem-revisao
+  '3:9':
+    texto: Mas não irão adiante, pois a sua insensatez será manifesta a todos, como foi a daqueles.
+    status: ia-sem-revisao
+  '3:10':
+    texto: Tu, porém, seguiste de perto o meu ensino, a minha conduta, o meu propósito, a minha fé, a
+      minha longanimidade, o meu amor, a minha perseverança,
+    status: ia-sem-revisao
+  '3:11':
+    texto: As minhas perseguições, os meus sofrimentos, os que me sobrevieram em Antioquia, em Icônio,
+      em Listra; que perseguições suportei! E de todas me livrou o Senhor.
+    status: ia-sem-revisao
+  '3:12':
+    texto: E todos os que querem viver piedosamente em Cristo Jesus serão perseguidos;
+    status: ia-sem-revisao
+  '3:13':
+    texto: Os homens maus e os enganadores irão de mal a pior, enganando e sendo enganados.
+    status: ia-sem-revisao
+  '3:14':
+    texto: Tu, porém, permanece naquilo que aprendeste e em que foste confirmado, sabendo de quem o aprendeste,
+    status: ia-sem-revisao
+  '3:15':
+    texto: E que desde a infância conheces as sagradas letras, que podem dar-te a sabedoria que conduz
+      à salvação pela fé em Cristo Jesus.
+    status: ia-sem-revisao
+  '3:16':
+    texto: Toda Escritura é inspirada por Deus e útil para ensinar, para repreender, para corrigir, para
+      educar na justiça,
+    status: ia-sem-revisao
+  '3:17':
+    texto: A fim de que o homem de Deus seja perfeito, preparado para toda boa obra.
+    status: ia-sem-revisao
+  '4:1':
+    texto: 'Conjuro-te diante de Deus e de Cristo Jesus, que há de julgar os vivos e os mortos, e por
+      sua manifestação e por seu Reino:'
+    status: ia-sem-revisao
+  '4:2':
+    texto: Proclama a palavra, insiste oportuna e inoportunamente, repreende, ameaça, exorta, com toda
+      longanimidade e doutrina.
+    status: ia-sem-revisao
+  '4:3':
+    texto: Pois virá um tempo em que não suportarão a sã doutrina, mas, segundo os seus próprios desejos,
+      acumularão para si mestres, por terem ouvidos que coçam,
+    status: ia-sem-revisao
+  '4:4':
+    texto: E desviarão os ouvidos da verdade e se voltarão para as fábulas.
+    status: ia-sem-revisao
+  '4:5':
+    texto: Tu, porém, sê sóbrio em tudo, suporta o sofrimento, faze o trabalho de evangelista, cumpre
+      o teu ministério.
+    status: ia-sem-revisao
+  '4:6':
+    texto: Quanto a mim, já estou sendo derramado em libação, e o tempo da minha partida é chegado.
+    status: ia-sem-revisao
+  '4:7':
+    texto: Combati o bom combate, terminei a corrida, guardei a fé.
+    status: ia-sem-revisao
+  '4:8':
+    texto: Resta-me a coroa da justiça, que o Senhor, o justo juiz, me dará naquele dia, e não somente
+      a mim, mas também a todos os que tiverem amado a sua manifestação.
+    status: ia-sem-revisao
+  '4:9':
+    texto: Procura vir ter comigo depressa,
+    status: ia-sem-revisao
+  '4:10':
+    texto: Pois Demas me abandonou, amando o presente século, e foi para Tessalônica; Crescente foi para
+      a Galácia, Tito para a Dalmácia;
+    status: ia-sem-revisao
+  '4:11':
+    texto: Só Lucas está comigo. Toma Marcos e traze-o contigo, pois me é útil para o ministério.
+    status: ia-sem-revisao
+  '4:12':
+    texto: Enviei Tíquico a Éfeso.
+    status: ia-sem-revisao
+  '4:13':
+    texto: A capa que deixei em Trôade, em casa de Carpo, quando vieres, traze-a, e os livros, sobretudo
+      os pergaminhos.
+    status: ia-sem-revisao
+  '4:14':
+    texto: Alexandre, o ferreiro, causou-me muitos males — o Senhor lhe retribuirá segundo as suas obras
+      —
+    status: ia-sem-revisao
+  '4:15':
+    texto: Também tu, guarda-te dele, pois se opôs muito às nossas palavras.
+    status: ia-sem-revisao
+  '4:16':
+    texto: Na minha primeira defesa ninguém me assistiu, mas todos me abandonaram — que isso não lhes
+      seja imputado —;
+    status: ia-sem-revisao
+  '4:17':
+    texto: Mas o Senhor esteve ao meu lado e me deu forças, para que por mim se cumprisse a pregação e
+      todas as nações a ouvissem; e fui libertado da boca do leão.
+    status: ia-sem-revisao
+  '4:18':
+    texto: O Senhor me livrará de toda obra má e me salvará para o seu Reino celeste; a ele a glória pelos
+      séculos dos séculos. Amém.
+    status: ia-sem-revisao
+  '4:19':
+    texto: Saúda Prisca e Áquila e a casa de Onesíforo.
+    status: ia-sem-revisao
+  '4:20':
+    texto: Erasto ficou em Corinto; deixei Trófimo doente em Mileto.
+    status: ia-sem-revisao
+  '4:21':
+    texto: Procura vir antes do inverno. Saúdam-te Êubulo, Prudente, Lino, Cláudia e todos os irmãos.
+    status: ia-sem-revisao
+  '4:22':
+    texto: O Senhor esteja com o teu espírito. A graça esteja convosco.
+    status: ia-sem-revisao
