@@ -1,0 +1,935 @@
+livro: 2CO
+fonte: sblgnt
+versiculos:
+  '1:1':
+    texto: 'Paulo, apóstolo de Cristo Jesus por vontade de Deus, e o irmão Timóteo, à Igreja de Deus que
+      está em Corinto, com todos os santos que estão em toda a Acaia:'
+    status: ia-sem-revisao
+  '1:2':
+    texto: Graça e paz a vós da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.
+    status: ia-sem-revisao
+  '1:3':
+    texto: Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e Deus de toda
+      consolação,
+    status: ia-sem-revisao
+  '1:4':
+    texto: Que nos consola em toda a nossa tribulação, para que possamos consolar os que estão em qualquer
+      tribulação, com a consolação com que nós mesmos somos consolados por Deus.
+    status: ia-sem-revisao
+  '1:5':
+    texto: Pois, assim como abundam em nós os sofrimentos de Cristo, assim, por Cristo, abunda também
+      a nossa consolação.
+    status: ia-sem-revisao
+  '1:6':
+    texto: Se somos atribulados, é para vossa consolação e salvação; se somos consolados, é para vossa
+      consolação, que se manifesta na perseverança nos mesmos sofrimentos que nós também padecemos,
+    status: ia-sem-revisao
+  '1:7':
+    texto: E a nossa esperança a vosso respeito é firme, sabendo que, como sois participantes dos sofrimentos,
+      assim o sois também da consolação.
+    status: ia-sem-revisao
+  '1:8':
+    texto: 'Não queremos, irmãos, que ignoreis a tribulação que nos sobreveio na Ásia: fomos excessivamente
+      oprimidos, acima das nossas forças, a ponto de desesperarmos até da vida;'
+    status: ia-sem-revisao
+  '1:9':
+    texto: Mas nós mesmos tínhamos em nós a sentença de morte, para que não confiássemos em nós mesmos,
+      mas em Deus, que ressuscita os mortos;
+    status: ia-sem-revisao
+  '1:10':
+    texto: Ele nos livrou de tão grande morte e nos livrará; nele pusemos a esperança de que ainda nos
+      livrará,
+    status: ia-sem-revisao
+  '1:11':
+    texto: Cooperando também vós a nosso favor com a oração, para que, pelo dom que nos foi concedido
+      por intercessão de muitos, muitos deem graças por nós.
+    status: ia-sem-revisao
+  '1:12':
+    texto: 'Pois a nossa glória é esta: o testemunho da nossa consciência, de que, com santidade e sinceridade
+      de Deus, não com sabedoria carnal, mas com a graça de Deus, nos comportamos no mundo, e mais ainda
+      convosco;'
+    status: ia-sem-revisao
+  '1:13':
+    texto: Pois não vos escrevemos outras coisas além das que lestes e reconheceis, e espero que as reconhecereis
+      até o fim,
+    status: ia-sem-revisao
+  '1:14':
+    texto: 'Como já em parte nos reconhecestes: que somos a vossa glória, como também vós sois a nossa,
+      no dia de nosso Senhor Jesus.'
+    status: ia-sem-revisao
+  '1:15':
+    texto: Com esta confiança, eu queria ir primeiro ter convosco, para que recebêsseis uma segunda graça,
+    status: ia-sem-revisao
+  '1:16':
+    texto: E passar por vós à Macedônia, e da Macedônia voltar a vós e ser por vós encaminhado para a
+      Judeia.
+    status: ia-sem-revisao
+  '1:17':
+    texto: Querendo isto, agi acaso com leviandade? Ou os meus projetos são projetos segundo a carne,
+      de modo que haja em mim o “Sim, sim” e o “Não, não”?
+    status: ia-sem-revisao
+  '1:18':
+    texto: 'Fiel é Deus: a nossa palavra para convosco não é “Sim” e “Não”.'
+    status: ia-sem-revisao
+  '1:19':
+    texto: Pois o Filho de Deus, Jesus Cristo, que foi pregado entre vós por nós, por mim, Silvano e Timóteo,
+      não foi “Sim” e “Não”, mas nele houve o “Sim”;
+    status: ia-sem-revisao
+  '1:20':
+    texto: Pois todas as promessas de Deus têm nele o “Sim”; por isso também por ele dizemos o “Amém”
+      a Deus, para a sua glória, por meio de nós.
+    status: ia-sem-revisao
+  '1:21':
+    texto: Aquele que nos confirma convosco em Cristo e nos ungiu é Deus,
+    status: ia-sem-revisao
+  '1:22':
+    texto: Que também nos selou e nos deu o penhor do Espírito em nossos corações.
+    status: ia-sem-revisao
+  '1:23':
+    texto: 'Eu invoco a Deus como testemunha sobre a minha alma: foi para vos poupar que não voltei a
+      Corinto.'
+    status: ia-sem-revisao
+  '1:24':
+    texto: Não que dominemos a vossa fé, mas somos colaboradores da vossa alegria, pois estais firmes
+      na fé.
+    status: ia-sem-revisao
+  '2:1':
+    texto: Resolvi, pois, comigo mesmo não ir de novo ter convosco em tristeza.
+    status: ia-sem-revisao
+  '2:2':
+    texto: Pois, se eu vos entristeço, quem me alegrará, senão aquele que foi entristecido por mim?
+    status: ia-sem-revisao
+  '2:3':
+    texto: E escrevi isto mesmo para que, ao chegar, não tenha tristeza da parte daqueles de quem devia
+      receber alegria, confiando em todos vós de que a minha alegria é a de todos vós.
+    status: ia-sem-revisao
+  '2:4':
+    texto: Escrevi-vos em grande aflição e angústia de coração, com muitas lágrimas, não para vos entristecer,
+      mas para que conheçais o amor que tenho, em especial, para convosco.
+    status: ia-sem-revisao
+  '2:5':
+    texto: Se alguém causou tristeza, não foi a mim que a causou, mas, em parte — para não exagerar —,
+      a todos vós.
+    status: ia-sem-revisao
+  '2:6':
+    texto: Basta a tal pessoa esta repreensão feita pela maioria,
+    status: ia-sem-revisao
+  '2:7':
+    texto: De modo que, ao contrário, deveis antes perdoar-lhe e consolá-lo, para que não seja tragado
+      por uma tristeza excessiva.
+    status: ia-sem-revisao
+  '2:8':
+    texto: Por isso vos peço que confirmeis para com ele o vosso amor;
+    status: ia-sem-revisao
+  '2:9':
+    texto: 'Foi para isso também que escrevi: para conhecer a vossa prova, se sois obedientes em tudo.'
+    status: ia-sem-revisao
+  '2:10':
+    texto: A quem perdoardes alguma coisa, eu também perdoo; e o que eu perdoei, se algo perdoei, foi
+      por vossa causa, na presença de Cristo,
+    status: ia-sem-revisao
+  '2:11':
+    texto: Para que não sejamos explorados por Satanás, pois não ignoramos os seus desígnios.
+    status: ia-sem-revisao
+  '2:12':
+    texto: Tendo chegado a Trôade para o Evangelho de Cristo, e abrindo-se-me uma porta no Senhor,
+    status: ia-sem-revisao
+  '2:13':
+    texto: Não tive descanso no meu espírito por não ter encontrado Tito, meu irmão; despedindo-me deles,
+      parti para a Macedônia.
+    status: ia-sem-revisao
+  '2:14':
+    texto: Graças a Deus, que sempre nos conduz em triunfo em Cristo e por meio de nós difunde em todo
+      lugar o perfume do seu conhecimento;
+    status: ia-sem-revisao
+  '2:15':
+    texto: 'Pois somos para Deus o bom perfume de Cristo, entre os que se salvam e entre os que se perdem:'
+    status: ia-sem-revisao
+  '2:16':
+    texto: Para uns, odor de morte para a morte; para outros, odor de vida para a vida. E quem é capaz
+      disso?
+    status: ia-sem-revisao
+  '2:17':
+    texto: Pois não somos como muitos que fazem comércio da palavra de Deus, mas falamos em Cristo, com
+      sinceridade, como da parte de Deus, diante de Deus.
+    status: ia-sem-revisao
+  '3:1':
+    texto: Começamos de novo a recomendar-nos a nós mesmos? Ou precisamos, como alguns, de cartas de recomendação
+      para vós ou de vós?
+    status: ia-sem-revisao
+  '3:2':
+    texto: Sois vós a nossa carta, escrita em nossos corações, conhecida e lida por todos os homens;
+    status: ia-sem-revisao
+  '3:3':
+    texto: Mostrais ser uma carta de Cristo, redigida por nosso ministério, escrita não com tinta, mas
+      com o Espírito do Deus vivo, não em tábuas de pedra, mas em tábuas de corações de carne.
+    status: ia-sem-revisao
+  '3:4':
+    texto: Tal confiança temos, por meio de Cristo, diante de Deus.
+    status: ia-sem-revisao
+  '3:5':
+    texto: Não que sejamos capazes por nós mesmos de pensar algo como vindo de nós, mas a nossa capacidade
+      vem de Deus,
+    status: ia-sem-revisao
+  '3:6':
+    texto: Que também nos tornou capazes de ser ministros de uma nova aliança, não da letra, mas do Espírito;
+      pois a letra mata, mas o Espírito dá vida.
+    status: ia-sem-revisao
+  '3:7':
+    texto: Se o ministério da morte, gravado em letras sobre pedras, veio com glória, de modo que os filhos
+      de Israel não podiam fixar o rosto de Moisés, por causa da glória do seu rosto, que era passageira,
+    status: ia-sem-revisao
+  '3:8':
+    texto: Como não será de maior glória o ministério do Espírito?
+    status: ia-sem-revisao
+  '3:9':
+    texto: Pois, se o ministério da condenação foi glória, muito mais abunda em glória o ministério da
+      justiça.
+    status: ia-sem-revisao
+  '3:10':
+    texto: Aquilo que foi glorificado, nesse aspecto já não foi glorificado, em comparação com a glória
+      que o excede;
+    status: ia-sem-revisao
+  '3:11':
+    texto: Pois, se o que era passageiro veio com glória, muito mais o que permanece está na glória.
+    status: ia-sem-revisao
+  '3:12':
+    texto: Tendo, pois, tal esperança, usamos de grande franqueza,
+    status: ia-sem-revisao
+  '3:13':
+    texto: E não como Moisés, que punha um véu sobre o rosto, para que os filhos de Israel não fixassem
+      o olhar no fim do que era passageiro.
+    status: ia-sem-revisao
+  '3:14':
+    texto: Mas o entendimento deles se endureceu. Pois até o dia de hoje o mesmo véu permanece, na leitura
+      da antiga aliança, sem ser retirado, porque é em Cristo que ele é removido;
+    status: ia-sem-revisao
+  '3:15':
+    texto: Até hoje, sempre que se lê Moisés, um véu está posto sobre o coração deles;
+    status: ia-sem-revisao
+  '3:16':
+    texto: Mas, quando se converterem ao Senhor, o véu será retirado.
+    status: ia-sem-revisao
+  '3:17':
+    texto: O Senhor é o Espírito; e onde está o Espírito do Senhor, aí há liberdade.
+    status: ia-sem-revisao
+  '3:18':
+    texto: E todos nós, com o rosto descoberto, contemplando como em espelho a glória do Senhor, somos
+      transformados na mesma imagem, de glória em glória, como pelo Senhor, que é Espírito.
+    status: ia-sem-revisao
+  '4:1':
+    texto: Por isso, tendo este ministério, conforme a misericórdia que nos foi feita, não desanimamos,
+    status: ia-sem-revisao
+  '4:2':
+    texto: Mas renunciamos às práticas ocultas e vergonhosas, não procedendo com astúcia nem falsificando
+      a palavra de Deus, mas, pela manifestação da verdade, recomendando-nos a toda consciência humana
+      diante de Deus.
+    status: ia-sem-revisao
+  '4:3':
+    texto: E, se o nosso Evangelho está encoberto, está encoberto para os que se perdem,
+    status: ia-sem-revisao
+  '4:4':
+    texto: Nos quais o deus deste mundo cegou o entendimento dos incrédulos, para que não vejam brilhar
+      a luz do Evangelho da glória de Cristo, que é imagem de Deus.
+    status: ia-sem-revisao
+  '4:5':
+    texto: Pois não nos pregamos a nós mesmos, mas a Cristo Jesus como Senhor, e a nós mesmos como vossos
+      servos por causa de Jesus.
+    status: ia-sem-revisao
+  '4:6':
+    texto: 'Porque o Deus que disse: “Das trevas brilhará a luz”, é o que brilhou em nossos corações,
+      para iluminação do conhecimento da glória de Deus no rosto de Cristo.'
+    status: ia-sem-revisao
+  '4:7':
+    texto: 'Temos, porém, este tesouro em vasos de barro, para que a extraordinária grandeza do poder
+      seja de Deus e não nossa:'
+    status: ia-sem-revisao
+  '4:8':
+    texto: Em tudo atribulados, mas não angustiados; perplexos, mas não desesperados;
+    status: ia-sem-revisao
+  '4:9':
+    texto: Perseguidos, mas não abandonados; abatidos, mas não destruídos;
+    status: ia-sem-revisao
+  '4:10':
+    texto: Trazendo sempre no corpo a morte de Jesus, para que também a vida de Jesus se manifeste no
+      nosso corpo.
+    status: ia-sem-revisao
+  '4:11':
+    texto: Pois nós, que vivemos, somos continuamente entregues à morte por causa de Jesus, para que também
+      a vida de Jesus se manifeste na nossa carne mortal.
+    status: ia-sem-revisao
+  '4:12':
+    texto: De modo que a morte atua em nós, e a vida em vós.
+    status: ia-sem-revisao
+  '4:13':
+    texto: 'Tendo o mesmo espírito de fé, segundo o que está escrito: “Acreditei, por isso falei”, também
+      nós cremos, e por isso falamos,'
+    status: ia-sem-revisao
+  '4:14':
+    texto: Sabendo que aquele que ressuscitou Jesus também nos ressuscitará com Jesus e nos apresentará
+      convosco.
+    status: ia-sem-revisao
+  '4:15':
+    texto: Pois tudo é por vossa causa, para que a graça, multiplicada em muitos, faça abundar a ação
+      de graças para a glória de Deus.
+    status: ia-sem-revisao
+  '4:16':
+    texto: Por isso não desanimamos; mas, ainda que o nosso homem exterior se vá destruindo, o nosso homem
+      interior se renova de dia para dia.
+    status: ia-sem-revisao
+  '4:17':
+    texto: Pois a leve tribulação de um momento produz em nós, de modo incomparável, um peso eterno de
+      glória,
+    status: ia-sem-revisao
+  '4:18':
+    texto: Não olhando nós para as coisas que se veem, mas para as que não se veem; pois as coisas que
+      se veem são passageiras, mas as que não se veem são eternas.
+    status: ia-sem-revisao
+  '5:1':
+    texto: Sabemos, com efeito, que, se a nossa morada terrestre, esta tenda, for destruída, temos de
+      Deus um edifício, uma casa não feita por mãos, eterna, nos céus.
+    status: ia-sem-revisao
+  '5:2':
+    texto: E, de fato, nesta tenda gememos, desejando ardentemente revestir-nos da nossa habitação celeste,
+    status: ia-sem-revisao
+  '5:3':
+    texto: Se é que, revestidos dela, não seremos achados nus.
+    status: ia-sem-revisao
+  '5:4':
+    texto: Pois nós, que estamos nesta tenda, gememos oprimidos, não porque queremos ser despojados, mas
+      revestidos, para que o que é mortal seja absorvido pela vida.
+    status: ia-sem-revisao
+  '5:5':
+    texto: E aquele que nos preparou para isso mesmo é Deus, que nos deu o penhor do Espírito.
+    status: ia-sem-revisao
+  '5:6':
+    texto: Estamos, pois, sempre confiantes, sabendo que, enquanto habitamos no corpo, estamos ausentes
+      do Senhor,
+    status: ia-sem-revisao
+  '5:7':
+    texto: Pois caminhamos pela fé, não pela visão —
+    status: ia-sem-revisao
+  '5:8':
+    texto: Estamos confiantes e preferimos ausentar-nos do corpo e habitar junto do Senhor.
+    status: ia-sem-revisao
+  '5:9':
+    texto: Por isso nos esforçamos também, quer habitando no corpo quer ausentes dele, por lhe ser agradáveis.
+    status: ia-sem-revisao
+  '5:10':
+    texto: Pois todos nós devemos comparecer diante do tribunal de Cristo, para que cada um receba o que
+      mereceu pelo que fez por meio do corpo, seja bem, seja mal.
+    status: ia-sem-revisao
+  '5:11':
+    texto: Conhecendo, pois, o temor do Senhor, procuramos persuadir os homens, mas a Deus estamos manifestos;
+      e espero que também o estejamos nas vossas consciências.
+    status: ia-sem-revisao
+  '5:12':
+    texto: Não nos recomendamos de novo a vós, mas damos-vos ocasião de vos gloriardes a nosso respeito,
+      para que tenhais o que responder aos que se gloriam das aparências e não do coração.
+    status: ia-sem-revisao
+  '5:13':
+    texto: Se estamos fora de nós, é para Deus; se estamos em nosso juízo, é para vós.
+    status: ia-sem-revisao
+  '5:14':
+    texto: Pois o amor de Cristo nos constrange, ao pensarmos que um só morreu por todos; logo, todos
+      morreram;
+    status: ia-sem-revisao
+  '5:15':
+    texto: E morreu por todos, para que os que vivem não vivam mais para si mesmos, mas para aquele que
+      por eles morreu e ressuscitou.
+    status: ia-sem-revisao
+  '5:16':
+    texto: Assim, de agora em diante, não conhecemos ninguém segundo a carne; e, se conhecemos Cristo
+      segundo a carne, já não o conhecemos assim.
+    status: ia-sem-revisao
+  '5:17':
+    texto: 'Portanto, se alguém está em Cristo, é nova criatura: as coisas antigas passaram; eis que surgiram
+      coisas novas.'
+    status: ia-sem-revisao
+  '5:18':
+    texto: Tudo isto vem de Deus, que nos reconciliou consigo por Cristo e nos deu o ministério da reconciliação,
+    status: ia-sem-revisao
+  '5:19':
+    texto: Isto é, que Deus estava em Cristo reconciliando o mundo consigo, não levando em conta as transgressões
+      dos homens, e pôs em nós a palavra da reconciliação.
+    status: ia-sem-revisao
+  '5:20':
+    texto: 'Somos, pois, embaixadores em nome de Cristo, como se Deus exortasse por meio de nós; em nome
+      de Cristo vos suplicamos: reconciliai-vos com Deus.'
+    status: ia-sem-revisao
+  '5:21':
+    texto: Aquele que não conheceu pecado, Deus o fez pecado por nós, para que nele nos tornássemos justiça
+      de Deus.
+    status: ia-sem-revisao
+  '6:1':
+    texto: Como colaboradores, exortamo-vos também a que não recebais em vão a graça de Deus;
+    status: ia-sem-revisao
+  '6:2':
+    texto: 'Pois ele diz: “No tempo favorável te ouvi, e no dia da salvação te socorri.” Eis agora o tempo
+      favorável, eis agora o dia da salvação!'
+    status: ia-sem-revisao
+  '6:3':
+    texto: Não damos a ninguém nenhum motivo de escândalo, para que o ministério não seja desacreditado,
+    status: ia-sem-revisao
+  '6:4':
+    texto: 'Mas em tudo nos recomendamos como ministros de Deus: com muita perseverança nas tribulações,
+      nas necessidades, nas angústias,'
+    status: ia-sem-revisao
+  '6:5':
+    texto: Nos açoites, nas prisões, nos tumultos, nas fadigas, nas vigílias, nos jejuns,
+    status: ia-sem-revisao
+  '6:6':
+    texto: Na pureza, no conhecimento, na longanimidade, na bondade, no Espírito Santo, no amor sem fingimento,
+    status: ia-sem-revisao
+  '6:7':
+    texto: Na palavra da verdade, no poder de Deus; com as armas da justiça, à direita e à esquerda,
+    status: ia-sem-revisao
+  '6:8':
+    texto: Na glória e na desonra, na má fama e na boa fama; como enganadores, e no entanto verdadeiros,
+    status: ia-sem-revisao
+  '6:9':
+    texto: Como desconhecidos, e no entanto bem conhecidos; como moribundos, e eis que vivemos; como castigados,
+      e não mortos;
+    status: ia-sem-revisao
+  '6:10':
+    texto: Como tristes, mas sempre alegres; como pobres, mas enriquecendo a muitos; como quem nada tem,
+      mas possui tudo.
+    status: ia-sem-revisao
+  '6:11':
+    texto: A nossa boca está aberta para vós, coríntios, o nosso coração se dilatou.
+    status: ia-sem-revisao
+  '6:12':
+    texto: Não estais estreitos em nós, mas estais estreitos nas vossas entranhas;
+    status: ia-sem-revisao
+  '6:13':
+    texto: Em recompensa — falo-vos como a filhos —, dilatai-vos também vós.
+    status: ia-sem-revisao
+  '6:14':
+    texto: Não vos coloqueis sob o mesmo jugo com os incrédulos; pois que participação há entre a justiça
+      e a iniquidade, ou que comunhão entre a luz e as trevas?
+    status: ia-sem-revisao
+  '6:15':
+    texto: Que harmonia entre Cristo e Belial, ou que parte tem o fiel com o infiel?
+    status: ia-sem-revisao
+  '6:16':
+    texto: 'Que acordo entre o templo de Deus e os ídolos? Pois nós somos templo do Deus vivo, como disse
+      Deus: “Habitarei no meio deles e andarei entre eles, serei o seu Deus, e eles serão o meu povo.'
+    status: ia-sem-revisao
+  '6:17':
+    texto: Por isso, saí do meio deles e separai-vos, diz o Senhor, e não toqueis o impuro; e eu vos acolherei.
+    status: ia-sem-revisao
+  '6:18':
+    texto: E serei para vós um pai, e vós sereis para mim filhos e filhas, diz o Senhor todo-poderoso.”
+    status: ia-sem-revisao
+  '7:1':
+    texto: Tendo, pois, estas promessas, amados, purifiquemo-nos de toda mancha da carne e do espírito,
+      levando à perfeição a santidade no temor de Deus.
+    status: ia-sem-revisao
+  '7:2':
+    texto: Acolhei-nos. A ninguém prejudicamos, a ninguém corrompemos, a ninguém exploramos.
+    status: ia-sem-revisao
+  '7:3':
+    texto: Não digo isto para condenar, pois já disse que estais em nossos corações para morrer juntos
+      e viver juntos.
+    status: ia-sem-revisao
+  '7:4':
+    texto: Grande é a minha franqueza para convosco, grande é o meu orgulho por vós; estou cheio de consolação,
+      transbordo de alegria em toda a nossa tribulação.
+    status: ia-sem-revisao
+  '7:5':
+    texto: Com efeito, ao chegarmos à Macedônia, a nossa carne não teve nenhum alívio, mas em tudo fomos
+      atribulados — por fora, lutas; por dentro, temores —;
+    status: ia-sem-revisao
+  '7:6':
+    texto: Mas aquele que consola os humildes, Deus, consolou-nos com a vinda de Tito,
+    status: ia-sem-revisao
+  '7:7':
+    texto: E não só com a sua vinda, mas também com a consolação que ele recebeu de vós, ao nos contar
+      o vosso desejo, o vosso pranto, o vosso zelo por mim, de modo que me alegrei ainda mais.
+    status: ia-sem-revisao
+  '7:8':
+    texto: Pois, ainda que vos tenha entristecido com a carta, não me arrependo; e, se me arrependia (vejo
+      que aquela carta, ainda que por pouco tempo, vos entristeceu),
+    status: ia-sem-revisao
+  '7:9':
+    texto: Agora me alegro, não porque fostes entristecidos, mas porque fostes entristecidos para a conversão;
+      pois fostes entristecidos segundo Deus, para que em nada sofrêsseis dano da nossa parte.
+    status: ia-sem-revisao
+  '7:10':
+    texto: Pois a tristeza segundo Deus produz uma conversão para a salvação, da qual não há que se arrepender;
+      a tristeza do mundo, porém, produz a morte.
+    status: ia-sem-revisao
+  '7:11':
+    texto: 'Vede, pois, quanto zelo produziu em vós esta mesma tristeza segundo Deus: que defesa, que
+      indignação, que temor, que desejo, que zelo, que castigo! Em tudo vos mostrastes puros neste caso.'
+    status: ia-sem-revisao
+  '7:12':
+    texto: Assim, se vos escrevi, não foi por causa do que cometeu a injustiça, nem por causa do que a
+      sofreu, mas para que se manifestasse a vós a vossa solicitude por nós diante de Deus.
+    status: ia-sem-revisao
+  '7:13':
+    texto: Por isso fomos consolados. Em nossa consolação, alegramo-nos ainda mais com a alegria de Tito,
+      porque o seu espírito foi tranquilizado por todos vós;
+    status: ia-sem-revisao
+  '7:14':
+    texto: Pois, se em algo me gloriei de vós diante dele, não fiquei envergonhado; mas, assim como vos
+      dissemos tudo com verdade, também o nosso elogio diante de Tito se mostrou verdadeiro.
+    status: ia-sem-revisao
+  '7:15':
+    texto: E o seu afeto por vós é ainda maior, quando recorda a obediência de todos vós, como o recebestes
+      com temor e tremor.
+    status: ia-sem-revisao
+  '7:16':
+    texto: Alegro-me por poder confiar em vós em tudo.
+    status: ia-sem-revisao
+  '8:1':
+    texto: Damos-vos a conhecer, irmãos, a graça de Deus concedida às Igrejas da Macedônia,
+    status: ia-sem-revisao
+  '8:2':
+    texto: Pois, numa grande prova de tribulação, a abundância da sua alegria e a sua extrema pobreza
+      transbordaram em riqueza da sua generosidade;
+    status: ia-sem-revisao
+  '8:3':
+    texto: Pois, testemunho eu, segundo as suas posses, e até acima das suas posses, por iniciativa própria,
+    status: ia-sem-revisao
+  '8:4':
+    texto: Com muita insistência nos pediam a graça de participar no serviço em favor dos santos —
+    status: ia-sem-revisao
+  '8:5':
+    texto: E não como esperávamos, mas deram-se a si mesmos primeiro ao Senhor e depois a nós, pela vontade
+      de Deus,
+    status: ia-sem-revisao
+  '8:6':
+    texto: De modo que exortamos Tito a que, assim como começou, leve também a termo entre vós esta obra
+      de graça.
+    status: ia-sem-revisao
+  '8:7':
+    texto: Mas, assim como abundais em tudo, na fé, na palavra, no conhecimento, em toda a solicitude
+      e no amor que de nós recebestes, abundai também nesta obra de graça.
+    status: ia-sem-revisao
+  '8:8':
+    texto: Não o digo como ordem, mas, pela solicitude dos outros, pondo à prova também a sinceridade
+      do vosso amor;
+    status: ia-sem-revisao
+  '8:9':
+    texto: Pois conheceis a graça de nosso Senhor Jesus Cristo, que, sendo rico, por vossa causa se fez
+      pobre, para que vós, pela sua pobreza, vos tornásseis ricos.
+    status: ia-sem-revisao
+  '8:10':
+    texto: 'Dou nisto um parecer, pois isto vos convém, a vós que desde o ano passado começastes não só
+      a fazer, mas também a querer:'
+    status: ia-sem-revisao
+  '8:11':
+    texto: Agora levai também a termo o fazer, para que, assim como houve a prontidão do querer, haja
+      também a do concluir, segundo as vossas posses.
+    status: ia-sem-revisao
+  '8:12':
+    texto: Pois, se há a prontidão, é aceita conforme o que se tem, não conforme o que não se tem.
+    status: ia-sem-revisao
+  '8:13':
+    texto: Pois não se trata de aliviar os outros e sobrecarregar a vós, mas de igualdade;
+    status: ia-sem-revisao
+  '8:14':
+    texto: No tempo presente, o vosso supérfluo supra a necessidade deles, para que também o supérfluo
+      deles supra a vossa necessidade, e assim haja igualdade,
+    status: ia-sem-revisao
+  '8:15':
+    texto: 'Como está escrito: “Quem muito recolheu não teve excesso, e quem pouco, não teve falta.”'
+    status: ia-sem-revisao
+  '8:16':
+    texto: Graças a Deus, que põe no coração de Tito a mesma solicitude por vós,
+    status: ia-sem-revisao
+  '8:17':
+    texto: Pois ele acolheu o pedido e, sendo muito solícito, partiu para vós por iniciativa própria.
+    status: ia-sem-revisao
+  '8:18':
+    texto: Enviamos com ele o irmão cujo louvor, no Evangelho, se estende por todas as Igrejas —
+    status: ia-sem-revisao
+  '8:19':
+    texto: E não só isso, mas foi também designado pelas Igrejas como nosso companheiro de viagem nesta
+      obra de graça que administramos para a glória do próprio Senhor e para mostrar a nossa boa vontade
+      —
+    status: ia-sem-revisao
+  '8:20':
+    texto: Evitando que alguém nos censure por esta abundância que administramos,
+    status: ia-sem-revisao
+  '8:21':
+    texto: Pois nos preocupamos com o bem, não só diante do Senhor, mas também diante dos homens.
+    status: ia-sem-revisao
+  '8:22':
+    texto: Enviamos com eles o nosso irmão, que muitas vezes e em muitas coisas provamos ser solícito,
+      e agora muito mais, pela grande confiança que tem em vós.
+    status: ia-sem-revisao
+  '8:23':
+    texto: Quanto a Tito, é meu companheiro e colaborador para convosco; quanto aos nossos irmãos, são
+      enviados das Igrejas, glória de Cristo.
+    status: ia-sem-revisao
+  '8:24':
+    texto: Dai-lhes, pois, diante das Igrejas, a prova do vosso amor e do motivo de nossa glória por vós.
+    status: ia-sem-revisao
+  '9:1':
+    texto: Quanto ao serviço em favor dos santos, é supérfluo escrever-vos,
+    status: ia-sem-revisao
+  '9:2':
+    texto: Pois conheço a vossa boa vontade, de que me glorio por vós diante dos macedônios, dizendo que
+      a Acaia está preparada desde o ano passado; e o vosso zelo estimulou a maioria.
+    status: ia-sem-revisao
+  '9:3':
+    texto: Enviei os irmãos para que a nossa glória a vosso respeito não fique vazia neste ponto, para
+      que, como eu dizia, estejais preparados,
+    status: ia-sem-revisao
+  '9:4':
+    texto: Não suceda que, se vierem comigo macedônios e vos encontrarem despreparados, fiquemos envergonhados
+      nós — para não dizer vós — neste empreendimento.
+    status: ia-sem-revisao
+  '9:5':
+    texto: Julguei, pois, necessário rogar aos irmãos que fossem antes a vós e preparassem de antemão
+      a vossa dádiva já prometida, para que esteja pronta como dádiva, e não como avareza.
+    status: ia-sem-revisao
+  '9:6':
+    texto: 'Lembrai-vos: quem semeia com mesquinhez também colherá com mesquinhez, e quem semeia com generosidade
+      também colherá com generosidade.'
+    status: ia-sem-revisao
+  '9:7':
+    texto: Cada um dê conforme decidiu em seu coração, não com tristeza nem por obrigação; pois Deus ama
+      quem dá com alegria.
+    status: ia-sem-revisao
+  '9:8':
+    texto: Deus tem poder para fazer abundar em vós toda graça, para que, tendo sempre e em tudo o suficiente,
+      tenhais abundância para toda boa obra;
+    status: ia-sem-revisao
+  '9:9':
+    texto: '(Como está escrito: “Espalhou, deu aos pobres; a sua justiça permanece para sempre.”'
+    status: ia-sem-revisao
+  '9:10':
+    texto: Aquele que fornece semente ao semeador e pão para comer também fornecerá e multiplicará a vossa
+      semente e fará crescer os frutos da vossa justiça.)
+    status: ia-sem-revisao
+  '9:11':
+    texto: Em tudo enriquecidos para toda generosidade, que por nosso meio produz ação de graças a Deus
+      —
+    status: ia-sem-revisao
+  '9:12':
+    texto: Porque o serviço desta obra sagrada não só supre as necessidades dos santos, mas também transborda
+      em muitas ações de graças a Deus —
+    status: ia-sem-revisao
+  '9:13':
+    texto: Pela comprovação deste serviço, glorificam a Deus pela obediência da vossa profissão de fé
+      no Evangelho de Cristo e pela generosidade da vossa comunhão com eles e com todos,
+    status: ia-sem-revisao
+  '9:14':
+    texto: E, na sua oração por vós, têm saudades de vós, por causa da graça extraordinária que Deus vos
+      concedeu.
+    status: ia-sem-revisao
+  '9:15':
+    texto: Graças a Deus pelo seu dom inefável!
+    status: ia-sem-revisao
+  '10:1':
+    texto: Eu mesmo, Paulo, vos exorto pela mansidão e clemência de Cristo — eu, tão humilde quando estou
+      face a face entre vós, mas ousado para convosco quando ausente —;
+    status: ia-sem-revisao
+  '10:2':
+    texto: Peço-vos que, quando estiver presente, não precise usar de ousadia com a confiança com que
+      penso agir contra alguns que nos julgam como se andássemos segundo a carne.
+    status: ia-sem-revisao
+  '10:3':
+    texto: Pois, embora vivamos na carne, não combatemos segundo a carne —
+    status: ia-sem-revisao
+  '10:4':
+    texto: As armas do nosso combate não são carnais, mas poderosas em Deus para destruir fortalezas —
+      derrubando raciocínios
+    status: ia-sem-revisao
+  '10:5':
+    texto: E toda altivez que se levanta contra o conhecimento de Deus, e levando cativo todo pensamento
+      à obediência de Cristo,
+    status: ia-sem-revisao
+  '10:6':
+    texto: E estando prontos para punir toda desobediência, quando a vossa obediência for completa.
+    status: ia-sem-revisao
+  '10:7':
+    texto: Vedes as coisas pela aparência. Se alguém está persuadido de pertencer a Cristo, considere
+      de novo consigo mesmo que, assim como ele pertence a Cristo, também nós.
+    status: ia-sem-revisao
+  '10:8':
+    texto: Pois, mesmo que eu me glorie um pouco mais da nossa autoridade, que o Senhor nos deu para vossa
+      edificação e não para vossa destruição, não me envergonharei,
+    status: ia-sem-revisao
+  '10:9':
+    texto: Para que não pareça que quero intimidar-vos por meio de cartas;
+    status: ia-sem-revisao
+  '10:10':
+    texto: 'Pois dizem: “As cartas são severas e fortes, mas a presença física é fraca e a palavra desprezível.”'
+    status: ia-sem-revisao
+  '10:11':
+    texto: 'Tal pessoa considere isto: o que somos em palavra, por carta, quando ausentes, tais seremos
+      também em ação, quando presentes.'
+    status: ia-sem-revisao
+  '10:12':
+    texto: Pois não ousamos igualar-nos ou comparar-nos com alguns dos que se recomendam a si mesmos;
+      mas eles, medindo-se por si mesmos e comparando-se consigo mesmos, não entendem.
+    status: ia-sem-revisao
+  '10:13':
+    texto: Nós, porém, não nos gloriaremos desmedidamente, mas segundo a medida da esfera que Deus nos
+      distribuiu como medida, para chegarmos até vós —
+    status: ia-sem-revisao
+  '10:14':
+    texto: Pois não nos estendemos demais, como se não chegássemos até vós; de fato, chegamos até vós
+      com o Evangelho de Cristo —
+    status: ia-sem-revisao
+  '10:15':
+    texto: Sem nos gloriarmos desmedidamente em trabalhos alheios, mas esperando que, crescendo a vossa
+      fé, sejamos engrandecidos entre vós, segundo a nossa esfera, ainda mais,
+    status: ia-sem-revisao
+  '10:16':
+    texto: Para anunciar o Evangelho além de vós, sem nos gloriarmos, em esfera alheia, do que já está
+      feito.
+    status: ia-sem-revisao
+  '10:17':
+    texto: Quem se gloria, glorie-se no Senhor.
+    status: ia-sem-revisao
+  '10:18':
+    texto: Pois não é aprovado quem se recomenda a si mesmo, mas aquele a quem o Senhor recomenda.
+    status: ia-sem-revisao
+  '11:1':
+    texto: Oxalá me suportásseis um pouco de loucura! Mas suportai-me.
+    status: ia-sem-revisao
+  '11:2':
+    texto: Pois tenho por vós um ciúme de Deus, porque vos desposei com um só esposo, para vos apresentar
+      a Cristo como virgem pura.
+    status: ia-sem-revisao
+  '11:3':
+    texto: Receio, porém, que, assim como a serpente enganou Eva com a sua astúcia, assim também os vossos
+      pensamentos se corrompam, afastando-se da simplicidade e da pureza para com Cristo.
+    status: ia-sem-revisao
+  '11:4':
+    texto: Pois, se alguém vem pregar outro Jesus que não pregamos, ou se recebeis um espírito diferente
+      do que recebestes, ou um evangelho diferente do que aceitastes, suportai-o muito bem.
+    status: ia-sem-revisao
+  '11:5':
+    texto: Julgo, com efeito, em nada ter sido inferior aos “superapóstolos”;
+    status: ia-sem-revisao
+  '11:6':
+    texto: Ainda que seja inábil na palavra, não o sou no conhecimento; antes, em tudo e entre todos o
+      mostramos a vós.
+    status: ia-sem-revisao
+  '11:7':
+    texto: Ou cometi pecado ao humilhar-me para que vós fôsseis exaltados, por vos ter anunciado gratuitamente
+      o Evangelho de Deus?
+    status: ia-sem-revisao
+  '11:8':
+    texto: Despojei outras Igrejas, recebendo delas sustento para vos servir;
+    status: ia-sem-revisao
+  '11:9':
+    texto: E, estando entre vós e passando necessidade, a ninguém fui pesado; pois os irmãos que vieram
+      da Macedônia supriram a minha falta; e em tudo procurei e procurarei não vos ser pesado.
+    status: ia-sem-revisao
+  '11:10':
+    texto: Como é verdade que a verdade de Cristo está em mim, esta glória não me será tirada nas regiões
+      da Acaia.
+    status: ia-sem-revisao
+  '11:11':
+    texto: Por quê? Porque não vos amo? Deus o sabe.
+    status: ia-sem-revisao
+  '11:12':
+    texto: O que faço, continuarei a fazer, para cortar a ocasião aos que a procuram, a fim de que naquilo
+      de que se gloriam sejam achados iguais a nós.
+    status: ia-sem-revisao
+  '11:13':
+    texto: Tais pessoas são falsos apóstolos, operários enganadores, que se disfarçam em apóstolos de
+      Cristo.
+    status: ia-sem-revisao
+  '11:14':
+    texto: E não é de admirar, pois o próprio Satanás se disfarça em anjo de luz.
+    status: ia-sem-revisao
+  '11:15':
+    texto: Não é grande coisa, pois, que os seus ministros se disfarcem em ministros de justiça; o fim
+      deles será conforme as suas obras.
+    status: ia-sem-revisao
+  '11:16':
+    texto: 'Digo de novo: ninguém me julgue insensato — se não, aceitai-me ao menos como insensato, para
+      que também eu me glorie um pouco.'
+    status: ia-sem-revisao
+  '11:17':
+    texto: O que digo, não o digo segundo o Senhor, mas como em loucura, nesta ousadia de gloriar-me.
+    status: ia-sem-revisao
+  '11:18':
+    texto: Já que muitos se gloriam segundo a carne, também eu me gloriarei.
+    status: ia-sem-revisao
+  '11:19':
+    texto: Pois de bom grado suportais os insensatos, sendo vós sensatos;
+    status: ia-sem-revisao
+  '11:20':
+    texto: Suportais, com efeito, quem vos escraviza, quem vos devora, quem vos explora, quem se exalta,
+      quem vos bate no rosto.
+    status: ia-sem-revisao
+  '11:21':
+    texto: Digo com vergonha que fomos fracos; mas naquilo em que alguém ousa — falo com loucura —, também
+      eu ouso.
+    status: ia-sem-revisao
+  '11:22':
+    texto: São hebreus? Também eu. São israelitas? Também eu. São descendência de Abraão? Também eu.
+    status: ia-sem-revisao
+  '11:23':
+    texto: 'São ministros de Cristo? — falo como um louco — eu mais: em trabalhos muito mais, em prisões
+      muito mais, em açoites sem medida, em perigos de morte muitas vezes.'
+    status: ia-sem-revisao
+  '11:24':
+    texto: Dos judeus recebi cinco vezes quarenta açoites menos um;
+    status: ia-sem-revisao
+  '11:25':
+    texto: Três vezes fui açoitado com varas, uma vez fui apedrejado, três vezes naufraguei, passei uma
+      noite e um dia no abismo do mar;
+    status: ia-sem-revisao
+  '11:26':
+    texto: Em viagens muitas vezes, em perigos de rios, perigos de assaltantes, perigos da parte do meu
+      povo, perigos da parte dos gentios, perigos na cidade, perigos no deserto, perigos no mar, perigos
+      entre falsos irmãos,
+    status: ia-sem-revisao
+  '11:27':
+    texto: Em trabalho e fadiga, em muitas vigílias, em fome e sede, em muitos jejuns, em frio e nudez;
+    status: ia-sem-revisao
+  '11:28':
+    texto: Além de outras coisas, a pressão diária sobre mim, a preocupação com todas as Igrejas.
+    status: ia-sem-revisao
+  '11:29':
+    texto: Quem fraqueja, e eu não fraqueje? Quem é escandalizado, e eu não me abrase?
+    status: ia-sem-revisao
+  '11:30':
+    texto: Se é preciso gloriar-se, gloriar-me-ei do que é a minha fraqueza.
+    status: ia-sem-revisao
+  '11:31':
+    texto: O Deus e Pai do Senhor Jesus, que é bendito pelos séculos, sabe que não minto.
+    status: ia-sem-revisao
+  '11:32':
+    texto: Em Damasco, o governador do rei Aretas guardava a cidade dos damascenos para me prender,
+    status: ia-sem-revisao
+  '11:33':
+    texto: E fui descido numa cesta por uma janela, através da muralha, e escapei das suas mãos.
+    status: ia-sem-revisao
+  '12:1':
+    texto: É preciso gloriar-se; não convém, mas passarei às visões e revelações do Senhor.
+    status: ia-sem-revisao
+  '12:2':
+    texto: Conheço um homem em Cristo que, há catorze anos — se no corpo, não sei; se fora do corpo, não
+      sei; Deus o sabe —, foi arrebatado até o terceiro céu.
+    status: ia-sem-revisao
+  '12:3':
+    texto: E sei que esse homem — se no corpo ou fora do corpo, não sei; Deus o sabe —
+    status: ia-sem-revisao
+  '12:4':
+    texto: Foi arrebatado ao paraíso e ouviu palavras inefáveis, que não é lícito ao homem pronunciar.
+    status: ia-sem-revisao
+  '12:5':
+    texto: De um tal homem me gloriarei; de mim mesmo, porém, não me gloriarei, a não ser nas minhas fraquezas.
+    status: ia-sem-revisao
+  '12:6':
+    texto: Pois, se quisesse gloriar-me, não seria insensato, pois diria a verdade; mas abstenho-me, para
+      que ninguém me julgue acima do que vê em mim ou ouve de mim,
+    status: ia-sem-revisao
+  '12:7':
+    texto: E pela grandeza das revelações. Por isso, para que eu não me exalte, foi-me dado um espinho
+      na carne, um anjo de Satanás, para me esbofetear, para que eu não me exalte.
+    status: ia-sem-revisao
+  '12:8':
+    texto: Por causa disto três vezes roguei ao Senhor que o afastasse de mim;
+    status: ia-sem-revisao
+  '12:9':
+    texto: 'E ele me disse: “Basta-te a minha graça, pois o poder se realiza na fraqueza.” De muito bom
+      grado, portanto, preferirei gloriar-me nas minhas fraquezas, para que habite em mim o poder de Cristo.'
+    status: ia-sem-revisao
+  '12:10':
+    texto: Por isso me comprazo nas fraquezas, nas injúrias, nas necessidades, nas perseguições e angústias,
+      por Cristo; pois, quando sou fraco, então é que sou forte.
+    status: ia-sem-revisao
+  '12:11':
+    texto: Tornei-me insensato; vós me obrigastes. Eu devia ser recomendado por vós. Pois em nada fui
+      inferior aos “superapóstolos”, embora nada seja.
+    status: ia-sem-revisao
+  '12:12':
+    texto: Os sinais do apóstolo foram realizados entre vós com toda a perseverança, com sinais, prodígios
+      e milagres.
+    status: ia-sem-revisao
+  '12:13':
+    texto: Em que fostes inferiores às demais Igrejas, a não ser em que eu mesmo não vos fui pesado? Perdoai-me
+      esta injustiça.
+    status: ia-sem-revisao
+  '12:14':
+    texto: Eis que, pela terceira vez, estou pronto para ir ter convosco, e não vos serei pesado; pois
+      não busco os vossos bens, mas a vós; os filhos não devem entesourar para os pais, mas os pais para
+      os filhos.
+    status: ia-sem-revisao
+  '12:15':
+    texto: Eu, de muito bom grado, gastarei e me gastarei totalmente pelas vossas almas. Se vos amo mais,
+      serei menos amado?
+    status: ia-sem-revisao
+  '12:16':
+    texto: 'Seja assim: eu não vos fui pesado; mas, sendo astuto, vos apanhei com dolo.'
+    status: ia-sem-revisao
+  '12:17':
+    texto: Acaso explorei-vos por meio de algum dos que vos enviei?
+    status: ia-sem-revisao
+  '12:18':
+    texto: Roguei a Tito e enviei com ele o irmão; acaso Tito vos explorou? Não andamos no mesmo espírito?
+      Não pelas mesmas pegadas?
+    status: ia-sem-revisao
+  '12:19':
+    texto: Há muito julgais que nos defendemos diante de vós? Diante de Deus, em Cristo, falamos. Tudo,
+      amados, é para a vossa edificação.
+    status: ia-sem-revisao
+  '12:20':
+    texto: Pois receio que, ao chegar, não vos encontre como quero, e vós me encontreis como não quereis;
+      que haja contendas, ciúmes, iras, rivalidades, difamações, murmurações, orgulhos, desordens;
+    status: ia-sem-revisao
+  '12:21':
+    texto: Que, quando eu voltar, o meu Deus me humilhe diante de vós, e eu tenha de chorar por muitos
+      dos que pecaram antes e não se converteram da impureza, da imoralidade e da libertinagem que praticaram.
+    status: ia-sem-revisao
+  '13:1':
+    texto: Esta é a terceira vez que vou ter convosco. “Pela boca de duas ou três testemunhas será confirmada
+      toda palavra.”
+    status: ia-sem-revisao
+  '13:2':
+    texto: 'Já o disse antes e o digo de antemão, como estando presente pela segunda vez e agora ausente,
+      aos que pecaram antes e a todos os demais: se eu voltar, não pouparei,'
+    status: ia-sem-revisao
+  '13:3':
+    texto: Já que buscais uma prova de que Cristo fala em mim; ele não é fraco para convosco, mas é poderoso
+      em vós.
+    status: ia-sem-revisao
+  '13:4':
+    texto: Pois foi crucificado na fraqueza, mas vive pelo poder de Deus. Também nós somos fracos nele,
+      mas viveremos com ele pelo poder de Deus para convosco.
+    status: ia-sem-revisao
+  '13:5':
+    texto: Examinai-vos a vós mesmos, para ver se estais na fé; provai-vos. Ou não reconheceis que Jesus
+      Cristo está em vós? A não ser que estejais reprovados.
+    status: ia-sem-revisao
+  '13:6':
+    texto: Espero que reconhecereis que nós não somos reprovados.
+    status: ia-sem-revisao
+  '13:7':
+    texto: Pedimos a Deus que não façais nenhum mal, não para que nós apareçamos aprovados, mas para que
+      façais o bem, ainda que nós pareçamos reprovados.
+    status: ia-sem-revisao
+  '13:8':
+    texto: Pois nada podemos contra a verdade, mas só pela verdade.
+    status: ia-sem-revisao
+  '13:9':
+    texto: 'Alegramo-nos quando nós somos fracos e vós sois fortes; e é também isto que pedimos: a vossa
+      perfeição.'
+    status: ia-sem-revisao
+  '13:10':
+    texto: Por isso escrevo estas coisas estando ausente, para que, presente, não precise usar de rigor,
+      segundo a autoridade que o Senhor me deu para edificação e não para destruição.
+    status: ia-sem-revisao
+  '13:11':
+    texto: Quanto ao mais, irmãos, alegrai-vos, procurai a perfeição, exortai-vos, tende o mesmo sentimento,
+      vivei em paz, e o Deus do amor e da paz estará convosco.
+    status: ia-sem-revisao
+  '13:12':
+    texto: Saudai-vos uns aos outros com um beijo santo. Todos os santos vos saúdam.
+    status: ia-sem-revisao
+  '13:13':
+    texto: A graça do Senhor Jesus Cristo, o amor de Deus e a comunhão do Espírito Santo estejam com todos
+      vós.
+    status: ia-sem-revisao

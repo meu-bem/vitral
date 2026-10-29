@@ -1,0 +1,37 @@
+livro: PSA
+fonte: oshb
+versiculos:
+  '122:1':
+    texto: 'Cântico das subidas. De Davi. Alegrei-me quando me disseram: “À casa do Senhor iremos!”'
+    partes:
+    - Cântico das subidas. De Davi.
+    - 'Alegrei-me quando me disseram: “À casa do Senhor iremos!”'
+    status: ia-sem-revisao
+    observacao: 'partes: a = título do salmo, b = versículo. Na numeração do Lecionário o título é o versículo
+      1.'
+  '122:2':
+    texto: Já se detêm os nossos pés às tuas portas, Jerusalém.
+    status: ia-sem-revisao
+  '122:3':
+    texto: Jerusalém, construída como uma cidade bem unida em si mesma.
+    status: ia-sem-revisao
+  '122:4':
+    texto: Para lá sobem as tribos, as tribos do Senhor, como testemunho para Israel, a fim de dar graças
+      ao nome do Senhor.
+    status: ia-sem-revisao
+    observacao: O hebraico traz Yah (forma abreviada do nome divino), traduzido “Senhor”.
+  '122:5':
+    texto: Pois ali estão postos os tronos do julgamento, os tronos da casa de Davi.
+    status: ia-sem-revisao
+  '122:6':
+    texto: 'Pedi a paz para Jerusalém: vivam tranquilos os que te amam.'
+    status: ia-sem-revisao
+  '122:7':
+    texto: Haja paz dentro das tuas muralhas, e tranquilidade nos teus palácios.
+    status: ia-sem-revisao
+  '122:8':
+    texto: 'Por causa dos meus irmãos e amigos, direi: “Haja paz em ti.”'
+    status: ia-sem-revisao
+  '122:9':
+    texto: Por causa da casa do Senhor, nosso Deus, procurarei o teu bem.
+    status: ia-sem-revisao
