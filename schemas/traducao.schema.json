@@ -1,0 +1,72 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Tradução de um livro (data/biblia/<CÓDIGO>.yaml)",
+  "type": "object",
+  "required": [
+    "livro",
+    "fonte",
+    "versiculos"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "livro": {
+      "type": "string",
+      "pattern": "^[1-4A-Z]{3}$"
+    },
+    "fonte": {
+      "enum": [
+        "sblgnt",
+        "oshb",
+        "swete",
+        "clementina"
+      ]
+    },
+    "versiculos": {
+      "type": "object",
+      "patternProperties": {
+        "^\\d+:\\d+$": {
+          "type": "object",
+          "required": [
+            "texto",
+            "status"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "texto": {
+              "type": "string",
+              "minLength": 1
+            },
+            "partes": {
+              "type": "array",
+              "minItems": 2,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "status": {
+              "enum": [
+                "ia-sem-revisao",
+                "revisado"
+              ]
+            },
+            "observacao": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "omitidos": {
+      "type": "object",
+      "patternProperties": {
+        "^\\d+:\\d+$": {
+          "type": "string",
+          "minLength": 3
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}
