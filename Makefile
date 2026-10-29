@@ -26,3 +26,7 @@ site:  ## gera o site estático em site/out (lê dist/catalog.json se existir)
 
 publicar-simulado:  ## roda a lógica de publicação sem falar com o GitHub
 	$(PYTHON) scripts/publish.py --simular
+
+.PHONY: traducao
+traducao:
+	$(PYTHON) -m vitral.translation $(if $(COMPLETO),--exigir-completo,)

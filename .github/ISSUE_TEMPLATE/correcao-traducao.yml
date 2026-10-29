@@ -1,0 +1,63 @@
+name: Sugerir correção na tradução
+description: Encontrou um erro de sentido, grafia ou numeração em uma passagem traduzida? Conte aqui.
+title: "[Tradução] "
+labels: ["traducao", "correcao"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por ajudar. A tradução das passagens é feita por IA a partir do grego e do hebraico
+        e **ainda não tem revisão humana completa**, então sua leitura atenta faz diferença.
+
+        **Importante:** não cole aqui o texto de nenhuma tradução com direitos reservados (CNBB,
+        Ave-Maria, Bíblia de Jerusalém, NVI, ARA etc.). Aponte o problema com suas palavras e, se
+        puder, com o texto grego, hebraico ou latino.
+  - type: input
+    id: passagem
+    attributes:
+      label: Passagem
+      description: Livro, capítulo e versículo, no formato do livro.
+      placeholder: "Jo 3,16"
+    validations:
+      required: true
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de problema
+      options:
+        - Erro de sentido (não corresponde ao original)
+        - Trecho omitido ou acrescentado
+        - Nome próprio ou número
+        - Erro de português (grafia, concordância, pontuação)
+        - Numeração de capítulo ou versículo
+        - Outro
+    validations:
+      required: true
+  - type: textarea
+    id: atual
+    attributes:
+      label: Como está no livro
+      description: Copie o trecho do próprio Vitral.
+    validations:
+      required: true
+  - type: textarea
+    id: sugestao
+    attributes:
+      label: Como deveria ficar
+      description: Sua proposta, escrita por você.
+    validations:
+      required: true
+  - type: textarea
+    id: motivo
+    attributes:
+      label: Por quê
+      description: Se tiver, cite o original (grego, hebraico ou latim) ou uma fonte em domínio público.
+  - type: checkboxes
+    id: declaracoes
+    attributes:
+      label: Declarações
+      options:
+        - label: Não copiei texto de tradução com direitos reservados.
+          required: true
+        - label: Autorizo que minha sugestão seja usada sob a licença CC BY-SA 4.0.
+          required: true
