@@ -84,6 +84,8 @@ o versículo traz `observacao` e entra na lista abaixo. Não se mistura outra le
 - Revisão humana: `make revisao LIVRO=JER` gera `dist/revisao/JER.md` (pontos de atenção primeiro, depois o
   livro inteiro); `python scripts/revisao.py aprovar JER 1:4 1:5` (ou `--todos`) marca como `revisado` só o que o
   revisor aprovou. `make revisao` sem livro mostra o progresso.
+- Coincidências: `make revisao LIVRO=conferir` gera `dist/revisao/conferir-coincidencias.md` com o texto traduzido dos
+  trechos de `docs/trechos-conhecidos.txt`, para comparar com as traduções que o revisor tiver.
 - `make traducao` valida o esquema e a cobertura das referências do Lecionário (`COMPLETO=1` falha se faltar algo).
 - Conferência por amostragem dos trechos mais conhecidos, por quem tiver acesso a outras traduções, só para
   detectar coincidências de redação.

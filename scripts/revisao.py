@@ -3,6 +3,7 @@
 Uso:
   python scripts/revisao.py relatorio JER          # escreve dist/revisao/JER.md
   python scripts/revisao.py resumo                 # versículos revisados e pendentes, por livro
+  python scripts/revisao.py conferir               # trechos famosos (docs/trechos-conhecidos.txt) para comparar
   python scripts/revisao.py aprovar JER 1:4 1:5    # marca versículos como revisados
   python scripts/revisao.py aprovar JER --todos    # marca o livro inteiro (só depois de revisá-lo)
 
@@ -61,6 +62,27 @@ def resumo() -> None:
         print(f"{path.stem}: {done}/{total} revisados")
 
 
+def conferir() -> None:
+    """Lista o texto traduzido dos trechos de docs/trechos-conhecidos.txt, para o revisor comparar com as
+    traduções que tiver acesso e detectar coincidências de redação."""
+    sys.path.insert(0, str(ROOT / "src"))
+    from vitral.reading_text import reading_verses
+
+    refs = [ln.strip() for ln in (ROOT / "docs" / "trechos-conhecidos.txt").read_text(encoding="utf8").splitlines()
+            if ln.strip() and not ln.startswith("#")]
+    lines = ["# Trechos conhecidos: conferir coincidências", "",
+             "Compare cada trecho com as traduções que tiver. Anote os que coincidem na redação e peça a revisão.", ""]
+    for ref in refs:
+        verses = reading_verses(ref)
+        lines += [f"## {ref}", ""]
+        lines.append(" ".join(f"^{v.label}^ {v.text}" for v in verses) if verses else "_(sem versículos traduzidos)_")
+        lines.append("")
+    OUT.mkdir(parents=True, exist_ok=True)
+    out = OUT / "conferir-coincidencias.md"
+    out.write_text("\n".join(lines), encoding="utf8")
+    print(f"{out.relative_to(ROOT)}: {len(refs)} trechos")
+
+
 def aprovar(code: str, keys: list[str]) -> None:
     path, doc = load(code)
     verses = doc["versiculos"]
@@ -80,6 +102,8 @@ if __name__ == "__main__":
         relatorio(args[0])
     elif cmd == "resumo":
         resumo()
+    elif cmd == "conferir":
+        conferir()
     elif cmd == "aprovar":
         aprovar(args[0], args[1:])
     else:
