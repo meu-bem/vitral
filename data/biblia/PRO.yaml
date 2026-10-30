@@ -1,0 +1,182 @@
+livro: PRO
+fonte: oshb
+versiculos:
+  '2:1':
+    texto: Meu filho, se acolheres as minhas palavras e guardares contigo os meus mandamentos,
+    status: ia-sem-revisao
+  '2:2':
+    texto: de modo a inclinar o teu ouvido à sabedoria e dispor o teu coração à inteligência;
+    status: ia-sem-revisao
+  '2:3':
+    texto: se invocares o discernimento e deres a tua voz à inteligência,
+    status: ia-sem-revisao
+  '2:4':
+    texto: se a procurares como à prata e a buscares como a tesouros escondidos,
+    status: ia-sem-revisao
+  '2:5':
+    texto: então entenderás o temor do Senhor e encontrarás o conhecimento de Deus.
+    status: ia-sem-revisao
+  '2:6':
+    texto: Pois o Senhor dá a sabedoria; da sua boca vêm o conhecimento e a inteligência.
+    status: ia-sem-revisao
+  '2:7':
+    texto: Reserva o êxito para os retos; é escudo para os que andam na integridade,
+    status: ia-sem-revisao
+  '2:8':
+    texto: guardando as veredas da justiça e protegendo o caminho dos seus fiéis.
+    status: ia-sem-revisao
+  '2:9':
+    texto: Então entenderás a justiça, o direito e a retidão, todo caminho bom.
+    status: ia-sem-revisao
+  '3:27':
+    texto: Não negues o bem a quem é devido, quando está ao alcance da tua mão fazê-lo.
+    status: ia-sem-revisao
+  '3:28':
+    texto: 'Não digas ao teu próximo: “Vai e volta, amanhã te darei”, quando tens contigo.'
+    status: ia-sem-revisao
+  '3:29':
+    texto: Não maquines o mal contra o teu próximo, quando ele mora confiante junto de ti.
+    status: ia-sem-revisao
+  '3:30':
+    texto: Não litigues com ninguém sem motivo, se não te fez mal.
+    status: ia-sem-revisao
+  '3:31':
+    texto: Não tenhas inveja do homem violento nem escolhas qualquer dos seus caminhos,
+    status: ia-sem-revisao
+  '3:32':
+    texto: pois o perverso é abominação para o Senhor, mas com os retos está a sua intimidade.
+    status: ia-sem-revisao
+  '3:33':
+    texto: A maldição do Senhor está na casa do ímpio, mas ele abençoa a morada dos justos.
+    status: ia-sem-revisao
+  '3:34':
+    texto: Com os zombadores ele zomba, mas aos humildes concede graça.
+    status: ia-sem-revisao
+  '3:35':
+    texto: Os sábios herdarão a honra, mas os insensatos levam consigo a desonra.
+    status: ia-sem-revisao
+  '8:22':
+    texto: O Senhor me criou no princípio do seu caminho, antes das suas obras mais antigas.
+    status: ia-sem-revisao
+    observacao: 'ou: me adquiriu.'
+  '8:23':
+    texto: Desde a eternidade fui formada, desde o princípio, desde as origens da terra.
+    status: ia-sem-revisao
+  '8:24':
+    texto: Quando ainda não havia abismos, fui gerada; quando ainda não havia fontes carregadas de água.
+    status: ia-sem-revisao
+  '8:25':
+    texto: Antes que os montes fossem assentados, antes das colinas, fui gerada,
+    status: ia-sem-revisao
+  '8:26':
+    texto: quando ainda não tinha feito a terra e os campos, nem os primeiros elementos do pó do mundo.
+    status: ia-sem-revisao
+  '8:27':
+    texto: Quando firmou os céus, eu estava ali; quando traçou o círculo sobre a face do abismo,
+    status: ia-sem-revisao
+  '8:28':
+    texto: quando fixou as nuvens no alto, quando firmou as fontes do abismo,
+    status: ia-sem-revisao
+  '8:29':
+    texto: quando impôs ao mar o seu limite, para que as águas não ultrapassassem a sua ordem, quando
+      traçou os fundamentos da terra,
+    status: ia-sem-revisao
+  '8:30':
+    texto: eu estava junto dele como artífice, e era a sua delícia dia após dia, brincando diante dele
+      em todo tempo,
+    status: ia-sem-revisao
+    observacao: “Artífice” (ʼamon) também pode ser “criança de colo”.
+  '8:31':
+    texto: brincando no seu mundo habitado, e as minhas delícias estavam com os filhos de Adão.
+    status: ia-sem-revisao
+  '9:1':
+    texto: A Sabedoria construiu a sua casa, talhou as suas sete colunas.
+    status: ia-sem-revisao
+  '9:2':
+    texto: Imolou os seus animais, misturou o seu vinho, pôs também a sua mesa.
+    status: ia-sem-revisao
+  '9:3':
+    texto: 'Enviou as suas servas e chama do alto dos pontos mais elevados da cidade:'
+    status: ia-sem-revisao
+  '9:4':
+    texto: '“Quem é simples, entre aqui!” Aos faltos de juízo ela diz:'
+    status: ia-sem-revisao
+  '9:5':
+    texto: “Vinde, comei do meu pão e bebei do vinho que misturei.
+    status: ia-sem-revisao
+  '9:6':
+    texto: Deixai a simplicidade e vivereis, e andai pelo caminho da inteligência.”
+    status: ia-sem-revisao
+  '21:1':
+    texto: 'O coração do rei é como canais de água na mão do Senhor: ele o inclina para onde quer.'
+    status: ia-sem-revisao
+  '21:2':
+    texto: Todo caminho do homem lhe parece reto, mas é o Senhor quem pesa os corações.
+    status: ia-sem-revisao
+  '21:3':
+    texto: Praticar a justiça e o direito é mais escolhido pelo Senhor do que o sacrifício.
+    status: ia-sem-revisao
+  '21:4':
+    texto: 'Olhos altivos e coração orgulhoso: lâmpada dos ímpios, pecado.'
+    status: ia-sem-revisao
+  '21:5':
+    texto: Os planos do diligente levam à abundância, mas todo apressado só chega à penúria.
+    status: ia-sem-revisao
+  '21:6':
+    texto: Quem ajunta tesouros com língua mentirosa persegue vapor fugaz, em busca da morte.
+    status: ia-sem-revisao
+  '21:10':
+    texto: A alma do ímpio deseja o mal; o seu próximo não encontra graça aos seus olhos.
+    status: ia-sem-revisao
+  '21:11':
+    texto: Quando se castiga o zombador, o simples torna-se sábio; quando se instrui o sábio, ele adquire
+      conhecimento.
+    status: ia-sem-revisao
+  '21:12':
+    texto: O justo observa atentamente a casa do ímpio e derruba os ímpios para a desgraça.
+    status: ia-sem-revisao
+    observacao: “O justo” pode referir-se a Deus.
+  '21:13':
+    texto: Quem tapa o ouvido ao clamor do pobre também ele clamará e não será atendido.
+    status: ia-sem-revisao
+  '30:5':
+    texto: Toda palavra de Deus é purificada; ele é escudo para os que nele se refugiam.
+    status: ia-sem-revisao
+  '30:6':
+    texto: Não acrescentes nada às suas palavras, para que ele não te repreenda e sejas achado mentiroso.
+    status: ia-sem-revisao
+  '30:7':
+    texto: 'Duas coisas te pedi; não mas negues antes que eu morra:'
+    status: ia-sem-revisao
+  '30:8':
+    texto: afasta de mim a falsidade e a palavra mentirosa; não me dês pobreza nem riqueza, alimenta-me
+      com o pão que me é devido,
+    status: ia-sem-revisao
+  '30:9':
+    texto: 'para que, saciado, eu não te renegue e diga: “Quem é o Senhor?”, nem, empobrecido, eu roube
+      e profane o nome do meu Deus.'
+    status: ia-sem-revisao
+  '31:10':
+    texto: Mulher forte, quem a achará? O seu valor excede muito o das pérolas.
+    status: ia-sem-revisao
+  '31:11':
+    texto: Nela confia o coração do seu marido, e não lhe faltará ganho.
+    status: ia-sem-revisao
+  '31:12':
+    texto: Ela lhe faz o bem, e não o mal, todos os dias da sua vida.
+    status: ia-sem-revisao
+  '31:13':
+    texto: Procura lã e linho e trabalha de bom grado com as suas mãos.
+    status: ia-sem-revisao
+  '31:19':
+    texto: Estende as mãos à roca, e as suas palmas seguram o fuso.
+    status: ia-sem-revisao
+  '31:20':
+    texto: Abre a palma ao pobre e estende as mãos ao necessitado.
+    status: ia-sem-revisao
+  '31:30':
+    texto: Enganosa é a graça, e vã é a beleza; a mulher que teme o Senhor, essa será louvada.
+    status: ia-sem-revisao
+  '31:31':
+    texto: Dai-lhe do fruto das suas mãos, e que as suas obras a louvem às portas da cidade.
+    status: ia-sem-revisao
