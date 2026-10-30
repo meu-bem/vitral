@@ -72,3 +72,11 @@ def test_omitted_verse_counts_as_covered_and_is_validated(sandbox):
     doc["omitidos"] = {"7:99": "fora"}
     (sandbox / "data" / "biblia" / "MRK.yaml").write_text(yaml.safe_dump(doc, allow_unicode=True), "utf8")
     assert any("fora da versificação" in e for e in check_files(sandbox))
+
+
+def test_daniel_accepts_catholic_numbering(sandbox):
+    ok = {"status": "ia-sem-revisao", "texto": "x"}
+    _write(sandbox, "DAN", {"3:91": ok, "3:52": ok, "13:62": ok, "14:42": ok}, fonte="oshb")
+    assert check_files(sandbox) == []
+    _write(sandbox, "DAN", {"3:101": ok, "13:65": ok}, fonte="oshb")
+    assert len([e for e in check_files(sandbox) if "fora da versificação" in e]) == 2
