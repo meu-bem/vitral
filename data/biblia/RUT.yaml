@@ -1,0 +1,88 @@
+livro: RUT
+fonte: oshb
+versiculos:
+  '1:1':
+    texto: No tempo em que os juízes governavam, houve fome na terra, e um homem de Belém de Judá foi
+      morar nos campos de Moab, ele, a sua mulher e os seus dois filhos.
+    status: ia-sem-revisao
+  '1:3':
+    texto: Elimelec, marido de Noemi, morreu, e ela ficou com os seus dois filhos.
+    status: ia-sem-revisao
+  '1:4':
+    texto: 'Eles tomaram para si mulheres moabitas: o nome de uma era Orfa, e o da outra, Rute; e moraram
+      ali cerca de dez anos.'
+    status: ia-sem-revisao
+  '1:5':
+    texto: Morreram também os dois, Maalon e Quelion, e a mulher ficou sem os seus dois filhos e sem o
+      seu marido.
+    status: ia-sem-revisao
+  '1:6':
+    texto: Ela levantou-se com as suas noras e voltou dos campos de Moab, porque ouvira nos campos de
+      Moab que o Senhor visitara o seu povo, dando-lhe pão.
+    status: ia-sem-revisao
+  '1:14':
+    texto: Elas levantaram a voz e tornaram a chorar; Orfa beijou a sogra, mas Rute ficou apegada a ela.
+    partes:
+    - Elas levantaram a voz e tornaram a chorar;
+    - Orfa beijou a sogra,
+    - mas Rute ficou apegada a ela.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '1:15':
+    texto: 'Noemi disse: “Eis que a tua cunhada voltou ao seu povo e aos seus deuses; volta atrás da tua
+      cunhada.”'
+    status: ia-sem-revisao
+  '1:16':
+    texto: 'Rute respondeu: “Não insistas comigo para que te deixe, voltando de seguir-te; pois aonde
+      fores, irei; e onde pernoitares, pernoitarei; o teu povo será o meu povo, e o teu Deus, o meu Deus.'
+    status: ia-sem-revisao
+  '1:22':
+    texto: Noemi voltou, e com ela Rute, a moabita, sua nora, que voltava dos campos de Moab; chegaram
+      a Belém no início da ceifa da cevada.
+    status: ia-sem-revisao
+  '2:1':
+    texto: Noemi tinha um parente do seu marido, homem valente, da família de Elimelec, chamado Booz.
+    status: ia-sem-revisao
+  '2:2':
+    texto: 'Rute, a moabita, disse a Noemi: “Deixa-me ir ao campo respigar espigas atrás daquele aos olhos
+      de quem eu achar graça.” Ela lhe disse: “Vai, minha filha.”'
+    status: ia-sem-revisao
+  '2:3':
+    texto: Foi, chegou e respigou no campo atrás dos ceifeiros; e aconteceu que coube a ela a parte do
+      campo de Booz, da família de Elimelec.
+    status: ia-sem-revisao
+  '2:8':
+    texto: 'Booz disse a Rute: “Ouve, minha filha: não vás respigar em outro campo, nem te afastes daqui;
+      fica aqui junto das minhas moças.'
+    status: ia-sem-revisao
+  '2:9':
+    texto: Teus olhos estarão no campo que ceifarem, e irás atrás delas. Não ordenei aos jovens que não
+      te toquem? Quando tiveres sede, vai aos vasos e bebe do que os jovens tirarem.”
+    status: ia-sem-revisao
+  '2:10':
+    texto: 'Ela caiu com o rosto em terra, prostrou-se e lhe disse: “Por que achei graça aos teus olhos,
+      para que me reconheças, sendo eu estrangeira?”'
+    status: ia-sem-revisao
+  '2:11':
+    texto: 'Booz respondeu: “Contaram-me tudo o que fizeste pela tua sogra depois da morte do teu marido:
+      como deixaste teu pai e tua mãe e a terra onde nasceste e foste para um povo que não conhecias antes.'
+    status: ia-sem-revisao
+  '4:13':
+    texto: Booz tomou Rute, e ela se tornou sua mulher; ele a conheceu, e o Senhor lhe concedeu conceber,
+      e ela deu à luz um filho.
+    status: ia-sem-revisao
+  '4:14':
+    texto: 'As mulheres disseram a Noemi: “Bendito seja o Senhor, que hoje não te deixou sem um resgatador!
+      Que o seu nome seja proclamado em Israel.'
+    status: ia-sem-revisao
+  '4:15':
+    texto: Ele será para ti restaurador da vida e sustento da tua velhice, pois a tua nora, que te ama
+      e que vale para ti mais do que sete filhos, o deu à luz.”
+    status: ia-sem-revisao
+  '4:16':
+    texto: Noemi tomou o menino, pô-lo no seu colo e tornou-se a sua ama.
+    status: ia-sem-revisao
+  '4:17':
+    texto: 'As vizinhas lhe deram um nome, dizendo: “Nasceu um filho a Noemi!” E lhe puseram o nome de
+      Obed; ele é o pai de Jessé, pai de Davi.'
+    status: ia-sem-revisao
