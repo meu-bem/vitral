@@ -43,6 +43,11 @@ o versículo traz `observacao` e entra na lista abaixo. Não se mistura outra le
 | 1Cor 11,24 | “o meu corpo, que é para vós” | “o meu corpo, que será entregue por vós” |
 | Hb 2,9 | “à parte de Deus” | “pela graça de Deus” |
 | Jd 5 | “Jesus” (outros manuscritos: “o Senhor”, “Deus”) | conferir com o Lecionário |
+| Sl 8,6 | “pouco menor que Deus” (Elohim) | “pouco menor que os anjos” |
+| Sl 27,13 | “Ah, se eu não tivesse confiado em ver…” (pontos extraordinários sobre “se não”) | “Creio que verei…” |
+| Sl 40,7 | “abriste-me os ouvidos” | “preparaste-me um corpo” (Hb 10,5, segundo a Septuaginta) |
+| Sl 100,3 | “e somos seus” (qere; o ketiv traz “e não nós”) | “e somos seus” |
+| Sl 145,13cd | ausente do hebraico; traduzido da Vulgata (“O Senhor é fiel em todas as suas palavras…”) | presente |
 | Mc 16,8 | acrescenta, entre colchetes duplos, um final breve; não traduzido | sem o final breve |
 
 ## Controle de qualidade
