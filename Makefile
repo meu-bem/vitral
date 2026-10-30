@@ -27,6 +27,10 @@ site:  ## gera o site estático em site/out (lê dist/catalog.json se existir)
 publicar-simulado:  ## roda a lógica de publicação sem falar com o GitHub
 	$(PYTHON) scripts/publish.py --simular
 
+.PHONY: revisao
+revisao:  ## revisão humana: make revisao LIVRO=JER (relatório), ou sem LIVRO (resumo)
+	$(PYTHON) scripts/revisao.py $(if $(LIVRO),relatorio $(LIVRO),resumo)
+
 .PHONY: traducao
 traducao:
 	$(PYTHON) -m vitral.translation $(if $(COMPLETO),--exigir-completo,)
