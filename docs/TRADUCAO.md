@@ -50,6 +50,7 @@ o versículo traz `observacao` e entra na lista abaixo. Não se mistura outra le
 | Hb 2,9 | “à parte de Deus” | “pela graça de Deus” |
 | Jd 5 | “Jesus” (outros manuscritos: “o Senhor”, “Deus”) | conferir com o Lecionário |
 | Is 7,14 | “a jovem está grávida” | “a virgem conceberá” |
+| 1Rs 19,12 | “o som de um silêncio sutil” | “o sopro de uma brisa leve” |
 | Gn 3,15 | “ele te ferirá a cabeça” | “ela te ferirá a cabeça” (em algumas edições) |
 | Gn 4,8 | as palavras de Caim não constam | “Vamos ao campo” |
 | Gn 49,10 | “até que venha Silo” | “até que venha aquele a quem pertence” |
