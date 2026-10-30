@@ -22,6 +22,11 @@ A tradução é feita por IA (Claude) sob responsabilidade e edição de Mateus 
 Azarias e cântico dos três jovens), Dn 13 (Susana) e Dn 14 (Bel e o dragão) vêm do latim da Clementina, com `observacao`
 no primeiro versículo de cada trecho; Dn 3,91-100 é o aramaico 3,24-33. O resto do livro vem do hebraico/aramaico (OSHB).
 
+## Deuteronômio
+
+Os discursos de Moisés, sem verbo de dizer, vão sem aspas; falas citadas dentro deles levam aspas duplas (“ ”).
+Dt 6,4: “o Senhor é nosso Deus, o Senhor é um só”, com `observacao` para a outra construção possível.
+
 ## Qual texto seguir
 
 Segue-se o texto-base de cada fonte (SBLGNT, OSHB). Onde ele diverge da Nova Vulgata, base do Lecionário,
