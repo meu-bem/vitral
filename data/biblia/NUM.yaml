@@ -1,0 +1,323 @@
+livro: NUM
+fonte: oshb
+versiculos:
+  '6:22':
+    texto: 'O Senhor disse a Moisés:'
+    status: ia-sem-revisao
+  '6:23':
+    texto: '“Fala a Aarão e a seus filhos: Assim abençoareis os filhos de Israel, dizendo-lhes:'
+    status: ia-sem-revisao
+  '6:24':
+    texto: ‘O Senhor te abençoe e te guarde!
+    status: ia-sem-revisao
+  '6:25':
+    texto: O Senhor faça resplandecer sobre ti o seu rosto e tenha misericórdia de ti!
+    status: ia-sem-revisao
+  '6:26':
+    texto: O Senhor volte para ti o seu rosto e te dê a paz!’
+    status: ia-sem-revisao
+  '6:27':
+    texto: Assim porão o meu nome sobre os filhos de Israel, e eu os abençoarei.”
+    status: ia-sem-revisao
+  '11:4':
+    texto: 'A turba que estava no meio deles foi tomada de um forte desejo; e também os filhos de Israel
+      tornaram a chorar e disseram: “Quem nos dará carne para comer?'
+    partes:
+    - A turba que estava no meio deles foi tomada de um forte desejo;
+    - 'e também os filhos de Israel tornaram a chorar e disseram: “Quem nos dará carne para comer?'
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '11:5':
+    texto: Lembramo-nos dos peixes que comíamos de graça no Egito, dos pepinos, dos melões, dos alhos-porros,
+      das cebolas e dos alhos.
+    status: ia-sem-revisao
+  '11:6':
+    texto: 'Agora a nossa alma está seca: não há nada, só o maná diante dos nossos olhos.”'
+    status: ia-sem-revisao
+  '11:7':
+    texto: O maná era como a semente de coentro, e o seu aspecto, como o do bdélio.
+    status: ia-sem-revisao
+  '11:8':
+    texto: O povo se espalhava e o recolhia; moía-o com mós ou o pisava no pilão, cozia-o na panela e
+      fazia dele bolos; o seu sabor era como o sabor de bolo de azeite.
+    status: ia-sem-revisao
+  '11:9':
+    texto: Quando o orvalho caía sobre o acampamento durante a noite, o maná caía sobre ele.
+    status: ia-sem-revisao
+  '11:10':
+    texto: Moisés ouviu o povo chorar, por famílias, cada um à porta da sua tenda. A ira do Senhor acendeu-se
+      muito, e isso pareceu mau aos olhos de Moisés.
+    status: ia-sem-revisao
+  '11:11':
+    texto: 'Moisés disse ao Senhor: “Por que fizeste mal ao teu servo? Por que não achei graça aos teus
+      olhos, para que me impusesses o peso de todo este povo?'
+    status: ia-sem-revisao
+  '11:12':
+    texto: 'Fui eu que concebi todo este povo? Fui eu que o dei à luz, para que me digas: ‘Leva-o ao teu
+      colo, como a ama leva a criança de peito’, até a terra que juraste aos seus pais?'
+    status: ia-sem-revisao
+  '11:13':
+    texto: 'De onde terei carne para dar a todo este povo? Pois choram diante de mim, dizendo: ‘Dá-nos
+      carne para comermos.’'
+    status: ia-sem-revisao
+  '11:14':
+    texto: Eu sozinho não posso carregar todo este povo, pois é pesado demais para mim.
+    status: ia-sem-revisao
+  '11:15':
+    texto: Se me tratas assim, mata-me, por favor, se achei graça aos teus olhos, para que eu não veja
+      a minha desgraça.”
+    status: ia-sem-revisao
+  '11:25':
+    texto: O Senhor desceu na nuvem e lhe falou; tomou do espírito que estava sobre ele e o pôs sobre
+      os setenta homens, os anciãos. Quando o espírito repousou sobre eles, profetizaram, mas não o fizeram
+      mais.
+    status: ia-sem-revisao
+  '11:26':
+    texto: 'Dois homens tinham ficado no acampamento: o nome de um era Eldad, e o do outro, Medad. O espírito
+      repousou sobre eles, que estavam entre os inscritos, mas não tinham saído para a tenda; e profetizaram
+      no acampamento.'
+    status: ia-sem-revisao
+  '11:27':
+    texto: 'Um jovem correu e anunciou a Moisés: “Eldad e Medad estão profetizando no acampamento.”'
+    status: ia-sem-revisao
+  '11:28':
+    texto: 'Josué, filho de Nun, servo de Moisés desde a sua juventude, tomou a palavra e disse: “Meu
+      senhor Moisés, proíbe-os!”'
+    status: ia-sem-revisao
+  '11:29':
+    texto: 'Moisés lhe respondeu: “Tens ciúmes por mim? Oxalá todo o povo do Senhor fosse profeta, e o
+      Senhor pusesse sobre eles o seu espírito!”'
+    status: ia-sem-revisao
+  '12:1':
+    texto: Míriam e Aarão falaram contra Moisés por causa da mulher cuxita que ele tomara, pois tinha
+      tomado uma mulher cuxita.
+    status: ia-sem-revisao
+  '12:2':
+    texto: 'Disseram: “Acaso o Senhor falou somente por meio de Moisés? Não falou também por nós?” E o
+      Senhor ouviu.'
+    status: ia-sem-revisao
+  '12:3':
+    texto: Ora, o homem Moisés era muito humilde, mais do que todos os homens que há sobre a face da terra.
+    status: ia-sem-revisao
+  '12:4':
+    texto: 'De repente o Senhor disse a Moisés, a Aarão e a Míriam: “Saí, os três, para a tenda do encontro.”
+      E saíram os três.'
+    status: ia-sem-revisao
+  '12:5':
+    texto: O Senhor desceu na coluna de nuvem e parou à entrada da tenda; chamou Aarão e Míriam, e os
+      dois saíram.
+    status: ia-sem-revisao
+  '12:6':
+    texto: 'Disse: “Ouvi as minhas palavras: se houver entre vós um profeta, eu, o Senhor, em visão me
+      dou a conhecer a ele, em sonho lhe falo.'
+    status: ia-sem-revisao
+  '12:7':
+    texto: 'Não é assim com o meu servo Moisés: em toda a minha casa ele é fiel.'
+    status: ia-sem-revisao
+  '12:8':
+    texto: Falo com ele boca a boca, claramente e não por enigmas, e ele contempla a forma do Senhor.
+      Por que não temestes falar contra o meu servo, contra Moisés?”
+    status: ia-sem-revisao
+  '12:9':
+    texto: A ira do Senhor se acendeu contra eles, e ele se foi.
+    status: ia-sem-revisao
+  '12:10':
+    texto: A nuvem afastou-se de cima da tenda, e eis que Míriam estava leprosa, branca como a neve. Aarão
+      voltou-se para Míriam e viu que estava leprosa.
+    status: ia-sem-revisao
+  '12:11':
+    texto: 'Aarão disse a Moisés: “Ah, meu senhor, não ponhas sobre nós o pecado que cometemos com insensatez.'
+    status: ia-sem-revisao
+  '12:12':
+    texto: Que ela não seja como o aborto que, ao sair do ventre da mãe, já tem a metade da carne consumida!”
+    status: ia-sem-revisao
+  '12:13':
+    texto: 'Moisés clamou ao Senhor: “Ó Deus, cura-a, por favor!”'
+    status: ia-sem-revisao
+  '13:1':
+    texto: 'O Senhor disse a Moisés:'
+    status: ia-sem-revisao
+  '13:2':
+    texto: '“Envia homens para explorarem a terra de Canaã, que eu dou aos filhos de Israel: enviareis
+      um homem de cada tribo dos seus pais, todos eles chefes.”'
+    status: ia-sem-revisao
+  '13:25':
+    texto: Voltaram de explorar a terra ao fim de quarenta dias.
+    status: ia-sem-revisao
+  '13:26':
+    texto: Foram e chegaram a Moisés, a Aarão e a toda a comunidade dos filhos de Israel, no deserto de
+      Farã, em Cades; deram-lhes notícia a eles e a toda a comunidade e lhes mostraram o fruto da terra.
+    status: ia-sem-revisao
+  '13:27':
+    texto: 'Contaram a Moisés: “Fomos à terra a que nos enviaste; ela realmente é uma terra onde correm
+      leite e mel, e este é o seu fruto.'
+    status: ia-sem-revisao
+  '13:28':
+    texto: Contudo, o povo que habita a terra é forte, as cidades são fortificadas e muito grandes, e
+      vimos ali também os filhos de Enac.
+    status: ia-sem-revisao
+  '13:29':
+    texto: Os amalecitas habitam a terra do Negueb; os hititas, os jebuseus e os amorreus habitam a montanha;
+      e os cananeus habitam junto ao mar e à margem do Jordão.”
+    status: ia-sem-revisao
+  '13:30':
+    texto: 'Caleb fez calar o povo diante de Moisés e disse: “Subamos e tomemos posse dela, pois certamente
+      poderemos vencê-la.”'
+    status: ia-sem-revisao
+  '13:31':
+    texto: 'Mas os homens que subiram com ele disseram: “Não poderemos subir contra esse povo, porque
+      é mais forte do que nós.”'
+    status: ia-sem-revisao
+  '13:32':
+    texto: 'E espalharam entre os filhos de Israel um mau boato sobre a terra que tinham explorado, dizendo:
+      “A terra que percorremos para explorá-la é uma terra que devora os seus habitantes, e todo o povo
+      que vimos nela é gente de grande estatura.'
+    status: ia-sem-revisao
+  '13:33':
+    texto: Vimos ali também os nefilim, os filhos de Enac, da raça dos nefilim; e éramos aos nossos olhos
+      como gafanhotos, e assim também éramos aos olhos deles.”
+    status: ia-sem-revisao
+  '14:1':
+    texto: Toda a comunidade levantou a voz e deu gritos, e o povo chorou naquela noite.
+    status: ia-sem-revisao
+  '14:26':
+    texto: 'O Senhor disse a Moisés e a Aarão:'
+    status: ia-sem-revisao
+  '14:27':
+    texto: “Até quando esta comunidade má murmurará contra mim? Ouvi as murmurações que os filhos de Israel
+      fazem contra mim.
+    status: ia-sem-revisao
+  '14:28':
+    texto: 'Dize-lhes: Pela minha vida, oráculo do Senhor, farei convosco exatamente o que dissestes aos
+      meus ouvidos.'
+    status: ia-sem-revisao
+  '14:29':
+    texto: Neste deserto cairão os vossos cadáveres, todos os vossos recenseados, segundo todo o vosso
+      número, de vinte anos para cima, que murmurastes contra mim.
+    status: ia-sem-revisao
+  '14:30':
+    texto: Não entrareis na terra em que jurei estabelecer-vos, a não ser Caleb, filho de Jefoné, e Josué,
+      filho de Nun.
+    status: ia-sem-revisao
+  '14:34':
+    texto: Segundo o número dos dias em que explorastes a terra, quarenta dias, um dia por ano, carregareis
+      as vossas culpas durante quarenta anos e conhecereis a minha oposição.
+    status: ia-sem-revisao
+  '14:35':
+    texto: 'Eu, o Senhor, falei: farei isto a toda esta comunidade má que se reuniu contra mim: neste
+      deserto serão consumidos e aqui morrerão.”'
+    status: ia-sem-revisao
+  '20:1':
+    texto: Os filhos de Israel, toda a comunidade, chegaram ao deserto de Sin no primeiro mês, e o povo
+      ficou em Cades. Ali morreu Míriam, e ali foi sepultada.
+    status: ia-sem-revisao
+  '20:2':
+    texto: Não havia água para a comunidade, e juntaram-se contra Moisés e Aarão.
+    status: ia-sem-revisao
+  '20:3':
+    texto: 'O povo discutiu com Moisés e disse: “Oxalá tivéssemos morrido quando morreram os nossos irmãos
+      diante do Senhor!'
+    status: ia-sem-revisao
+  '20:4':
+    texto: Por que trouxestes a assembleia do Senhor a este deserto, para morrermos aqui, nós e os nossos
+      animais?
+    status: ia-sem-revisao
+  '20:5':
+    texto: Por que nos fizestes subir do Egito para nos trazer a este lugar mau, onde não há semente,
+      nem figueiras, nem vinhas, nem romãzeiras, e nem água para beber?”
+    status: ia-sem-revisao
+  '20:6':
+    texto: Moisés e Aarão saíram de diante da assembleia, foram à entrada da tenda do encontro e caíram
+      com o rosto em terra; e a glória do Senhor lhes apareceu.
+    status: ia-sem-revisao
+  '20:7':
+    texto: 'O Senhor disse a Moisés:'
+    status: ia-sem-revisao
+  '20:8':
+    texto: “Toma a vara e reúne a comunidade, tu e Aarão, teu irmão; falai à rocha diante dos olhos deles,
+      e ela dará as suas águas. Farás sair para eles água da rocha e darás de beber à comunidade e aos
+      seus animais.”
+    status: ia-sem-revisao
+  '20:9':
+    texto: Moisés tomou a vara de diante do Senhor, como lhe fora ordenado.
+    status: ia-sem-revisao
+  '20:10':
+    texto: 'Moisés e Aarão reuniram a assembleia diante da rocha, e ele lhes disse: “Ouvi, rebeldes: acaso
+      desta rocha faremos sair água para vós?”'
+    status: ia-sem-revisao
+  '20:11':
+    texto: Moisés levantou a mão e feriu a rocha duas vezes com a sua vara; saiu muita água, e bebeu a
+      comunidade e os seus animais.
+    status: ia-sem-revisao
+  '20:12':
+    texto: 'O Senhor disse a Moisés e a Aarão: “Porque não crestes em mim, para me santificar aos olhos
+      dos filhos de Israel, por isso não introduzireis esta assembleia na terra que lhes dei.”'
+    status: ia-sem-revisao
+  '20:13':
+    texto: Estas são as águas de Meriba, onde os filhos de Israel contenderam com o Senhor, e ele se mostrou
+      santo no meio deles.
+    status: ia-sem-revisao
+  '21:4':
+    texto: Partiram do monte Hor pelo caminho do mar Vermelho, para contornar a terra de Edom; e o povo
+      perdeu a paciência no caminho.
+    status: ia-sem-revisao
+  '21:5':
+    texto: 'O povo falou contra Deus e contra Moisés: “Por que nos fizestes subir do Egito para morrermos
+      no deserto? Pois não há pão nem água, e a nossa alma está enojada deste pão miserável.”'
+    status: ia-sem-revisao
+  '21:6':
+    texto: O Senhor enviou contra o povo serpentes abrasadoras, que morderam o povo, e morreu muita gente
+      de Israel.
+    status: ia-sem-revisao
+  '21:7':
+    texto: 'O povo foi a Moisés e disse: “Pecamos, porque falamos contra o Senhor e contra ti. Intercede
+      junto ao Senhor para que afaste de nós as serpentes.” E Moisés intercedeu pelo povo.'
+    status: ia-sem-revisao
+  '21:8':
+    texto: 'O Senhor disse a Moisés: “Faze uma serpente abrasadora e coloca-a sobre uma haste; todo aquele
+      que for mordido e a olhar viverá.”'
+    status: ia-sem-revisao
+  '21:9':
+    texto: Moisés fez uma serpente de bronze e a colocou sobre a haste; e, quando uma serpente mordia
+      alguém, este olhava para a serpente de bronze e vivia.
+    status: ia-sem-revisao
+  '24:2':
+    texto: Balaão levantou os olhos e viu Israel acampado por tribos; e veio sobre ele o espírito de Deus.
+    status: ia-sem-revisao
+  '24:3':
+    texto: 'Proferiu o seu oráculo e disse: “Oráculo de Balaão, filho de Beor, oráculo do homem de olhos
+      abertos,'
+    status: ia-sem-revisao
+  '24:4':
+    texto: 'oráculo de quem ouve as palavras de Deus, de quem vê a visão do Todo-Poderoso, caído, mas
+      de olhos descobertos:'
+    status: ia-sem-revisao
+  '24:5':
+    texto: Como são belas as tuas tendas, Jacó, as tuas moradas, Israel!
+    status: ia-sem-revisao
+  '24:6':
+    texto: Como vales que se estendem, como jardins junto ao rio, como aloés plantados pelo Senhor, como
+      cedros junto às águas.
+    status: ia-sem-revisao
+  '24:7':
+    texto: A água correrá dos seus baldes, e a sua semente terá águas abundantes; o seu rei se elevará
+      acima de Agag, e o seu reino será exaltado.
+    status: ia-sem-revisao
+  '24:15':
+    texto: 'Proferiu o seu oráculo e disse: “Oráculo de Balaão, filho de Beor, oráculo do homem de olhos
+      abertos,'
+    status: ia-sem-revisao
+  '24:16':
+    texto: 'oráculo de quem ouve as palavras de Deus, conhece o conhecimento do Altíssimo e vê a visão
+      do Todo-Poderoso, caído, mas de olhos descobertos:'
+    status: ia-sem-revisao
+  '24:17':
+    texto: 'Eu o vejo, mas não agora; eu o contemplo, mas não de perto: de Jacó procede uma estrela, e
+      de Israel se levanta um cetro; ele esmaga as têmporas de Moab e abate todos os filhos de Set.'
+    partes:
+    - 'Eu o vejo, mas não agora; eu o contemplo, mas não de perto:'
+    - de Jacó procede uma estrela, e de Israel se levanta um cetro; ele esmaga as têmporas de Moab e abate
+      todos os filhos de Set.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir. Em “cetro”
+      (shévet), também pode ser “tribo”.'
