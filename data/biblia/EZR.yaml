@@ -1,0 +1,99 @@
+livro: EZR
+fonte: oshb
+versiculos:
+  '1:1':
+    texto: 'No primeiro ano de Ciro, rei da Pérsia, para que se cumprisse a palavra do Senhor pronunciada
+      por Jeremias, o Senhor despertou o espírito de Ciro, rei da Pérsia, que fez passar uma proclamação
+      por todo o seu reino e também por escrito:'
+    status: ia-sem-revisao
+  '1:2':
+    texto: '“Assim diz Ciro, rei da Pérsia: O Senhor, Deus do céu, deu-me todos os reinos da terra e me
+      encarregou de lhe edificar uma casa em Jerusalém, que está em Judá.'
+    status: ia-sem-revisao
+  '1:3':
+    texto: Quem de vós, de todo o seu povo — esteja o seu Deus com ele —, suba a Jerusalém, que está em
+      Judá, e edifique a casa do Senhor, Deus de Israel; ele é o Deus que está em Jerusalém.
+    status: ia-sem-revisao
+  '1:4':
+    texto: E todo o que ficar, em qualquer lugar onde habite, os homens daquele lugar o ajudarão com prata,
+      ouro, bens e animais, além da oferta voluntária para a casa de Deus que está em Jerusalém.”
+    status: ia-sem-revisao
+  '1:5':
+    texto: Levantaram-se os chefes das casas paternas de Judá e Benjamim, os sacerdotes e os levitas,
+      todos aqueles cujo espírito Deus despertou, para subir a edificar a casa do Senhor que está em Jerusalém.
+    status: ia-sem-revisao
+  '1:6':
+    texto: Todos os que estavam ao redor deles os ajudaram com objetos de prata, ouro, bens, animais e
+      coisas preciosas, além de tudo o que foi oferecido voluntariamente.
+    status: ia-sem-revisao
+  '6:7':
+    texto: Deixai a obra desta casa de Deus; que o governador dos judeus e os anciãos dos judeus reconstruam
+      esta casa de Deus no seu lugar.
+    status: ia-sem-revisao
+  '6:8':
+    texto: 'E por mim é dada ordem sobre o que haveis de fazer a favor desses anciãos dos judeus para
+      a construção desta casa de Deus: dos bens do rei, do tributo da província de além do Rio, sejam
+      as despesas pagas integralmente a esses homens, para que não haja interrupção.'
+    status: ia-sem-revisao
+  '6:12':
+    texto: O Deus que ali fez habitar o seu nome derrube todo rei e todo povo que estenda a mão para alterar
+      isto ou para destruir esta casa de Deus que está em Jerusalém. Eu, Dario, dei a ordem; que seja
+      executada com diligência.”
+    partes:
+    - O Deus que ali fez habitar o seu nome derrube todo rei e todo povo que estenda a mão para alterar
+      isto ou para destruir esta casa de Deus que está em Jerusalém.
+    - Eu, Dario, dei a ordem; que seja executada com diligência.”
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '6:14':
+    texto: Os anciãos dos judeus continuaram a construir e a prosperar, conforme a profecia do profeta
+      Ageu e de Zacarias, filho de Ido; construíram e terminaram segundo a ordem do Deus de Israel e segundo
+      a ordem de Ciro, Dario e Artaxerxes, rei da Pérsia.
+    status: ia-sem-revisao
+  '6:15':
+    texto: Esta casa foi concluída no terceiro dia do mês de Adar, no sexto ano do reinado do rei Dario.
+    status: ia-sem-revisao
+  '6:16':
+    texto: Os filhos de Israel, os sacerdotes, os levitas e o resto dos filhos do exílio celebraram com
+      alegria a dedicação desta casa de Deus.
+    status: ia-sem-revisao
+  '6:17':
+    texto: Para a dedicação desta casa de Deus ofereceram cem touros, duzentos carneiros, quatrocentos
+      cordeiros e, como sacrifício pelo pecado por todo o Israel, doze bodes, segundo o número das tribos
+      de Israel.
+    status: ia-sem-revisao
+  '6:18':
+    texto: Estabeleceram os sacerdotes nas suas classes e os levitas nas suas divisões, para o serviço
+      de Deus em Jerusalém, conforme o que está escrito no livro de Moisés.
+    status: ia-sem-revisao
+  '6:19':
+    texto: Os filhos do exílio celebraram a Páscoa no dia catorze do primeiro mês.
+    status: ia-sem-revisao
+  '6:20':
+    texto: Pois os sacerdotes e os levitas se tinham purificado todos como um só; todos estavam puros.
+      Imolaram a Páscoa por todos os filhos do exílio, por seus irmãos sacerdotes e por si mesmos.
+    status: ia-sem-revisao
+  '9:5':
+    texto: Na hora da oferta da tarde, levantei-me do meu jejum, com a veste e o manto rasgados, caí de
+      joelhos e estendi as mãos ao Senhor, meu Deus,
+    status: ia-sem-revisao
+  '9:6':
+    texto: 'e disse: “Meu Deus, estou envergonhado e confuso para levantar o meu rosto a ti, meu Deus,
+      porque as nossas iniquidades se multiplicaram sobre a nossa cabeça, e a nossa culpa cresceu até
+      o céu.'
+    status: ia-sem-revisao
+  '9:7':
+    texto: Desde os dias dos nossos pais estamos em grande culpa até o dia de hoje; por causa das nossas
+      iniquidades fomos entregues, nós, os nossos reis e os nossos sacerdotes, na mão dos reis das terras,
+      à espada, ao cativeiro, ao saque e à vergonha do rosto, como hoje.
+    status: ia-sem-revisao
+  '9:8':
+    texto: Agora, por um breve momento, veio a graça do Senhor, nosso Deus, para nos deixar um resto e
+      nos dar uma estaca no seu lugar santo, para que o nosso Deus ilumine os nossos olhos e nos dê um
+      pouco de alívio na nossa servidão.
+    status: ia-sem-revisao
+  '9:9':
+    texto: Pois somos servos, mas, na nossa servidão, o nosso Deus não nos abandonou; estendeu sobre nós
+      a sua bondade diante dos reis da Pérsia, dando-nos vida para reerguer a casa do nosso Deus e restaurar
+      as suas ruínas, e dando-nos um muro em Judá e em Jerusalém.”
+    status: ia-sem-revisao
