@@ -1,0 +1,651 @@
+livro: JER
+fonte: oshb
+versiculos:
+  '1:1':
+    texto: Palavras de Jeremias, filho de Helcias, um dos sacerdotes de Anatot, na terra de Benjamim.
+    status: ia-sem-revisao
+  '1:4':
+    texto: 'A palavra do Senhor foi dirigida a mim:'
+    status: ia-sem-revisao
+  '1:5':
+    texto: “Antes de te formar no ventre, eu te conheci; antes que saísses do seio, eu te consagrei; fiz
+      de ti profeta das nações.”
+    status: ia-sem-revisao
+  '1:6':
+    texto: 'Eu respondi: “Ah, Senhor Deus, eu não sei falar, pois sou apenas um jovem.”'
+    status: ia-sem-revisao
+  '1:7':
+    texto: 'O Senhor disse-me: “Não digas: ‘Sou apenas um jovem’; pois irás a todos a quem eu te enviar
+      e dirás tudo o que eu te ordenar.'
+    status: ia-sem-revisao
+  '1:8':
+    texto: Não tenhas medo diante deles, porque estou contigo para te libertar — oráculo do Senhor.”
+    status: ia-sem-revisao
+  '1:9':
+    texto: 'O Senhor estendeu a mão, tocou a minha boca e disse-me: “Eis que ponho as minhas palavras
+      na tua boca.'
+    status: ia-sem-revisao
+  '1:10':
+    texto: 'Vê: hoje te constituo sobre as nações e sobre os reinos, para arrancar e demolir, para exterminar
+      e destruir, para edificar e plantar.”'
+    status: ia-sem-revisao
+  '1:17':
+    texto: Quanto a ti, cinge os teus rins, levanta-te e dize-lhes tudo o que eu te ordenar; não tenhas
+      medo diante deles, para que eu não te faça temer diante deles.
+    status: ia-sem-revisao
+  '1:18':
+    texto: 'Eis que hoje faço de ti uma cidade fortificada, uma coluna de ferro e muralhas de bronze contra
+      toda a terra: contra os reis de Judá, os seus príncipes, os seus sacerdotes e o povo da terra.'
+    status: ia-sem-revisao
+  '1:19':
+    texto: Combaterão contra ti, mas não prevalecerão, pois estou contigo — oráculo do Senhor — para te
+      libertar.
+    status: ia-sem-revisao
+  '2:1':
+    texto: 'A palavra do Senhor foi dirigida a mim:'
+    status: ia-sem-revisao
+  '2:2':
+    texto: '“Vai e clama aos ouvidos de Jerusalém: Assim diz o Senhor: Lembro-me da afeição da tua juventude,
+      do amor dos teus esponsais, quando me seguias no deserto, numa terra não semeada.'
+    status: ia-sem-revisao
+  '2:3':
+    texto: Israel era consagrado ao Senhor, primícias da sua colheita; todos os que o devoravam tornavam-se
+      culpados, e a desgraça caía sobre eles — oráculo do Senhor.
+    status: ia-sem-revisao
+  '2:7':
+    texto: Levei-vos a uma terra de pomares, para comerdes os seus frutos e os seus bens; mas, ao entrardes,
+      contaminastes a minha terra e fizestes da minha herança uma abominação.
+    status: ia-sem-revisao
+  '2:8':
+    texto: 'Os sacerdotes não perguntaram: ‘Onde está o Senhor?’; os que ensinavam a lei não me conheciam;
+      os pastores se rebelaram contra mim; os profetas profetizaram por Baal e andaram atrás do que não
+      aproveita.'
+    status: ia-sem-revisao
+  '2:12':
+    texto: Espantai-vos, ó céus, por isso; estremecei e ficai muito desolados — oráculo do Senhor.
+    status: ia-sem-revisao
+  '2:13':
+    texto: 'Pois o meu povo cometeu dois males: abandonou-me a mim, fonte de água viva, e cavou para si
+      cisternas, cisternas rachadas, que não retêm a água.'
+    status: ia-sem-revisao
+  '3:14':
+    texto: Voltai, filhos rebeldes — oráculo do Senhor —, pois eu sou o vosso senhor; tomar-vos-ei, um
+      de cada cidade e dois de cada família, e vos levarei a Sião.
+    status: ia-sem-revisao
+  '3:15':
+    texto: Dar-vos-ei pastores segundo o meu coração, que vos apascentarão com conhecimento e inteligência.
+    status: ia-sem-revisao
+  '3:16':
+    texto: 'Quando vos multiplicardes e fordes fecundos na terra, naqueles dias — oráculo do Senhor —,
+      já não se dirá: ‘Arca da aliança do Senhor’; não virá mais ao pensamento, nem dela se lembrarão,
+      nem a visitarão, nem se fará outra.'
+    status: ia-sem-revisao
+  '3:17':
+    texto: Naquele tempo, chamarão Jerusalém ‘Trono do Senhor’, e todas as nações se reunirão nela, em
+      nome do Senhor, em Jerusalém; e já não seguirão a obstinação do seu coração mau.
+    status: ia-sem-revisao
+  '7:1':
+    texto: 'Palavra que foi dirigida a Jeremias da parte do Senhor:'
+    status: ia-sem-revisao
+  '7:2':
+    texto: '“Põe-te à porta do templo do Senhor e proclama ali esta palavra: Ouvi a palavra do Senhor,
+      todo Judá, vós que entrais por estas portas para adorar o Senhor.'
+    status: ia-sem-revisao
+  '7:3':
+    texto: 'Assim diz o Senhor dos exércitos, Deus de Israel: Melhorai os vossos caminhos e as vossas
+      obras, e eu vos farei habitar neste lugar.'
+    status: ia-sem-revisao
+  '7:4':
+    texto: 'Não confieis em palavras mentirosas, dizendo: ‘Templo do Senhor, templo do Senhor, templo
+      do Senhor é este!’'
+    status: ia-sem-revisao
+  '7:5':
+    texto: Mas, se de fato melhorardes os vossos caminhos e as vossas obras, se de fato praticardes a
+      justiça entre um homem e o seu próximo,
+    status: ia-sem-revisao
+  '7:6':
+    texto: se não oprimirdes o estrangeiro, o órfão e a viúva, se não derramardes sangue inocente neste
+      lugar e não andardes atrás de outros deuses para a vossa desgraça,
+    status: ia-sem-revisao
+  '7:7':
+    texto: então vos farei habitar neste lugar, na terra que dei aos vossos pais, desde sempre e para
+      sempre.
+    status: ia-sem-revisao
+  '7:8':
+    texto: Eis que confiais em palavras mentirosas, que de nada servem.
+    status: ia-sem-revisao
+  '7:9':
+    texto: 'Furtar, matar, cometer adultério, jurar falso, queimar incenso a Baal e andar atrás de outros
+      deuses que não conheceis:'
+    status: ia-sem-revisao
+  '7:10':
+    texto: 'e depois vindes e vos apresentais diante de mim, neste templo que leva o meu nome, e dizeis:
+      ‘Estamos salvos’, para continuardes a praticar todas essas abominações?'
+    status: ia-sem-revisao
+  '7:11':
+    texto: Será que se tornou, aos vossos olhos, um covil de ladrões este templo que leva o meu nome?
+      Eu também vejo — oráculo do Senhor.
+    status: ia-sem-revisao
+  '7:23':
+    texto: 'Mas esta foi a ordem que lhes dei: Escutai a minha voz, e eu serei o vosso Deus, e vós sereis
+      o meu povo; andai por todo o caminho que vos ordeno, para que sejais felizes.'
+    status: ia-sem-revisao
+  '7:24':
+    texto: Mas não escutaram nem inclinaram o ouvido; andaram nos seus próprios conselhos, na obstinação
+      do seu coração mau, e foram para trás, e não para a frente.
+    status: ia-sem-revisao
+  '7:25':
+    texto: Desde o dia em que os vossos pais saíram da terra do Egito até hoje, enviei-vos todos os meus
+      servos, os profetas, dia após dia, sem cessar.
+    status: ia-sem-revisao
+  '7:26':
+    texto: Mas não me escutaram nem inclinaram o ouvido; endureceram a cerviz e fizeram pior do que os
+      seus pais.
+    status: ia-sem-revisao
+  '7:27':
+    texto: Dir-lhes-ás todas estas palavras, mas não te escutarão; chamá-los-ás, mas não te responderão.
+    status: ia-sem-revisao
+  '7:28':
+    texto: 'Dir-lhes-ás: Esta é a nação que não escutou a voz do Senhor, seu Deus, e não aceitou a correção;
+      a fidelidade pereceu, foi eliminada da sua boca.'
+    status: ia-sem-revisao
+  '11:18':
+    texto: O Senhor deu-me a conhecer, e eu soube; então me fizeste ver as suas obras.
+    status: ia-sem-revisao
+  '11:19':
+    texto: 'Eu era como um cordeiro manso levado ao matadouro e não sabia que tramavam planos contra mim:
+      “Destruamos a árvore com o seu fruto, cortemo-lo da terra dos vivos, e o seu nome não seja mais
+      lembrado.”'
+    status: ia-sem-revisao
+  '11:20':
+    texto: Senhor dos exércitos, juiz justo, que examinas os rins e o coração, que eu veja a tua vingança
+      contra eles, pois a ti confiei a minha causa.
+    status: ia-sem-revisao
+  '13:1':
+    texto: 'Assim me disse o Senhor: “Vai, compra um cinto de linho e põe-no nos rins; mas não o metas
+      na água.”'
+    status: ia-sem-revisao
+  '13:2':
+    texto: Comprei o cinto, conforme a palavra do Senhor, e pu-lo nos rins.
+    status: ia-sem-revisao
+  '13:3':
+    texto: 'A palavra do Senhor foi dirigida a mim pela segunda vez:'
+    status: ia-sem-revisao
+  '13:4':
+    texto: “Toma o cinto que compraste, que tens nos rins, levanta-te, vai ao Eufrates e esconde-o ali,
+      numa fenda da rocha.”
+    status: ia-sem-revisao
+  '13:5':
+    texto: Fui e escondi-o junto ao Eufrates, como o Senhor me ordenara.
+    status: ia-sem-revisao
+  '13:6':
+    texto: 'Passados muitos dias, o Senhor disse-me: “Levanta-te, vai ao Eufrates e toma de lá o cinto
+      que te ordenei esconder.”'
+    status: ia-sem-revisao
+  '13:7':
+    texto: Fui ao Eufrates, cavei e tomei o cinto do lugar onde o tinha escondido; e eis que o cinto estava
+      estragado, não servia para nada.
+    status: ia-sem-revisao
+  '13:8':
+    texto: 'A palavra do Senhor foi dirigida a mim:'
+    status: ia-sem-revisao
+  '13:9':
+    texto: '“Assim diz o Senhor: Do mesmo modo destruirei a soberba de Judá e a grande soberba de Jerusalém.'
+    status: ia-sem-revisao
+  '13:10':
+    texto: Este povo mau, que se recusa a ouvir as minhas palavras, que anda na obstinação do seu coração
+      e segue outros deuses para os servir e adorar, será como este cinto, que não serve para nada.
+    status: ia-sem-revisao
+  '13:11':
+    texto: Pois, como o cinto se cola aos rins do homem, assim colei a mim toda a casa de Israel e toda
+      a casa de Judá — oráculo do Senhor —, para serem o meu povo, o meu nome, o meu louvor e a minha
+      glória; mas não quiseram ouvir.”
+    status: ia-sem-revisao
+  '14:17':
+    texto: 'Dir-lhes-ás esta palavra: Corram dos meus olhos lágrimas, de noite e de dia, sem cessar, porque
+      a virgem, filha do meu povo, foi atingida por uma grande ruína, por um golpe gravíssimo.'
+    status: ia-sem-revisao
+  '14:18':
+    texto: Se saio ao campo, eis os mortos pela espada; se entro na cidade, eis os que se consomem de
+      fome; pois também o profeta e o sacerdote andam pela terra sem saber.
+    status: ia-sem-revisao
+  '14:19':
+    texto: Rejeitaste Judá por completo? Sentiu a tua alma aversão por Sião? Por que nos feriste sem que
+      haja cura para nós? Esperávamos a paz, e nada de bom; o tempo da cura, e eis o terror.
+    status: ia-sem-revisao
+  '14:20':
+    texto: Reconhecemos, Senhor, a nossa impiedade, a culpa dos nossos pais, porque pecamos contra ti.
+    status: ia-sem-revisao
+  '14:21':
+    texto: 'Por amor do teu nome, não nos desprezes; não desonres o trono da tua glória; lembra-te: não
+      rompas a tua aliança conosco.'
+    status: ia-sem-revisao
+  '14:22':
+    texto: Há entre os ídolos das nações quem faça chover? Ou dão os céus a chuva por si mesmos? Não és
+      tu, Senhor, nosso Deus? Em ti esperamos, pois fazes todas estas coisas.
+    status: ia-sem-revisao
+  '15:10':
+    texto: Ai de mim, minha mãe, por me teres dado à luz, homem de contenda e de discórdia para toda a
+      terra! Não emprestei nem me emprestaram, e todos me amaldiçoam.
+    status: ia-sem-revisao
+  '15:16':
+    texto: Quando as tuas palavras me vieram, eu as devorei; a tua palavra foi para mim alegria e regozijo
+      do coração, pois o teu nome foi invocado sobre mim, Senhor, Deus dos exércitos.
+    status: ia-sem-revisao
+  '15:17':
+    texto: Não me sentei na companhia dos que se divertem, nem me alegrei; por causa da tua mão, sentei-me
+      só, porque me encheste de indignação.
+    status: ia-sem-revisao
+  '15:18':
+    texto: Por que a minha dor é perpétua, e a minha ferida, incurável, recusando-se a ser curada? Tornar-te-ás
+      para mim como uma miragem, como águas que enganam?
+    status: ia-sem-revisao
+  '15:19':
+    texto: 'Por isso, assim diz o Senhor: Se voltares, eu te farei voltar, e estarás diante de mim; se
+      separares o precioso do vil, serás como a minha boca. Eles voltarão a ti, mas tu não voltarás a
+      eles.'
+    status: ia-sem-revisao
+  '15:20':
+    texto: Farei de ti, para este povo, uma muralha de bronze fortificada; combaterão contra ti, mas não
+      prevalecerão, pois estou contigo para te salvar e te libertar — oráculo do Senhor.
+    status: ia-sem-revisao
+  '15:21':
+    texto: Livrar-te-ei da mão dos maus e te resgatarei da mão dos violentos.
+    status: ia-sem-revisao
+  '17:5':
+    texto: 'Assim diz o Senhor: Maldito o homem que confia no homem, faz da carne o seu braço e afasta
+      do Senhor o seu coração.'
+    status: ia-sem-revisao
+  '17:6':
+    texto: 'Será como um arbusto na estepe: não verá chegar o bem; habitará lugares secos no deserto,
+      terra salgada e inabitável.'
+    status: ia-sem-revisao
+  '17:7':
+    texto: Bendito o homem que confia no Senhor, cuja confiança é o Senhor.
+    status: ia-sem-revisao
+  '17:8':
+    texto: Será como árvore plantada junto à água, que estende as raízes para a corrente; não teme quando
+      vem o calor, e a sua folhagem permanece verde; em ano de seca não se preocupa e não deixa de dar
+      fruto.
+    status: ia-sem-revisao
+  '17:9':
+    texto: O coração é mais enganador que qualquer outra coisa, e é incurável; quem o poderá conhecer?
+    status: ia-sem-revisao
+  '17:10':
+    texto: Eu, o Senhor, esquadrinho o coração e provo os rins, para dar a cada um segundo o seu proceder,
+      segundo o fruto das suas obras.
+    status: ia-sem-revisao
+  '18:1':
+    texto: 'Palavra que foi dirigida a Jeremias da parte do Senhor:'
+    status: ia-sem-revisao
+  '18:2':
+    texto: “Levanta-te e desce à casa do oleiro; ali te farei ouvir as minhas palavras.”
+    status: ia-sem-revisao
+  '18:3':
+    texto: Desci à casa do oleiro, e eis que ele trabalhava na roda.
+    status: ia-sem-revisao
+  '18:4':
+    texto: O vaso que fazia com o barro estragou-se na mão do oleiro; ele refez outro vaso, como lhe pareceu
+      bem fazer.
+    status: ia-sem-revisao
+  '18:5':
+    texto: 'A palavra do Senhor foi dirigida a mim:'
+    status: ia-sem-revisao
+  '18:6':
+    texto: “Não poderei eu fazer convosco, casa de Israel, como este oleiro? — oráculo do Senhor. Eis
+      que, como o barro na mão do oleiro, assim sois vós na minha mão, casa de Israel.”
+    status: ia-sem-revisao
+  '18:18':
+    texto: 'Disseram: “Vinde, tramemos planos contra Jeremias, pois a lei não faltará ao sacerdote, nem
+      o conselho ao sábio, nem a palavra ao profeta. Vinde, firamo-lo com a língua e não prestemos atenção
+      a nenhuma das suas palavras.”'
+    status: ia-sem-revisao
+  '18:19':
+    texto: Presta atenção a mim, Senhor, e ouve a voz dos meus adversários.
+    status: ia-sem-revisao
+  '18:20':
+    texto: Pagar-se-á o bem com o mal? Pois cavaram uma cova para a minha vida. Lembra-te de que estive
+      diante de ti para falar a favor deles, para afastar deles a tua ira.
+    status: ia-sem-revisao
+  '20:7':
+    texto: Seduziste-me, Senhor, e eu me deixei seduzir; foste mais forte do que eu e prevaleceste. Tornei-me
+      objeto de riso o dia inteiro, todos zombam de mim.
+    status: ia-sem-revisao
+  '20:8':
+    texto: 'Pois cada vez que falo, tenho de gritar: “Violência e opressão!” A palavra do Senhor tornou-se
+      para mim opróbrio e escárnio o dia inteiro.'
+    status: ia-sem-revisao
+  '20:9':
+    texto: 'Eu dizia: “Não me lembrarei mais dele, não falarei mais em seu nome.” Mas havia no meu coração
+      como um fogo ardente, retido nos meus ossos; esforcei-me por contê-lo e não consegui.'
+    status: ia-sem-revisao
+  '20:10':
+    texto: 'Ouvi as murmurações de muitos: “Terror por toda parte! Denunciai-o! Vamos denunciá-lo!” Todos
+      os meus amigos esperavam que eu tropeçasse: “Talvez se deixe enganar, e o venceremos e nos vingaremos
+      dele.”'
+    status: ia-sem-revisao
+  '20:11':
+    texto: 'Mas o Senhor está comigo como um valente guerreiro; por isso os meus perseguidores tropeçarão
+      e não prevalecerão; ficarão muito envergonhados, porque não tiveram êxito: será uma vergonha eterna,
+      que não será esquecida.'
+    status: ia-sem-revisao
+  '20:12':
+    texto: Senhor dos exércitos, que provas o justo, que vês os rins e o coração, que eu veja a tua vingança
+      contra eles, pois a ti confiei a minha causa.
+    status: ia-sem-revisao
+  '20:13':
+    texto: Cantai ao Senhor, louvai o Senhor, porque livrou a vida do pobre da mão dos malfeitores.
+    status: ia-sem-revisao
+  '23:1':
+    texto: Ai dos pastores que destroem e dispersam o rebanho do meu pasto! — oráculo do Senhor.
+    status: ia-sem-revisao
+  '23:2':
+    texto: 'Por isso, assim diz o Senhor, Deus de Israel, contra os pastores que apascentam o meu povo:
+      Vós dispersastes as minhas ovelhas, expulsastes-as e não cuidastes delas; eis que eu vos pedirei
+      contas da maldade das vossas obras — oráculo do Senhor.'
+    status: ia-sem-revisao
+  '23:3':
+    texto: Eu mesmo reunirei o resto das minhas ovelhas, de todas as terras para onde as expulsei, e as
+      farei voltar aos seus pastos; serão fecundas e se multiplicarão.
+    status: ia-sem-revisao
+  '23:4':
+    texto: Suscitarei para elas pastores que as apascentem; não terão mais medo nem terror, e nenhuma
+      se perderá — oráculo do Senhor.
+    status: ia-sem-revisao
+  '23:5':
+    texto: Eis que dias virão — oráculo do Senhor — em que suscitarei para Davi um germe justo; reinará
+      como rei, agirá com sabedoria e praticará o direito e a justiça na terra.
+    status: ia-sem-revisao
+  '23:6':
+    texto: 'Nos seus dias Judá será salvo, e Israel habitará em segurança; e este será o nome com que
+      o chamarão: “O Senhor é a nossa justiça.”'
+    status: ia-sem-revisao
+  '23:7':
+    texto: 'Por isso, eis que dias virão — oráculo do Senhor — em que não se dirá mais: ‘Pela vida do
+      Senhor, que fez subir os filhos de Israel da terra do Egito’,'
+    status: ia-sem-revisao
+  '23:8':
+    texto: 'mas: ‘Pela vida do Senhor, que fez subir e voltar a descendência da casa de Israel da terra
+      do norte e de todas as terras para onde os havia expulsado’; e habitarão na sua própria terra.'
+    status: ia-sem-revisao
+  '26:1':
+    texto: 'No início do reinado de Joaquim, filho de Josias, rei de Judá, veio esta palavra da parte
+      do Senhor:'
+    status: ia-sem-revisao
+  '26:2':
+    texto: '“Assim diz o Senhor: Põe-te no átrio do templo do Senhor e fala a todas as cidades de Judá
+      que vêm adorar no templo do Senhor todas as palavras que te ordenei dizer-lhes; não omitas nenhuma
+      palavra.'
+    status: ia-sem-revisao
+  '26:3':
+    texto: Talvez escutem e cada um se converta do seu mau caminho; então me arrependerei do mal que penso
+      fazer-lhes por causa da maldade das suas obras.
+    status: ia-sem-revisao
+  '26:4':
+    texto: 'Dir-lhes-ás: Assim diz o Senhor: Se não me escutardes, para andar na minha lei, que pus diante
+      de vós,'
+    status: ia-sem-revisao
+  '26:5':
+    texto: para ouvir as palavras dos meus servos, os profetas, que vos envio com insistência e que não
+      escutastes,
+    status: ia-sem-revisao
+  '26:6':
+    texto: farei deste templo como Silo e entregarei esta cidade como maldição a todas as nações da terra.”
+    status: ia-sem-revisao
+  '26:7':
+    texto: Os sacerdotes, os profetas e todo o povo ouviram Jeremias dizer estas palavras no templo do
+      Senhor.
+    status: ia-sem-revisao
+  '26:8':
+    texto: 'Quando Jeremias terminou de dizer tudo o que o Senhor lhe ordenara dizer a todo o povo, os
+      sacerdotes, os profetas e todo o povo o prenderam, dizendo: “Certamente morrerás!'
+    status: ia-sem-revisao
+  '26:9':
+    texto: 'Por que profetizaste em nome do Senhor: ‘Este templo será como Silo, e esta cidade será destruída,
+      sem habitantes’?” E todo o povo se reuniu contra Jeremias no templo do Senhor.'
+    status: ia-sem-revisao
+  '26:11':
+    texto: 'Os sacerdotes e os profetas disseram aos príncipes e a todo o povo: “Este homem merece a pena
+      de morte, pois profetizou contra esta cidade, como ouvistes com os vossos ouvidos.”'
+    status: ia-sem-revisao
+  '26:12':
+    texto: 'Jeremias disse a todos os príncipes e a todo o povo: “O Senhor enviou-me para profetizar contra
+      este templo e contra esta cidade todas as palavras que ouvistes.'
+    status: ia-sem-revisao
+  '26:13':
+    texto: Agora, melhorai os vossos caminhos e as vossas obras e escutai a voz do Senhor, vosso Deus;
+      e o Senhor se arrependerá do mal que anunciou contra vós.
+    status: ia-sem-revisao
+  '26:14':
+    texto: Quanto a mim, estou nas vossas mãos; fazei de mim o que for bom e reto aos vossos olhos.
+    status: ia-sem-revisao
+  '26:15':
+    texto: Mas sabei bem que, se me matardes, trareis sangue inocente sobre vós, sobre esta cidade e sobre
+      os seus habitantes, porque em verdade o Senhor me enviou a vós para dizer aos vossos ouvidos todas
+      estas palavras.”
+    status: ia-sem-revisao
+  '26:16':
+    texto: 'Os príncipes e todo o povo disseram aos sacerdotes e aos profetas: “Este homem não merece
+      a pena de morte, pois falou-nos em nome do Senhor, nosso Deus.”'
+    status: ia-sem-revisao
+  '26:24':
+    texto: Contudo, a mão de Aicam, filho de Safã, protegeu Jeremias, para que não fosse entregue ao povo
+      para ser morto.
+    status: ia-sem-revisao
+  '28:1':
+    texto: 'Nesse mesmo ano, no início do reinado de Sedecias, rei de Judá, no quarto ano, no quinto mês,
+      o profeta Hananias, filho de Azur, de Gabaon, disse-me no templo do Senhor, na presença dos sacerdotes
+      e de todo o povo:'
+    status: ia-sem-revisao
+  '28:2':
+    texto: '“Assim diz o Senhor dos exércitos, Deus de Israel: Quebrei o jugo do rei da Babilônia.'
+    status: ia-sem-revisao
+  '28:3':
+    texto: Dentro de dois anos farei voltar a este lugar todos os utensílios do templo do Senhor, que
+      Nabucodonosor, rei da Babilônia, tirou deste lugar e levou para a Babilônia.
+    status: ia-sem-revisao
+  '28:4':
+    texto: E farei voltar a este lugar Jeconias, filho de Joaquim, rei de Judá, e todos os exilados de
+      Judá que foram para a Babilônia — oráculo do Senhor —, pois quebrarei o jugo do rei da Babilônia.”
+    status: ia-sem-revisao
+  '28:5':
+    texto: O profeta Jeremias respondeu ao profeta Hananias, na presença dos sacerdotes e de todo o povo
+      que estava no templo do Senhor.
+    status: ia-sem-revisao
+  '28:6':
+    texto: 'O profeta Jeremias disse: “Amém! Assim faça o Senhor! Que o Senhor cumpra as palavras que
+      profetizaste, fazendo voltar da Babilônia a este lugar os utensílios do templo do Senhor e todos
+      os exilados.'
+    status: ia-sem-revisao
+  '28:7':
+    texto: 'Mas escuta esta palavra que vou dizer aos teus ouvidos e aos ouvidos de todo o povo:'
+    status: ia-sem-revisao
+  '28:8':
+    texto: Os profetas que houve antes de mim e de ti, desde os tempos antigos, profetizaram contra muitas
+      terras e grandes reinos, anunciando guerra, desgraça e peste.
+    status: ia-sem-revisao
+  '28:9':
+    texto: O profeta que anuncia a paz, quando a palavra do profeta se cumprir, será reconhecido como
+      verdadeiramente enviado pelo Senhor.”
+    status: ia-sem-revisao
+  '28:10':
+    texto: O profeta Hananias tirou o jugo do pescoço do profeta Jeremias e o quebrou.
+    status: ia-sem-revisao
+  '28:11':
+    texto: 'Hananias disse diante de todo o povo: “Assim diz o Senhor: Do mesmo modo quebrarei, dentro
+      de dois anos, o jugo de Nabucodonosor, rei da Babilônia, do pescoço de todas as nações.” E o profeta
+      Jeremias foi-se embora.'
+    status: ia-sem-revisao
+  '28:12':
+    texto: 'Depois que o profeta Hananias quebrou o jugo do pescoço do profeta Jeremias, a palavra do
+      Senhor foi dirigida a Jeremias:'
+    status: ia-sem-revisao
+  '28:13':
+    texto: '“Vai e dize a Hananias: Assim diz o Senhor: Quebraste jugos de madeira, mas em seu lugar farás
+      jugos de ferro.'
+    status: ia-sem-revisao
+  '28:14':
+    texto: 'Pois assim diz o Senhor dos exércitos, Deus de Israel: Pus um jugo de ferro no pescoço de
+      todas estas nações, para servirem Nabucodonosor, rei da Babilônia; e o servirão; entreguei-lhe até
+      os animais do campo.”'
+    status: ia-sem-revisao
+  '28:15':
+    texto: 'O profeta Jeremias disse ao profeta Hananias: “Escuta, Hananias: o Senhor não te enviou, e
+      tu fizeste este povo confiar numa mentira.'
+    status: ia-sem-revisao
+  '28:16':
+    texto: 'Por isso, assim diz o Senhor: Eis que te removerei da face da terra; neste ano morrerás, porque
+      pregaste a rebelião contra o Senhor.”'
+    status: ia-sem-revisao
+  '28:17':
+    texto: O profeta Hananias morreu nesse mesmo ano, no sétimo mês.
+    status: ia-sem-revisao
+  '30:1':
+    texto: 'Palavra que foi dirigida a Jeremias da parte do Senhor:'
+    status: ia-sem-revisao
+  '30:2':
+    texto: '“Assim diz o Senhor, Deus de Israel: Escreve num livro todas as palavras que te falei.'
+    status: ia-sem-revisao
+  '30:12':
+    texto: 'Pois assim diz o Senhor: Incurável é a tua fratura, grave é a tua ferida.'
+    status: ia-sem-revisao
+  '30:13':
+    texto: Ninguém defende a tua causa; para a tua chaga não há remédio, não há cicatrização para ti.
+    status: ia-sem-revisao
+  '30:14':
+    texto: Todos os teus amantes te esqueceram, já não te procuram; pois te feri como fere um inimigo,
+      com castigo cruel, por causa da tua grande culpa, porque se multiplicaram os teus pecados.
+    status: ia-sem-revisao
+  '30:15':
+    texto: Por que gritas por causa da tua fratura? A tua dor é incurável. Por causa da tua grande culpa,
+      porque se multiplicaram os teus pecados, fiz-te estas coisas.
+    status: ia-sem-revisao
+  '30:18':
+    texto: 'Assim diz o Senhor: Eis que vou mudar a sorte das tendas de Jacó e terei compaixão das suas
+      moradas; a cidade será reconstruída sobre as suas ruínas, e o palácio ficará no seu lugar.'
+    status: ia-sem-revisao
+  '30:19':
+    texto: Deles sairão ação de graças e voz de alegria. Multiplicá-los-ei, e não diminuirão; glorificá-los-ei,
+      e não serão desprezados.
+    status: ia-sem-revisao
+  '30:20':
+    texto: Os seus filhos serão como outrora, a sua assembleia se firmará diante de mim, e castigarei
+      todos os seus opressores.
+    status: ia-sem-revisao
+  '30:21':
+    texto: O seu chefe será um deles, e o seu governante sairá do meio deles; fá-lo-ei aproximar-se, e
+      ele virá a mim; pois quem ousaria arriscar a sua vida para se aproximar de mim? — oráculo do Senhor.
+    status: ia-sem-revisao
+  '30:22':
+    texto: Sereis o meu povo, e eu serei o vosso Deus.
+    status: ia-sem-revisao
+  '31:1':
+    texto: Naquele tempo — oráculo do Senhor —, serei o Deus de todas as famílias de Israel, e elas serão
+      o meu povo.
+    status: ia-sem-revisao
+  '31:2':
+    texto: 'Assim diz o Senhor: Achou graça no deserto o povo dos sobreviventes da espada; Israel vai
+      em busca do seu repouso.'
+    status: ia-sem-revisao
+  '31:3':
+    texto: 'De longe me apareceu o Senhor: Amei-te com amor eterno; por isso conservei para ti a minha
+      misericórdia.'
+    status: ia-sem-revisao
+  '31:4':
+    texto: Voltarei a edificar-te, e serás edificada, virgem de Israel; voltarás a adornar-te com os teus
+      tamborins e sairás em danças alegres.
+    status: ia-sem-revisao
+  '31:5':
+    texto: Voltarás a plantar vinhas nos montes de Samaria; os plantadores plantarão e colherão.
+    status: ia-sem-revisao
+  '31:6':
+    texto: 'Pois chegará o dia em que os guardas gritarão nos montes de Efraim: ‘Levantai-vos, subamos
+      a Sião, ao Senhor, nosso Deus!’'
+    status: ia-sem-revisao
+  '31:7':
+    texto: 'Pois assim diz o Senhor: Exultai de alegria por Jacó, aclamai a primeira das nações; proclamai,
+      louvai e dizei: ‘Salva, Senhor, o teu povo, o resto de Israel!’'
+    status: ia-sem-revisao
+  '31:8':
+    texto: 'Eis que os trarei da terra do norte e os reunirei dos confins da terra; entre eles haverá
+      cegos e coxos, mulheres grávidas e parturientes: voltará uma grande multidão.'
+    status: ia-sem-revisao
+  '31:9':
+    texto: Virão chorando, e eu os conduzirei entre súplicas; levá-los-ei a torrentes de água, por um
+      caminho reto, onde não tropeçarão, pois sou um pai para Israel, e Efraim é o meu primogênito.
+    status: ia-sem-revisao
+  '31:10':
+    texto: 'Ouvi a palavra do Senhor, nações; anunciai-a nas ilhas distantes e dizei: ‘Aquele que dispersou
+      Israel o reunirá e o guardará como o pastor guarda o seu rebanho.’'
+    status: ia-sem-revisao
+  '31:11':
+    texto: Pois o Senhor resgatou Jacó e o libertou da mão de um mais forte do que ele.
+    status: ia-sem-revisao
+  '31:12':
+    texto: 'Virão e exultarão no alto de Sião e afluirão aos bens do Senhor: ao trigo, ao vinho novo,
+      ao azeite, às crias do rebanho e do gado; a sua alma será como um jardim regado, e não voltarão
+      a desfalecer.'
+    partes:
+    - 'Virão e exultarão no alto de Sião e afluirão aos bens do Senhor: ao trigo, ao vinho novo, ao azeite,
+      às crias do rebanho e do gado;'
+    - a sua alma será como um jardim regado, e não voltarão a desfalecer.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '31:13':
+    texto: Então a virgem se alegrará na dança, e jovens e velhos, juntos; mudarei o seu luto em alegria,
+      consolá-los-ei e os alegrarei depois da sua dor.
+    status: ia-sem-revisao
+  '31:31':
+    texto: Eis que dias virão — oráculo do Senhor — em que farei com a casa de Israel e com a casa de
+      Judá uma aliança nova.
+    status: ia-sem-revisao
+  '31:32':
+    texto: 'Não como a aliança que fiz com os seus pais, no dia em que os tomei pela mão para os tirar
+      da terra do Egito: eles romperam a minha aliança, embora eu fosse o seu esposo — oráculo do Senhor.'
+    status: ia-sem-revisao
+  '31:33':
+    texto: 'Mas esta será a aliança que farei com a casa de Israel depois daqueles dias — oráculo do Senhor:
+      porei a minha lei no seu íntimo e a escreverei no seu coração; eu serei o seu Deus, e eles serão
+      o meu povo.'
+    status: ia-sem-revisao
+  '31:34':
+    texto: 'Já não ensinará cada um ao seu próximo, cada um ao seu irmão, dizendo: ‘Conhecei o Senhor’,
+      pois todos me conhecerão, do menor ao maior — oráculo do Senhor —, porque perdoarei a sua culpa
+      e não me lembrarei mais do seu pecado.'
+    status: ia-sem-revisao
+  '33:14':
+    texto: Eis que dias virão — oráculo do Senhor — em que cumprirei a boa palavra que disse à casa de
+      Israel e à casa de Judá.
+    status: ia-sem-revisao
+  '33:15':
+    texto: Naqueles dias e naquele tempo farei brotar para Davi um germe de justiça, que praticará o direito
+      e a justiça na terra.
+    status: ia-sem-revisao
+  '33:16':
+    texto: 'Naqueles dias Judá será salvo, e Jerusalém habitará em segurança; e este será o nome com que
+      a chamarão: “O Senhor é a nossa justiça.”'
+    status: ia-sem-revisao
+  '38:4':
+    texto: 'Os príncipes disseram ao rei: “Que este homem seja morto, pois assim enfraquece as mãos dos
+      guerreiros que restam nesta cidade e as mãos de todo o povo, falando-lhes desse modo; este homem
+      não busca a paz para este povo, mas a desgraça.”'
+    status: ia-sem-revisao
+  '38:5':
+    texto: 'O rei Sedecias respondeu: “Ei-lo em vossas mãos, pois o rei nada pode contra vós.”'
+    status: ia-sem-revisao
+  '38:6':
+    texto: Tomaram Jeremias e lançaram-no na cisterna de Melquias, filho do rei, que estava no átrio da
+      guarda; baixaram Jeremias com cordas. Na cisterna não havia água, mas lodo, e Jeremias afundou no
+      lodo.
+    status: ia-sem-revisao
+  '38:8':
+    texto: 'Ebed-Melec saiu do palácio do rei e disse ao rei:'
+    status: ia-sem-revisao
+  '38:9':
+    texto: “Senhor meu rei, esses homens procederam mal em tudo o que fizeram ao profeta Jeremias, lançando-o
+      na cisterna; ele morrerá de fome onde está, pois já não há pão na cidade.”
+    status: ia-sem-revisao
+  '38:10':
+    texto: 'O rei ordenou a Ebed-Melec, o cuxita: “Toma daqui trinta homens contigo e retira o profeta
+      Jeremias da cisterna, antes que morra.”'
+    status: ia-sem-revisao
