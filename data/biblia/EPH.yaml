@@ -171,7 +171,11 @@ versiculos:
     status: ia-sem-revisao
   '3:3':
     texto: Por revelação foi-me dado a conhecer o mistério, como atrás escrevi em poucas palavras,
+    partes:
+    - Por revelação foi-me dado a conhecer o mistério,
+    - como atrás escrevi em poucas palavras,
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '3:4':
     texto: Pelas quais, lendo, podeis perceber a minha compreensão do mistério de Cristo,
     status: ia-sem-revisao

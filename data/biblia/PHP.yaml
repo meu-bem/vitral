@@ -62,7 +62,12 @@ versiculos:
   '1:18':
     texto: Que importa? De qualquer modo, quer por pretexto, quer por verdade, Cristo é anunciado, e com
       isso me alegro; e me alegrarei ainda,
+    partes:
+    - Que importa? De qualquer modo, quer por pretexto, quer por verdade, Cristo é anunciado, e com isso
+      me alegro;
+    - e me alegrarei ainda,
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '1:19':
     texto: Pois sei que isto redundará em minha salvação, graças à vossa oração e ao auxílio do Espírito
       de Jesus Cristo,
@@ -71,7 +76,12 @@ versiculos:
     texto: Segundo a minha expectativa e esperança de que em nada serei envergonhado, mas, com toda a
       ousadia, como sempre e também agora, Cristo será engrandecido no meu corpo, seja pela vida, seja
       pela morte.
+    partes:
+    - Segundo a minha expectativa e esperança de que em nada serei envergonhado,
+    - mas, com toda a ousadia, como sempre e também agora, Cristo será engrandecido no meu corpo,
+    - seja pela vida, seja pela morte.
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '1:21':
     texto: Pois para mim o viver é Cristo, e o morrer é ganho.
     status: ia-sem-revisao
@@ -97,7 +107,12 @@ versiculos:
     texto: Somente levai uma vida digna do Evangelho de Cristo, para que, quer eu vá e vos veja, quer
       ausente ouça falar de vós, vos mantenhais firmes em um só espírito, lutando juntos, com uma só alma,
       pela fé do Evangelho,
+    partes:
+    - Somente levai uma vida digna do Evangelho de Cristo,
+    - para que, quer eu vá e vos veja, quer ausente ouça falar de vós, vos mantenhais firmes em um só
+      espírito, lutando juntos, com uma só alma, pela fé do Evangelho,
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '1:28':
     texto: Sem vos deixar intimidar em nada pelos adversários (o que para eles é sinal de perdição, e
       para vós de salvação, e isto da parte de Deus),

@@ -29,7 +29,11 @@ versiculos:
   '1:8':
     texto: Não te envergonhes, pois, do testemunho de nosso Senhor, nem de mim, seu prisioneiro, mas sofre
       comigo pelo Evangelho, segundo o poder de Deus,
+    partes:
+    - Não te envergonhes, pois, do testemunho de nosso Senhor, nem de mim, seu prisioneiro,
+    - mas sofre comigo pelo Evangelho, segundo o poder de Deus,
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '1:9':
     texto: Que nos salvou e nos chamou com uma vocação santa, não segundo as nossas obras, mas segundo
       o seu próprio desígnio e graça, que nos foi dada em Cristo Jesus antes dos tempos eternos,
@@ -141,7 +145,11 @@ versiculos:
   '2:22':
     texto: Foge dos desejos da juventude, busca a justiça, a fé, o amor, a paz, com os que invocam o Senhor
       com coração puro.
+    partes:
+    - Foge dos desejos da juventude,
+    - busca a justiça, a fé, o amor, a paz, com os que invocam o Senhor com coração puro.
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '2:23':
     texto: Evita as questões insensatas e sem instrução, sabendo que geram contendas;
     status: ia-sem-revisao

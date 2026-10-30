@@ -433,7 +433,11 @@ versiculos:
   '5:5':
     texto: E a esperança não decepciona, porque o amor de Deus foi derramado em nossos corações pelo Espírito
       Santo que nos foi dado.
+    partes:
+    - E a esperança não decepciona,
+    - porque o amor de Deus foi derramado em nossos corações pelo Espírito Santo que nos foi dado.
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '5:6':
     texto: Pois, quando ainda éramos fracos, Cristo, no tempo marcado, morreu pelos ímpios.
     status: ia-sem-revisao
@@ -472,7 +476,12 @@ versiculos:
     texto: Mas o dom não é como a transgressão; pois, se pela transgressão de um só morreram os muitos,
       muito mais a graça de Deus e o dom, dado pela graça de um só homem, Jesus Cristo, abundaram para
       os muitos.
+    partes:
+    - Mas o dom não é como a transgressão;
+    - pois, se pela transgressão de um só morreram os muitos, muito mais a graça de Deus e o dom, dado
+      pela graça de um só homem, Jesus Cristo, abundaram para os muitos.
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '5:16':
     texto: 'E o dom não é como o que veio por um só que pecou: o julgamento, a partir de um só, levou
       à condenação; o dom, a partir de muitas transgressões, levou à justificação.'
@@ -492,7 +501,11 @@ versiculos:
   '5:20':
     texto: A Lei interveio para que a transgressão se multiplicasse; mas onde se multiplicou o pecado,
       superabundou a graça,
+    partes:
+    - A Lei interveio para que a transgressão se multiplicasse;
+    - mas onde se multiplicou o pecado, superabundou a graça,
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '5:21':
     texto: Para que, como o pecado reinou na morte, assim também a graça reine pela justiça para a vida
       eterna, por Jesus Cristo, nosso Senhor.
@@ -665,7 +678,11 @@ versiculos:
   '7:25':
     texto: Graças a Deus por Jesus Cristo, nosso Senhor! Assim, eu mesmo, com a mente sirvo à lei de Deus,
       mas com a carne, à lei do pecado.
+    partes:
+    - Graças a Deus por Jesus Cristo, nosso Senhor!
+    - Assim, eu mesmo, com a mente sirvo à lei de Deus, mas com a carne, à lei do pecado.
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '8:1':
     texto: Portanto, nenhuma condenação há agora para os que estão em Cristo Jesus.
     status: ia-sem-revisao
@@ -779,7 +796,11 @@ versiculos:
     status: ia-sem-revisao
   '8:31':
     texto: Que diremos, pois, diante disto? Se Deus é por nós, quem será contra nós?
+    partes:
+    - Que diremos, pois, diante disto?
+    - Se Deus é por nós, quem será contra nós?
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '8:32':
     texto: Ele, que não poupou o seu próprio Filho, mas o entregou por todos nós, como não nos dará também
       com ele todas as coisas?
@@ -1185,7 +1206,12 @@ versiculos:
   '12:16':
     texto: Tende o mesmo sentimento uns para com os outros; não alimenteis pensamentos altivos, mas deixai-vos
       levar pelas coisas humildes. Não vos considereis sábios.
+    partes:
+    - Tende o mesmo sentimento uns para com os outros; não alimenteis pensamentos altivos, mas deixai-vos
+      levar pelas coisas humildes.
+    - Não vos considereis sábios.
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '12:17':
     texto: A ninguém pagueis mal com mal; procurai o bem diante de todos os homens;
     status: ia-sem-revisao

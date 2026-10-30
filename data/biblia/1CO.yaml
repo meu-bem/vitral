@@ -145,7 +145,11 @@ versiculos:
   '2:10':
     texto: A nós, porém, Deus o revelou pelo Espírito; pois o Espírito sonda tudo, até as profundezas
       de Deus.
+    partes:
+    - A nós, porém, Deus o revelou pelo Espírito;
+    - pois o Espírito sonda tudo, até as profundezas de Deus.
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '2:11':
     texto: Pois, quem dentre os homens conhece o que é do homem, senão o espírito do homem que está nele?
       Assim também as coisas de Deus ninguém as conhece, senão o Espírito de Deus.
@@ -418,14 +422,23 @@ versiculos:
   '6:13':
     texto: “Os alimentos são para o ventre, e o ventre para os alimentos”; mas Deus destruirá tanto um
       como os outros. O corpo, porém, não é para a imoralidade, mas para o Senhor, e o Senhor para o corpo;
+    partes:
+    - “Os alimentos são para o ventre, e o ventre para os alimentos”;
+    - mas Deus destruirá tanto um como os outros.
+    - O corpo, porém, não é para a imoralidade, mas para o Senhor, e o Senhor para o corpo;
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '6:14':
     texto: E Deus, que ressuscitou o Senhor, também nos ressuscitará pelo seu poder.
     status: ia-sem-revisao
   '6:15':
     texto: Não sabeis que os vossos corpos são membros de Cristo? Tomarei, então, os membros de Cristo
       para fazê-los membros de uma prostituta? De modo algum!
+    partes:
+    - Não sabeis que os vossos corpos são membros de Cristo?
+    - Tomarei, então, os membros de Cristo para fazê-los membros de uma prostituta? De modo algum!
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '6:16':
     texto: Ou não sabeis que quem se une à prostituta é um só corpo com ela? Pois “os dois serão uma só
       carne”, diz a Escritura.
@@ -591,7 +604,11 @@ versiculos:
   '8:1':
     texto: Quanto às carnes sacrificadas aos ídolos, sabemos que todos temos conhecimento. O conhecimento
       ensoberbece, mas o amor edifica.
+    partes:
+    - Quanto às carnes sacrificadas aos ídolos, sabemos que todos temos conhecimento.
+    - O conhecimento ensoberbece, mas o amor edifica.
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '8:2':
     texto: Se alguém julga conhecer alguma coisa, ainda não conheceu como convém conhecer;
     status: ia-sem-revisao
@@ -973,7 +990,11 @@ versiculos:
   '12:3':
     texto: 'Por isso vos faço saber que ninguém, falando no Espírito de Deus, diz: “Anátema seja Jesus”,
       e ninguém pode dizer: “Jesus é Senhor”, a não ser no Espírito Santo.'
+    partes:
+    - 'Por isso vos faço saber que ninguém, falando no Espírito de Deus, diz: “Anátema seja Jesus”,'
+    - 'e ninguém pode dizer: “Jesus é Senhor”, a não ser no Espírito Santo.'
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '12:4':
     texto: Há diversidade de dons, mas o mesmo Espírito;
     status: ia-sem-revisao
@@ -1067,7 +1088,11 @@ versiculos:
     status: ia-sem-revisao
   '12:31':
     texto: Aspirai aos dons maiores. E vou mostrar-vos ainda um caminho incomparavelmente superior.
+    partes:
+    - Aspirai aos dons maiores.
+    - E vou mostrar-vos ainda um caminho incomparavelmente superior.
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '13:1':
     texto: Se eu falar as línguas dos homens e dos anjos, mas não tiver amor, sou como bronze que soa
       ou címbalo que retine.

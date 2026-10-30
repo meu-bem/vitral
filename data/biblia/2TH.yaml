@@ -41,7 +41,11 @@ versiculos:
   '1:11':
     texto: Para isso também rezamos sempre por vós, para que o nosso Deus vos torne dignos da vocação
       e leve à perfeição, com poder, todo desejo de bondade e obra de fé,
+    partes:
+    - Para isso também rezamos sempre por vós, para que o nosso Deus vos torne dignos da vocação
+    - e leve à perfeição, com poder, todo desejo de bondade e obra de fé,
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '1:12':
     texto: Para que o nome de nosso Senhor Jesus seja glorificado em vós, e vós nele, segundo a graça
       de nosso Deus e do Senhor Jesus Cristo.
@@ -56,7 +60,11 @@ versiculos:
   '2:3':
     texto: Que ninguém vos engane de modo algum; porque primeiro deve vir a apostasia e revelar-se o homem
       da iniquidade, o filho da perdição,
+    partes:
+    - Que ninguém vos engane de modo algum;
+    - porque primeiro deve vir a apostasia e revelar-se o homem da iniquidade, o filho da perdição,
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '2:4':
     texto: O adversário, que se exalta acima de tudo o que se chama deus ou é objeto de culto, a ponto
       de sentar-se no templo de Deus, proclamando-se a si mesmo Deus.

@@ -18,7 +18,12 @@ versiculos:
   '1:5':
     texto: Porque o nosso Evangelho não chegou até vós somente em palavra, mas também em poder, no Espírito
       Santo e em plena convicção, como sabeis que fomos entre vós, por vossa causa.
+    partes:
+    - Porque o nosso Evangelho não chegou até vós somente em palavra,
+    - mas também em poder, no Espírito Santo e em plena convicção,
+    - como sabeis que fomos entre vós, por vossa causa.
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '1:6':
     texto: E vós vos tornastes imitadores nossos e do Senhor, acolhendo a palavra em meio a muita tribulação,
       com a alegria do Espírito Santo,
@@ -44,7 +49,11 @@ versiculos:
   '2:2':
     texto: Mas, tendo antes sofrido e sido ultrajados em Filipos, como sabeis, tivemos a ousadia, em nosso
       Deus, de vos anunciar o Evangelho de Deus em meio a muito combate.
+    partes:
+    - Mas, tendo antes sofrido e sido ultrajados em Filipos, como sabeis,
+    - tivemos a ousadia, em nosso Deus, de vos anunciar o Evangelho de Deus em meio a muito combate.
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '2:3':
     texto: Pois a nossa exortação não procede de erro nem de impureza, nem se faz com engano,
     status: ia-sem-revisao
@@ -62,7 +71,11 @@ versiculos:
   '2:7':
     texto: Embora pudéssemos impor-nos com autoridade como apóstolos de Cristo; mas fomos bondosos no
       meio de vós, como uma mãe que acalenta os seus próprios filhos.
+    partes:
+    - Embora pudéssemos impor-nos com autoridade como apóstolos de Cristo;
+    - mas fomos bondosos no meio de vós, como uma mãe que acalenta os seus próprios filhos.
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '2:8':
     texto: Assim, ternamente afeiçoados a vós, queríamos dar-vos não só o Evangelho de Deus, mas também
       a nossa própria vida, porque vos tornastes muito queridos para nós.

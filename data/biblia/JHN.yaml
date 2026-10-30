@@ -1,8 +1,7 @@
 livro: JHN
 fonte: sblgnt
 omitidos:
-  '5:4': O SBLGNT não traz este versículo (o anjo que agitava a água da piscina); a Nova Vulgata
-    sim.
+  '5:4': O SBLGNT não traz este versículo (o anjo que agitava a água da piscina); a Nova Vulgata sim.
 versiculos:
   '1:1':
     texto: No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus.
@@ -597,7 +596,11 @@ versiculos:
     status: ia-sem-revisao
   '5:3':
     texto: 'Neles jazia uma multidão de doentes: cegos, coxos, paralíticos.'
+    partes:
+    - 'Neles jazia uma multidão de doentes:'
+    - cegos, coxos, paralíticos.
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '5:5':
     texto: Havia ali um homem que estava doente havia trinta e oito anos;
     status: ia-sem-revisao
@@ -2143,7 +2146,12 @@ versiculos:
   '13:33':
     texto: 'Filhinhos, ainda por um pouco estou convosco; procurar-me-eis, e, como disse aos judeus: ‘Para
       onde eu vou, vós não podeis vir’, também a vós o digo agora.'
+    partes:
+    - Filhinhos, ainda por um pouco estou convosco;
+    - 'procurar-me-eis, e, como disse aos judeus: ‘Para onde eu vou, vós não podeis vir’, também a vós
+      o digo agora.'
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '13:34':
     texto: 'Dou-vos um mandamento novo: que vos ameis uns aos outros; como eu vos amei, amai-vos também
       uns aos outros.'
@@ -2444,7 +2452,11 @@ versiculos:
   '16:23':
     texto: 'Naquele dia nada me perguntareis. Em verdade, em verdade vos digo: se pedirdes algo ao Pai,
       ele vo-lo dará em meu nome.'
+    partes:
+    - Naquele dia nada me perguntareis.
+    - 'Em verdade, em verdade vos digo: se pedirdes algo ao Pai, ele vo-lo dará em meu nome.'
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '16:24':
     texto: Até agora nada pedistes em meu nome; pedi e recebereis, para que a vossa alegria seja plena.
     status: ia-sem-revisao
@@ -2517,7 +2529,11 @@ versiculos:
   '17:11':
     texto: Já não estou no mundo, mas eles estão no mundo, e eu vou para ti. Pai santo, guarda-os no teu
       nome, que me deste, para que sejam um, como nós.
+    partes:
+    - Já não estou no mundo, mas eles estão no mundo, e eu vou para ti.
+    - Pai santo, guarda-os no teu nome, que me deste, para que sejam um, como nós.
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '17:12':
     texto: Quando estava com eles, eu os guardava no teu nome, que me deste, e os protegi, e nenhum deles
       se perdeu, a não ser o filho da perdição, para que se cumprisse a Escritura.
