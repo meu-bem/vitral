@@ -1,0 +1,165 @@
+livro: LEV
+fonte: oshb
+versiculos:
+  '13:1':
+    texto: 'O Senhor disse a Moisés e a Aarão:'
+    status: ia-sem-revisao
+  '13:2':
+    texto: “Quando alguém tiver na pele do seu corpo um inchaço, uma erupção ou uma mancha brilhante,
+      que se torne na pele do seu corpo uma chaga de lepra, será levado ao sacerdote Aarão ou a um de
+      seus filhos sacerdotes.
+    status: ia-sem-revisao
+  '13:44':
+    texto: É um leproso, é impuro; o sacerdote o declarará impuro; a chaga está na sua cabeça.
+    status: ia-sem-revisao
+  '13:45':
+    texto: 'O leproso que tem a chaga terá as vestes rasgadas e a cabeça descoberta, cobrirá o bigode
+      e gritará: ‘Impuro! Impuro!’'
+    status: ia-sem-revisao
+  '13:46':
+    texto: 'Durante todos os dias em que tiver a chaga, será impuro. É impuro: morará só; a sua morada
+      ficará fora do acampamento.'
+    status: ia-sem-revisao
+  '19:1':
+    texto: 'O Senhor disse a Moisés:'
+    status: ia-sem-revisao
+  '19:2':
+    texto: '“Fala a toda a comunidade dos filhos de Israel e dize-lhes: Sede santos, porque eu, o Senhor,
+      vosso Deus, sou santo.'
+    status: ia-sem-revisao
+  '19:11':
+    texto: Não furtareis, não negareis, não mentireis uns aos outros.
+    status: ia-sem-revisao
+  '19:12':
+    texto: Não jurareis falsamente pelo meu nome, profanando o nome do teu Deus. Eu sou o Senhor.
+    status: ia-sem-revisao
+  '19:13':
+    texto: Não oprimirás o teu próximo nem o roubarás; o salário do diarista não ficará contigo até a
+      manhã.
+    status: ia-sem-revisao
+  '19:14':
+    texto: Não amaldiçoarás o surdo nem porás tropeço diante do cego; temerás o teu Deus. Eu sou o Senhor.
+    status: ia-sem-revisao
+  '19:15':
+    texto: 'Não cometereis injustiça no julgamento: não favorecerás o pobre nem honrarás o grande; com
+      justiça julgarás o teu próximo.'
+    status: ia-sem-revisao
+  '19:16':
+    texto: Não andarás difamando entre o teu povo, nem atentarás contra o sangue do teu próximo. Eu sou
+      o Senhor.
+    status: ia-sem-revisao
+  '19:17':
+    texto: Não odiarás o teu irmão no teu coração; repreenderás o teu próximo, para não te carregares
+      de pecado por causa dele.
+    status: ia-sem-revisao
+  '19:18':
+    texto: Não te vingarás nem guardarás rancor contra os filhos do teu povo; amarás o teu próximo como
+      a ti mesmo. Eu sou o Senhor.
+    status: ia-sem-revisao
+  '23:1':
+    texto: 'O Senhor disse a Moisés:'
+    status: ia-sem-revisao
+  '23:4':
+    texto: Estas são as festas do Senhor, as convocações santas que proclamareis nos seus tempos.
+    status: ia-sem-revisao
+  '23:5':
+    texto: No primeiro mês, no dia catorze do mês, ao entardecer, é a Páscoa do Senhor.
+    status: ia-sem-revisao
+  '23:6':
+    texto: No dia quinze desse mês é a festa dos Ázimos para o Senhor; durante sete dias comereis pães
+      ázimos.
+    status: ia-sem-revisao
+  '23:7':
+    texto: No primeiro dia tereis convocação santa; não fareis nenhum trabalho servil.
+    status: ia-sem-revisao
+  '23:8':
+    texto: Durante sete dias oferecereis ao Senhor um sacrifício pelo fogo; no sétimo dia haverá convocação
+      santa; não fareis nenhum trabalho servil.”
+    status: ia-sem-revisao
+  '23:9':
+    texto: 'O Senhor disse a Moisés:'
+    status: ia-sem-revisao
+  '23:10':
+    texto: '“Fala aos filhos de Israel e dize-lhes: Quando entrardes na terra que vos dou e ceifardes
+      a sua messe, trareis ao sacerdote um molho das primícias da vossa messe.'
+    status: ia-sem-revisao
+  '23:11':
+    texto: Ele agitará o molho diante do Senhor, para que sejais aceitos; o sacerdote o agitará no dia
+      seguinte ao sábado.
+    status: ia-sem-revisao
+  '23:15':
+    texto: Contareis para vós, a partir do dia seguinte ao sábado, do dia em que trouxerdes o molho da
+      oferta agitada, sete semanas completas.
+    status: ia-sem-revisao
+  '23:16':
+    texto: Até o dia seguinte ao sétimo sábado contareis cinquenta dias, e oferecereis ao Senhor uma oferta
+      nova de cereais.
+    status: ia-sem-revisao
+  '23:27':
+    texto: 'Mas o décimo dia deste sétimo mês é o dia da Expiação: tereis convocação santa, afligireis
+      as vossas almas e oferecereis ao Senhor um sacrifício pelo fogo.'
+    status: ia-sem-revisao
+  '23:34':
+    texto: '“Fala aos filhos de Israel e dize: No dia quinze deste sétimo mês será a festa das Tendas,
+      durante sete dias, para o Senhor.'
+    partes:
+    - '“Fala aos filhos de Israel e dize:'
+    - No dia quinze deste sétimo mês será a festa das Tendas, durante sete dias, para o Senhor.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '23:35':
+    texto: No primeiro dia haverá convocação santa; não fareis nenhum trabalho servil.
+    status: ia-sem-revisao
+  '23:36':
+    texto: 'Durante sete dias oferecereis ao Senhor um sacrifício pelo fogo; no oitavo dia tereis convocação
+      santa e oferecereis ao Senhor um sacrifício pelo fogo; é a assembleia solene: não fareis nenhum
+      trabalho servil.'
+    status: ia-sem-revisao
+  '23:37':
+    texto: Estas são as festas do Senhor que proclamareis como convocações santas, para oferecer ao Senhor
+      sacrifício pelo fogo, holocausto, oferta de cereais, sacrifício e libações, cada coisa no seu dia,
+    status: ia-sem-revisao
+  '23:38':
+    texto: além dos sábados do Senhor, além dos vossos dons, além de todos os vossos votos e além de todas
+      as vossas ofertas voluntárias que dais ao Senhor.
+    status: ia-sem-revisao
+  '25:1':
+    texto: 'O Senhor disse a Moisés no monte Sinai:'
+    status: ia-sem-revisao
+  '25:8':
+    texto: Contarás sete semanas de anos, sete vezes sete anos; os dias das sete semanas de anos serão
+      para ti quarenta e nove anos.
+    status: ia-sem-revisao
+  '25:9':
+    texto: Então farás soar a trombeta do toque no décimo dia do sétimo mês; no dia da Expiação fareis
+      soar a trombeta por toda a vossa terra.
+    status: ia-sem-revisao
+  '25:10':
+    texto: 'Santificareis o quinquagésimo ano e proclamareis a liberdade na terra para todos os seus habitantes;
+      será para vós um jubileu: cada um voltará à sua propriedade, e cada um voltará à sua família.'
+    status: ia-sem-revisao
+  '25:11':
+    texto: 'O quinquagésimo ano será para vós um jubileu: não semeareis, nem colhereis o que nascer por
+      si, nem vindimareis as vinhas não podadas.'
+    status: ia-sem-revisao
+  '25:12':
+    texto: Porque é jubileu, será santo para vós; comereis o produto do campo.
+    status: ia-sem-revisao
+  '25:13':
+    texto: Neste ano do jubileu voltareis cada um à sua propriedade.
+    status: ia-sem-revisao
+  '25:14':
+    texto: Se venderdes algo ao vosso próximo ou comprardes da mão do vosso próximo, ninguém engane o
+      seu irmão.
+    status: ia-sem-revisao
+  '25:15':
+    texto: Segundo o número de anos depois do jubileu comprarás do teu próximo; segundo o número de anos
+      de colheitas ele te venderá.
+    status: ia-sem-revisao
+  '25:16':
+    texto: Quanto mais forem os anos, aumentarás o preço; quanto menos forem os anos, diminuirás o preço,
+      porque é um número de colheitas que ele te vende.
+    status: ia-sem-revisao
+  '25:17':
+    texto: Ninguém engane o seu próximo; temerás o teu Deus, pois eu sou o Senhor, vosso Deus.
+    status: ia-sem-revisao
