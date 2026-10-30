@@ -1,0 +1,54 @@
+livro: SNG
+fonte: oshb
+versiculos:
+  '2:8':
+    texto: A voz do meu amado! Eis que ele vem, saltando sobre os montes, pulando sobre as colinas.
+    status: ia-sem-revisao
+  '2:9':
+    texto: O meu amado é semelhante a uma gazela ou a um filhote de cervos. Eis que ele está de pé atrás
+      do nosso muro, olhando pelas janelas, espreitando pelas grades.
+    status: ia-sem-revisao
+  '2:10':
+    texto: 'O meu amado falou e me disse: “Levanta-te, minha amiga, minha bela, e vem.'
+    status: ia-sem-revisao
+  '2:11':
+    texto: Pois eis que o inverno passou, a chuva cessou e se foi.
+    status: ia-sem-revisao
+  '2:12':
+    texto: Aparecem as flores na terra, chegou o tempo da poda, e a voz da rola se ouve na nossa terra.
+    status: ia-sem-revisao
+  '2:13':
+    texto: A figueira amadurece os seus primeiros frutos, e as vinhas em flor exalam perfume. Levanta-te,
+      minha amiga, minha bela, e vem.
+    status: ia-sem-revisao
+  '2:14':
+    texto: Pomba minha, nas fendas da rocha, no esconderijo dos penhascos, mostra-me o teu rosto, faze-me
+      ouvir a tua voz, pois a tua voz é doce e o teu rosto é formoso.”
+    status: ia-sem-revisao
+  '3:1':
+    texto: Em meu leito, durante as noites, procurei aquele que a minha alma ama; procurei-o e não o encontrei.
+    status: ia-sem-revisao
+  '3:2':
+    texto: Levantar-me-ei e percorrerei a cidade, os mercados e as praças; procurarei aquele que a minha
+      alma ama. Procurei-o e não o encontrei.
+    status: ia-sem-revisao
+  '3:3':
+    texto: 'Encontraram-me os guardas que rondam a cidade: “Vistes aquele que a minha alma ama?”'
+    status: ia-sem-revisao
+  '3:4':
+    texto: Pouco depois de os ter deixado, encontrei aquele que a minha alma ama; agarrei-o e não o largarei
+      até o introduzir na casa de minha mãe, no quarto da que me concebeu.
+    partes:
+    - Pouco depois de os ter deixado, encontrei aquele que a minha alma ama;
+    - agarrei-o e não o largarei até o introduzir na casa de minha mãe, no quarto da que me concebeu.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '8:6':
+    texto: Põe-me como um selo sobre o teu coração, como um selo sobre o teu braço, porque forte como
+      a morte é o amor, duro como o Xeol é o ciúme; as suas chamas são chamas de fogo, labaredas do Senhor.
+    status: ia-sem-revisao
+    observacao: '“Labaredas do Senhor” (shalhevetyah): também pode ser “labaredas violentas”.'
+  '8:7':
+    texto: Muitas águas não poderão apagar o amor, nem os rios o arrastarão. Se alguém desse todos os
+      bens da sua casa pelo amor, só receberia desprezo.
+    status: ia-sem-revisao
