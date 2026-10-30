@@ -16,6 +16,12 @@ A tradução é feita por IA (Claude) sob responsabilidade e edição de Mateus 
 - Ordem das palavras e vocabulário seguem o original, sem consultar tradução portuguesa existente.
   Trechos muito conhecidos têm risco de coincidir com versões protegidas; ver revisão por amostragem abaixo.
 
+## Daniel
+
+`DAN.yaml` usa a numeração católica (a do Lecionário) no cap. 3 e nos caps. 13 e 14: Dn 3,24-90 (oração de
+Azarias e cântico dos três jovens), Dn 13 (Susana) e Dn 14 (Bel e o dragão) vêm do latim da Clementina, com `observacao`
+no primeiro versículo de cada trecho; Dn 3,91-100 é o aramaico 3,24-33. O resto do livro vem do hebraico/aramaico (OSHB).
+
 ## Qual texto seguir
 
 Segue-se o texto-base de cada fonte (SBLGNT, OSHB). Onde ele diverge da Nova Vulgata, base do Lecionário,

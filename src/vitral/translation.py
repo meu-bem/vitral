@@ -22,6 +22,9 @@ __all__ = ["Gap", "Coverage", "load_translation", "lectionary_refs", "check_cove
 
 TRANSLATION_DIR = DATA_DIR / "biblia"
 _CODES = {b.code for b in BOOKS}
+# Daniel segue a numeração católica no cap. 3 (Dn 3,24-90 = acréscimos gregos; 3,91-100 = aramaico 3,24-33)
+# e tem os caps. 13 (Susana) e 14 (Bel e o dragão), que a versificação hebraica não conhece.
+_DAN_CATHOLIC = {3: 100, 13: 64, 14: 42}
 
 
 @dataclass
@@ -128,7 +131,11 @@ def check_files(root: Path = ROOT) -> list[str]:
         if doc["livro"] != path.stem or doc["livro"] not in _CODES:
             errors.append(f"{path.name}: código de livro inválido ou diferente do nome do arquivo")
             continue
-        limits = max_verses.get(doc["livro"], [])
+        limits = list(max_verses.get(doc["livro"], []))
+        if doc["livro"] == "DAN":
+            limits += [0] * (max(_DAN_CATHOLIC) - len(limits))
+            for c, n in _DAN_CATHOLIC.items():
+                limits[c - 1] = max(limits[c - 1], n)
         for key in [*doc["versiculos"], *doc.get("omitidos", {})]:
             c, v = map(int, key.split(":"))
             if c < 1 or c > len(limits) or v < 1 or v > limits[c - 1]:
