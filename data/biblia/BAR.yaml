@@ -1,0 +1,163 @@
+livro: BAR
+fonte: clementina
+versiculos:
+  '1:15':
+    texto: 'e direis: “Ao Senhor, nosso Deus, a justiça; a nós, porém, a confusão do nosso rosto, como
+      hoje, a todo Judá e aos habitantes de Jerusalém,'
+    status: ia-sem-revisao
+    observacao: Livro deuterocanônico, traduzido do latim (Clementina).
+  '1:16':
+    texto: aos nossos reis, aos nossos príncipes, aos nossos sacerdotes, aos nossos profetas e aos nossos
+      pais.
+    status: ia-sem-revisao
+  '1:17':
+    texto: Pecamos diante do Senhor, nosso Deus, e não cremos, desconfiando dele,
+    status: ia-sem-revisao
+  '1:18':
+    texto: e não lhe fomos submissos, e não ouvimos a voz do Senhor, nosso Deus, para andarmos nos mandamentos
+      que nos deu.
+    status: ia-sem-revisao
+  '1:19':
+    texto: Desde o dia em que tirou nossos pais da terra do Egito até hoje, fomos incrédulos para com
+      o Senhor, nosso Deus; e, dispersos, afastamo-nos para não ouvir a sua voz.
+    status: ia-sem-revisao
+  '1:20':
+    texto: E apegaram-se a nós muitos males e as maldições que o Senhor estabeleceu por Moisés, seu servo,
+      que tirou nossos pais da terra do Egito para nos dar uma terra que mana leite e mel, como hoje.
+    status: ia-sem-revisao
+  '1:21':
+    texto: E não ouvimos a voz do Senhor, nosso Deus, conforme todas as palavras dos profetas que enviou
+      a nós,
+    status: ia-sem-revisao
+  '1:22':
+    texto: e cada um de nós seguiu o sentimento do seu coração mau, para servir a deuses alheios, fazendo
+      o mal diante dos olhos do Senhor, nosso Deus.
+    status: ia-sem-revisao
+  '3:9':
+    texto: Ouve, Israel, os mandamentos da vida; presta ouvidos, para conheceres a prudência.
+    status: ia-sem-revisao
+  '3:10':
+    texto: Por que, Israel, estás na terra dos inimigos,
+    status: ia-sem-revisao
+  '3:11':
+    texto: envelheceste em terra estrangeira, estás contaminado com os mortos, contado entre os que descem
+      ao inferno?
+    status: ia-sem-revisao
+  '3:12':
+    texto: Abandonaste a fonte da sabedoria;
+    status: ia-sem-revisao
+  '3:13':
+    texto: pois, se tivesses andado no caminho de Deus, habitarias em paz eterna.
+    status: ia-sem-revisao
+  '3:14':
+    texto: Aprende onde está a prudência, onde está a força, onde está a inteligência, para saberes ao
+      mesmo tempo onde estão a longevidade e o sustento, onde estão a luz dos olhos e a paz.
+    status: ia-sem-revisao
+  '3:15':
+    texto: Quem encontrou o seu lugar? E quem entrou nos seus tesouros?
+    status: ia-sem-revisao
+  '3:32':
+    texto: 'Mas aquele que sabe tudo a conhece e a descobriu com a sua prudência: aquele que preparou
+      a terra por tempo eterno e a encheu de rebanhos e quadrúpedes;'
+    status: ia-sem-revisao
+  '3:33':
+    texto: que envia a luz, e ela vai; chama-a, e ela lhe obedece com tremor.
+    status: ia-sem-revisao
+  '3:34':
+    texto: As estrelas deram luz em seus postos, e se alegraram;
+    status: ia-sem-revisao
+  '3:35':
+    texto: 'foram chamadas e disseram: “Aqui estamos!”, e brilharam com alegria para aquele que as fez.'
+    status: ia-sem-revisao
+  '3:36':
+    texto: Este é o nosso Deus, e nenhum outro será comparado a ele.
+    status: ia-sem-revisao
+  '3:37':
+    texto: Este descobriu todo o caminho da sabedoria e a entregou a Jacó, seu servo, e a Israel, seu
+      amado.
+    status: ia-sem-revisao
+  '3:38':
+    texto: Depois disso foi visto na terra e conviveu com os homens.
+    status: ia-sem-revisao
+  '4:1':
+    texto: 'Este é o livro dos mandamentos de Deus e a lei que existe para sempre: todos os que a guardam
+      chegarão à vida; os que a abandonaram, à morte.'
+    status: ia-sem-revisao
+  '4:2':
+    texto: Converte-te, Jacó, e apreende-a; caminha ao seu esplendor, à frente da sua luz.
+    status: ia-sem-revisao
+  '4:3':
+    texto: Não entregues a outro a tua glória, nem a tua dignidade a uma nação estrangeira.
+    status: ia-sem-revisao
+  '4:4':
+    texto: Bem-aventurados somos, Israel, porque nos são manifestas as coisas que agradam a Deus.
+    status: ia-sem-revisao
+  '4:5':
+    texto: 'Tem ânimo, povo de Deus, memorável Israel:'
+    status: ia-sem-revisao
+  '4:6':
+    texto: fostes vendidos às nações, mas não para a perdição; foi por terdes provocado Deus à ira que
+      fostes entregues aos adversários.
+    status: ia-sem-revisao
+  '4:7':
+    texto: Pois exasperastes aquele que vos fez, o Deus eterno, sacrificando a demônios e não a Deus.
+    status: ia-sem-revisao
+  '4:8':
+    texto: Esquecestes o Deus que vos nutriu e entristecestes Jerusalém, vossa nutriz.
+    status: ia-sem-revisao
+  '4:9':
+    texto: 'Ela viu vir de Deus a ira sobre vós e disse: “Ouvi, vizinhas de Sião: Deus trouxe-me grande
+      luto.'
+    status: ia-sem-revisao
+  '4:10':
+    texto: Vi o cativeiro do meu povo, dos meus filhos e filhas, que o Eterno fez cair sobre eles.
+    status: ia-sem-revisao
+  '4:11':
+    texto: Nutri-os com alegria e deixei-os partir com pranto e luto.
+    status: ia-sem-revisao
+  '4:12':
+    texto: 'Que ninguém se alegre à minha custa, viúva e desolada: fui abandonada por muitos por causa
+      dos pecados dos meus filhos, porque se afastaram da lei de Deus.'
+    status: ia-sem-revisao
+  '4:27':
+    texto: 'Tende ânimo, filhos, e clamai ao Senhor: sereis lembrados por aquele que vos levou.'
+    status: ia-sem-revisao
+  '4:28':
+    texto: Pois, assim como foi a vossa intenção de vos desviar de Deus, voltando-vos de novo o procurareis
+      dez vezes mais.
+    status: ia-sem-revisao
+  '4:29':
+    texto: Quem trouxe sobre vós os males trará de novo, com a vossa salvação, a alegria sem fim.
+    status: ia-sem-revisao
+  '5:1':
+    texto: Despe-te, Jerusalém, da veste do teu luto e da tua aflição, e reveste-te do esplendor e da
+      honra da glória eterna que Deus te dá.
+    status: ia-sem-revisao
+  '5:2':
+    texto: Deus te cobrirá com o manto da justiça e porá na tua cabeça a mitra da honra eterna.
+    status: ia-sem-revisao
+  '5:3':
+    texto: Pois Deus mostrará o teu esplendor a todos os que estão debaixo do céu.
+    status: ia-sem-revisao
+  '5:4':
+    texto: 'Pois o teu nome te será dado por Deus para sempre: paz da justiça e honra da piedade.'
+    status: ia-sem-revisao
+  '5:5':
+    texto: Levanta-te, Jerusalém, e põe-te nas alturas; olha ao redor, para o oriente, e vê os teus filhos
+      reunidos do nascer do sol ao poente, pela palavra do Santo, alegres com a lembrança de Deus.
+    status: ia-sem-revisao
+  '5:6':
+    texto: Pois saíram de ti a pé, conduzidos pelos inimigos; o Senhor, porém, os trará a ti levados com
+      honra, como filhos de reino.
+    status: ia-sem-revisao
+  '5:7':
+    texto: Deus decidiu aplanar todo monte elevado e as rochas perenes, e encher os vales até o nível
+      da terra, para que Israel caminhe com segurança para a honra de Deus.
+    status: ia-sem-revisao
+  '5:8':
+    texto: As florestas e todas as árvores aromáticas fizeram sombra a Israel por ordem de Deus.
+    status: ia-sem-revisao
+  '5:9':
+    texto: Pois Deus conduzirá Israel com alegria, à luz da sua majestade, com a misericórdia e a justiça
+      que vêm dele.
+    status: ia-sem-revisao
