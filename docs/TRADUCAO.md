@@ -41,6 +41,8 @@ o versículo traz `observacao` e entra na lista abaixo. Não se mistura outra le
 | At 8,37; 15,34; 24,7; 28,29 | versículo ausente (listado em `omitidos`) | versículo presente |
 | Rm 16,25-27 | ausente do SBLGNT; traduzido do Nestle 1904 (domínio público, `data/fontes/nestle1904/`) | presente |
 | 1Cor 11,24 | “o meu corpo, que é para vós” | “o meu corpo, que será entregue por vós” |
+| Hb 2,9 | “à parte de Deus” | “pela graça de Deus” |
+| Jd 5 | “Jesus” (outros manuscritos: “o Senhor”, “Deus”) | conferir com o Lecionário |
 | Mc 16,8 | acrescenta, entre colchetes duplos, um final breve; não traduzido | sem o final breve |
 
 ## Controle de qualidade

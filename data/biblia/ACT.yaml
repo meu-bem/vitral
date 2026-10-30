@@ -81,7 +81,12 @@ versiculos:
   '1:20':
     texto: 'Pois está escrito no livro dos Salmos: ‘Fique deserta a sua morada, e não haja quem nela habite’,
       e: ‘Outro tome o seu encargo.’'
+    partes:
+    - 'Pois está escrito no livro dos Salmos:'
+    - ‘Fique deserta a sua morada, e não haja quem nela habite’,
+    - 'e: ‘Outro tome o seu encargo.’'
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '1:21':
     texto: É preciso, pois, que, dos homens que estiveram conosco durante todo o tempo em que o Senhor
       Jesus entrou e saiu entre nós,
@@ -152,7 +157,12 @@ versiculos:
   '2:14':
     texto: 'Pedro, de pé com os Onze, levantou a voz e lhes falou: “Homens da Judeia e todos os que habitais
       em Jerusalém, seja-vos isto conhecido, e prestai atenção às minhas palavras.'
+    partes:
+    - 'Pedro, de pé com os Onze, levantou a voz e lhes falou:'
+    - “Homens da Judeia e todos os que habitais em Jerusalém, seja-vos isto conhecido, e prestai atenção
+      às minhas palavras.
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '2:15':
     texto: Estes homens não estão embriagados, como supondes, pois é a terceira hora do dia;
     status: ia-sem-revisao
@@ -595,7 +605,11 @@ versiculos:
     status: ia-sem-revisao
   '5:27':
     texto: Tendo-os trazido, apresentaram-nos ao Sinédrio. O sumo sacerdote interrogou-os,
+    partes:
+    - Tendo-os trazido, apresentaram-nos ao Sinédrio.
+    - O sumo sacerdote interrogou-os,
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '5:28':
     texto: 'Dizendo: “Expressamente vos proibimos de ensinar neste nome, e eis que enchestes Jerusalém
       da vossa doutrina e quereis fazer cair sobre nós o sangue deste homem.”'
@@ -644,7 +658,11 @@ versiculos:
   '5:40':
     texto: E, chamando os apóstolos, açoitaram-nos, proibiram-lhes que falassem em nome de Jesus e os
       soltaram.
+    partes:
+    - E, chamando os apóstolos, açoitaram-nos,
+    - proibiram-lhes que falassem em nome de Jesus e os soltaram.
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '5:41':
     texto: Eles saíam da presença do Sinédrio alegres por terem sido considerados dignos de sofrer afrontas
       pelo Nome;
@@ -929,7 +947,12 @@ versiculos:
     texto: Saulo aprovava a sua morte. Naquele dia desencadeou-se uma grande perseguição contra a Igreja
       que estava em Jerusalém; e todos, exceto os apóstolos, dispersaram-se pelas regiões da Judeia e
       da Samaria.
+    partes:
+    - Saulo aprovava a sua morte.
+    - Naquele dia desencadeou-se uma grande perseguição contra a Igreja que estava em Jerusalém; e todos,
+      exceto os apóstolos, dispersaram-se pelas regiões da Judeia e da Samaria.
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '8:2':
     texto: Homens piedosos sepultaram Estêvão e fizeram grande lamentação por ele.
     status: ia-sem-revisao
@@ -1332,7 +1355,11 @@ versiculos:
   '10:34':
     texto: 'Então Pedro, tomando a palavra, disse: “Em verdade, compreendo que Deus não faz acepção de
       pessoas,'
+    partes:
+    - 'Então Pedro, tomando a palavra, disse:'
+    - “Em verdade, compreendo que Deus não faz acepção de pessoas,
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '10:35':
     texto: Mas que, em qualquer nação, quem o teme e pratica a justiça lhe é agradável.
     status: ia-sem-revisao
@@ -1459,7 +1486,11 @@ versiculos:
     status: ia-sem-revisao
   '11:21':
     texto: A mão do Senhor estava com eles, e grande número, tendo crido, converteu-se ao Senhor.
+    partes:
+    - A mão do Senhor estava com eles,
+    - e grande número, tendo crido, converteu-se ao Senhor.
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '11:22':
     texto: A notícia chegou aos ouvidos da Igreja que estava em Jerusalém, e enviaram Barnabé até Antioquia;
     status: ia-sem-revisao
@@ -1843,7 +1874,11 @@ versiculos:
   '14:21':
     texto: Tendo evangelizado aquela cidade e feito muitos discípulos, voltaram a Listra, a Icônio e a
       Antioquia,
+    partes:
+    - Tendo evangelizado aquela cidade e feito muitos discípulos,
+    - voltaram a Listra, a Icônio e a Antioquia,
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '14:22':
     texto: Confirmando os ânimos dos discípulos, exortando-os a permanecer na fé e dizendo que é por muitas
       tribulações que devemos entrar no reino de Deus.
@@ -2601,7 +2636,11 @@ versiculos:
   '20:18':
     texto: 'Quando chegaram junto dele, disse-lhes: “Vós sabeis como me comportei convosco todo o tempo,
       desde o primeiro dia em que pus os pés na Ásia,'
+    partes:
+    - 'Quando chegaram junto dele, disse-lhes:'
+    - “Vós sabeis como me comportei convosco todo o tempo, desde o primeiro dia em que pus os pés na Ásia,
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '20:19':
     texto: Servindo ao Senhor com toda a humildade, com lágrimas e provações que me sobrevieram pelas
       ciladas dos judeus;

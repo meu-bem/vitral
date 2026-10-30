@@ -156,7 +156,11 @@ versiculos:
   '3:1':
     texto: Começamos de novo a recomendar-nos a nós mesmos? Ou precisamos, como alguns, de cartas de recomendação
       para vós ou de vós?
+    partes:
+    - Começamos de novo a recomendar-nos a nós mesmos?
+    - Ou precisamos, como alguns, de cartas de recomendação para vós ou de vós?
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '3:2':
     texto: Sois vós a nossa carta, escrita em nossos corações, conhecida e lida por todos os homens;
     status: ia-sem-revisao
@@ -765,7 +769,11 @@ versiculos:
   '11:21':
     texto: Digo com vergonha que fomos fracos; mas naquilo em que alguém ousa — falo com loucura —, também
       eu ouso.
+    partes:
+    - Digo com vergonha que fomos fracos;
+    - mas naquilo em que alguém ousa — falo com loucura —, também eu ouso.
     status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '11:22':
     texto: São hebreus? Também eu. São israelitas? Também eu. São descendência de Abraão? Também eu.
     status: ia-sem-revisao
