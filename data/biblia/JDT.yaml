@@ -1,0 +1,32 @@
+livro: JDT
+fonte: clementina
+versiculos:
+  '13:18':
+    texto: Benedita és tu, filha, pelo Senhor Deus Altíssimo, mais do que todas as mulheres da terra.
+      Bendito o Senhor, que criou o céu e a terra, que te dirigiu para ferir a cabeça do chefe dos nossos
+      inimigos.
+    partes:
+    - Benedita és tu, filha,
+    - pelo Senhor Deus Altíssimo,
+    - mais do que todas as mulheres da terra.
+    - Bendito o Senhor, que criou o céu e a terra,
+    - que te dirigiu para ferir a cabeça do chefe dos nossos inimigos.
+    status: ia-sem-revisao
+    observacao: 'Livro deuterocanônico, traduzido do latim (Clementina). Numeração do Lecionário; na Clementina,
+      Jt 13,23-24. partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '13:19':
+    texto: Hoje engrandeceu de tal modo o teu nome, que o teu louvor não se afastará da boca dos homens
+      que se lembrarem do poder do Senhor para sempre,
+    status: ia-sem-revisao
+    observacao: Numeração do Lecionário; na Clementina, Jt 13,25.
+  '13:20':
+    texto: 'pois não poupaste a tua vida diante da angústia e da tribulação da tua estirpe, mas socorreste
+      a ruína diante do nosso Deus. E todo o povo disse: “Assim seja, assim seja.”'
+    partes:
+    - pois não poupaste a tua vida diante da angústia e da tribulação da tua estirpe, mas socorreste a
+      ruína diante do nosso Deus.
+    - 'E todo o povo disse: “Assim seja, assim seja.”'
+    status: ia-sem-revisao
+    observacao: 'Numeração do Lecionário; na Clementina, Jt 13,25-26. A Clementina não traz a frase “Que
+      Deus faça isto por ti em exaltação perpétua…”, que consta da Nova Vulgata. partes: divisão pela
+      pontuação e pelo sentido; a do Lecionário pode diferir.'

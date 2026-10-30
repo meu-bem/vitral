@@ -27,6 +27,17 @@ no primeiro versículo de cada trecho; Dn 3,91-100 é o aramaico 3,24-33. O rest
 Os discursos de Moisés, sem verbo de dizer, vão sem aspas; falas citadas dentro deles levam aspas duplas (“ ”).
 Dt 6,4: “o Senhor é nosso Deus, o Senhor é um só”, com `observacao` para a outra construção possível.
 
+## Deuterocanônicos e acréscimos gregos
+
+Tobias, Judite, Sabedoria, Baruc e 1-2 Macabeus vêm do latim da Clementina, com `observacao` no primeiro versículo
+traduzido de cada livro. Onde a numeração da Clementina difere da do Lecionário (Nova Vulgata), o versículo usa a
+numeração do Lecionário e a `observacao` diz onde está no latim:
+
+- Jt 13,18-20 = Clementina 13,23-26. A Clementina não traz a frase “Que Deus faça isto por ti em exaltação perpétua…”
+  de Jt 13,20 (Nova Vulgata).
+- Est 4,17a-t (oração de Mardoqueu e de Ester, acréscimos gregos) = Clementina Est 13,8–14,14. O hebraico não os traz.
+  A divisão em letras é reconstruída e pode diferir da do Lecionário; o resto de Ester vem do hebraico (OSHB).
+
 ## Qual texto seguir
 
 Segue-se o texto-base de cada fonte (SBLGNT, OSHB). Onde ele diverge da Nova Vulgata, base do Lecionário,
