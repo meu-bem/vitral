@@ -1,0 +1,193 @@
+livro: JOS
+fonte: oshb
+versiculos:
+  '3:7':
+    texto: 'O Senhor disse a Josué: “Hoje começarei a engrandecer-te aos olhos de todo o Israel, para
+      que saibam que, como estive com Moisés, estarei contigo.'
+    status: ia-sem-revisao
+  '3:8':
+    texto: 'Tu ordenarás aos sacerdotes que levam a arca da aliança: ‘Quando chegardes à beira das águas
+      do Jordão, parai no Jordão.’”'
+    status: ia-sem-revisao
+  '3:9':
+    texto: 'Josué disse aos filhos de Israel: “Aproximai-vos e ouvi as palavras do Senhor, vosso Deus.”'
+    status: ia-sem-revisao
+  '3:10':
+    texto: 'Josué disse: “Por isto sabereis que há um Deus vivo no meio de vós, e que ele certamente expulsará
+      de diante de vós os cananeus, os hititas, os heveus, os ferezeus, os gergeseus, os amorreus e os
+      jebuseus.'
+    partes:
+    - 'Josué disse: “Por isto sabereis que há um Deus vivo no meio de vós,'
+    - e que ele certamente expulsará de diante de vós os cananeus, os hititas, os heveus, os ferezeus,
+      os gergeseus, os amorreus e os jebuseus.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '3:11':
+    texto: Eis que a arca da aliança do Senhor de toda a terra vai passar diante de vós pelo Jordão.
+    status: ia-sem-revisao
+  '3:13':
+    texto: Quando as plantas dos pés dos sacerdotes que levam a arca do Senhor, o Senhor de toda a terra,
+      pousarem nas águas do Jordão, as águas do Jordão serão cortadas, as que descem de cima, e se amontoarão
+      num só dique.”
+    status: ia-sem-revisao
+  '3:14':
+    texto: Quando o povo partiu das suas tendas para atravessar o Jordão, os sacerdotes que levavam a
+      arca da aliança iam à frente do povo.
+    status: ia-sem-revisao
+  '3:15':
+    texto: Ao chegarem ao Jordão os que levavam a arca, e quando os pés dos sacerdotes que levavam a arca
+      mergulharam na beira das águas — o Jordão transbordava por todas as suas margens durante todos os
+      dias da colheita —,
+    status: ia-sem-revisao
+  '3:16':
+    texto: as águas que descem de cima pararam e se levantaram num só dique, muito longe, em Adam, a cidade
+      que fica ao lado de Sartã; e as que desciam para o mar da Arabá, o mar do Sal, foram totalmente
+      cortadas; e o povo atravessou defronte de Jericó.
+    status: ia-sem-revisao
+  '3:17':
+    texto: Os sacerdotes que levavam a arca da aliança do Senhor ficaram parados a pé enxuto, firmes,
+      no meio do Jordão, enquanto todo o Israel atravessava a pé enxuto, até que todo o povo acabou de
+      atravessar o Jordão.
+    status: ia-sem-revisao
+  '5:9':
+    texto: 'O Senhor disse a Josué: “Hoje removi de vós o opróbrio do Egito.” Por isso aquele lugar se
+      chama Guilgal até hoje.'
+    partes:
+    - 'O Senhor disse a Josué: “Hoje removi de vós o opróbrio do Egito.”'
+    - Por isso aquele lugar se chama Guilgal até hoje.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '5:10':
+    texto: Os filhos de Israel acamparam em Guilgal e celebraram a Páscoa no dia catorze do mês, à tarde,
+      nas planícies de Jericó.
+    status: ia-sem-revisao
+  '5:11':
+    texto: 'No dia seguinte à Páscoa, comeram dos produtos da terra: pães ázimos e grãos tostados, nesse
+      mesmo dia.'
+    status: ia-sem-revisao
+  '5:12':
+    texto: O maná cessou no dia seguinte, quando comeram dos produtos da terra; os filhos de Israel não
+      tiveram mais maná, e naquele ano comeram da colheita da terra de Canaã.
+    status: ia-sem-revisao
+  '24:1':
+    texto: Josué reuniu em Siquém todas as tribos de Israel; chamou os anciãos de Israel, os seus chefes,
+      os seus juízes e os seus oficiais, e eles se apresentaram diante de Deus.
+    status: ia-sem-revisao
+  '24:2':
+    texto: 'Josué disse a todo o povo: “Assim diz o Senhor, Deus de Israel: Os vossos pais habitavam outrora
+      além do Rio, Taré, pai de Abraão e pai de Nacor, e serviram a outros deuses.'
+    partes:
+    - 'Josué disse a todo o povo: “Assim diz o Senhor, Deus de Israel:'
+    - Os vossos pais habitavam outrora além do Rio, Taré, pai de Abraão e pai de Nacor, e serviram a outros
+      deuses.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '24:3':
+    texto: Tomei vosso pai Abraão de além do Rio e o conduzi por toda a terra de Canaã; multipliquei a
+      sua descendência e lhe dei Isaac.
+    status: ia-sem-revisao
+  '24:4':
+    texto: A Isaac dei Jacó e Esaú; a Esaú dei o monte Seir, para o possuir; Jacó e seus filhos desceram
+      ao Egito.
+    status: ia-sem-revisao
+  '24:5':
+    texto: Enviei Moisés e Aarão e feri o Egito com o que fiz no meio dele; depois vos tirei de lá.
+    status: ia-sem-revisao
+  '24:6':
+    texto: Tirei vossos pais do Egito, e chegastes ao mar; os egípcios perseguiram vossos pais com carros
+      e cavaleiros até o mar Vermelho.
+    status: ia-sem-revisao
+  '24:7':
+    texto: Clamaram ao Senhor, e ele pôs trevas entre vós e os egípcios; fez vir sobre eles o mar e os
+      cobriu. Os vossos olhos viram o que fiz no Egito. Depois morastes no deserto por muitos dias.
+    status: ia-sem-revisao
+  '24:8':
+    texto: Conduzi-vos à terra dos amorreus que habitavam além do Jordão; combateram contra vós, mas eu
+      os entreguei nas vossas mãos, e tomastes posse da sua terra; eu os destruí diante de vós.
+    status: ia-sem-revisao
+  '24:9':
+    texto: Balac, filho de Sefor, rei de Moab, levantou-se e combateu contra Israel; mandou chamar Balaão,
+      filho de Beor, para vos amaldiçoar.
+    status: ia-sem-revisao
+  '24:10':
+    texto: Mas não quis ouvir Balaão; ele vos abençoou repetidamente, e eu vos livrei da sua mão.
+    status: ia-sem-revisao
+  '24:11':
+    texto: 'Atravessastes o Jordão e chegastes a Jericó. Os senhores de Jericó combateram contra vós:
+      o amorreu, o ferezeu, o cananeu, o hitita, o gergeseu, o heveu e o jebuseu, mas eu os entreguei
+      nas vossas mãos.'
+    status: ia-sem-revisao
+  '24:12':
+    texto: Enviei diante de vós vespas, que os expulsaram de diante de vós, os dois reis dos amorreus;
+      não foi com a tua espada nem com o teu arco.
+    status: ia-sem-revisao
+  '24:13':
+    texto: Dei-vos uma terra em que não trabalhastes e cidades que não construístes, e nelas habitais;
+      comeis de vinhas e oliveiras que não plantastes.
+    status: ia-sem-revisao
+  '24:14':
+    texto: Agora, pois, temei o Senhor e servi-o com integridade e fidelidade; afastai os deuses a quem
+      serviram os vossos pais além do Rio e no Egito, e servi o Senhor.
+    status: ia-sem-revisao
+  '24:15':
+    texto: 'Se vos parece mal servir o Senhor, escolhei hoje a quem servir: se aos deuses a quem serviram
+      os vossos pais do outro lado do Rio, ou aos deuses dos amorreus, em cuja terra habitais. Quanto
+      a mim e à minha casa, serviremos ao Senhor.”'
+    status: ia-sem-revisao
+  '24:16':
+    texto: 'O povo respondeu: “Longe de nós abandonar o Senhor para servir a outros deuses!'
+    status: ia-sem-revisao
+  '24:17':
+    texto: Pois o Senhor, nosso Deus, é quem nos fez subir, a nós e a nossos pais, da terra do Egito,
+      da casa da escravidão, e quem fez diante dos nossos olhos esses grandes sinais e nos guardou por
+      todo o caminho por onde andamos e entre todos os povos pelos quais passamos.
+    status: ia-sem-revisao
+  '24:18':
+    texto: O Senhor expulsou de diante de nós todos os povos, inclusive os amorreus que habitavam a terra.
+      Também nós serviremos ao Senhor, porque ele é o nosso Deus.”
+    partes:
+    - O Senhor expulsou de diante de nós todos os povos,
+    - inclusive os amorreus que habitavam a terra.
+    - Também nós serviremos ao Senhor, porque ele é o nosso Deus.”
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '24:19':
+    texto: 'Josué disse ao povo: “Não podereis servir ao Senhor, pois ele é um Deus santo, é um Deus ciumento;
+      não perdoará as vossas transgressões nem os vossos pecados.'
+    status: ia-sem-revisao
+  '24:20':
+    texto: Se abandonardes o Senhor e servirdes a deuses estrangeiros, ele se voltará, far-vos-á o mal
+      e vos consumirá, depois de vos ter feito o bem.”
+    status: ia-sem-revisao
+  '24:21':
+    texto: 'O povo disse a Josué: “Não! Serviremos ao Senhor.”'
+    status: ia-sem-revisao
+  '24:22':
+    texto: 'Josué disse ao povo: “Sois testemunhas contra vós mesmos de que escolhestes o Senhor para
+      o servir.” Responderam: “Somos testemunhas.”'
+    status: ia-sem-revisao
+  '24:23':
+    texto: “Agora, pois, afastai os deuses estrangeiros que estão no meio de vós e inclinai o vosso coração
+      ao Senhor, Deus de Israel.”
+    status: ia-sem-revisao
+  '24:24':
+    texto: 'O povo disse a Josué: “Serviremos ao Senhor, nosso Deus, e ouviremos a sua voz.”'
+    status: ia-sem-revisao
+  '24:25':
+    texto: Naquele dia Josué fez uma aliança com o povo e lhe deu estatuto e direito em Siquém.
+    status: ia-sem-revisao
+  '24:26':
+    texto: Josué escreveu essas palavras no livro da Lei de Deus; tomou uma grande pedra e a ergueu ali,
+      debaixo do carvalho que está no santuário do Senhor.
+    status: ia-sem-revisao
+  '24:27':
+    texto: 'Josué disse a todo o povo: “Eis que esta pedra será testemunha contra nós, pois ouviu todas
+      as palavras que o Senhor nos disse; será testemunha contra vós, para que não renegueis o vosso Deus.”'
+    status: ia-sem-revisao
+  '24:28':
+    texto: Josué despediu o povo, cada um para a sua herança.
+    status: ia-sem-revisao
+  '24:29':
+    texto: Depois dessas coisas, morreu Josué, filho de Nun, servo do Senhor, com a idade de cento e dez
+      anos.
+    status: ia-sem-revisao
