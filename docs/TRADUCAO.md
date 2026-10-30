@@ -43,6 +43,9 @@ o versículo traz `observacao` e entra na lista abaixo. Não se mistura outra le
 | 1Cor 11,24 | “o meu corpo, que é para vós” | “o meu corpo, que será entregue por vós” |
 | Hb 2,9 | “à parte de Deus” | “pela graça de Deus” |
 | Jd 5 | “Jesus” (outros manuscritos: “o Senhor”, “Deus”) | conferir com o Lecionário |
+| Gn 3,15 | “ele te ferirá a cabeça” | “ela te ferirá a cabeça” (em algumas edições) |
+| Gn 4,8 | as palavras de Caim não constam | “Vamos ao campo” |
+| Gn 49,10 | “até que venha Silo” | “até que venha aquele a quem pertence” |
 | Sl 8,6 | “pouco menor que Deus” (Elohim) | “pouco menor que os anjos” |
 | Sl 27,13 | “Ah, se eu não tivesse confiado em ver…” (pontos extraordinários sobre “se não”) | “Creio que verei…” |
 | Sl 40,7 | “abriste-me os ouvidos” | “preparaste-me um corpo” (Hb 10,5, segundo a Septuaginta) |
