@@ -1,0 +1,155 @@
+livro: HOS
+fonte: oshb
+versiculos:
+  '2:16':
+    texto: Por isso, eis que eu a seduzirei, a levarei ao deserto e falarei ao seu coração.
+    status: ia-sem-revisao
+  '2:17':
+    texto: Dali lhe darei as suas vinhas e o vale de Acor como porta de esperança; ali ela responderá
+      como nos dias da sua juventude, como no dia em que subiu da terra do Egito.
+    partes:
+    - Dali lhe darei as suas vinhas
+    - e o vale de Acor como porta de esperança;
+    - ali ela responderá como nos dias da sua juventude, como no dia em que subiu da terra do Egito.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '2:18':
+    texto: Naquele dia — oráculo do Senhor — chamar-me-ás “Meu esposo” e já não me chamarás “Meu Baal”.
+    status: ia-sem-revisao
+  '2:21':
+    texto: Desposar-te-ei para sempre; desposar-te-ei na justiça e no direito, na bondade e na misericórdia.
+    status: ia-sem-revisao
+  '2:22':
+    texto: Desposar-te-ei na fidelidade, e conhecerás o Senhor.
+    status: ia-sem-revisao
+  '6:1':
+    texto: “Vinde, voltemos ao Senhor, pois ele despedaçou e nos curará, feriu e nos enfaixará.
+    status: ia-sem-revisao
+  '6:2':
+    texto: Depois de dois dias nos fará reviver; ao terceiro dia nos levantará, e viveremos diante dele.
+    status: ia-sem-revisao
+  '6:3':
+    texto: Conheçamos, procuremos conhecer o Senhor; a sua vinda é certa como a aurora; virá a nós como
+      a chuva, como a chuva tardia que rega a terra.”
+    status: ia-sem-revisao
+  '6:4':
+    texto: Que farei de ti, Efraim? Que farei de ti, Judá? A vossa bondade é como a nuvem da manhã, como
+      o orvalho que cedo desaparece.
+    status: ia-sem-revisao
+  '6:5':
+    texto: Por isso os talhei por meio dos profetas, matei-os com as palavras da minha boca; e o meu juízo
+      surgirá como a luz.
+    status: ia-sem-revisao
+  '6:6':
+    texto: Pois é bondade que eu quero, e não sacrifício, e conhecimento de Deus, mais do que holocaustos.
+    status: ia-sem-revisao
+  '8:4':
+    texto: Eles fizeram reis, mas não por mim; fizeram chefes, mas eu não os reconheci. Com a sua prata
+      e o seu ouro fizeram ídolos para si, para serem eliminados.
+    status: ia-sem-revisao
+  '8:5':
+    texto: Rejeitou o teu bezerro, Samaria; a minha ira se acendeu contra eles. Até quando não serão capazes
+      de inocência?
+    status: ia-sem-revisao
+  '8:6':
+    texto: 'Pois ele vem de Israel: um artífice o fez, e não é Deus; em pedaços ficará o bezerro de Samaria.'
+    status: ia-sem-revisao
+  '8:7':
+    texto: Pois semeiam vento e colherão tempestade; a haste não tem espiga, não dará farinha; e, se desse,
+      estrangeiros a devorariam.
+    status: ia-sem-revisao
+  '8:11':
+    texto: Efraim multiplicou os altares para pecar, e os altares se tornaram para ele ocasião de pecado.
+    status: ia-sem-revisao
+  '8:12':
+    texto: Ainda que eu lhe escrevesse as muitas coisas da minha lei, são consideradas como de um estranho.
+    status: ia-sem-revisao
+  '8:13':
+    texto: 'Nos sacrifícios das minhas oferendas imolam carne e a comem; o Senhor não se agrada deles.
+      Agora lembrará a iniquidade deles e castigará os seus pecados: eles voltarão ao Egito.'
+    status: ia-sem-revisao
+  '10:1':
+    texto: Israel é uma videira luxuriante, que produz fruto para si; quanto mais fruto, mais multiplicou
+      os altares; quanto melhor a sua terra, melhor fizeram as estelas.
+    status: ia-sem-revisao
+  '10:2':
+    texto: O seu coração é falso; agora serão castigados. Ele derrubará os seus altares e destruirá as
+      suas estelas.
+    status: ia-sem-revisao
+  '10:3':
+    texto: 'Pois agora dirão: “Não temos rei, porque não tememos o Senhor; e o rei, que poderia fazer
+      por nós?”'
+    status: ia-sem-revisao
+  '10:7':
+    texto: Samaria é destruída, e o seu rei, como espuma sobre a água.
+    status: ia-sem-revisao
+  '10:8':
+    texto: 'Os lugares altos de Áven, pecado de Israel, serão destruídos; espinho e cardo subirão sobre
+      os seus altares; e dirão aos montes: “Cobri-nos!”, e às colinas: “Caí sobre nós!”'
+    status: ia-sem-revisao
+  '10:12':
+    texto: Semeai para vós a justiça, colhei segundo a bondade, arroteai para vós um campo novo; é tempo
+      de buscar o Senhor, até que venha e faça chover a justiça sobre vós.
+    status: ia-sem-revisao
+  '11:1':
+    texto: Quando Israel era menino, eu o amei, e do Egito chamei o meu filho.
+    status: ia-sem-revisao
+  '11:2':
+    texto: Quanto mais os chamavam, mais se afastavam deles; sacrificavam aos baais e queimavam incenso
+      aos ídolos.
+    status: ia-sem-revisao
+  '11:3':
+    texto: Fui eu que ensinei Efraim a andar, tomando-os nos meus braços; mas não compreenderam que eu
+      os curava.
+    status: ia-sem-revisao
+  '11:4':
+    texto: Com cordas humanas os atraí, com laços de amor; fui para eles como quem levanta o jugo da sua
+      mandíbula, e me inclinei para ele e lhe dei de comer.
+    status: ia-sem-revisao
+  '11:8':
+    texto: Como te entregarei, Efraim? Como te abandonarei, Israel? Como farei de ti como Adama e te tratarei
+      como Seboim? O meu coração se revolta dentro de mim, as minhas compaixões se acendem todas juntas.
+    partes:
+    - Como te entregarei, Efraim? Como te abandonarei, Israel?
+    - Como farei de ti como Adama e te tratarei como Seboim?
+    - O meu coração se revolta dentro de mim, as minhas compaixões se acendem todas juntas.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '11:9':
+    texto: Não executarei o ardor da minha ira, não voltarei a destruir Efraim, porque eu sou Deus, e
+      não homem, o Santo no meio de ti, e não virei à cidade.
+    status: ia-sem-revisao
+    observacao: 'ou: “e não virei com furor”.'
+  '14:2':
+    texto: Volta, Israel, ao Senhor, teu Deus, pois tropeçaste na tua iniquidade.
+    status: ia-sem-revisao
+  '14:3':
+    texto: 'Tomai convosco palavras e voltai ao Senhor; dizei-lhe: “Perdoa toda iniquidade e aceita o
+      que é bom; e ofereceremos, em vez de novilhos, os louvores dos nossos lábios.'
+    status: ia-sem-revisao
+  '14:4':
+    texto: A Assíria não nos salvará, não montaremos cavalos, e nunca mais diremos ‘Nosso Deus’ à obra
+      das nossas mãos, pois em ti o órfão encontra misericórdia.”
+    status: ia-sem-revisao
+  '14:5':
+    texto: Curarei a sua infidelidade, amá-los-ei generosamente, pois a minha ira se afastou deles.
+    status: ia-sem-revisao
+  '14:6':
+    texto: 'Serei como o orvalho para Israel: florescerá como o lírio e lançará raízes como o Líbano.'
+    status: ia-sem-revisao
+  '14:7':
+    texto: Seus ramos se estenderão, a sua beleza será como a da oliveira, e o seu perfume, como o do
+      Líbano.
+    status: ia-sem-revisao
+  '14:8':
+    texto: Voltarão a habitar à sua sombra, farão reviver o trigo, florescerão como a videira; a sua fama
+      será como a do vinho do Líbano.
+    status: ia-sem-revisao
+  '14:9':
+    texto: Efraim, que tenho eu ainda com os ídolos? Eu respondo e o observo; eu sou como um cipreste
+      verdejante; de mim se acha o teu fruto.
+    status: ia-sem-revisao
+  '14:10':
+    texto: 'Quem é sábio, que entenda estas coisas; quem é inteligente, que as conheça. Pois retos são
+      os caminhos do Senhor: os justos andarão neles, mas os rebeldes tropeçarão neles.'
+    status: ia-sem-revisao
