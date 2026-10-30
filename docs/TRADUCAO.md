@@ -43,6 +43,7 @@ o versículo traz `observacao` e entra na lista abaixo. Não se mistura outra le
 | 1Cor 11,24 | “o meu corpo, que é para vós” | “o meu corpo, que será entregue por vós” |
 | Hb 2,9 | “à parte de Deus” | “pela graça de Deus” |
 | Jd 5 | “Jesus” (outros manuscritos: “o Senhor”, “Deus”) | conferir com o Lecionário |
+| Is 7,14 | “a jovem está grávida” | “a virgem conceberá” |
 | Gn 3,15 | “ele te ferirá a cabeça” | “ela te ferirá a cabeça” (em algumas edições) |
 | Gn 4,8 | as palavras de Caim não constam | “Vamos ao campo” |
 | Gn 49,10 | “até que venha Silo” | “até que venha aquele a quem pertence” |
