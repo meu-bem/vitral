@@ -11,8 +11,9 @@ A tradução é feita por IA (Claude) sob responsabilidade e edição de Mateus 
 - Aspas duplas curvas (“ ”); aspas internas, simples (‘ ’). Nada de «».
 - Cada versículo começa com maiúscula, mesmo quando continua uma frase do anterior. A citação abre no
   versículo em que a fala começa e fecha onde termina, ainda que em versículos diferentes.
-- Títulos de salmos fazem parte do versículo 1 (numeração do Lecionário): `partes[0]` é o título,
-  `partes[1]` o versículo.
+- Títulos de salmos (“De Davi.”, “Cântico das subidas.”, “Aleluia.”) ficam no campo `titulo` do versículo 1,
+  fora de `texto`: o Lecionário numera o v. 1 sem o título, e o livro não o imprime. Onde o Lecionário cita
+  letras no v. 1 (Sl 28(29), 130(131), 143(144)), o título é também `partes[0]` (a letra `a`).
 - Ordem das palavras e vocabulário seguem o original, sem consultar tradução portuguesa existente.
   Trechos muito conhecidos têm risco de coincidir com versões protegidas; ver revisão por amostragem abaixo.
 

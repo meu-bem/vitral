@@ -325,7 +325,8 @@ versiculos:
       jamais vacilará.
     status: ia-sem-revisao
   '16:1':
-    texto: Poema de Davi. Guarda-me, ó Deus, pois em ti me refugio.
+    texto: Guarda-me, ó Deus, pois em ti me refugio.
+    titulo: Poema de Davi.
     status: ia-sem-revisao
   '16:2':
     texto: 'Disse ao Senhor: “Tu és o meu Senhor; não há bem para mim fora de ti.”'
@@ -358,8 +359,9 @@ versiculos:
       à tua direita para sempre.
     status: ia-sem-revisao
   '17:1':
-    texto: Oração de Davi. Ouve, Senhor, a causa justa; atende ao meu clamor; presta ouvidos à minha oração,
-      que não sai de lábios enganadores.
+    texto: Ouve, Senhor, a causa justa; atende ao meu clamor; presta ouvidos à minha oração, que não sai
+      de lábios enganadores.
+    titulo: Oração de Davi.
     status: ia-sem-revisao
   '17:2':
     texto: Que o meu julgamento venha de ti; que os teus olhos vejam a retidão.
@@ -558,7 +560,8 @@ versiculos:
     texto: 'Virão e anunciarão a sua justiça ao povo que há de nascer: eis o que ele fez.'
     status: ia-sem-revisao
   '23:1':
-    texto: Salmo de Davi. O Senhor é o meu pastor; nada me faltará.
+    texto: O Senhor é o meu pastor; nada me faltará.
+    titulo: Salmo de Davi.
     status: ia-sem-revisao
   '23:2':
     texto: Faz-me repousar em verdes pastagens, conduz-me a águas tranquilas.
@@ -583,7 +586,8 @@ versiculos:
       Senhor por longos dias.
     status: ia-sem-revisao
   '24:1':
-    texto: De Davi. Salmo. Do Senhor é a terra e tudo o que ela contém, o mundo e os que nele habitam.
+    texto: Do Senhor é a terra e tudo o que ela contém, o mundo e os que nele habitam.
+    titulo: De Davi. Salmo.
     status: ia-sem-revisao
   '24:2':
     texto: Pois foi ele quem a fundou sobre os mares e a firmou sobre os rios.
@@ -681,8 +685,9 @@ versiculos:
     texto: O meu pé está firme em terreno plano; nas assembleias bendirei o Senhor.
     status: ia-sem-revisao
   '27:1':
-    texto: 'De Davi. O Senhor é a minha luz e a minha salvação: de quem terei medo? O Senhor é a fortaleza
-      da minha vida: diante de quem tremerei?'
+    texto: 'O Senhor é a minha luz e a minha salvação: de quem terei medo? O Senhor é a fortaleza da minha
+      vida: diante de quem tremerei?'
+    titulo: De Davi.
     status: ia-sem-revisao
   '27:2':
     texto: Quando os malfeitores avançam contra mim para devorar a minha carne, são os meus adversários
@@ -745,7 +750,8 @@ versiculos:
     texto: Salva o teu povo e abençoa a tua herança; apascenta-os e leva-os para sempre.
     status: ia-sem-revisao
   '29:1':
-    texto: Salmo de Davi. Tributai ao Senhor, filhos de Deus, tributai ao Senhor glória e poder.
+    texto: Tributai ao Senhor, filhos de Deus, tributai ao Senhor glória e poder.
+    titulo: Salmo de Davi.
     partes:
     - Salmo de Davi.
     - Tributai ao Senhor, filhos de Deus, tributai ao Senhor glória e poder.
@@ -893,7 +899,8 @@ versiculos:
     texto: Sede fortes, e fortaleça-se o vosso coração, todos os que esperais no Senhor.
     status: ia-sem-revisao
   '32:1':
-    texto: De Davi. Poema. Feliz aquele cuja transgressão é perdoada e cujo pecado é coberto.
+    texto: Feliz aquele cuja transgressão é perdoada e cujo pecado é coberto.
+    titulo: De Davi. Poema.
     status: ia-sem-revisao
   '32:2':
     texto: Feliz o homem a quem o Senhor não atribui culpa e em cujo espírito não há engano.
@@ -1433,8 +1440,8 @@ versiculos:
     texto: irá juntar-se à geração dos seus pais, que nunca mais verão a luz.
     status: ia-sem-revisao
   '50:1':
-    texto: Salmo de Asaf. O Deus dos deuses, o Senhor, falou e convocou a terra, do nascer do sol ao seu
-      ocaso.
+    texto: O Deus dos deuses, o Senhor, falou e convocou a terra, do nascer do sol ao seu ocaso.
+    titulo: Salmo de Asaf.
     status: ia-sem-revisao
   '50:2':
     texto: De Sião, perfeição de beleza, Deus resplandeceu.
@@ -1785,7 +1792,8 @@ versiculos:
     texto: Os prados se revestem de rebanhos, e os vales se cobrem de trigo; aclamam e cantam.
     status: ia-sem-revisao
   '66:1':
-    texto: Ao mestre de canto. Cântico. Salmo. Aclamai a Deus, terra inteira.
+    texto: Aclamai a Deus, terra inteira.
+    titulo: Ao mestre de canto. Cântico. Salmo.
     status: ia-sem-revisao
   '66:2':
     texto: Cantai a glória do seu nome, dai glória ao seu louvor.
@@ -2029,7 +2037,8 @@ versiculos:
       cítara, Santo de Israel.
     status: ia-sem-revisao
   '72:1':
-    texto: De Salomão. Ó Deus, dá ao rei o teu julgamento e ao filho do rei a tua justiça.
+    texto: Ó Deus, dá ao rei o teu julgamento e ao filho do rei a tua justiça.
+    titulo: De Salomão.
     status: ia-sem-revisao
   '72:2':
     texto: Que ele julgue o teu povo com justiça e os teus pobres com direito.
@@ -2087,8 +2096,9 @@ versiculos:
       e amém.
     status: ia-sem-revisao
   '74:1':
-    texto: Poema de Asaf. Por que, ó Deus, nos rejeitaste para sempre? Por que arde a tua ira contra o
-      rebanho do teu pasto?
+    texto: Por que, ó Deus, nos rejeitaste para sempre? Por que arde a tua ira contra o rebanho do teu
+      pasto?
+    titulo: Poema de Asaf.
     status: ia-sem-revisao
   '74:2':
     texto: Lembra-te da tua comunidade, que adquiriste desde a antiguidade, a tribo da tua herança que
@@ -2136,8 +2146,8 @@ versiculos:
     texto: Guiaste o teu povo como um rebanho, pela mão de Moisés e de Aarão.
     status: ia-sem-revisao
   '78:1':
-    texto: Poema de Asaf. Escuta, meu povo, o meu ensinamento; inclinai o ouvido às palavras da minha
-      boca.
+    texto: Escuta, meu povo, o meu ensinamento; inclinai o ouvido às palavras da minha boca.
+    titulo: Poema de Asaf.
     status: ia-sem-revisao
   '78:2':
     texto: Abrirei a boca em parábolas, proporei enigmas desde a antiguidade.
@@ -2232,8 +2242,9 @@ versiculos:
     texto: Entregou o seu povo à espada e indignou-se contra a sua herança.
     status: ia-sem-revisao
   '79:1':
-    texto: Salmo de Asaf. Ó Deus, as nações invadiram a tua herança, profanaram o teu santo templo, reduziram
-      Jerusalém a ruínas.
+    texto: Ó Deus, as nações invadiram a tua herança, profanaram o teu santo templo, reduziram Jerusalém
+      a ruínas.
+    titulo: Salmo de Asaf.
     status: ia-sem-revisao
   '79:2':
     texto: Deram os cadáveres dos teus servos como alimento às aves do céu, e a carne dos teus fiéis aos
@@ -2477,7 +2488,8 @@ versiculos:
     texto: A justiça caminhará diante dele e porá os seus passos no caminho.
     status: ia-sem-revisao
   '86:1':
-    texto: Oração de Davi. Inclina, Senhor, o teu ouvido e responde-me, pois sou pobre e indigente.
+    texto: Inclina, Senhor, o teu ouvido e responde-me, pois sou pobre e indigente.
+    titulo: Oração de Davi.
     status: ia-sem-revisao
   '86:2':
     texto: Guarda a minha vida, porque sou fiel; salva o teu servo, que em ti confia. Tu és o meu Deus.
@@ -2510,7 +2522,8 @@ versiculos:
       serva.
     status: ia-sem-revisao
   '87:1':
-    texto: Dos filhos de Coré. Salmo. Cântico. Ele a fundou sobre os montes santos.
+    texto: Ele a fundou sobre os montes santos.
+    titulo: Dos filhos de Coré. Salmo. Cântico.
     status: ia-sem-revisao
   '87:2':
     texto: O Senhor ama as portas de Sião mais do que todas as moradas de Jacó.
@@ -2959,8 +2972,9 @@ versiculos:
     texto: Alegrai-vos no Senhor, justos, e dai graças ao seu santo nome.
     status: ia-sem-revisao
   '98:1':
-    texto: Salmo. Cantai ao Senhor um canto novo, porque fez maravilhas; a sua direita e o seu santo braço
-      lhe deram a vitória.
+    texto: Cantai ao Senhor um canto novo, porque fez maravilhas; a sua direita e o seu santo braço lhe
+      deram a vitória.
+    titulo: Salmo.
     status: ia-sem-revisao
   '98:2':
     texto: O Senhor deu a conhecer a sua salvação, revelou a sua justiça aos olhos das nações.
@@ -3012,7 +3026,8 @@ versiculos:
       nosso Deus.
     status: ia-sem-revisao
   '100:1':
-    texto: Salmo de ação de graças. Aclamai o Senhor, terra inteira.
+    texto: Aclamai o Senhor, terra inteira.
+    titulo: Salmo de ação de graças.
     status: ia-sem-revisao
   '100:2':
     texto: Servi ao Senhor com alegria, entrai na sua presença com júbilo.
@@ -3031,7 +3046,8 @@ versiculos:
       geração.
     status: ia-sem-revisao
   '101:1':
-    texto: De Davi. Salmo. Cantarei a misericórdia e o direito; a ti, Senhor, tocarei.
+    texto: Cantarei a misericórdia e o direito; a ti, Senhor, tocarei.
+    titulo: De Davi. Salmo.
     status: ia-sem-revisao
   '101:2':
     texto: 'Procurarei o caminho da integridade: quando virás a mim? Andarei com coração íntegro no interior
@@ -3104,7 +3120,8 @@ versiculos:
       de ti.
     status: ia-sem-revisao
   '103:1':
-    texto: De Davi. Bendize o Senhor, ó minha alma, e tudo o que há em mim bendiga o seu santo nome.
+    texto: Bendize o Senhor, ó minha alma, e tudo o que há em mim bendiga o seu santo nome.
+    titulo: De Davi.
     status: ia-sem-revisao
   '103:2':
     texto: Bendize o Senhor, ó minha alma, e não te esqueças de nenhum dos seus benefícios.
@@ -3322,7 +3339,8 @@ versiculos:
     texto: Fez sair o seu povo com alegria, os seus escolhidos, com cantos de júbilo.
     status: ia-sem-revisao
   '106:1':
-    texto: Aleluia. Dai graças ao Senhor, porque é bom, porque a sua misericórdia dura para sempre.
+    texto: Dai graças ao Senhor, porque é bom, porque a sua misericórdia dura para sempre.
+    titulo: Aleluia.
     status: ia-sem-revisao
   '106:2':
     texto: Quem poderá narrar os feitos poderosos do Senhor ou proclamar todo o seu louvor?
@@ -3468,8 +3486,9 @@ versiculos:
     texto: Pois ele está à direita do pobre, para salvá-lo dos que o condenam à morte.
     status: ia-sem-revisao
   '110:1':
-    texto: 'De Davi. Salmo. Oráculo do Senhor ao meu senhor: “Senta-te à minha direita, até que eu ponha
-      os teus inimigos por escabelo dos teus pés.”'
+    texto: 'Oráculo do Senhor ao meu senhor: “Senta-te à minha direita, até que eu ponha os teus inimigos
+      por escabelo dos teus pés.”'
+    titulo: De Davi. Salmo.
     status: ia-sem-revisao
   '110:2':
     texto: 'O Senhor estenderá de Sião o cetro do teu poder: “Domina no meio dos teus inimigos.'
@@ -3484,7 +3503,8 @@ versiculos:
     texto: 'O Senhor jurou, e não se arrependerá: “Tu és sacerdote para sempre, segundo a ordem de Melquisedec.”'
     status: ia-sem-revisao
   '111:1':
-    texto: Aleluia. Darei graças ao Senhor de todo o coração, no conselho dos retos e na assembleia.
+    texto: Darei graças ao Senhor de todo o coração, no conselho dos retos e na assembleia.
+    titulo: Aleluia.
     status: ia-sem-revisao
   '111:2':
     texto: Grandes são as obras do Senhor, procuradas por todos os que as apreciam.
@@ -3521,7 +3541,8 @@ versiculos:
     status: ia-sem-revisao
     observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '112:1':
-    texto: Aleluia. Feliz o homem que teme o Senhor e tem grande prazer nos seus mandamentos.
+    texto: Feliz o homem que teme o Senhor e tem grande prazer nos seus mandamentos.
+    titulo: Aleluia.
     status: ia-sem-revisao
   '112:2':
     texto: A sua descendência será poderosa na terra; a geração dos retos será abençoada.
@@ -3557,7 +3578,8 @@ versiculos:
       com honra.
     status: ia-sem-revisao
   '113:1':
-    texto: Aleluia. Louvai, servos do Senhor, louvai o nome do Senhor.
+    texto: Louvai, servos do Senhor, louvai o nome do Senhor.
+    titulo: Aleluia.
     status: ia-sem-revisao
   '113:2':
     texto: Seja bendito o nome do Senhor, desde agora e para sempre.
@@ -4039,7 +4061,8 @@ versiculos:
     texto: Viva a minha alma e te louve, e os teus juízos me ajudem.
     status: ia-sem-revisao
   '121:1':
-    texto: 'Cântico das subidas. Levanto os meus olhos para os montes: de onde virá o meu socorro?'
+    texto: 'Levanto os meus olhos para os montes: de onde virá o meu socorro?'
+    titulo: Cântico das subidas.
     status: ia-sem-revisao
   '121:2':
     texto: O meu socorro vem do Senhor, que fez o céu e a terra.
@@ -4063,13 +4086,9 @@ versiculos:
     texto: O Senhor guardará a tua saída e a tua entrada, desde agora e para sempre.
     status: ia-sem-revisao
   '122:1':
-    texto: 'Cântico das subidas. De Davi. Alegrei-me quando me disseram: “À casa do Senhor iremos!”'
-    partes:
-    - Cântico das subidas. De Davi.
-    - 'Alegrei-me quando me disseram: “À casa do Senhor iremos!”'
+    texto: 'Alegrei-me quando me disseram: “À casa do Senhor iremos!”'
+    titulo: Cântico das subidas. De Davi.
     status: ia-sem-revisao
-    observacao: 'partes: a = título do salmo, b = versículo. Na numeração do Lecionário o título é o versículo
-      1.'
   '122:2':
     texto: Já se detêm os nossos pés às tuas portas, Jerusalém.
     status: ia-sem-revisao
@@ -4101,7 +4120,8 @@ versiculos:
     texto: Por causa da casa do Senhor, nosso Deus, procurarei o teu bem.
     status: ia-sem-revisao
   '123:1':
-    texto: Cântico das subidas. A ti levanto os meus olhos, a ti que habitas nos céus.
+    texto: A ti levanto os meus olhos, a ti que habitas nos céus.
+    titulo: Cântico das subidas.
     status: ia-sem-revisao
   '123:2':
     texto: Eis que, como os olhos dos servos fitam a mão do seu senhor, como os olhos da serva a mão da
@@ -4120,7 +4140,8 @@ versiculos:
     texto: Estamos fartos do escárnio dos soberbos e do desprezo dos orgulhosos.
     status: ia-sem-revisao
   '124:1':
-    texto: Cântico das subidas. De Davi. Se o Senhor não estivesse do nosso lado — que o diga Israel —,
+    texto: Se o Senhor não estivesse do nosso lado — que o diga Israel —,
+    titulo: Cântico das subidas. De Davi.
     status: ia-sem-revisao
   '124:2':
     texto: se o Senhor não estivesse do nosso lado quando os homens se levantaram contra nós,
@@ -4150,8 +4171,8 @@ versiculos:
     texto: O nosso socorro está no nome do Senhor, que fez o céu e a terra.
     status: ia-sem-revisao
   '126:1':
-    texto: Cântico das subidas. Quando o Senhor trouxe de volta os cativos de Sião, estávamos como quem
-      sonha.
+    texto: Quando o Senhor trouxe de volta os cativos de Sião, estávamos como quem sonha.
+    titulo: Cântico das subidas.
     status: ia-sem-revisao
   '126:2':
     texto: 'Então a nossa boca se encheu de riso, e a nossa língua, de júbilo. Então se dizia entre as
@@ -4176,7 +4197,8 @@ versiculos:
     texto: Vai chorando, levando a semente; voltará com júbilo, trazendo os seus feixes.
     status: ia-sem-revisao
   '128:1':
-    texto: Cântico das subidas. Feliz todo aquele que teme o Senhor e anda nos seus caminhos.
+    texto: Feliz todo aquele que teme o Senhor e anda nos seus caminhos.
+    titulo: Cântico das subidas.
     status: ia-sem-revisao
   '128:2':
     texto: Comerás do trabalho das tuas mãos; serás feliz, e tudo te irá bem.
@@ -4195,7 +4217,8 @@ versiculos:
     texto: E vejas os filhos dos teus filhos. Paz sobre Israel!
     status: ia-sem-revisao
   '130:1':
-    texto: Cântico das subidas. Das profundezas clamo a ti, Senhor.
+    texto: Das profundezas clamo a ti, Senhor.
+    titulo: Cântico das subidas.
     status: ia-sem-revisao
   '130:2':
     texto: Senhor, escuta a minha voz; estejam atentos os teus ouvidos à voz das minhas súplicas.
@@ -4220,8 +4243,9 @@ versiculos:
     texto: Ele mesmo redimirá Israel de todas as suas culpas.
     status: ia-sem-revisao
   '131:1':
-    texto: Cântico das subidas. De Davi. Senhor, o meu coração não é soberbo, nem os meus olhos são altivos;
-      não ando atrás de grandezas nem de coisas maravilhosas demais para mim.
+    texto: Senhor, o meu coração não é soberbo, nem os meus olhos são altivos; não ando atrás de grandezas
+      nem de coisas maravilhosas demais para mim.
+    titulo: Cântico das subidas. De Davi.
     partes:
     - Cântico das subidas. De Davi.
     - Senhor, o meu coração não é soberbo,
@@ -4238,7 +4262,8 @@ versiculos:
     texto: Espere Israel no Senhor, desde agora e para sempre.
     status: ia-sem-revisao
   '132:1':
-    texto: Cântico das subidas. Lembra-te, Senhor, de Davi e de todas as suas fadigas,
+    texto: Lembra-te, Senhor, de Davi e de todas as suas fadigas,
+    titulo: Cântico das subidas.
     status: ia-sem-revisao
   '132:2':
     texto: 'de como jurou ao Senhor e fez voto ao Poderoso de Jacó:'
@@ -4288,7 +4313,8 @@ versiculos:
     texto: Cobrirei de vergonha os seus inimigos, mas sobre ele florescerá a sua coroa.”
     status: ia-sem-revisao
   '135:1':
-    texto: Aleluia. Louvai o nome do Senhor, louvai-o, servos do Senhor,
+    texto: Louvai o nome do Senhor, louvai-o, servos do Senhor,
+    titulo: Aleluia.
     status: ia-sem-revisao
   '135:2':
     texto: vós que estais na casa do Senhor, nos átrios da casa do nosso Deus.
@@ -4374,7 +4400,8 @@ versiculos:
       acima da minha maior alegria.
     status: ia-sem-revisao
   '138:1':
-    texto: De Davi. Dar-te-ei graças de todo o coração; diante dos deuses te cantarei.
+    texto: Dar-te-ei graças de todo o coração; diante dos deuses te cantarei.
+    titulo: De Davi.
     status: ia-sem-revisao
   '138:2':
     texto: Prostro-me diante do teu santo templo e dou graças ao teu nome por causa da tua misericórdia
@@ -4411,7 +4438,8 @@ versiculos:
       não abandones a obra das tuas mãos.
     status: ia-sem-revisao
   '139:1':
-    texto: Ao mestre de canto. De Davi. Salmo. Senhor, tu me sondas e me conheces.
+    texto: Senhor, tu me sondas e me conheces.
+    titulo: Ao mestre de canto. De Davi. Salmo.
     status: ia-sem-revisao
   '139:2':
     texto: Tu conheces o meu sentar e o meu levantar; de longe penetras os meus pensamentos.
@@ -4476,7 +4504,8 @@ versiculos:
     texto: Vê se há em mim algum caminho de dor e conduze-me pelo caminho eterno.
     status: ia-sem-revisao
   '141:1':
-    texto: Salmo de Davi. Senhor, a ti clamo; vem depressa a mim; escuta a minha voz quando te invoco.
+    texto: Senhor, a ti clamo; vem depressa a mim; escuta a minha voz quando te invoco.
+    titulo: Salmo de Davi.
     status: ia-sem-revisao
   '141:2':
     texto: Suba a minha oração como incenso diante de ti, e o levantar das minhas mãos, como a oferta
@@ -4490,8 +4519,9 @@ versiculos:
       minha vida.'
     status: ia-sem-revisao
   '144:1':
-    texto: De Davi. Bendito seja o Senhor, minha rocha, que adestra as minhas mãos para o combate e os
-      meus dedos para a guerra.
+    texto: Bendito seja o Senhor, minha rocha, que adestra as minhas mãos para o combate e os meus dedos
+      para a guerra.
+    titulo: De Davi.
     partes:
     - De Davi.
     - Bendito seja o Senhor, minha rocha, que adestra as minhas mãos para o combate e os meus dedos para
@@ -4521,7 +4551,8 @@ versiculos:
     texto: a ti que dás a vitória aos reis, que livras Davi, teu servo, da espada maligna.
     status: ia-sem-revisao
   '145:1':
-    texto: Louvor. De Davi. Exalto-te, meu Deus e rei, e bendigo o teu nome para sempre e eternamente.
+    texto: Exalto-te, meu Deus e rei, e bendigo o teu nome para sempre e eternamente.
+    titulo: Louvor. De Davi.
     status: ia-sem-revisao
   '145:2':
     texto: Todos os dias te bendirei e louvarei o teu nome para sempre e eternamente.
@@ -4595,7 +4626,8 @@ versiculos:
       e eternamente.
     status: ia-sem-revisao
   '146:1':
-    texto: Aleluia. Louva o Senhor, ó minha alma.
+    texto: Louva o Senhor, ó minha alma.
+    titulo: Aleluia.
     status: ia-sem-revisao
   '146:2':
     texto: Louvarei o Senhor enquanto viver; cantarei ao meu Deus enquanto existir.
@@ -4635,7 +4667,8 @@ versiculos:
     texto: O Senhor reinará para sempre; o teu Deus, ó Sião, de geração em geração. Aleluia.
     status: ia-sem-revisao
   '147:1':
-    texto: Aleluia. Pois é bom cantar ao nosso Deus; é agradável e conveniente louvá-lo.
+    texto: Pois é bom cantar ao nosso Deus; é agradável e conveniente louvá-lo.
+    titulo: Aleluia.
     status: ia-sem-revisao
   '147:2':
     texto: O Senhor reconstrói Jerusalém e reúne os dispersos de Israel.
@@ -4674,7 +4707,8 @@ versiculos:
     texto: Não fez assim a nenhuma outra nação, e os seus juízos elas não os conhecem. Aleluia.
     status: ia-sem-revisao
   '148:1':
-    texto: Aleluia. Louvai o Senhor, desde os céus, louvai-o nas alturas.
+    texto: Louvai o Senhor, desde os céus, louvai-o nas alturas.
+    titulo: Aleluia.
     status: ia-sem-revisao
   '148:2':
     texto: Louvai-o, todos os seus anjos; louvai-o, todos os seus exércitos.
@@ -4699,7 +4733,8 @@ versiculos:
       que lhe é próximo. Aleluia.
     status: ia-sem-revisao
   '149:1':
-    texto: Aleluia. Cantai ao Senhor um canto novo; o seu louvor na assembleia dos fiéis.
+    texto: Cantai ao Senhor um canto novo; o seu louvor na assembleia dos fiéis.
+    titulo: Aleluia.
     status: ia-sem-revisao
   '149:2':
     texto: Alegre-se Israel no seu Criador; os filhos de Sião exultem no seu Rei.
@@ -4728,7 +4763,8 @@ versiculos:
     status: ia-sem-revisao
     observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '150:1':
-    texto: Aleluia. Louvai a Deus no seu santuário, louvai-o no seu poderoso firmamento.
+    texto: Louvai a Deus no seu santuário, louvai-o no seu poderoso firmamento.
+    titulo: Aleluia.
     status: ia-sem-revisao
   '150:2':
     texto: Louvai-o pelos seus feitos poderosos, louvai-o segundo a sua imensa grandeza.
