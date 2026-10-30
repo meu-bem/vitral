@@ -1,0 +1,195 @@
+livro: AMO
+fonte: oshb
+versiculos:
+  '2:6':
+    texto: 'Assim diz o Senhor: Por três crimes de Israel, e por quatro, não o revogarei: porque vendem
+      o justo por prata e o pobre por um par de sandálias.'
+    status: ia-sem-revisao
+  '2:7':
+    texto: Pisam sobre o pó da terra a cabeça dos fracos e desviam o caminho dos humildes; pai e filho
+      vão à mesma jovem, profanando o meu santo nome.
+    status: ia-sem-revisao
+  '2:8':
+    texto: Estendem-se sobre vestes penhoradas junto a qualquer altar e bebem na casa do seu deus o vinho
+      dos multados.
+    status: ia-sem-revisao
+  '2:9':
+    texto: E, no entanto, fui eu que destruí diante deles o amorreu, cuja altura era como a dos cedros
+      e que era forte como os carvalhos; destruí o seu fruto por cima e as suas raízes por baixo.
+    status: ia-sem-revisao
+  '2:10':
+    texto: Fui eu que vos fiz subir da terra do Egito e vos conduzi quarenta anos pelo deserto, para tomardes
+      posse da terra do amorreu.
+    status: ia-sem-revisao
+  '2:13':
+    texto: Eis que eu vos farei gemer no lugar, como geme o carro carregado de feixes.
+    status: ia-sem-revisao
+  '2:14':
+    texto: A fuga faltará ao ligeiro, o forte não firmará a sua força, e o valente não salvará a sua vida.
+    status: ia-sem-revisao
+  '2:15':
+    texto: O que maneja o arco não resistirá, o ligeiro de pés não escapará, e o cavaleiro não salvará
+      a sua vida.
+    status: ia-sem-revisao
+  '2:16':
+    texto: O mais corajoso entre os valentes fugirá nu naquele dia — oráculo do Senhor.
+    status: ia-sem-revisao
+  '3:1':
+    texto: 'Ouvi esta palavra que o Senhor pronunciou contra vós, filhos de Israel, contra toda a família
+      que fiz subir da terra do Egito:'
+    status: ia-sem-revisao
+  '3:2':
+    texto: Somente a vós conheci entre todas as famílias da terra; por isso pedirei contas de todas as
+      vossas culpas.
+    status: ia-sem-revisao
+  '3:3':
+    texto: Caminham dois juntos, se não se encontraram?
+    status: ia-sem-revisao
+  '3:4':
+    texto: Ruge o leão na mata, se não tem presa? Dá o leãozinho a sua voz da toca, se nada capturou?
+    status: ia-sem-revisao
+  '3:5':
+    texto: Cai a ave na armadilha da terra, se não há laço para ela? Levanta-se a armadilha do chão, se
+      nada captura?
+    status: ia-sem-revisao
+  '3:6':
+    texto: Toca-se a trombeta na cidade, e o povo não se assusta? Acontece uma desgraça na cidade, sem
+      que o Senhor a tenha causado?
+    status: ia-sem-revisao
+  '3:7':
+    texto: Pois o Senhor Deus nada faz sem revelar o seu segredo aos seus servos, os profetas.
+    status: ia-sem-revisao
+  '3:8':
+    texto: 'Ruge o leão: quem não temerá? O Senhor Deus falou: quem não profetizará?'
+    status: ia-sem-revisao
+  '4:11':
+    texto: Eu vos subverti como Deus subverteu Sodoma e Gomorra, e fostes como um tição arrancado do incêndio;
+      e não voltastes a mim — oráculo do Senhor.
+    status: ia-sem-revisao
+  '4:12':
+    texto: Por isso, assim farei contigo, Israel; e, porque isto farei contigo, prepara-te, Israel, para
+      o encontro com o teu Deus.
+    status: ia-sem-revisao
+  '5:14':
+    texto: Buscai o bem, e não o mal, para que vivais; e assim o Senhor, Deus dos Exércitos, estará convosco,
+      como dizeis.
+    status: ia-sem-revisao
+  '5:15':
+    texto: Odiai o mal, amai o bem e estabelecei o direito à porta; talvez o Senhor, Deus dos Exércitos,
+      tenha piedade do resto de José.
+    status: ia-sem-revisao
+  '5:21':
+    texto: Detesto, rejeito as vossas festas e não me agrado das vossas assembleias solenes.
+    status: ia-sem-revisao
+  '5:22':
+    texto: Ainda que me ofereçais holocaustos e oblações, não os aceitarei, e não olharei para os sacrifícios
+      de comunhão dos vossos novilhos gordos.
+    status: ia-sem-revisao
+  '5:23':
+    texto: Afasta de mim o barulho dos teus cânticos; o som das tuas harpas não ouvirei.
+    status: ia-sem-revisao
+  '5:24':
+    texto: Corra o direito como a água, e a justiça, como um ribeiro perene.
+    status: ia-sem-revisao
+  '6:1':
+    texto: Ai dos tranquilos em Sião e dos que se sentem seguros no monte de Samaria, os notáveis da primeira
+      das nações, aos quais vai a casa de Israel!
+    status: ia-sem-revisao
+  '6:3':
+    texto: Vós que afastais o dia mau e fazeis aproximar o assento da violência;
+    status: ia-sem-revisao
+  '6:4':
+    texto: que vos deitais em camas de marfim e vos estendeis nos vossos leitos, comendo cordeiros do
+      rebanho e bezerros do meio do estábulo;
+    status: ia-sem-revisao
+  '6:5':
+    texto: que improvisais ao som da harpa e, como Davi, inventais para vós instrumentos de música;
+    status: ia-sem-revisao
+  '6:6':
+    texto: que bebeis vinho em taças e vos ungis com os melhores óleos, mas não vos afligis com a ruína
+      de José!
+    status: ia-sem-revisao
+  '6:7':
+    texto: Por isso agora irão para o exílio à frente dos exilados, e cessará o banquete dos que se estendiam.
+    status: ia-sem-revisao
+  '7:10':
+    texto: 'Amasias, sacerdote de Betel, mandou dizer a Jeroboão, rei de Israel: “Amós conspira contra
+      ti no meio da casa de Israel; a terra não pode suportar todas as suas palavras.'
+    status: ia-sem-revisao
+  '7:11':
+    texto: 'Pois assim diz Amós: ‘Jeroboão morrerá pela espada, e Israel certamente será exilado para
+      longe da sua terra.’”'
+    status: ia-sem-revisao
+  '7:12':
+    texto: 'Amasias disse a Amós: “Vidente, vai, foge para a terra de Judá; come lá o teu pão e lá profetiza.'
+    status: ia-sem-revisao
+  '7:13':
+    texto: Mas em Betel não continues a profetizar, porque é o santuário do rei e a casa do reino.”
+    status: ia-sem-revisao
+  '7:14':
+    texto: 'Amós respondeu a Amasias: “Não sou profeta nem filho de profeta; sou pastor de gado e cultivador
+      de sicômoros.'
+    status: ia-sem-revisao
+  '7:15':
+    texto: 'O Senhor me tomou de detrás do rebanho e me disse: ‘Vai, profetiza ao meu povo Israel.’'
+    status: ia-sem-revisao
+  '7:16':
+    texto: 'Agora, pois, ouve a palavra do Senhor. Tu dizes: ‘Não profetizes contra Israel, nem prediques
+      contra a casa de Isaac.’'
+    status: ia-sem-revisao
+  '7:17':
+    texto: 'Por isso, assim diz o Senhor: ‘Tua mulher se prostituirá na cidade, teus filhos e tuas filhas
+      cairão à espada, a tua terra será repartida com o cordel, e tu morrerás em terra impura; e Israel
+      certamente será exilado para longe da sua terra.’”'
+    status: ia-sem-revisao
+  '8:4':
+    texto: Ouvi isto, vós que esmagais o pobre e fazeis perecer os humildes da terra,
+    status: ia-sem-revisao
+  '8:5':
+    texto: 'dizendo: “Quando passará a lua nova, para vendermos o grão? E o sábado, para abrirmos o celeiro,
+      diminuindo a efa, aumentando o siclo e falsificando balanças enganosas,'
+    status: ia-sem-revisao
+  '8:6':
+    texto: comprando os fracos por prata e o pobre por um par de sandálias, e vendendo até o refugo do
+      trigo?”
+    status: ia-sem-revisao
+  '8:7':
+    texto: 'O Senhor jurou pelo orgulho de Jacó: Nunca esquecerei todas as suas obras.'
+    status: ia-sem-revisao
+  '8:9':
+    texto: Naquele dia — oráculo do Senhor Deus — farei o sol pôr-se ao meio-dia e escurecerei a terra
+      em pleno dia.
+    status: ia-sem-revisao
+  '8:10':
+    texto: Converterei as vossas festas em luto e todos os vossos cânticos em lamentação; porei saco em
+      todos os lombos e calvície em toda cabeça; farei como no luto por um filho único, e o seu fim será
+      como um dia amargo.
+    status: ia-sem-revisao
+  '8:11':
+    texto: Eis que vêm dias — oráculo do Senhor Deus — em que enviarei fome à terra, não fome de pão nem
+      sede de água, mas de ouvir as palavras do Senhor.
+    status: ia-sem-revisao
+  '8:12':
+    texto: Cambalearão de mar a mar e do norte ao oriente; andarão errantes em busca da palavra do Senhor,
+      mas não a encontrarão.
+    status: ia-sem-revisao
+  '9:11':
+    texto: Naquele dia levantarei a tenda caída de Davi, repararei as suas brechas, levantarei as suas
+      ruínas e a reconstruirei como nos dias antigos,
+    status: ia-sem-revisao
+  '9:12':
+    texto: para que possuam o resto de Edom e todas as nações sobre as quais foi invocado o meu nome —
+      oráculo do Senhor, que faz isto.
+    status: ia-sem-revisao
+  '9:13':
+    texto: Eis que vêm dias — oráculo do Senhor — em que o lavrador alcançará o ceifeiro, e o pisador
+      de uvas, o que lança a semente; os montes destilarão vinho doce, e todas as colinas se derreterão.
+    status: ia-sem-revisao
+  '9:14':
+    texto: Mudarei a sorte do meu povo Israel; reconstruirão as cidades devastadas e as habitarão, plantarão
+      vinhas e beberão o seu vinho, farão pomares e comerão os seus frutos.
+    status: ia-sem-revisao
+  '9:15':
+    texto: Plantá-los-ei na sua terra, e não serão mais arrancados da terra que lhes dei, diz o Senhor,
+      teu Deus.
+    status: ia-sem-revisao
