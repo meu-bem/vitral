@@ -78,25 +78,59 @@ versiculos:
       da do Lecionário. O texto-base do versículo em hebraico é “Mardoqueu foi e fez tudo o que Ester
       lhe ordenara”.'
   '5:1':
-    texto: No terceiro dia, Ester vestiu-se de rainha e parou no pátio interior da casa do rei, diante
-      da casa do rei, estando o rei sentado no seu trono real, na casa real, diante da entrada da casa.
+    texto: No terceiro dia, depôs as vestes do seu adorno, e foi cercada de sua glória. Resplandecendo
+      com traje real e tendo invocado Deus, regente e salvador de todos, tomou duas servas, e apoiava-se
+      numa delas, como se, por delicadeza e extrema fragilidade, não pudesse sustentar o próprio corpo;
+      a outra serva seguia a senhora, sustentando as vestes que se arrastavam pelo chão. Ela, com o rosto
+      tingido de cor rosada e de olhos amáveis e brilhantes, escondia o ânimo triste e contraído por extremo
+      temor. Tendo atravessado, portanto, todas as portas em ordem, parou diante do rei, que estava sentado
+      no seu trono real, vestido com trajes régios, resplandecente de ouro e de pedras preciosas; e era
+      de aspecto terrível. Quando ele levantou o rosto e, com olhos ardentes, mostrou o furor do peito,
+      a rainha caiu e, mudando a cor para a palidez, reclinou a cabeça cansada sobre a criada.
     partes:
-    - No terceiro dia, Ester vestiu-se de rainha e parou no pátio interior da casa do rei, diante da casa
-      do rei,
-    - estando o rei sentado no seu trono real, na casa real, diante da entrada da casa.
+    - No terceiro dia, depôs as vestes do seu adorno, e foi cercada de sua glória.
+    - Resplandecendo com traje real e tendo invocado Deus, regente e salvador de todos, tomou duas servas,
+    - e apoiava-se numa delas, como se, por delicadeza e extrema fragilidade, não pudesse sustentar o
+      próprio corpo; a outra serva seguia a senhora, sustentando as vestes que se arrastavam pelo chão.
+    - Ela, com o rosto tingido de cor rosada e de olhos amáveis e brilhantes, escondia o ânimo triste
+      e contraído por extremo temor.
+    - Tendo atravessado, portanto, todas as portas em ordem, parou diante do rei, que estava sentado no
+      seu trono real, vestido com trajes régios, resplandecente de ouro e de pedras preciosas; e era de
+      aspecto terrível.
+    - Quando ele levantou o rosto e, com olhos ardentes, mostrou o furor do peito, a rainha caiu e, mudando
+      a cor para a palidez, reclinou a cabeça cansada sobre a criada.
     status: ia-sem-revisao
-    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+    observacao: 'Reconstrução: o Lecionário segue aqui o texto grego (acréscimo D); traduzido do latim
+      da Clementina, Est 15,4-10. A divisão em letras é aproximada e pode diferir da do Lecionário.'
   '5:2':
-    texto: Quando o rei viu a rainha Ester de pé no pátio, ela achou graça aos seus olhos; o rei estendeu
-      a Ester o cetro de ouro que tinha na mão, e Ester aproximou-se e tocou a ponta do cetro.
+    texto: 'Deus converteu o espírito do rei em mansidão, e ele, apressado e temeroso, saltou do trono
+      e, sustentando-a nos braços até que voltasse a si, a acalmava com estas palavras: “Que tens, Ester?
+      Eu sou teu irmão: não temas. Não morrerás, pois esta lei foi estabelecida não para ti, mas para
+      todos. Aproxima-te, pois, e toca o cetro.” Como ela se calasse, tomou o cetro de ouro, pô-lo sobre
+      o seu pescoço, beijou-a e disse: “Por que não me falas?” Ela respondeu: “Vi-te, senhor, como um
+      anjo de Deus, e o meu coração se perturbou de temor diante da tua glória. És, com efeito, muito
+      admirável, senhor, e o teu rosto está cheio de graças.” Enquanto falava, caiu de novo e ficou quase
+      sem sentidos. O rei se perturbava, e todos os seus ministros a consolavam.'
+    partes:
+    - 'Deus converteu o espírito do rei em mansidão, e ele, apressado e temeroso, saltou do trono e, sustentando-a
+      nos braços até que voltasse a si, a acalmava com estas palavras: “Que tens, Ester? Eu sou teu irmão:
+      não temas. Não morrerás, pois esta lei foi estabelecida não para ti, mas para todos. Aproxima-te,
+      pois, e toca o cetro.”'
+    - 'Como ela se calasse, tomou o cetro de ouro, pô-lo sobre o seu pescoço, beijou-a e disse: “Por que
+      não me falas?” Ela respondeu: “Vi-te, senhor, como um anjo de Deus, e o meu coração se perturbou
+      de temor diante da tua glória. És, com efeito, muito admirável, senhor, e o teu rosto está cheio
+      de graças.” Enquanto falava, caiu de novo e ficou quase sem sentidos. O rei se perturbava, e todos
+      os seus ministros a consolavam.'
     status: ia-sem-revisao
+    observacao: 'Reconstrução: o Lecionário segue aqui o texto grego (acréscimo D); traduzido do latim
+      da Clementina, Est 15,11-19. A divisão em letras é aproximada e pode diferir da do Lecionário.'
   '7:2':
     texto: 'O rei disse a Ester, também no segundo dia, durante o banquete do vinho: “Qual é o teu pedido,
       rainha Ester? Ser-te-á concedido. E qual é a tua petição? Até metade do reino, e será feita.”'
     partes:
-    - 'O rei disse a Ester, também no segundo dia, durante o banquete do vinho: “Qual é o teu pedido,
-      rainha Ester? Ser-te-á concedido.'
-    - E qual é a tua petição? Até metade do reino, e será feita.”
+    - 'O rei disse a Ester, também no segundo dia, durante o banquete do vinho:'
+    - “Qual é o teu pedido, rainha Ester? Ser-te-á concedido. E qual é a tua petição? Até metade do reino,
+      e será feita.”
     status: ia-sem-revisao
     observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '7:3':

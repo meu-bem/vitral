@@ -2,18 +2,19 @@ livro: JDT
 fonte: clementina
 versiculos:
   '13:18':
-    texto: Benedita és tu, filha, pelo Senhor Deus Altíssimo, mais do que todas as mulheres da terra.
-      Bendito o Senhor, que criou o céu e a terra, que te dirigiu para ferir a cabeça do chefe dos nossos
-      inimigos.
+    texto: 'Ozias, chefe do povo de Israel, disse-lhe: Bendita és tu, filha, pelo Senhor Deus Altíssimo,
+      mais do que todas as mulheres da terra. Bendito o Senhor, que criou o céu e a terra, que te dirigiu
+      para ferir a cabeça do chefe dos nossos inimigos.'
     partes:
-    - Benedita és tu, filha,
-    - pelo Senhor Deus Altíssimo,
+    - 'Ozias, chefe do povo de Israel, disse-lhe:'
+    - Bendita és tu, filha, pelo Senhor Deus Altíssimo,
     - mais do que todas as mulheres da terra.
     - Bendito o Senhor, que criou o céu e a terra,
     - que te dirigiu para ferir a cabeça do chefe dos nossos inimigos.
     status: ia-sem-revisao
     observacao: 'Livro deuterocanônico, traduzido do latim (Clementina). Numeração do Lecionário; na Clementina,
-      Jt 13,23-24. partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+      Jt 13,23-24. partes: a = “Ozias disse-lhe”, b-e = a fala; divisão pela pontuação e pelo sentido,
+      a do Lecionário pode diferir.'
   '13:19':
     texto: Hoje engrandeceu de tal modo o teu nome, que o teu louvor não se afastará da boca dos homens
       que se lembrarem do poder do Senhor para sempre,
