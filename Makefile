@@ -28,8 +28,8 @@ publicar-simulado:  ## roda a lógica de publicação sem falar com o GitHub
 	$(PYTHON) scripts/publish.py --simular
 
 .PHONY: revisao
-revisao:  ## revisão humana: make revisao LIVRO=JER (relatório), ou sem LIVRO (resumo)
-	$(PYTHON) scripts/revisao.py $(if $(LIVRO),relatorio $(LIVRO),resumo)
+revisao:  ## revisão humana: make revisao LIVRO=JER (relatório), LIVRO=conferir (coincidências) ou sem LIVRO (resumo)
+	$(PYTHON) scripts/revisao.py $(if $(LIVRO),$(if $(filter conferir,$(LIVRO)),conferir,relatorio $(LIVRO)),resumo)
 
 .PHONY: traducao
 traducao:
