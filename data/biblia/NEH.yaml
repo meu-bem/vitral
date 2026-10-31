@@ -1,0 +1,98 @@
+livro: NEH
+fonte: oshb
+versiculos:
+  '2:1':
+    texto: No mês de Nisã, no ano vinte do rei Artaxerxes, havia vinho diante dele; tomei o vinho e o
+      dei ao rei. Eu nunca tinha estado triste diante dele.
+    status: ia-sem-revisao
+  '2:2':
+    texto: 'O rei me disse: “Por que está triste o teu rosto, se não estás doente? Isto não é senão tristeza
+      de coração.” Tive muito medo.'
+    status: ia-sem-revisao
+  '2:3':
+    texto: 'Disse ao rei: “Viva o rei para sempre! Como não estaria triste o meu rosto, se a cidade, lugar
+      dos sepulcros dos meus pais, está em ruínas e as suas portas foram consumidas pelo fogo?”'
+    status: ia-sem-revisao
+  '2:4':
+    texto: 'O rei me disse: “Que pedes?” Orei ao Deus do céu'
+    status: ia-sem-revisao
+  '2:5':
+    texto: 'e disse ao rei: “Se parece bem ao rei e se o teu servo encontrou graça diante de ti, envia-me
+      a Judá, à cidade dos sepulcros dos meus pais, para que eu a reconstrua.”'
+    status: ia-sem-revisao
+  '2:6':
+    texto: 'O rei me disse, estando a rainha sentada ao seu lado: “Quanto durará a tua viagem, e quando
+      voltarás?” Agradou ao rei enviar-me, e eu lhe indiquei um prazo.'
+    status: ia-sem-revisao
+  '2:7':
+    texto: 'Disse ao rei: “Se parece bem ao rei, que me deem cartas para os governadores da província
+      de além do Rio, para que me deixem passar até que eu chegue a Judá,'
+    status: ia-sem-revisao
+  '2:8':
+    texto: e uma carta para Asaf, guarda do parque do rei, para que me dê madeira para as vigas das portas
+      da fortaleza do templo, para o muro da cidade e para a casa em que eu entrar.” O rei concedeu-me,
+      pois a mão boa do meu Deus estava sobre mim.
+    status: ia-sem-revisao
+  '8:1':
+    texto: Todo o povo se reuniu como um só homem na praça diante da Porta das Águas e pediu a Esdras,
+      o escriba, que trouxesse o livro da Lei de Moisés, que o Senhor prescreveu a Israel.
+    status: ia-sem-revisao
+  '8:2':
+    texto: No primeiro dia do sétimo mês, o sacerdote Esdras trouxe a Lei diante da assembleia, de homens
+      e mulheres e de todos os que eram capazes de compreender o que ouviam.
+    status: ia-sem-revisao
+  '8:3':
+    texto: Leu-a na praça diante da Porta das Águas, desde a luz da manhã até o meio-dia, diante dos homens,
+      das mulheres e dos que podiam compreender; e os ouvidos de todo o povo estavam atentos ao livro
+      da Lei.
+    status: ia-sem-revisao
+  '8:4':
+    texto: O escriba Esdras estava de pé sobre uma plataforma de madeira que fizeram para a ocasião; ao
+      seu lado estavam, à direita, Matitias, Sema, Ananias, Urias, Helcias e Maasias; e à esquerda, Fadaías,
+      Misael, Malquias, Hasum, Hasbadana, Zacarias e Mesulão.
+    partes:
+    - O escriba Esdras estava de pé sobre uma plataforma de madeira que fizeram para a ocasião;
+    - ao seu lado estavam, à direita, Matitias, Sema, Ananias, Urias, Helcias e Maasias; e à esquerda,
+      Fadaías, Misael, Malquias, Hasum, Hasbadana, Zacarias e Mesulão.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '8:5':
+    texto: Esdras abriu o livro à vista de todo o povo, pois estava mais alto do que todo o povo; e, quando
+      o abriu, todo o povo se pôs de pé.
+    status: ia-sem-revisao
+  '8:6':
+    texto: 'Esdras bendisse o Senhor, o grande Deus, e todo o povo respondeu: “Amém! Amém!”, levantando
+      as mãos; inclinaram-se e prostraram-se diante do Senhor com o rosto em terra.'
+    status: ia-sem-revisao
+  '8:7':
+    texto: Josué, Bani, Serebias, Jamim, Acub, Sabetai, Hodias, Maasias, Celita, Azarias, Jozabad, Hanã
+      e Falaías, os levitas, faziam o povo compreender a Lei, enquanto o povo permanecia de pé no seu
+      lugar.
+    partes:
+    - Josué, Bani, Serebias, Jamim, Acub, Sabetai, Hodias, Maasias, Celita, Azarias, Jozabad, Hanã e Falaías,
+      os levitas,
+    - faziam o povo compreender a Lei,
+    - enquanto o povo permanecia de pé no seu lugar.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '8:8':
+    texto: Leram no livro, na Lei de Deus, distintamente e dando o sentido, de modo que compreendessem
+      o que se lia.
+    status: ia-sem-revisao
+  '8:9':
+    texto: 'Neemias, que era o governador, o sacerdote Esdras, o escriba, e os levitas que instruíam o
+      povo disseram a todo o povo: “Este dia é santo para o Senhor, vosso Deus. Não vos lamenteis nem
+      choreis.” Pois todo o povo chorava ao ouvir as palavras da Lei.'
+    status: ia-sem-revisao
+  '8:10':
+    texto: 'Disse-lhes: “Ide, comei carnes gordas, bebei bebidas doces e mandai porções aos que nada têm
+      preparado, pois este dia é santo para o nosso Senhor. Não vos entristeçais, porque a alegria do
+      Senhor é a vossa fortaleza.”'
+    status: ia-sem-revisao
+  '8:11':
+    texto: 'Os levitas acalmavam todo o povo, dizendo: “Calai-vos, porque este dia é santo; não vos entristeçais.”'
+    status: ia-sem-revisao
+  '8:12':
+    texto: Todo o povo foi comer, beber, mandar porções e fazer grande alegria, porque tinham compreendido
+      as palavras que lhes tinham sido explicadas.
+    status: ia-sem-revisao
