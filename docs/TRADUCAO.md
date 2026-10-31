@@ -81,6 +81,9 @@ o versículo traz `observacao` e entra na lista abaixo. Não se mistura outra le
 ## Controle de qualidade
 
 - Cada versículo tem `status`: `ia-sem-revisao` ou `revisado` (só depois de revisão humana).
+- Revisão humana: `make revisao LIVRO=JER` gera `dist/revisao/JER.md` (pontos de atenção primeiro, depois o
+  livro inteiro); `python scripts/revisao.py aprovar JER 1:4 1:5` (ou `--todos`) marca como `revisado` só o que o
+  revisor aprovou. `make revisao` sem livro mostra o progresso.
 - `make traducao` valida o esquema e a cobertura das referências do Lecionário (`COMPLETO=1` falha se faltar algo).
 - Conferência por amostragem dos trechos mais conhecidos, por quem tiver acesso a outras traduções, só para
   detectar coincidências de redação.
