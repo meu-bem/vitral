@@ -1,0 +1,88 @@
+livro: MAL
+fonte: oshb
+versiculos:
+  '1:14':
+    texto: Maldito o enganador que tem um macho no seu rebanho, faz um voto e sacrifica ao Senhor um animal
+      defeituoso; porque eu sou um grande rei, diz o Senhor dos Exércitos, e o meu nome é temível entre
+      as nações.
+    status: ia-sem-revisao
+  '2:1':
+    texto: 'E agora, para vós, sacerdotes, este mandamento:'
+    status: ia-sem-revisao
+  '2:2':
+    texto: Se não ouvirdes e se não tomardes a peito dar glória ao meu nome, diz o Senhor dos Exércitos,
+      enviarei sobre vós a maldição e amaldiçoarei as vossas bênçãos; e já as amaldiçoei, porque não tomais
+      isso a peito.
+    status: ia-sem-revisao
+  '2:8':
+    texto: Mas vós vos desviastes do caminho, fizestes muitos tropeçar na Lei, corrompestes a aliança
+      de Levi, diz o Senhor dos Exércitos.
+    status: ia-sem-revisao
+  '2:9':
+    texto: Por isso eu também vos tornei desprezíveis e humilhados diante de todo o povo, porque não guardais
+      os meus caminhos e fazeis acepção de pessoas na Lei.
+    status: ia-sem-revisao
+  '2:10':
+    texto: Não temos todos um só pai? Não foi um só Deus que nos criou? Por que somos infiéis uns aos
+      outros, profanando a aliança dos nossos pais?
+    status: ia-sem-revisao
+  '3:1':
+    texto: 'Eis que envio o meu mensageiro, que preparará o caminho diante de mim; e logo virá ao seu
+      templo o Senhor que buscais, o mensageiro da aliança que desejais: eis que ele vem, diz o Senhor
+      dos Exércitos.'
+    status: ia-sem-revisao
+  '3:2':
+    texto: Quem suportará o dia da sua vinda? E quem resistirá quando ele aparecer? Pois ele é como o
+      fogo do ourives e como o sabão dos lavadeiros.
+    status: ia-sem-revisao
+  '3:3':
+    texto: Sentar-se-á como quem refina e purifica a prata; purificará os filhos de Levi e os refinará
+      como ouro e prata, e serão para o Senhor os que apresentam a oferta na justiça.
+    status: ia-sem-revisao
+  '3:4':
+    texto: Então agradará ao Senhor a oferta de Judá e de Jerusalém, como nos dias antigos e como nos
+      anos de outrora.
+    status: ia-sem-revisao
+  '3:13':
+    texto: 'Foram duras para comigo as vossas palavras, diz o Senhor, e dizeis: “Que dissemos contra ti?”'
+    status: ia-sem-revisao
+  '3:14':
+    texto: 'Dissestes: “É vão servir a Deus. Que proveito há em guardarmos o seu preceito e em andarmos
+      de luto diante do Senhor dos Exércitos?'
+    status: ia-sem-revisao
+  '3:15':
+    texto: Agora declaramos felizes os soberbos; os que praticam a maldade prosperam, e os que tentam
+      a Deus escapam.”
+    status: ia-sem-revisao
+  '3:16':
+    texto: Então os que temem o Senhor falaram uns com os outros; o Senhor prestou atenção e ouviu, e
+      foi escrito diante dele um livro de memória para os que temem o Senhor e respeitam o seu nome.
+    status: ia-sem-revisao
+  '3:17':
+    texto: Eles serão para mim — diz o Senhor dos Exércitos — a minha propriedade particular, no dia que
+      eu preparo; e terei compaixão deles, como um homem tem compaixão do filho que o serve.
+    status: ia-sem-revisao
+  '3:18':
+    texto: Então voltareis a ver a diferença entre o justo e o ímpio, entre quem serve a Deus e quem não
+      o serve.
+    status: ia-sem-revisao
+  '3:19':
+    texto: Pois eis que vem o dia, ardente como uma fornalha; todos os soberbos e todos os que praticam
+      a maldade serão palha, e o dia que vem os abrasará, diz o Senhor dos Exércitos, de modo que não
+      lhes deixará nem raiz nem ramo.
+    status: ia-sem-revisao
+  '3:20':
+    texto: Mas para vós, que temeis o meu nome, nascerá o sol da justiça, trazendo a cura nas suas asas;
+      saireis e saltareis como bezerros de estábulo.
+    partes:
+    - Mas para vós, que temeis o meu nome, nascerá o sol da justiça,
+    - trazendo a cura nas suas asas; saireis e saltareis como bezerros de estábulo.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '3:23':
+    texto: Eis que vos envio o profeta Elias, antes que venha o dia do Senhor, grande e terrível.
+    status: ia-sem-revisao
+  '3:24':
+    texto: Ele fará voltar o coração dos pais para os filhos e o coração dos filhos para os seus pais,
+      para que eu não venha ferir a terra com o extermínio.
+    status: ia-sem-revisao
