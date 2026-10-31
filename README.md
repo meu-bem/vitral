@@ -7,13 +7,15 @@ EPUB (para Kindle) e AZW3, e é publicado num site estático.
 Cada dia traz:
 
 - a data, o dia litúrgico, o tempo e a cor;
-- as referências da 1ª leitura, do salmo, da 2ª leitura e do evangelho;
+- as referências da 1ª leitura, do salmo, da 2ª leitura e do evangelho, seguidas do **texto** de cada uma, em
+  tradução por IA, sem revisão humana (`data/biblia/`, ver [docs/TRADUCAO.md](docs/TRADUCAO.md));
 - QR codes, com a URL escrita ao lado, para uma busca no YouTube pelo salmo e pelo evangelho;
 - links para sites oficiais;
 - espaço para um comentário humano licenciado, quando houver.
 
-O livro **não reproduz texto bíblico nem comentário de terceiros** e não contém texto gerado
-por IA. Veja [docs/LICENCIAMENTO.md](docs/LICENCIAMENTO.md).
+O livro **não reproduz texto bíblico em traduções com direitos nem comentário de terceiros**. O texto das
+leituras é tradução própria, feita por IA a partir do grego, do hebraico e do latim, sem revisão humana, e isso é
+avisado no livro; fora as leituras, não contém texto gerado por IA. Veja [docs/LICENCIAMENTO.md](docs/LICENCIAMENTO.md).
 
 - Site: PREENCHER (endereço do GitHub Pages ou domínio próprio)
 - Livros: aba *Releases* do repositório (uma release por ano, tag `livro-AAAA`)

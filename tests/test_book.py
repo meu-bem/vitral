@@ -76,9 +76,35 @@ def test_epub_container_and_reproducibility(book, tmp_path):
         assert z.read("mimetype") == b"application/epub+zip"
 
 
-def test_no_reading_text_only_references(book):
-    """O livro não traz texto bíblico: cada leitura é uma referência curta."""
+def test_reading_reference_stays_short(book):
+    """No modelo, cada leitura continua sendo uma referência curta; o texto vem de reading_text."""
     for bd in book.days:
         for r in bd.reading_list():
             if r.display:
                 assert len(r.display) < 80
+
+
+def test_every_reading_of_the_year_has_text(book):
+    """Com a tradução completa, toda leitura com referência traz ao menos um versículo."""
+    from vitral.reading_text import reading_verses
+
+    for bd in book.days:
+        for r in bd.reading_list():
+            if r.ref:
+                assert reading_verses(r.ref), f"{bd.date}: {r.ref} sem texto"
+
+
+def test_reading_text_picks_only_cited_parts():
+    from vitral.reading_text import reading_verses
+
+    labels = [v.label for v in reading_verses("Sl 80(81),6c-8a.8bc-9.10-11ab.14.17")]
+    assert labels[0] == "6c" and "8a" in labels and "8bc" in labels and labels[-1] == "17"
+    assert [v.label for v in reading_verses("Est 4,17k-m.17r-t")] == ["17klm", "17rst"]
+    assert reading_verses("Xx 1,1") == []
+
+
+def test_day_html_shows_reading_text(book):
+    from vitral.book.html import day_section
+
+    html = day_section(book.days[0])
+    assert 'class="leitura-texto"' in html and '<sup class="v">' in html

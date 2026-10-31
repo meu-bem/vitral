@@ -12,16 +12,17 @@ fim deste documento.
 | Nomes das celebrações | romcal (MIT), conferidos | dados sob licença aberta |
 | Imagem do calendário, QR codes, capa | gerados pelo projeto | obra própria (CC BY-SA 4.0) |
 | Textos de interface (títulos, instruções de uso) | escritos para o projeto | obra própria (CC BY-SA 4.0) |
+| Texto das leituras e dos salmos | tradução própria, por IA, sem revisão humana, de `data/biblia/` (SBLGNT, OSHB, Clementina; `docs/FONTES.md`) | obra derivada de textos-base abertos, CC BY-SA 4.0; avisada na abertura e nos créditos |
 | Comentários de colaboradores | `conteudo/` | só CC0, CC BY 4.0, CC BY-SA 4.0 ou domínio público com procedência |
 | Fontes tipográficas | EB Garamond, Source Sans 3 | SIL Open Font License 1.1 |
 
 ## O que o livro não inclui
 
-- **Texto das leituras e dos salmos** (tradução da CNBB ou qualquer outra com direitos), nem o
-  refrão do salmo. As buscas no YouTube usam só a referência e o nome do dia.
+- **Texto das leituras e dos salmos em tradução da CNBB ou qualquer outra com direitos**, nem o
+  refrão do salmo. O texto que o livro traz é a tradução própria acima, sem consultar traduções portuguesas. As buscas no YouTube usam só a referência e o nome do dia.
 - **Comentários, homilias e meditações de terceiros** sem licença aberta.
-- **Texto espiritual gerado por IA.** O código, os testes, a documentação técnica e os textos
-  de interface foram escritos com apoio de IA. Nenhum comentário, oração ou meditação foi.
+- **Texto espiritual gerado por IA**, exceto a tradução das leituras. O código, os testes, a documentação
+  técnica e os textos de interface foram escritos com apoio de IA. Nenhum comentário, oração ou meditação foi.
 - **Dados raspados** de sites de liturgia. Esses sites só aparecem como links.
 
 ## Licenças do repositório

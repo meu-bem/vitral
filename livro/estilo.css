@@ -61,6 +61,10 @@ figcaption { font-size: 0.8em; color: #555; margin-top: 0.4em; }
 .comentario p { text-align: justify; margin: 0.3em 0; }
 .credito { font-size: 0.72em; color: #555; }
 
+.leitura-texto { margin: 0.7em 0 0; }
+.leitura-texto h3 { font-size: 0.75em; font-weight: bold; color: #555; text-transform: uppercase; letter-spacing: 0.03em; margin: 0 0 0.15em; break-after: avoid; }
+.leitura-texto p { font-size: 0.88em; line-height: 1.38; margin: 0; text-align: justify; hyphens: auto; }
+sup.v { font-family: "Source Sans 3", sans-serif; font-size: 0.62em; font-weight: bold; color: #777; margin: 0 0.15em 0 0.25em; line-height: 0; }
 .anotacoes { margin-top: 0.8em; }
 .anotacoes-rotulo { font-size: 0.72em; color: #777; text-transform: uppercase; letter-spacing: 0.05em; margin: 0; }
 
