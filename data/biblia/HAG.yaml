@@ -1,0 +1,68 @@
+livro: HAG
+fonte: oshb
+versiculos:
+  '1:1':
+    texto: 'No segundo ano do rei Dario, no sexto mês, no primeiro dia do mês, veio a palavra do Senhor,
+      por meio do profeta Ageu, a Zorobabel, filho de Salatiel, governador de Judá, e a Josué, filho de
+      Josedec, o sumo sacerdote:'
+    status: ia-sem-revisao
+  '1:2':
+    texto: 'Assim diz o Senhor dos Exércitos: Este povo diz: “Não chegou o tempo, o tempo de reconstruir
+      a casa do Senhor.”'
+    status: ia-sem-revisao
+  '1:3':
+    texto: 'Veio a palavra do Senhor por meio do profeta Ageu:'
+    status: ia-sem-revisao
+  '1:4':
+    texto: É tempo, para vós, de habitardes em casas revestidas, enquanto esta casa está em ruínas?
+    status: ia-sem-revisao
+  '1:5':
+    texto: 'Agora, assim diz o Senhor dos Exércitos: Considerai os vossos caminhos.'
+    status: ia-sem-revisao
+  '1:6':
+    texto: Semeastes muito e colhestes pouco; comeis, mas não até saciar; bebeis, mas não até matar a
+      sede; vestis-vos, mas ninguém se aquece; e o assalariado ganha o salário para pô-lo num saco furado.
+    status: ia-sem-revisao
+  '1:7':
+    texto: 'Assim diz o Senhor dos Exércitos: Considerai os vossos caminhos.'
+    status: ia-sem-revisao
+  '1:8':
+    texto: Subi ao monte, trazei madeira e reconstruí a casa; nela me agradarei e serei glorificado, diz
+      o Senhor.
+    status: ia-sem-revisao
+  '2:1':
+    texto: 'No sétimo mês, no vigésimo primeiro dia do mês, veio a palavra do Senhor, por meio do profeta
+      Ageu:'
+    status: ia-sem-revisao
+  '2:2':
+    texto: 'Fala a Zorobabel, filho de Salatiel, governador de Judá, a Josué, filho de Josedec, o sumo
+      sacerdote, e ao resto do povo:'
+    status: ia-sem-revisao
+  '2:3':
+    texto: Quem entre vós restou que viu esta casa na sua primeira glória? E como a vedes agora? Não é
+      como nada aos vossos olhos?
+    status: ia-sem-revisao
+  '2:4':
+    texto: Agora, porém, coragem, Zorobabel — oráculo do Senhor —; coragem, Josué, filho de Josedec, sumo
+      sacerdote; coragem, todo o povo da terra — oráculo do Senhor —, e trabalhai, porque eu estou convosco
+      — oráculo do Senhor dos Exércitos —,
+    status: ia-sem-revisao
+  '2:5':
+    texto: 'conforme a palavra que firmei convosco quando saístes do Egito; o meu espírito permanece no
+      meio de vós: não temais.'
+    status: ia-sem-revisao
+  '2:6':
+    texto: 'Pois assim diz o Senhor dos Exércitos: Ainda uma vez, em breve, farei tremer o céu e a terra,
+      o mar e a terra seca.'
+    status: ia-sem-revisao
+  '2:7':
+    texto: Farei tremer todas as nações, e virão os tesouros de todas as nações, e encherei de glória
+      esta casa, diz o Senhor dos Exércitos.
+    status: ia-sem-revisao
+  '2:8':
+    texto: Minha é a prata, e meu é o ouro — oráculo do Senhor dos Exércitos.
+    status: ia-sem-revisao
+  '2:9':
+    texto: A glória desta última casa será maior do que a da primeira, diz o Senhor dos Exércitos; e neste
+      lugar darei a paz — oráculo do Senhor dos Exércitos.
+    status: ia-sem-revisao

@@ -1,0 +1,1556 @@
+livro: 1CO
+fonte: sblgnt
+versiculos:
+  '1:1':
+    texto: Paulo, apóstolo de Cristo Jesus por vontade de Deus, e o irmão Sóstenes,
+    status: ia-sem-revisao
+  '1:2':
+    texto: 'À Igreja de Deus que está em Corinto, aos santificados em Cristo Jesus, chamados santos, com
+      todos os que invocam, em qualquer lugar, o nome de nosso Senhor Jesus Cristo, Senhor deles e nosso:'
+    status: ia-sem-revisao
+  '1:3':
+    texto: Graça e paz a vós da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.
+    status: ia-sem-revisao
+  '1:4':
+    texto: Dou graças sempre ao meu Deus por vós, pela graça de Deus que vos foi dada em Cristo Jesus,
+    status: ia-sem-revisao
+  '1:5':
+    texto: Porque em tudo fostes enriquecidos nele, em toda palavra e em todo conhecimento,
+    status: ia-sem-revisao
+  '1:6':
+    texto: Assim como o testemunho de Cristo foi confirmado em vós,
+    status: ia-sem-revisao
+  '1:7':
+    texto: De modo que não vos falta nenhum dom, enquanto aguardais a revelação de nosso Senhor Jesus
+      Cristo;
+    status: ia-sem-revisao
+  '1:8':
+    texto: Ele vos confirmará até o fim, irrepreensíveis no dia de nosso Senhor Jesus Cristo.
+    status: ia-sem-revisao
+  '1:9':
+    texto: Fiel é Deus, por quem fostes chamados à comunhão com o seu Filho Jesus Cristo, nosso Senhor.
+    status: ia-sem-revisao
+  '1:10':
+    texto: Exorto-vos, irmãos, pelo nome de nosso Senhor Jesus Cristo, a que todos digais a mesma coisa
+      e não haja entre vós divisões, mas estejais bem unidos no mesmo pensar e no mesmo parecer.
+    status: ia-sem-revisao
+  '1:11':
+    texto: Pois fui informado a vosso respeito, meus irmãos, pelos da casa de Cloé, de que há discórdias
+      entre vós.
+    status: ia-sem-revisao
+  '1:12':
+    texto: 'Quero dizer com isto que cada um de vós diz: “Eu sou de Paulo”, “Eu, de Apolo”, “Eu, de Cefas”,
+      “Eu, de Cristo.”'
+    status: ia-sem-revisao
+  '1:13':
+    texto: Cristo está dividido? Foi Paulo crucificado por vós? Ou fostes batizados em nome de Paulo?
+    status: ia-sem-revisao
+  '1:14':
+    texto: Dou graças por não ter batizado nenhum de vós, a não ser Crispo e Gaio,
+    status: ia-sem-revisao
+  '1:15':
+    texto: Para que ninguém diga que fostes batizados em meu nome.
+    status: ia-sem-revisao
+  '1:16':
+    texto: Batizei também a casa de Estéfanas; quanto ao mais, não sei se batizei algum outro.
+    status: ia-sem-revisao
+  '1:17':
+    texto: Pois Cristo não me enviou para batizar, mas para anunciar o Evangelho, não com sabedoria de
+      palavra, para que a cruz de Cristo não seja esvaziada.
+    status: ia-sem-revisao
+  '1:18':
+    texto: Pois a palavra da cruz é loucura para os que se perdem, mas para nós, que somos salvos, é poder
+      de Deus.
+    status: ia-sem-revisao
+  '1:19':
+    texto: 'Pois está escrito: “Destruirei a sabedoria dos sábios e rejeitarei a inteligência dos inteligentes.”'
+    status: ia-sem-revisao
+  '1:20':
+    texto: Onde está o sábio? Onde o escriba? Onde o questionador deste mundo? Não tornou Deus louca a
+      sabedoria do mundo?
+    status: ia-sem-revisao
+  '1:21':
+    texto: Com efeito, como o mundo, na sabedoria de Deus, não conheceu a Deus pela sabedoria, aprouve
+      a Deus salvar os que creem pela loucura da pregação.
+    status: ia-sem-revisao
+  '1:22':
+    texto: Os judeus pedem sinais e os gregos procuram sabedoria;
+    status: ia-sem-revisao
+  '1:23':
+    texto: Nós, porém, pregamos Cristo crucificado, escândalo para os judeus e loucura para os gentios,
+    status: ia-sem-revisao
+  '1:24':
+    texto: Mas para os que são chamados, tanto judeus como gregos, Cristo, poder de Deus e sabedoria de
+      Deus.
+    status: ia-sem-revisao
+  '1:25':
+    texto: Pois a loucura de Deus é mais sábia do que os homens, e a fraqueza de Deus é mais forte do
+      que os homens.
+    status: ia-sem-revisao
+  '1:26':
+    texto: 'Considerai, irmãos, a vossa vocação: não são muitos os sábios segundo a carne, nem muitos
+      os poderosos, nem muitos os bem-nascidos;'
+    status: ia-sem-revisao
+  '1:27':
+    texto: Mas Deus escolheu o que é louco no mundo para envergonhar os sábios, e Deus escolheu o que
+      é fraco no mundo para envergonhar o que é forte,
+    status: ia-sem-revisao
+  '1:28':
+    texto: E Deus escolheu o que é vil no mundo e o que é desprezado, o que não é, para reduzir a nada
+      o que é,
+    status: ia-sem-revisao
+  '1:29':
+    texto: A fim de que nenhuma carne se glorie diante de Deus.
+    status: ia-sem-revisao
+  '1:30':
+    texto: Por ele vós estais em Cristo Jesus, que se tornou para nós sabedoria vinda de Deus, justiça,
+      santificação e redenção,
+    status: ia-sem-revisao
+  '1:31':
+    texto: 'Para que, como está escrito: “Quem se gloria, glorie-se no Senhor.”'
+    status: ia-sem-revisao
+  '2:1':
+    texto: Também eu, irmãos, quando fui ter convosco, não fui com sublimidade de palavra ou de sabedoria
+      anunciar-vos o testemunho de Deus.
+    status: ia-sem-revisao
+  '2:2':
+    texto: Pois decidi nada saber entre vós, a não ser Jesus Cristo, e este crucificado.
+    status: ia-sem-revisao
+  '2:3':
+    texto: E estive entre vós em fraqueza, em temor e em grande tremor;
+    status: ia-sem-revisao
+  '2:4':
+    texto: E a minha palavra e a minha pregação não consistiram em persuasivos discursos de sabedoria,
+      mas em demonstração de Espírito e de poder,
+    status: ia-sem-revisao
+  '2:5':
+    texto: Para que a vossa fé não se baseie na sabedoria dos homens, mas no poder de Deus.
+    status: ia-sem-revisao
+  '2:6':
+    texto: É de sabedoria que falamos entre os perfeitos, mas não de sabedoria deste mundo nem dos dominadores
+      deste mundo, que são reduzidos a nada;
+    status: ia-sem-revisao
+  '2:7':
+    texto: Mas falamos de sabedoria de Deus em mistério, a que estava escondida, que Deus predestinou
+      antes dos séculos para a nossa glória;
+    status: ia-sem-revisao
+  '2:8':
+    texto: Nenhum dos dominadores deste mundo a conheceu; pois, se a tivessem conhecido, não teriam crucificado
+      o Senhor da glória.
+    status: ia-sem-revisao
+  '2:9':
+    texto: 'Mas, como está escrito: “O que olho não viu, ouvido não ouviu e não subiu ao coração do homem,
+      o que Deus preparou para os que o amam.”'
+    status: ia-sem-revisao
+  '2:10':
+    texto: A nós, porém, Deus o revelou pelo Espírito; pois o Espírito sonda tudo, até as profundezas
+      de Deus.
+    partes:
+    - A nós, porém, Deus o revelou pelo Espírito;
+    - pois o Espírito sonda tudo, até as profundezas de Deus.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '2:11':
+    texto: Pois, quem dentre os homens conhece o que é do homem, senão o espírito do homem que está nele?
+      Assim também as coisas de Deus ninguém as conhece, senão o Espírito de Deus.
+    status: ia-sem-revisao
+  '2:12':
+    texto: Nós não recebemos o espírito do mundo, mas o Espírito que vem de Deus, para conhecermos as
+      coisas que Deus nos concedeu;
+    status: ia-sem-revisao
+  '2:13':
+    texto: Delas também falamos, não com palavras ensinadas pela sabedoria humana, mas ensinadas pelo
+      Espírito, interpretando coisas espirituais a homens espirituais.
+    status: ia-sem-revisao
+  '2:14':
+    texto: O homem natural não aceita as coisas do Espírito de Deus, pois são loucura para ele, e não
+      pode conhecê-las, porque se discernem espiritualmente;
+    status: ia-sem-revisao
+  '2:15':
+    texto: O espiritual, porém, discerne tudo, e ele mesmo não é discernido por ninguém.
+    status: ia-sem-revisao
+  '2:16':
+    texto: Pois quem conheceu o pensamento do Senhor, para o instruir? Nós, porém, temos o pensamento
+      de Cristo.
+    status: ia-sem-revisao
+  '3:1':
+    texto: Eu, irmãos, não pude falar-vos como a espirituais, mas como a carnais, como a crianças em Cristo.
+    status: ia-sem-revisao
+  '3:2':
+    texto: Dei-vos leite a beber, não alimento sólido, pois ainda não podíeis; e nem agora podeis,
+    status: ia-sem-revisao
+  '3:3':
+    texto: Porque ainda sois carnais. Pois, havendo entre vós ciúme e discórdia, não sois carnais e não
+      andais à maneira humana?
+    status: ia-sem-revisao
+  '3:4':
+    texto: 'Quando alguém diz: “Eu sou de Paulo”, e outro: “Eu, de Apolo”, não sois simples homens?'
+    status: ia-sem-revisao
+  '3:5':
+    texto: Que é, pois, Apolo? E que é Paulo? Servidores, por meio dos quais crestes, e cada um conforme
+      o Senhor lhe concedeu.
+    status: ia-sem-revisao
+  '3:6':
+    texto: Eu plantei, Apolo regou, mas Deus fez crescer;
+    status: ia-sem-revisao
+  '3:7':
+    texto: De modo que nem o que planta é alguma coisa, nem o que rega, mas Deus, que faz crescer.
+    status: ia-sem-revisao
+  '3:8':
+    texto: O que planta e o que rega são um só, mas cada um receberá a sua recompensa segundo o seu próprio
+      trabalho,
+    status: ia-sem-revisao
+  '3:9':
+    texto: Pois somos colaboradores de Deus; vós sois campo de Deus, edifício de Deus.
+    status: ia-sem-revisao
+  '3:10':
+    texto: Segundo a graça de Deus que me foi dada, como sábio arquiteto lancei o alicerce, e outro edifica
+      sobre ele. Cada um veja como edifica;
+    status: ia-sem-revisao
+  '3:11':
+    texto: Pois ninguém pode lançar outro alicerce além do que foi posto, que é Jesus Cristo.
+    status: ia-sem-revisao
+  '3:12':
+    texto: Se alguém edifica sobre este alicerce com ouro, prata, pedras preciosas, madeira, feno, palha,
+    status: ia-sem-revisao
+  '3:13':
+    texto: A obra de cada um tornar-se-á manifesta, pois o Dia a revelará; porque se revela pelo fogo,
+      e o fogo provará qual é a obra de cada um.
+    status: ia-sem-revisao
+  '3:14':
+    texto: Se a obra que alguém edificou permanecer, receberá recompensa;
+    status: ia-sem-revisao
+  '3:15':
+    texto: Se a obra de alguém for queimada, sofrerá perda; ele mesmo, porém, será salvo, mas como que
+      através do fogo.
+    status: ia-sem-revisao
+  '3:16':
+    texto: Não sabeis que sois templo de Deus e que o Espírito de Deus habita em vós?
+    status: ia-sem-revisao
+  '3:17':
+    texto: Se alguém destrói o templo de Deus, Deus o destruirá; pois o templo de Deus é santo, e esse
+      templo sois vós.
+    status: ia-sem-revisao
+  '3:18':
+    texto: Ninguém se engane a si mesmo; se alguém dentre vós julga ser sábio neste mundo, torne-se louco
+      para vir a ser sábio,
+    status: ia-sem-revisao
+  '3:19':
+    texto: 'Pois a sabedoria deste mundo é loucura diante de Deus. Com efeito, está escrito: “Ele apanha
+      os sábios na sua astúcia”;'
+    status: ia-sem-revisao
+  '3:20':
+    texto: 'E ainda: “O Senhor conhece os raciocínios dos sábios: são vãos.”'
+    status: ia-sem-revisao
+  '3:21':
+    texto: Portanto, ninguém se glorie nos homens; pois tudo é vosso,
+    status: ia-sem-revisao
+  '3:22':
+    texto: 'Seja Paulo, seja Apolo, seja Cefas, seja o mundo, seja a vida, seja a morte, seja o presente,
+      seja o futuro: tudo é vosso,'
+    status: ia-sem-revisao
+  '3:23':
+    texto: E vós de Cristo, e Cristo de Deus.
+    status: ia-sem-revisao
+  '4:1':
+    texto: Assim nos considere cada um como servidores de Cristo e administradores dos mistérios de Deus.
+    status: ia-sem-revisao
+  '4:2':
+    texto: Ora, o que se requer dos administradores é que cada um seja encontrado fiel.
+    status: ia-sem-revisao
+  '4:3':
+    texto: Para mim, é de pouquíssima importância ser julgado por vós ou por um tribunal humano; nem eu
+      mesmo me julgo.
+    status: ia-sem-revisao
+  '4:4':
+    texto: Pois de nada me acusa a consciência, mas nem por isso estou justificado; quem me julga é o
+      Senhor.
+    status: ia-sem-revisao
+  '4:5':
+    texto: Por isso, não julgueis nada antes do tempo, até que venha o Senhor, que iluminará o que está
+      oculto nas trevas e manifestará os desígnios dos corações; e então cada um receberá de Deus o louvor.
+    status: ia-sem-revisao
+  '4:6':
+    texto: Isto, irmãos, apliquei-o a mim e a Apolo por vossa causa, para que em nós aprendais o “Não
+      além do que está escrito”, a fim de que ninguém se ensoberbeça a favor de um contra outro.
+    status: ia-sem-revisao
+  '4:7':
+    texto: Pois quem te distingue? Que tens que não tenhas recebido? E, se o recebeste, por que te glorias
+      como se não o tivesses recebido?
+    status: ia-sem-revisao
+  '4:8':
+    texto: Já estais saciados, já estais ricos, sem nós reinastes! Oxalá reinásseis, para que também nós
+      reinássemos convosco!
+    status: ia-sem-revisao
+  '4:9':
+    texto: Penso, com efeito, que Deus nos expôs a nós, apóstolos, em último lugar, como condenados à
+      morte; pois nos tornamos espetáculo para o mundo, para os anjos e para os homens.
+    status: ia-sem-revisao
+  '4:10':
+    texto: Nós somos loucos por causa de Cristo, vós sois sensatos em Cristo; nós fracos, vós fortes;
+      vós honrados, nós desprezados.
+    status: ia-sem-revisao
+  '4:11':
+    texto: Até a hora presente passamos fome, sede, nudez, somos esbofeteados, andamos errantes,
+    status: ia-sem-revisao
+  '4:12':
+    texto: E nos afadigamos trabalhando com as nossas próprias mãos; injuriados, abençoamos; perseguidos,
+      suportamos;
+    status: ia-sem-revisao
+  '4:13':
+    texto: Difamados, consolamos; tornamo-nos como a escória do mundo, o lixo de todos, até agora.
+    status: ia-sem-revisao
+  '4:14':
+    texto: Não escrevo isto para vos envergonhar, mas para vos advertir como a filhos meus amados.
+    status: ia-sem-revisao
+  '4:15':
+    texto: Pois, ainda que tivésseis dez mil pedagogos em Cristo, não tendes muitos pais; fui eu que,
+      em Cristo Jesus, vos gerei pelo Evangelho.
+    status: ia-sem-revisao
+  '4:16':
+    texto: 'Exorto-vos, pois: sede meus imitadores.'
+    status: ia-sem-revisao
+  '4:17':
+    texto: Por isso vos enviei Timóteo, que é meu filho amado e fiel no Senhor, o qual vos recordará os
+      meus caminhos em Cristo Jesus, como ensino por toda parte em todas as Igrejas.
+    status: ia-sem-revisao
+  '4:18':
+    texto: Como se eu não fosse ter convosco, alguns se ensoberbeceram;
+    status: ia-sem-revisao
+  '4:19':
+    texto: Mas irei em breve ter convosco, se o Senhor quiser, e conhecerei não a palavra dos ensoberbecidos,
+      mas o poder;
+    status: ia-sem-revisao
+  '4:20':
+    texto: Pois o Reino de Deus não consiste em palavra, mas em poder.
+    status: ia-sem-revisao
+  '4:21':
+    texto: Que quereis? Que eu vá ter convosco com vara, ou com amor e espírito de mansidão?
+    status: ia-sem-revisao
+  '5:1':
+    texto: 'Ouve-se por toda parte de imoralidade entre vós, e de uma imoralidade tal como não existe
+      nem entre os gentios: que alguém viva com a mulher de seu pai.'
+    status: ia-sem-revisao
+  '5:2':
+    texto: E vós estais ensoberbecidos, e não antes enlutados, para que seja afastado do meio de vós aquele
+      que fez tal ação!
+    status: ia-sem-revisao
+  '5:3':
+    texto: Eu, de fato, ausente no corpo mas presente no espírito, já julguei, como se estivesse presente,
+      aquele que assim agiu,
+    status: ia-sem-revisao
+  '5:4':
+    texto: Em nome de nosso Senhor Jesus, reunidos vós e o meu espírito, com o poder de nosso Senhor Jesus,
+    status: ia-sem-revisao
+  '5:5':
+    texto: Entregar tal homem a Satanás para a destruição da carne, a fim de que o espírito seja salvo
+      no dia do Senhor.
+    status: ia-sem-revisao
+  '5:6':
+    texto: Não é boa a vossa jactância. Não sabeis que um pouco de fermento leveda toda a massa?
+    status: ia-sem-revisao
+  '5:7':
+    texto: Expulsai o fermento velho, para serdes massa nova, como sois ázimos. Pois nossa Páscoa, Cristo,
+      foi imolada.
+    status: ia-sem-revisao
+  '5:8':
+    texto: Celebremos, pois, a festa, não com fermento velho, nem com fermento de malícia e perversidade,
+      mas com os ázimos da sinceridade e da verdade.
+    status: ia-sem-revisao
+  '5:9':
+    texto: Escrevi-vos na carta que não vos associásseis com os impuros,
+    status: ia-sem-revisao
+  '5:10':
+    texto: Não propriamente com os impuros deste mundo, ou com os avarentos e ladrões, ou com os idólatras;
+      pois então deveríeis sair do mundo.
+    status: ia-sem-revisao
+  '5:11':
+    texto: Escrevi-vos agora que não vos associásseis com quem, chamando-se irmão, seja impuro, avarento,
+      idólatra, injuriador, bêbado ou ladrão; com tal pessoa nem sequer comais.
+    status: ia-sem-revisao
+  '5:12':
+    texto: Pois que tenho eu a ver em julgar os de fora? Não julgais vós os de dentro?
+    status: ia-sem-revisao
+  '5:13':
+    texto: Os de fora, Deus os julga. Expulsai o mau do meio de vós.
+    status: ia-sem-revisao
+  '6:1':
+    texto: Ousa algum de vós, tendo uma questão contra outro, ir a juízo diante dos injustos e não diante
+      dos santos?
+    status: ia-sem-revisao
+  '6:2':
+    texto: Ou não sabeis que os santos hão de julgar o mundo? E, se o mundo é julgado por vós, sois indignos
+      de julgar as causas mínimas?
+    status: ia-sem-revisao
+  '6:3':
+    texto: Não sabeis que julgaremos anjos? Quanto mais as coisas desta vida!
+    status: ia-sem-revisao
+  '6:4':
+    texto: Se, pois, tendes causas relativas a esta vida, por que constituís como juízes os que são desprezados
+      na Igreja?
+    status: ia-sem-revisao
+  '6:5':
+    texto: Digo-o para vossa vergonha. Não há, pois, entre vós nenhum sábio que possa julgar entre os
+      seus irmãos?
+    status: ia-sem-revisao
+  '6:6':
+    texto: Mas um irmão vai a juízo contra outro irmão, e isso diante de incrédulos?
+    status: ia-sem-revisao
+  '6:7':
+    texto: Já é, de fato, uma derrota para vós que tenhais processos entre vós. Por que não preferis sofrer
+      a injustiça? Por que não preferis ser lesados?
+    status: ia-sem-revisao
+  '6:8':
+    texto: Mas sois vós que cometeis injustiça e lesais, e isso contra irmãos!
+    status: ia-sem-revisao
+  '6:9':
+    texto: 'Ou não sabeis que os injustos não herdarão o Reino de Deus? Não vos enganeis: nem impuros,
+      nem idólatras, nem adúlteros, nem depravados, nem sodomitas,'
+    status: ia-sem-revisao
+  '6:10':
+    texto: Nem ladrões, nem avarentos, nem bêbados, nem injuriadores, nem rapaces herdarão o Reino de
+      Deus.
+    status: ia-sem-revisao
+  '6:11':
+    texto: E alguns de vós éreis assim; mas fostes lavados, mas fostes santificados, mas fostes justificados
+      em nome do Senhor Jesus e no Espírito de nosso Deus.
+    status: ia-sem-revisao
+  '6:12':
+    texto: “Tudo me é permitido”, mas nem tudo convém. “Tudo me é permitido”, mas eu não me deixarei dominar
+      por coisa alguma.
+    status: ia-sem-revisao
+  '6:13':
+    texto: “Os alimentos são para o ventre, e o ventre para os alimentos”; mas Deus destruirá tanto um
+      como os outros. O corpo, porém, não é para a imoralidade, mas para o Senhor, e o Senhor para o corpo;
+    partes:
+    - “Os alimentos são para o ventre, e o ventre para os alimentos”;
+    - mas Deus destruirá tanto um como os outros.
+    - O corpo, porém, não é para a imoralidade, mas para o Senhor, e o Senhor para o corpo;
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '6:14':
+    texto: E Deus, que ressuscitou o Senhor, também nos ressuscitará pelo seu poder.
+    status: ia-sem-revisao
+  '6:15':
+    texto: Não sabeis que os vossos corpos são membros de Cristo? Tomarei, então, os membros de Cristo
+      para fazê-los membros de uma prostituta? De modo algum!
+    partes:
+    - Não sabeis que os vossos corpos são membros de Cristo?
+    - Tomarei, então, os membros de Cristo para fazê-los membros de uma prostituta? De modo algum!
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '6:16':
+    texto: Ou não sabeis que quem se une à prostituta é um só corpo com ela? Pois “os dois serão uma só
+      carne”, diz a Escritura.
+    status: ia-sem-revisao
+  '6:17':
+    texto: Mas quem se une ao Senhor é um só espírito com ele.
+    status: ia-sem-revisao
+  '6:18':
+    texto: Fugi da imoralidade. Todo pecado que o homem comete é fora do corpo; mas o que se entrega à
+      imoralidade peca contra o seu próprio corpo.
+    status: ia-sem-revisao
+  '6:19':
+    texto: Ou não sabeis que o vosso corpo é templo do Espírito Santo que está em vós, que recebestes
+      de Deus? E não pertenceis a vós mesmos,
+    status: ia-sem-revisao
+  '6:20':
+    texto: Pois fostes comprados por um preço. Glorificai, pois, a Deus no vosso corpo.
+    status: ia-sem-revisao
+  '7:1':
+    texto: 'Quanto ao que me escrevestes: é bom para o homem não tocar em mulher;'
+    status: ia-sem-revisao
+  '7:2':
+    texto: Mas, por causa das imoralidades, cada homem tenha a sua própria mulher, e cada mulher tenha
+      o seu próprio marido.
+    status: ia-sem-revisao
+  '7:3':
+    texto: O marido dê à mulher o que lhe é devido, e igualmente a mulher ao marido.
+    status: ia-sem-revisao
+  '7:4':
+    texto: A mulher não tem poder sobre o próprio corpo, mas o marido; do mesmo modo, o marido não tem
+      poder sobre o próprio corpo, mas a mulher.
+    status: ia-sem-revisao
+  '7:5':
+    texto: Não vos recuseis um ao outro, a não ser de comum acordo, por algum tempo, para vos dedicardes
+      à oração; depois, voltai a estar juntos, para que Satanás não vos tente por causa da vossa incontinência.
+    status: ia-sem-revisao
+  '7:6':
+    texto: Digo isto como concessão, não como mandamento.
+    status: ia-sem-revisao
+  '7:7':
+    texto: 'Quereria que todos os homens fossem como eu mesmo; mas cada um tem de Deus o seu próprio dom:
+      um de um modo, outro de outro.'
+    status: ia-sem-revisao
+  '7:8':
+    texto: 'Digo aos solteiros e às viúvas: é bom para eles permanecerem como eu;'
+    status: ia-sem-revisao
+  '7:9':
+    texto: Mas, se não conseguem conter-se, casem-se; pois é melhor casar-se do que abrasar-se.
+    status: ia-sem-revisao
+  '7:10':
+    texto: 'Aos casados ordeno, não eu, mas o Senhor: que a mulher não se separe do marido —'
+    status: ia-sem-revisao
+  '7:11':
+    texto: Mas, se se separar, permaneça sem casar-se ou reconcilie-se com o marido — e que o marido não
+      repudie a mulher.
+    status: ia-sem-revisao
+  '7:12':
+    texto: 'Aos outros digo eu, não o Senhor: se algum irmão tem mulher não crente e ela consente em habitar
+      com ele, não a repudie;'
+    status: ia-sem-revisao
+  '7:13':
+    texto: E a mulher que tem marido não crente e ele consente em habitar com ela, não repudie o marido.
+    status: ia-sem-revisao
+  '7:14':
+    texto: Pois o marido não crente é santificado pela mulher, e a mulher não crente é santificada pelo
+      irmão; senão, os vossos filhos seriam impuros, mas agora são santos.
+    status: ia-sem-revisao
+  '7:15':
+    texto: Se o não crente se separa, separe-se; o irmão ou a irmã não está sujeito à servidão em tais
+      casos, pois Deus nos chamou para a paz.
+    status: ia-sem-revisao
+  '7:16':
+    texto: Pois que sabes tu, mulher, se salvarás o marido? Ou que sabes tu, marido, se salvarás a mulher?
+    status: ia-sem-revisao
+  '7:17':
+    texto: Cada um, porém, viva conforme o Senhor lhe repartiu, conforme Deus o chamou; é o que ordeno
+      em todas as Igrejas.
+    status: ia-sem-revisao
+  '7:18':
+    texto: Foi alguém chamado já circuncidado? Não dissimule a circuncisão. Foi chamado incircunciso?
+      Não se circuncide.
+    status: ia-sem-revisao
+  '7:19':
+    texto: A circuncisão nada é, e a incircuncisão nada é; o que importa é a observância dos mandamentos
+      de Deus.
+    status: ia-sem-revisao
+  '7:20':
+    texto: Cada um permaneça na condição em que foi chamado.
+    status: ia-sem-revisao
+  '7:21':
+    texto: Foste chamado sendo escravo? Não te preocupes; mas, se podes tornar-te livre, aproveita antes.
+    status: ia-sem-revisao
+  '7:22':
+    texto: Pois quem foi chamado no Senhor sendo escravo é liberto do Senhor; do mesmo modo, quem foi
+      chamado sendo livre é escravo de Cristo.
+    status: ia-sem-revisao
+  '7:23':
+    texto: Fostes comprados por um preço; não vos torneis escravos de homens.
+    status: ia-sem-revisao
+  '7:24':
+    texto: Cada um, irmãos, permaneça diante de Deus na condição em que foi chamado.
+    status: ia-sem-revisao
+  '7:25':
+    texto: Quanto às virgens, não tenho mandamento do Senhor, mas dou um parecer, como quem recebeu do
+      Senhor a misericórdia de ser fiel.
+    status: ia-sem-revisao
+  '7:26':
+    texto: 'Julgo, pois, que isto é bom, por causa da necessidade presente: que é bom para o homem ficar
+      assim.'
+    status: ia-sem-revisao
+  '7:27':
+    texto: Estás ligado a uma mulher? Não procures separação. Estás livre de mulher? Não procures mulher.
+    status: ia-sem-revisao
+  '7:28':
+    texto: Mas, se te casares, não pecaste; e, se a virgem se casar, não pecou. Tais pessoas, porém, terão
+      tribulação na carne, e eu quero poupar-vos.
+    status: ia-sem-revisao
+  '7:29':
+    texto: 'Digo-vos, irmãos: o tempo se abreviou; de agora em diante, os que têm mulher vivam como se
+      não a tivessem,'
+    status: ia-sem-revisao
+  '7:30':
+    texto: Os que choram, como se não chorassem; os que se alegram, como se não se alegrassem; os que
+      compram, como se nada possuíssem;
+    status: ia-sem-revisao
+  '7:31':
+    texto: Os que usam deste mundo, como se não usassem plenamente; pois passa a figura deste mundo.
+    status: ia-sem-revisao
+  '7:32':
+    texto: Quero que estejais livres de preocupações. O solteiro cuida das coisas do Senhor, de como agradar
+      ao Senhor;
+    status: ia-sem-revisao
+  '7:33':
+    texto: O casado cuida das coisas do mundo, de como agradar à mulher,
+    status: ia-sem-revisao
+  '7:34':
+    texto: E fica dividido. A mulher não casada e a virgem cuidam das coisas do Senhor, para serem santas
+      de corpo e de espírito; a casada cuida das coisas do mundo, de como agradar ao marido.
+    status: ia-sem-revisao
+  '7:35':
+    texto: Digo isto para o vosso próprio proveito, não para vos armar um laço, mas para o que é digno
+      e vos une ao Senhor sem distração.
+    status: ia-sem-revisao
+  '7:36':
+    texto: 'Se alguém julga que age de modo inconveniente com a sua virgem, se ela passou da flor da idade,
+      e assim deve acontecer, faça o que quer: não peca; casem-se.'
+    status: ia-sem-revisao
+  '7:37':
+    texto: Mas aquele que está firme no seu coração, sem necessidade, e tem domínio sobre a sua vontade
+      e decidiu no seu coração guardar a sua virgem, fará bem.
+    status: ia-sem-revisao
+  '7:38':
+    texto: Assim, quem casa a sua virgem faz bem, e quem não a casa fará melhor.
+    status: ia-sem-revisao
+  '7:39':
+    texto: A mulher está ligada enquanto vive o seu marido; mas, se o marido morrer, fica livre para casar
+      com quem quiser, somente no Senhor.
+    status: ia-sem-revisao
+  '7:40':
+    texto: Será, porém, mais feliz se permanecer assim, segundo o meu parecer; e penso que também eu tenho
+      o Espírito de Deus.
+    status: ia-sem-revisao
+  '8:1':
+    texto: Quanto às carnes sacrificadas aos ídolos, sabemos que todos temos conhecimento. O conhecimento
+      ensoberbece, mas o amor edifica.
+    partes:
+    - Quanto às carnes sacrificadas aos ídolos, sabemos que todos temos conhecimento.
+    - O conhecimento ensoberbece, mas o amor edifica.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '8:2':
+    texto: Se alguém julga conhecer alguma coisa, ainda não conheceu como convém conhecer;
+    status: ia-sem-revisao
+  '8:3':
+    texto: Mas, se alguém ama a Deus, esse é conhecido por ele.
+    status: ia-sem-revisao
+  '8:4':
+    texto: Quanto, pois, a comer das carnes sacrificadas aos ídolos, sabemos que o ídolo nada é no mundo
+      e que não há outro deus senão um só.
+    status: ia-sem-revisao
+  '8:5':
+    texto: Pois, ainda que haja os chamados deuses, quer no céu quer na terra, como de fato há muitos
+      deuses e muitos senhores,
+    status: ia-sem-revisao
+  '8:6':
+    texto: Para nós há um só Deus, o Pai, de quem procedem todas as coisas e para quem existimos, e um
+      só Senhor, Jesus Cristo, por quem existem todas as coisas e por quem existimos.
+    status: ia-sem-revisao
+  '8:7':
+    texto: Mas nem todos têm este conhecimento; alguns, habituados até agora ao ídolo, comem como coisa
+      sacrificada ao ídolo, e a sua consciência, sendo fraca, se contamina.
+    status: ia-sem-revisao
+  '8:8':
+    texto: O alimento não nos aproximará de Deus; se não comemos, nada nos falta, e se comemos, nada nos
+      sobra.
+    status: ia-sem-revisao
+  '8:9':
+    texto: Cuidai, porém, que esta vossa liberdade não se torne tropeço para os fracos.
+    status: ia-sem-revisao
+  '8:10':
+    texto: Pois, se alguém te vê, a ti que tens conhecimento, sentado à mesa num templo de ídolos, a consciência
+      dele, que é fraco, não será levada a comer das carnes sacrificadas aos ídolos?
+    status: ia-sem-revisao
+  '8:11':
+    texto: Assim, pelo teu conhecimento, perece o fraco, o irmão por quem Cristo morreu.
+    status: ia-sem-revisao
+  '8:12':
+    texto: Pecando assim contra os irmãos e ferindo a sua consciência fraca, pecais contra Cristo.
+    status: ia-sem-revisao
+  '8:13':
+    texto: Por isso, se um alimento escandaliza o meu irmão, nunca mais comerei carne, para não escandalizar
+      o meu irmão.
+    status: ia-sem-revisao
+  '9:1':
+    texto: Não sou livre? Não sou apóstolo? Não vi Jesus, nosso Senhor? Não sois vós a minha obra no Senhor?
+    status: ia-sem-revisao
+  '9:2':
+    texto: Se para outros não sou apóstolo, ao menos para vós o sou; pois sois o selo do meu apostolado
+      no Senhor.
+    status: ia-sem-revisao
+  '9:3':
+    texto: Esta é a minha defesa perante os que me examinam.
+    status: ia-sem-revisao
+  '9:4':
+    texto: Não temos nós direito de comer e beber?
+    status: ia-sem-revisao
+  '9:5':
+    texto: Não temos direito de levar conosco uma irmã como esposa, como os demais apóstolos, os irmãos
+      do Senhor e Cefas?
+    status: ia-sem-revisao
+  '9:6':
+    texto: Ou só eu e Barnabé não temos direito de não trabalhar?
+    status: ia-sem-revisao
+  '9:7':
+    texto: Quem jamais serve como soldado a suas próprias custas? Quem planta uma vinha e não come do
+      seu fruto? Quem apascenta um rebanho e não se alimenta do leite do rebanho?
+    status: ia-sem-revisao
+  '9:8':
+    texto: Digo isto apenas como homem? Ou não o diz também a Lei?
+    status: ia-sem-revisao
+  '9:9':
+    texto: 'Pois na Lei de Moisés está escrito: “Não amordaçarás o boi que debulha.” Acaso Deus se preocupa
+      com os bois,'
+    status: ia-sem-revisao
+  '9:10':
+    texto: Ou o diz certamente por causa de nós? Sim, por nossa causa foi escrito, porque o que lavra
+      deve lavrar com esperança, e o que debulha, com a esperança de participar.
+    status: ia-sem-revisao
+  '9:11':
+    texto: Se nós semeamos para vós os bens espirituais, é muito que colhamos de vós os bens materiais?
+    status: ia-sem-revisao
+  '9:12':
+    texto: Se outros têm parte neste direito sobre vós, não o temos nós mais ainda? Mas não usamos deste
+      direito; antes, suportamos tudo para não pôr obstáculo ao Evangelho de Cristo.
+    status: ia-sem-revisao
+  '9:13':
+    texto: Não sabeis que os que trabalham nas coisas sagradas comem do que vem do templo, e os que servem
+      ao altar participam do altar?
+    status: ia-sem-revisao
+  '9:14':
+    texto: Assim também o Senhor ordenou aos que anunciam o Evangelho que vivam do Evangelho.
+    status: ia-sem-revisao
+  '9:15':
+    texto: Eu, porém, não me servi de nenhum destes direitos. E não escrevo isto para que assim se faça
+      comigo, pois prefiro morrer a — ninguém tornará vã a minha glória!
+    status: ia-sem-revisao
+  '9:16':
+    texto: Se anuncio o Evangelho, não tenho de que me gloriar, pois é uma necessidade que me é imposta;
+      ai de mim se não anunciar o Evangelho!
+    status: ia-sem-revisao
+  '9:17':
+    texto: Se o faço de livre vontade, tenho recompensa; se contra a vontade, é uma administração que
+      me foi confiada.
+    status: ia-sem-revisao
+  '9:18':
+    texto: Qual é, pois, a minha recompensa? Que, ao anunciar o Evangelho, eu o ofereça gratuitamente,
+      sem usar do meu direito no Evangelho.
+    status: ia-sem-revisao
+  '9:19':
+    texto: Sendo livre em relação a todos, fiz-me escravo de todos, para ganhar o maior número.
+    status: ia-sem-revisao
+  '9:20':
+    texto: Fiz-me judeu para os judeus, para ganhar os judeus; para os que estão sob a Lei, como se estivesse
+      sob a Lei, embora eu mesmo não esteja sob a Lei, para ganhar os que estão sob a Lei;
+    status: ia-sem-revisao
+  '9:21':
+    texto: Para os que estão sem lei, como se estivesse sem lei, não estando eu sem a lei de Deus, mas
+      sob a lei de Cristo, para ganhar os que estão sem lei;
+    status: ia-sem-revisao
+  '9:22':
+    texto: Fiz-me fraco para os fracos, para ganhar os fracos; fiz-me tudo para todos, para de todos os
+      modos salvar alguns.
+    status: ia-sem-revisao
+  '9:23':
+    texto: Tudo faço por causa do Evangelho, para dele me tornar participante.
+    status: ia-sem-revisao
+  '9:24':
+    texto: Não sabeis que os que correm no estádio correm todos, mas um só recebe o prêmio? Correi de
+      modo a alcançá-lo.
+    status: ia-sem-revisao
+  '9:25':
+    texto: Todo atleta se abstém de tudo; aqueles, para receberem uma coroa corruptível; nós, uma incorruptível.
+    status: ia-sem-revisao
+  '9:26':
+    texto: Eu, pois, corro assim, não como quem corre sem rumo; assim luto, não como quem açoita o ar;
+    status: ia-sem-revisao
+  '9:27':
+    texto: Mas castigo o meu corpo e o submeto, para não acontecer que, depois de ter pregado aos outros,
+      eu mesmo seja reprovado.
+    status: ia-sem-revisao
+  '10:1':
+    texto: Não quero que ignoreis, irmãos, que os nossos pais estiveram todos debaixo da nuvem, e todos
+      atravessaram o mar,
+    status: ia-sem-revisao
+  '10:2':
+    texto: E todos foram batizados em Moisés, na nuvem e no mar,
+    status: ia-sem-revisao
+  '10:3':
+    texto: E todos comeram o mesmo alimento espiritual,
+    status: ia-sem-revisao
+  '10:4':
+    texto: E todos beberam a mesma bebida espiritual, pois bebiam de uma rocha espiritual que os acompanhava,
+      e essa rocha era Cristo.
+    status: ia-sem-revisao
+  '10:5':
+    texto: Mas da maioria deles Deus não se agradou, pois ficaram prostrados no deserto.
+    status: ia-sem-revisao
+  '10:6':
+    texto: Estas coisas aconteceram como figuras para nós, para que não cobicemos coisas más, como eles
+      cobiçaram.
+    status: ia-sem-revisao
+  '10:7':
+    texto: 'Não vos torneis idólatras, como alguns deles, conforme está escrito: “O povo sentou-se para
+      comer e beber, e levantou-se para folgar.”'
+    status: ia-sem-revisao
+  '10:8':
+    texto: Não pratiquemos a imoralidade, como alguns deles a praticaram, e caíram num só dia vinte e
+      três mil.
+    status: ia-sem-revisao
+  '10:9':
+    texto: Não tentemos o Cristo, como alguns deles o tentaram, e pereceram pelas serpentes.
+    status: ia-sem-revisao
+  '10:10':
+    texto: Nem murmureis, como alguns deles murmuraram, e pereceram pelo exterminador.
+    status: ia-sem-revisao
+  '10:11':
+    texto: Estas coisas lhes aconteciam como exemplo, e foram escritas para advertência nossa, para quem
+      chegou o fim dos tempos.
+    status: ia-sem-revisao
+  '10:12':
+    texto: Assim, quem julga estar de pé, cuide para não cair.
+    status: ia-sem-revisao
+  '10:13':
+    texto: Não vos sobreveio tentação que não fosse humana; fiel é Deus, que não permitirá que sejais
+      tentados além das vossas forças, mas com a tentação dará também a saída, para que a possais suportar.
+    status: ia-sem-revisao
+  '10:14':
+    texto: Por isso, meus amados, fugi da idolatria.
+    status: ia-sem-revisao
+  '10:15':
+    texto: Falo como a pessoas sensatas; julgai vós mesmos o que digo.
+    status: ia-sem-revisao
+  '10:16':
+    texto: O cálice da bênção que abençoamos não é comunhão com o sangue de Cristo? O pão que partimos
+      não é comunhão com o corpo de Cristo?
+    status: ia-sem-revisao
+  '10:17':
+    texto: Porque há um só pão, nós, os muitos, somos um só corpo, pois todos participamos de um só pão.
+    status: ia-sem-revisao
+  '10:18':
+    texto: 'Vede Israel segundo a carne: os que comem as vítimas não são participantes do altar?'
+    status: ia-sem-revisao
+  '10:19':
+    texto: Que digo, então? Que a carne sacrificada aos ídolos é algo, ou que o ídolo é algo?
+    status: ia-sem-revisao
+  '10:20':
+    texto: Mas o que sacrificam, sacrificam-no aos demônios e não a Deus; e não quero que vos torneis
+      participantes dos demônios.
+    status: ia-sem-revisao
+  '10:21':
+    texto: Não podeis beber o cálice do Senhor e o cálice dos demônios; não podeis participar da mesa
+      do Senhor e da mesa dos demônios.
+    status: ia-sem-revisao
+  '10:22':
+    texto: Ou queremos provocar o ciúme do Senhor? Somos acaso mais fortes do que ele?
+    status: ia-sem-revisao
+  '10:23':
+    texto: “Tudo é permitido”, mas nem tudo convém. “Tudo é permitido”, mas nem tudo edifica.
+    status: ia-sem-revisao
+  '10:24':
+    texto: Ninguém busque o seu próprio interesse, mas o do outro.
+    status: ia-sem-revisao
+  '10:25':
+    texto: Comei tudo o que se vende no mercado, sem fazer perguntas por motivo de consciência,
+    status: ia-sem-revisao
+  '10:26':
+    texto: Pois “do Senhor é a terra e tudo o que ela contém”.
+    status: ia-sem-revisao
+  '10:27':
+    texto: Se algum dos não crentes vos convida e quereis ir, comei tudo o que vos for posto diante, sem
+      fazer perguntas por motivo de consciência.
+    status: ia-sem-revisao
+  '10:28':
+    texto: 'Mas, se alguém vos disser: “Isto é carne sacrificada”, não comais, por causa daquele que vos
+      avisou e por causa da consciência;'
+    status: ia-sem-revisao
+  '10:29':
+    texto: Digo consciência não a tua, mas a do outro; pois por que a minha liberdade seria julgada por
+      outra consciência?
+    status: ia-sem-revisao
+  '10:30':
+    texto: Se participo com ação de graças, por que sou difamado por aquilo por que dou graças?
+    status: ia-sem-revisao
+  '10:31':
+    texto: Quer comais, quer bebais, quer façais qualquer outra coisa, fazei tudo para a glória de Deus.
+    status: ia-sem-revisao
+  '10:32':
+    texto: Não sejais motivo de tropeço nem para judeus, nem para gregos, nem para a Igreja de Deus,
+    status: ia-sem-revisao
+  '10:33':
+    texto: Como também eu procuro agradar a todos em tudo, não buscando o meu próprio proveito, mas o
+      de muitos, para que sejam salvos.
+    status: ia-sem-revisao
+  '11:1':
+    texto: Sede meus imitadores, como também eu o sou de Cristo.
+    status: ia-sem-revisao
+  '11:2':
+    texto: Louvo-vos porque vos lembrais de mim em tudo e guardais as tradições como vo-las transmiti.
+    status: ia-sem-revisao
+  '11:3':
+    texto: Quero, porém, que saibais que a cabeça de todo homem é Cristo, a cabeça da mulher é o homem,
+      e a cabeça de Cristo é Deus.
+    status: ia-sem-revisao
+  '11:4':
+    texto: Todo homem que ora ou profetiza com a cabeça coberta desonra a sua cabeça;
+    status: ia-sem-revisao
+  '11:5':
+    texto: Toda mulher que ora ou profetiza com a cabeça descoberta desonra a sua cabeça, pois é como
+      se estivesse rapada.
+    status: ia-sem-revisao
+  '11:6':
+    texto: Se a mulher não se cobre, corte também o cabelo; mas, se é vergonhoso para a mulher cortar
+      o cabelo ou rapar-se, cubra-se.
+    status: ia-sem-revisao
+  '11:7':
+    texto: O homem não deve cobrir a cabeça, sendo imagem e glória de Deus; a mulher, porém, é glória
+      do homem.
+    status: ia-sem-revisao
+  '11:8':
+    texto: Pois o homem não procede da mulher, mas a mulher do homem;
+    status: ia-sem-revisao
+  '11:9':
+    texto: E o homem não foi criado por causa da mulher, mas a mulher por causa do homem.
+    status: ia-sem-revisao
+  '11:10':
+    texto: Por isso a mulher deve ter sobre a cabeça um sinal de autoridade, por causa dos anjos.
+    status: ia-sem-revisao
+  '11:11':
+    texto: No entanto, no Senhor, nem a mulher é sem o homem, nem o homem sem a mulher;
+    status: ia-sem-revisao
+  '11:12':
+    texto: Pois, assim como a mulher procede do homem, assim também o homem nasce da mulher; e tudo procede
+      de Deus.
+    status: ia-sem-revisao
+  '11:13':
+    texto: 'Julgai por vós mesmos: convém que a mulher ore a Deus com a cabeça descoberta?'
+    status: ia-sem-revisao
+  '11:14':
+    texto: Nem a própria natureza vos ensina que é desonra para o homem usar cabelo comprido,
+    status: ia-sem-revisao
+  '11:15':
+    texto: Mas, para a mulher, é glória usá-lo? Pois o cabelo lhe foi dado em lugar de véu.
+    status: ia-sem-revisao
+  '11:16':
+    texto: Se alguém quer ser contencioso, nós não temos tal costume, nem as Igrejas de Deus.
+    status: ia-sem-revisao
+  '11:17':
+    texto: Ao dar-vos esta instrução, não vos louvo, porque vos reunis não para o melhor, mas para o pior.
+    status: ia-sem-revisao
+  '11:18':
+    texto: Primeiramente, ouço dizer que, quando vos reunis em assembleia, há divisões entre vós, e em
+      parte o creio.
+    status: ia-sem-revisao
+  '11:19':
+    texto: Pois é necessário que haja também facções entre vós, para que se tornem manifestos entre vós
+      os aprovados.
+    status: ia-sem-revisao
+  '11:20':
+    texto: Quando, pois, vos reunis num mesmo lugar, isso já não é comer a ceia do Senhor,
+    status: ia-sem-revisao
+  '11:21':
+    texto: Porque, ao comerem, cada um toma antes a sua própria ceia, e um passa fome, enquanto outro
+      se embriaga.
+    status: ia-sem-revisao
+  '11:22':
+    texto: Não tendes casas para comer e beber? Ou desprezais a Igreja de Deus e envergonhais os que nada
+      têm? Que vos direi? Louvar-vos-ei? Nisto não vos louvo.
+    status: ia-sem-revisao
+  '11:23':
+    texto: 'Pois eu recebi do Senhor o que também vos transmiti: que o Senhor Jesus, na noite em que era
+      entregue, tomou o pão'
+    status: ia-sem-revisao
+  '11:24':
+    texto: 'E, tendo dado graças, partiu-o e disse: “Isto é o meu corpo, que é para vós; fazei isto em
+      memória de mim.”'
+    status: ia-sem-revisao
+    observacao: O SBLGNT traz “o meu corpo, que é para vós”, sem “entregue” ou “partido”; a Nova Vulgata
+      traz “que será entregue por vós”.
+  '11:25':
+    texto: 'Do mesmo modo, também o cálice, depois de terem ceado, dizendo: “Este cálice é a nova aliança
+      no meu sangue; fazei isto, todas as vezes que o beberdes, em memória de mim.”'
+    status: ia-sem-revisao
+  '11:26':
+    texto: Pois todas as vezes que comeis este pão e bebeis o cálice, anunciais a morte do Senhor, até
+      que ele venha.
+    status: ia-sem-revisao
+  '11:27':
+    texto: Assim, quem comer o pão ou beber o cálice do Senhor indignamente será réu do corpo e do sangue
+      do Senhor.
+    status: ia-sem-revisao
+  '11:28':
+    texto: Examine-se, pois, cada um a si mesmo, e então coma do pão e beba do cálice;
+    status: ia-sem-revisao
+  '11:29':
+    texto: Pois quem come e bebe, sem discernir o corpo, come e bebe a sua própria condenação.
+    status: ia-sem-revisao
+  '11:30':
+    texto: Por isso há entre vós muitos fracos e doentes, e muitos adormeceram.
+    status: ia-sem-revisao
+  '11:31':
+    texto: Se nos examinássemos a nós mesmos, não seríamos julgados;
+    status: ia-sem-revisao
+  '11:32':
+    texto: Mas, ao sermos julgados, somos corrigidos pelo Senhor, para não sermos condenados com o mundo.
+    status: ia-sem-revisao
+  '11:33':
+    texto: Assim, meus irmãos, quando vos reunis para comer, esperai uns pelos outros.
+    status: ia-sem-revisao
+  '11:34':
+    texto: Se alguém tem fome, coma em casa, para que não vos reunais para condenação. As demais coisas,
+      quando eu for, as disporei.
+    status: ia-sem-revisao
+  '12:1':
+    texto: Quanto aos dons espirituais, irmãos, não quero que fiqueis na ignorância.
+    status: ia-sem-revisao
+  '12:2':
+    texto: Sabeis que, quando éreis gentios, éreis levados, como que arrastados, aos ídolos mudos.
+    status: ia-sem-revisao
+  '12:3':
+    texto: 'Por isso vos faço saber que ninguém, falando no Espírito de Deus, diz: “Anátema seja Jesus”,
+      e ninguém pode dizer: “Jesus é Senhor”, a não ser no Espírito Santo.'
+    partes:
+    - 'Por isso vos faço saber que ninguém, falando no Espírito de Deus, diz: “Anátema seja Jesus”,'
+    - 'e ninguém pode dizer: “Jesus é Senhor”, a não ser no Espírito Santo.'
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '12:4':
+    texto: Há diversidade de dons, mas o mesmo Espírito;
+    status: ia-sem-revisao
+  '12:5':
+    texto: Há diversidade de ministérios, mas o mesmo Senhor;
+    status: ia-sem-revisao
+  '12:6':
+    texto: Há diversidade de atividades, mas é o mesmo Deus que realiza tudo em todos.
+    status: ia-sem-revisao
+  '12:7':
+    texto: A cada um é dada a manifestação do Espírito para o bem comum.
+    status: ia-sem-revisao
+  '12:8':
+    texto: A um, pelo Espírito, é dada a palavra de sabedoria; a outro, a palavra de conhecimento, segundo
+      o mesmo Espírito;
+    status: ia-sem-revisao
+  '12:9':
+    texto: A outro, a fé, no mesmo Espírito; a outro, os dons de curar, no único Espírito;
+    status: ia-sem-revisao
+  '12:10':
+    texto: A outro, o poder de fazer milagres; a outro, a profecia; a outro, o discernimento dos espíritos;
+      a outro, a diversidade de línguas; a outro, a interpretação das línguas.
+    status: ia-sem-revisao
+  '12:11':
+    texto: Mas tudo isto o realiza um só e o mesmo Espírito, que distribui a cada um em particular, como
+      quer.
+    status: ia-sem-revisao
+  '12:12':
+    texto: Pois, assim como o corpo é um e tem muitos membros, e todos os membros do corpo, sendo muitos,
+      são um só corpo, assim também Cristo.
+    status: ia-sem-revisao
+  '12:13':
+    texto: Pois num só Espírito fomos todos batizados em um só corpo, quer judeus, quer gregos, quer escravos,
+      quer livres, e todos bebemos de um só Espírito.
+    status: ia-sem-revisao
+  '12:14':
+    texto: Pois o corpo não é um só membro, mas muitos.
+    status: ia-sem-revisao
+  '12:15':
+    texto: 'Se o pé disser: “Não sou mão, não sou do corpo”, nem por isso deixa de ser do corpo.'
+    status: ia-sem-revisao
+  '12:16':
+    texto: 'E se o ouvido disser: “Não sou olho, não sou do corpo”, nem por isso deixa de ser do corpo.'
+    status: ia-sem-revisao
+  '12:17':
+    texto: Se todo o corpo fosse olho, onde estaria o ouvido? Se todo fosse ouvido, onde estaria o olfato?
+    status: ia-sem-revisao
+  '12:18':
+    texto: Mas agora Deus colocou os membros, cada um deles, no corpo, como quis.
+    status: ia-sem-revisao
+  '12:19':
+    texto: Se tudo fosse um só membro, onde estaria o corpo?
+    status: ia-sem-revisao
+  '12:20':
+    texto: Mas agora há muitos membros, mas um só corpo.
+    status: ia-sem-revisao
+  '12:21':
+    texto: 'O olho não pode dizer à mão: “Não tenho necessidade de ti”, nem a cabeça aos pés: “Não tenho
+      necessidade de vós.”'
+    status: ia-sem-revisao
+  '12:22':
+    texto: Pelo contrário, os membros do corpo que parecem mais fracos são muito mais necessários,
+    status: ia-sem-revisao
+  '12:23':
+    texto: E os que julgamos menos honrosos do corpo, a estes cercamos de maior honra, e os nossos membros
+      menos decorosos têm maior decoro,
+    status: ia-sem-revisao
+  '12:24':
+    texto: Mas os nossos membros decorosos não precisam disso. Deus, porém, organizou o corpo dando maior
+      honra ao que dela carecia,
+    status: ia-sem-revisao
+  '12:25':
+    texto: Para que não haja divisão no corpo, mas os membros cuidem igualmente uns dos outros.
+    status: ia-sem-revisao
+  '12:26':
+    texto: Se um membro sofre, todos os membros sofrem com ele; se um membro é honrado, todos os membros
+      se alegram com ele.
+    status: ia-sem-revisao
+  '12:27':
+    texto: Ora, vós sois corpo de Cristo e, cada um por sua parte, membros.
+    status: ia-sem-revisao
+  '12:28':
+    texto: E Deus estabeleceu na Igreja, primeiro, apóstolos; segundo, profetas; terceiro, mestres; depois,
+      milagres; depois, dons de curar, ajudas, governos, diversidade de línguas.
+    status: ia-sem-revisao
+  '12:29':
+    texto: Acaso são todos apóstolos? Todos profetas? Todos mestres? Todos fazem milagres?
+    status: ia-sem-revisao
+  '12:30':
+    texto: Têm todos dons de curar? Falam todos em línguas? Interpretam todos?
+    status: ia-sem-revisao
+  '12:31':
+    texto: Aspirai aos dons maiores. E vou mostrar-vos ainda um caminho incomparavelmente superior.
+    partes:
+    - Aspirai aos dons maiores.
+    - E vou mostrar-vos ainda um caminho incomparavelmente superior.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '13:1':
+    texto: Se eu falar as línguas dos homens e dos anjos, mas não tiver amor, sou como bronze que soa
+      ou címbalo que retine.
+    status: ia-sem-revisao
+  '13:2':
+    texto: E se eu tiver o dom da profecia, e conhecer todos os mistérios e toda a ciência, e se tiver
+      toda a fé, a ponto de transportar montanhas, mas não tiver amor, nada sou.
+    status: ia-sem-revisao
+  '13:3':
+    texto: E se eu distribuir todos os meus bens e entregar o meu corpo para ser queimado, mas não tiver
+      amor, de nada me aproveita.
+    status: ia-sem-revisao
+  '13:4':
+    texto: O amor é paciente, o amor é benigno; não tem ciúme, não se vangloria, não se ensoberbece,
+    status: ia-sem-revisao
+  '13:5':
+    texto: Não se comporta com indecência, não procura o seu próprio interesse, não se irrita, não guarda
+      conta do mal,
+    status: ia-sem-revisao
+  '13:6':
+    texto: Não se alegra com a injustiça, mas se alegra com a verdade;
+    status: ia-sem-revisao
+  '13:7':
+    texto: Tudo desculpa, tudo crê, tudo espera, tudo suporta.
+    status: ia-sem-revisao
+  '13:8':
+    texto: O amor jamais acabará. As profecias desaparecerão; as línguas cessarão; o conhecimento desaparecerá.
+    status: ia-sem-revisao
+  '13:9':
+    texto: Pois conhecemos em parte e profetizamos em parte;
+    status: ia-sem-revisao
+  '13:10':
+    texto: Mas, quando vier o que é perfeito, o que é parcial desaparecerá.
+    status: ia-sem-revisao
+  '13:11':
+    texto: Quando eu era criança, falava como criança, pensava como criança, raciocinava como criança;
+      quando me tornei homem, deixei o que era próprio da criança.
+    status: ia-sem-revisao
+  '13:12':
+    texto: Pois agora vemos por um espelho, em enigma, mas então veremos face a face; agora conheço em
+      parte, mas então conhecerei plenamente, como também fui plenamente conhecido.
+    status: ia-sem-revisao
+  '13:13':
+    texto: Agora permanecem a fé, a esperança e o amor, estes três; mas o maior deles é o amor.
+    status: ia-sem-revisao
+  '14:1':
+    texto: Buscai o amor, aspirai aos dons espirituais, sobretudo a profetizar.
+    status: ia-sem-revisao
+  '14:2':
+    texto: Pois quem fala em língua não fala aos homens, mas a Deus, pois ninguém o entende; em espírito
+      fala coisas misteriosas.
+    status: ia-sem-revisao
+  '14:3':
+    texto: Quem profetiza, ao contrário, fala aos homens para edificação, exortação e consolação.
+    status: ia-sem-revisao
+  '14:4':
+    texto: Quem fala em língua edifica-se a si mesmo; quem profetiza edifica a assembleia.
+    status: ia-sem-revisao
+  '14:5':
+    texto: Quero que todos faleis em línguas, mas prefiro que profetizeis; maior é quem profetiza do que
+      quem fala em línguas, a não ser que interprete, para que a assembleia receba edificação.
+    status: ia-sem-revisao
+  '14:6':
+    texto: Agora, irmãos, se eu for ter convosco falando em línguas, de que vos aproveitarei, se não vos
+      falar com revelação, ou com conhecimento, ou com profecia, ou com ensinamento?
+    status: ia-sem-revisao
+  '14:7':
+    texto: Mesmo as coisas inanimadas que produzem som, seja a flauta, seja a cítara, se não derem sons
+      distintos, como se saberá o que se toca na flauta ou na cítara?
+    status: ia-sem-revisao
+  '14:8':
+    texto: E se a trombeta der um toque indistinto, quem se preparará para a guerra?
+    status: ia-sem-revisao
+  '14:9':
+    texto: Assim também vós, se com a língua não pronunciardes palavras inteligíveis, como se entenderá
+      o que dizeis? Estareis falando ao ar.
+    status: ia-sem-revisao
+  '14:10':
+    texto: Há tantas espécies de vozes no mundo, e nenhuma é sem sentido;
+    status: ia-sem-revisao
+  '14:11':
+    texto: Se, pois, não conheço o sentido da voz, serei bárbaro para quem fala, e quem fala será bárbaro
+      para mim.
+    status: ia-sem-revisao
+  '14:12':
+    texto: Assim também vós, já que aspirais a dons espirituais, procurai abundar para a edificação da
+      assembleia.
+    status: ia-sem-revisao
+  '14:13':
+    texto: Por isso, quem fala em língua peça a graça de interpretar.
+    status: ia-sem-revisao
+  '14:14':
+    texto: Pois, se oro em língua, o meu espírito ora, mas a minha mente fica sem fruto.
+    status: ia-sem-revisao
+  '14:15':
+    texto: Que fazer, então? Orarei com o espírito, mas orarei também com a mente; cantarei com o espírito,
+      mas cantarei também com a mente.
+    status: ia-sem-revisao
+  '14:16':
+    texto: Pois, se bendisseres só com o espírito, como dirá o “Amém” à tua ação de graças aquele que
+      ocupa o lugar do simples ouvinte, se não sabe o que dizes?
+    status: ia-sem-revisao
+  '14:17':
+    texto: Tu, na verdade, dás bem graças, mas o outro não é edificado.
+    status: ia-sem-revisao
+  '14:18':
+    texto: Dou graças a Deus porque falo em línguas mais do que todos vós;
+    status: ia-sem-revisao
+  '14:19':
+    texto: Mas, na assembleia, prefiro dizer cinco palavras com a minha mente, para instruir também os
+      outros, a dez mil palavras em língua.
+    status: ia-sem-revisao
+  '14:20':
+    texto: Irmãos, não sejais crianças no juízo; sede crianças na malícia, mas no juízo sede adultos.
+    status: ia-sem-revisao
+  '14:21':
+    texto: 'Na Lei está escrito: “Por homens de outras línguas e por lábios de estrangeiros falarei a
+      este povo, e nem assim me ouvirão, diz o Senhor.”'
+    status: ia-sem-revisao
+  '14:22':
+    texto: Assim, as línguas são um sinal não para os que creem, mas para os incrédulos; a profecia, ao
+      contrário, não é para os incrédulos, mas para os que creem.
+    status: ia-sem-revisao
+  '14:23':
+    texto: Se, pois, toda a assembleia se reunir e todos falarem em línguas, e entrarem simples ouvintes
+      ou incrédulos, não dirão que estais loucos?
+    status: ia-sem-revisao
+  '14:24':
+    texto: Mas, se todos profetizarem e entrar algum incrédulo ou simples ouvinte, é convencido por todos,
+      é examinado por todos;
+    status: ia-sem-revisao
+  '14:25':
+    texto: 'Os segredos do seu coração tornam-se manifestos e, assim, prostrado com o rosto em terra,
+      adorará a Deus, proclamando: “Deus está verdadeiramente entre vós.”'
+    status: ia-sem-revisao
+  '14:26':
+    texto: 'Que fazer, então, irmãos? Quando vos reunis, cada um tem um salmo, um ensinamento, uma revelação,
+      uma língua, uma interpretação: tudo se faça para edificação.'
+    status: ia-sem-revisao
+  '14:27':
+    texto: Se alguém fala em língua, sejam dois ou, no máximo, três, e um de cada vez, e um interprete;
+    status: ia-sem-revisao
+  '14:28':
+    texto: Se não houver intérprete, cale-se na assembleia e fale consigo mesmo e com Deus.
+    status: ia-sem-revisao
+  '14:29':
+    texto: Quanto aos profetas, falem dois ou três, e os outros julguem;
+    status: ia-sem-revisao
+  '14:30':
+    texto: Se a outro que está sentado for dada uma revelação, cale-se o primeiro.
+    status: ia-sem-revisao
+  '14:31':
+    texto: Pois todos podeis profetizar, um por um, para que todos aprendam e todos sejam exortados
+    status: ia-sem-revisao
+  '14:32':
+    texto: (Os espíritos dos profetas estão sujeitos aos profetas,
+    status: ia-sem-revisao
+  '14:33':
+    texto: Pois Deus não é de desordem, mas de paz), como em todas as assembleias dos santos.
+    status: ia-sem-revisao
+  '14:34':
+    texto: As mulheres calem-se nas assembleias, pois não lhes é permitido falar; mas sejam submissas,
+      como diz também a Lei.
+    status: ia-sem-revisao
+  '14:35':
+    texto: Se querem aprender alguma coisa, perguntem em casa aos seus maridos, pois é inconveniente para
+      a mulher falar na assembleia.
+    status: ia-sem-revisao
+  '14:36':
+    texto: Ou a palavra de Deus saiu de vós? Ou chegou somente a vós?
+    status: ia-sem-revisao
+  '14:37':
+    texto: Se alguém julga ser profeta ou espiritual, reconheça que o que vos escrevo é mandamento do
+      Senhor;
+    status: ia-sem-revisao
+  '14:38':
+    texto: Se alguém o ignora, será ignorado.
+    status: ia-sem-revisao
+  '14:39':
+    texto: Assim, meus irmãos, aspirai a profetizar e não proibais o falar em línguas;
+    status: ia-sem-revisao
+  '14:40':
+    texto: Mas tudo se faça com decoro e ordem.
+    status: ia-sem-revisao
+  '15:1':
+    texto: Lembro-vos, irmãos, o Evangelho que vos anunciei, que também recebestes, no qual também permaneceis
+      firmes,
+    status: ia-sem-revisao
+  '15:2':
+    texto: Pelo qual também sois salvos, se o conservais tal como vo-lo anunciei, a não ser que tenhais
+      crido em vão.
+    status: ia-sem-revisao
+  '15:3':
+    texto: 'Transmiti-vos, em primeiro lugar, o que também recebi: que Cristo morreu pelos nossos pecados,
+      segundo as Escrituras,'
+    status: ia-sem-revisao
+  '15:4':
+    texto: Que foi sepultado e que ressuscitou ao terceiro dia, segundo as Escrituras,
+    status: ia-sem-revisao
+  '15:5':
+    texto: E que apareceu a Cefas, depois aos Doze;
+    status: ia-sem-revisao
+  '15:6':
+    texto: Em seguida, apareceu a mais de quinhentos irmãos de uma só vez, dos quais a maioria permanece
+      até agora, mas alguns adormeceram;
+    status: ia-sem-revisao
+  '15:7':
+    texto: Depois apareceu a Tiago, depois a todos os apóstolos;
+    status: ia-sem-revisao
+  '15:8':
+    texto: E, por último de todos, como a um nascido fora do tempo, apareceu também a mim.
+    status: ia-sem-revisao
+  '15:9':
+    texto: Pois eu sou o menor dos apóstolos, que não sou digno de ser chamado apóstolo, porque persegui
+      a Igreja de Deus;
+    status: ia-sem-revisao
+  '15:10':
+    texto: Mas, pela graça de Deus, sou o que sou, e a sua graça para comigo não foi vã; ao contrário,
+      trabalhei mais do que todos eles, não eu, mas a graça de Deus que está comigo.
+    status: ia-sem-revisao
+  '15:11':
+    texto: Portanto, seja eu, sejam eles, é assim que pregamos, e é assim que crestes.
+    status: ia-sem-revisao
+  '15:12':
+    texto: Ora, se se prega que Cristo ressuscitou dos mortos, como dizem alguns entre vós que não há
+      ressurreição dos mortos?
+    status: ia-sem-revisao
+  '15:13':
+    texto: Se não há ressurreição dos mortos, nem Cristo ressuscitou;
+    status: ia-sem-revisao
+  '15:14':
+    texto: E, se Cristo não ressuscitou, vazia é a nossa pregação, vazia também a vossa fé,
+    status: ia-sem-revisao
+  '15:15':
+    texto: E ainda somos achados falsas testemunhas de Deus, porque testemunhamos contra Deus que ele
+      ressuscitou Cristo, ao qual não ressuscitou, se de fato os mortos não ressuscitam.
+    status: ia-sem-revisao
+  '15:16':
+    texto: Pois, se os mortos não ressuscitam, nem Cristo ressuscitou;
+    status: ia-sem-revisao
+  '15:17':
+    texto: E, se Cristo não ressuscitou, vã é a vossa fé, ainda estais nos vossos pecados.
+    status: ia-sem-revisao
+  '15:18':
+    texto: Então também os que adormeceram em Cristo pereceram.
+    status: ia-sem-revisao
+  '15:19':
+    texto: Se só nesta vida temos esperança em Cristo, somos os mais dignos de compaixão de todos os homens.
+    status: ia-sem-revisao
+  '15:20':
+    texto: Mas agora Cristo ressuscitou dos mortos, primícias dos que adormeceram.
+    status: ia-sem-revisao
+  '15:21':
+    texto: Pois, já que a morte veio por um homem, também por um homem vem a ressurreição dos mortos;
+    status: ia-sem-revisao
+  '15:22':
+    texto: Pois, assim como em Adão todos morrem, assim também em Cristo todos serão vivificados.
+    status: ia-sem-revisao
+  '15:23':
+    texto: 'Cada um, porém, na sua ordem: como primícias, Cristo; depois, os que são de Cristo, na sua
+      vinda;'
+    status: ia-sem-revisao
+  '15:24':
+    texto: Em seguida, o fim, quando entregar o Reino a Deus Pai, depois de ter destruído todo principado,
+      toda autoridade e poder.
+    status: ia-sem-revisao
+  '15:25':
+    texto: Pois é necessário que ele reine até que ponha todos os inimigos debaixo dos seus pés.
+    status: ia-sem-revisao
+  '15:26':
+    texto: O último inimigo a ser destruído é a morte,
+    status: ia-sem-revisao
+  '15:27':
+    texto: Pois “submeteu tudo debaixo dos seus pés”. Quando diz que tudo foi submetido, é claro que fica
+      excetuado aquele que lhe submeteu todas as coisas.
+    status: ia-sem-revisao
+  '15:28':
+    texto: Quando todas as coisas lhe estiverem submetidas, então o próprio Filho se submeterá àquele
+      que lhe submeteu todas as coisas, para que Deus seja tudo em todos.
+    status: ia-sem-revisao
+  '15:29':
+    texto: Do contrário, que farão os que se batizam pelos mortos? Se os mortos absolutamente não ressuscitam,
+      por que se batizam por eles?
+    status: ia-sem-revisao
+  '15:30':
+    texto: E por que também nós nos expomos ao perigo a toda hora?
+    status: ia-sem-revisao
+  '15:31':
+    texto: Morro todos os dias, pela glória que tenho de vós, em Cristo Jesus, nosso Senhor.
+    status: ia-sem-revisao
+  '15:32':
+    texto: Se, por razões humanas, lutei contra feras em Éfeso, que me aproveita? Se os mortos não ressuscitam,
+      “comamos e bebamos, que amanhã morreremos”.
+    status: ia-sem-revisao
+  '15:33':
+    texto: 'Não vos enganeis: as más companhias corrompem os bons costumes.'
+    status: ia-sem-revisao
+  '15:34':
+    texto: Voltai à sobriedade, como convém, e não pequeis; pois alguns têm ignorância de Deus; digo-o
+      para vossa vergonha.
+    status: ia-sem-revisao
+  '15:35':
+    texto: 'Mas alguém dirá: “Como ressuscitam os mortos? Com que corpo vêm?”'
+    status: ia-sem-revisao
+  '15:36':
+    texto: Insensato! O que semeias não é vivificado se não morrer;
+    status: ia-sem-revisao
+  '15:37':
+    texto: E o que semeias não é o corpo que vai nascer, mas um simples grão, de trigo, por exemplo, ou
+      de qualquer outra semente;
+    status: ia-sem-revisao
+  '15:38':
+    texto: Deus lhe dá um corpo como quis, e a cada uma das sementes o seu próprio corpo.
+    status: ia-sem-revisao
+  '15:39':
+    texto: Nem toda carne é a mesma carne, mas uma é a dos homens, outra a dos animais, outra a das aves,
+      outra a dos peixes.
+    status: ia-sem-revisao
+  '15:40':
+    texto: Há corpos celestes e corpos terrestres; mas uma é a glória dos celestes, e outra a dos terrestres.
+    status: ia-sem-revisao
+  '15:41':
+    texto: Uma é a glória do sol, outra a glória da lua, outra a glória das estrelas; pois uma estrela
+      difere de outra em glória.
+    status: ia-sem-revisao
+  '15:42':
+    texto: Assim também a ressurreição dos mortos. Semeia-se na corrupção, ressuscita na incorrupção;
+    status: ia-sem-revisao
+  '15:43':
+    texto: Semeia-se na desonra, ressuscita na glória; semeia-se na fraqueza, ressuscita no poder;
+    status: ia-sem-revisao
+  '15:44':
+    texto: Semeia-se corpo natural, ressuscita corpo espiritual. Se há corpo natural, há também espiritual.
+    status: ia-sem-revisao
+  '15:45':
+    texto: 'Assim também está escrito: “O primeiro homem, Adão, tornou-se alma vivente”; o último Adão,
+      espírito que dá vida.'
+    status: ia-sem-revisao
+  '15:46':
+    texto: Mas não é primeiro o espiritual, e sim o natural; depois, o espiritual.
+    status: ia-sem-revisao
+  '15:47':
+    texto: O primeiro homem, tirado da terra, é terrestre; o segundo homem vem do céu.
+    status: ia-sem-revisao
+  '15:48':
+    texto: Qual o terrestre, tais também os terrestres; e qual o celeste, tais também os celestes;
+    status: ia-sem-revisao
+  '15:49':
+    texto: E, assim como trouxemos a imagem do terrestre, traremos também a imagem do celeste.
+    status: ia-sem-revisao
+  '15:50':
+    texto: 'Digo-vos isto, irmãos: carne e sangue não podem herdar o Reino de Deus, nem a corrupção herda
+      a incorrupção.'
+    status: ia-sem-revisao
+  '15:51':
+    texto: 'Eis que vos digo um mistério: nem todos adormeceremos, mas todos seremos transformados,'
+    status: ia-sem-revisao
+  '15:52':
+    texto: Num instante, num piscar de olhos, ao som da última trombeta; pois a trombeta soará, e os mortos
+      ressuscitarão incorruptíveis, e nós seremos transformados.
+    status: ia-sem-revisao
+  '15:53':
+    texto: Pois é necessário que este ser corruptível se revista de incorruptibilidade e este ser mortal
+      se revista de imortalidade.
+    status: ia-sem-revisao
+  '15:54':
+    texto: 'Quando este ser corruptível se revestir de incorruptibilidade e este ser mortal se revestir
+      de imortalidade, então se cumprirá a palavra que está escrita: “A morte foi tragada pela vitória.”'
+    status: ia-sem-revisao
+  '15:55':
+    texto: “Onde está, ó morte, a tua vitória? Onde está, ó morte, o teu aguilhão?”
+    status: ia-sem-revisao
+  '15:56':
+    texto: O aguilhão da morte é o pecado, e a força do pecado é a Lei;
+    status: ia-sem-revisao
+  '15:57':
+    texto: Graças a Deus, que nos dá a vitória por nosso Senhor Jesus Cristo.
+    status: ia-sem-revisao
+  '15:58':
+    texto: Portanto, meus amados irmãos, sede firmes, inabaláveis, abundando sempre na obra do Senhor,
+      sabendo que o vosso trabalho não é vão no Senhor.
+    status: ia-sem-revisao
+  '16:1':
+    texto: Quanto à coleta em favor dos santos, como determinei às Igrejas da Galácia, fazei também vós
+      assim.
+    status: ia-sem-revisao
+  '16:2':
+    texto: No primeiro dia da semana, cada um de vós ponha de lado em casa o que puder poupar, para que
+      não se façam coletas só quando eu chegar.
+    status: ia-sem-revisao
+  '16:3':
+    texto: Quando eu chegar, enviarei, com cartas, os que aprovardes, para levarem a vossa dádiva a Jerusalém;
+    status: ia-sem-revisao
+  '16:4':
+    texto: E, se valer a pena que eu também vá, irão comigo.
+    status: ia-sem-revisao
+  '16:5':
+    texto: Irei ter convosco depois de passar pela Macedônia — pois estou de passagem pela Macedônia —,
+    status: ia-sem-revisao
+  '16:6':
+    texto: E talvez fique convosco ou até passe o inverno, para que me encaminheis para onde eu for.
+    status: ia-sem-revisao
+  '16:7':
+    texto: Não quero ver-vos agora de passagem; espero ficar algum tempo convosco, se o Senhor permitir.
+    status: ia-sem-revisao
+  '16:8':
+    texto: Ficarei em Éfeso até Pentecostes,
+    status: ia-sem-revisao
+  '16:9':
+    texto: Pois abriu-se-me uma porta grande e eficaz, e os adversários são muitos.
+    status: ia-sem-revisao
+  '16:10':
+    texto: Se chegar Timóteo, cuidai que esteja sem temor entre vós, pois trabalha na obra do Senhor,
+      como eu;
+    status: ia-sem-revisao
+  '16:11':
+    texto: Ninguém, portanto, o despreze. Encaminhai-o em paz, para que venha ter comigo, pois o espero
+      com os irmãos.
+    status: ia-sem-revisao
+  '16:12':
+    texto: Quanto ao irmão Apolo, muito lhe pedi que fosse ter convosco com os irmãos; mas não era de
+      modo algum a sua vontade ir agora; irá quando tiver oportunidade.
+    status: ia-sem-revisao
+  '16:13':
+    texto: Vigiai, ficai firmes na fé, sede homens, sede fortes.
+    status: ia-sem-revisao
+  '16:14':
+    texto: Que tudo o que fazeis seja feito em amor.
+    status: ia-sem-revisao
+  '16:15':
+    texto: 'Exorto-vos, irmãos: conheceis a casa de Estéfanas, que é as primícias da Acaia e que se dedicou
+      ao serviço dos santos;'
+    status: ia-sem-revisao
+  '16:16':
+    texto: Sede também vós submissos a tais pessoas e a todo aquele que colabora e trabalha.
+    status: ia-sem-revisao
+  '16:17':
+    texto: Alegro-me com a presença de Estéfanas, Fortunato e Acaico, porque eles supriram a vossa ausência,
+    status: ia-sem-revisao
+  '16:18':
+    texto: Pois deram repouso ao meu espírito e ao vosso. Reconhecei, pois, tais pessoas.
+    status: ia-sem-revisao
+  '16:19':
+    texto: Saúdam-vos as Igrejas da Ásia. Saúdam-vos muito no Senhor Áquila e Prisca, com a Igreja que
+      se reúne em sua casa.
+    status: ia-sem-revisao
+  '16:20':
+    texto: Saúdam-vos todos os irmãos. Saudai-vos uns aos outros com um beijo santo.
+    status: ia-sem-revisao
+  '16:21':
+    texto: A saudação é de minha própria mão, Paulo.
+    status: ia-sem-revisao
+  '16:22':
+    texto: Se alguém não ama o Senhor, seja anátema. Maranatá.
+    status: ia-sem-revisao
+  '16:23':
+    texto: A graça do Senhor Jesus esteja convosco.
+    status: ia-sem-revisao
+  '16:24':
+    texto: O meu amor esteja com todos vós em Cristo Jesus.
+    status: ia-sem-revisao

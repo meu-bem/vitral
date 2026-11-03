@@ -1,0 +1,89 @@
+livro: MIC
+fonte: oshb
+versiculos:
+  '2:1':
+    texto: Ai dos que planejam a iniquidade e maquinam o mal em seus leitos! À luz da manhã o executam,
+      porque está no poder das suas mãos.
+    status: ia-sem-revisao
+  '2:2':
+    texto: Cobiçam campos e os roubam, casas e as tomam; oprimem o homem e a sua casa, o homem e a sua
+      herança.
+    status: ia-sem-revisao
+  '2:3':
+    texto: 'Por isso assim diz o Senhor: Eis que planejo contra esta família um mal do qual não retirareis
+      o vosso pescoço, e não andareis de cabeça erguida, porque será um tempo de calamidade.'
+    status: ia-sem-revisao
+  '2:4':
+    texto: 'Naquele dia levantarão contra vós um provérbio e entoarão uma lamentação: “Estamos totalmente
+      arruinados! Ele troca a porção do meu povo; como a tira de mim! Reparte os nossos campos aos que
+      nos devastam.”'
+    status: ia-sem-revisao
+  '2:5':
+    texto: Por isso não terás ninguém que lance o cordel em sorte na assembleia do Senhor.
+    status: ia-sem-revisao
+  '5:1':
+    texto: E tu, Belém de Éfrata, pequena entre os clãs de Judá, de ti sairá para mim aquele que será
+      governante em Israel; as suas origens são de antigamente, dos dias da eternidade.
+    status: ia-sem-revisao
+  '5:2':
+    texto: Por isso o Senhor os entregará até o tempo em que a que deve dar à luz der à luz; e o resto
+      de seus irmãos voltará aos filhos de Israel.
+    status: ia-sem-revisao
+  '5:3':
+    texto: Ele se levantará e apascentará na força do Senhor, na grandeza do nome do Senhor, seu Deus;
+      eles habitarão em segurança, pois agora ele será grande até os confins da terra.
+    status: ia-sem-revisao
+  '5:4':
+    texto: Este será a paz. Quando a Assíria vier à nossa terra e pisar os nossos palácios, levantaremos
+      contra ela sete pastores e oito chefes de homens.
+    partes:
+    - Este será a paz.
+    - Quando a Assíria vier à nossa terra e pisar os nossos palácios, levantaremos contra ela sete pastores
+      e oito chefes de homens.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '6:1':
+    texto: 'Ouvi o que diz o Senhor: Levanta-te, apresenta a tua causa diante dos montes, e que as colinas
+      ouçam a tua voz.'
+    status: ia-sem-revisao
+  '6:2':
+    texto: Ouvi, montes, a causa do Senhor, e vós, fundamentos perenes da terra, pois o Senhor tem uma
+      causa contra o seu povo, e com Israel ele discute.
+    status: ia-sem-revisao
+  '6:3':
+    texto: Meu povo, que te fiz eu? Em que te cansei? Responde-me!
+    status: ia-sem-revisao
+  '6:4':
+    texto: Eu te fiz subir da terra do Egito e te resgatei da casa da escravidão, e enviei diante de ti
+      Moisés, Aarão e Míriam.
+    status: ia-sem-revisao
+  '6:6':
+    texto: Com que me apresentarei ao Senhor e me prostrarei diante do Deus altíssimo? Apresentar-me-ei
+      com holocaustos, com novilhos de um ano?
+    status: ia-sem-revisao
+  '6:7':
+    texto: Agradar-se-á o Senhor de milhares de carneiros, de miríades de torrentes de azeite? Darei o
+      meu primogênito pela minha transgressão, o fruto do meu ventre pelo pecado da minha alma?
+    status: ia-sem-revisao
+  '6:8':
+    texto: 'Foi-te declarado, ó homem, o que é bom, e o que o Senhor exige de ti: praticar o direito,
+      amar a bondade e caminhar humildemente com o teu Deus.'
+    status: ia-sem-revisao
+  '7:14':
+    texto: Apascenta o teu povo com o teu cajado, o rebanho da tua herança, que mora sozinho na mata,
+      no meio do Carmelo; que pastem em Basã e em Galaad, como nos dias antigos.
+    status: ia-sem-revisao
+  '7:15':
+    texto: Como nos dias em que saíste da terra do Egito, mostrar-lhe-ei maravilhas.
+    status: ia-sem-revisao
+  '7:18':
+    texto: Quem é Deus como tu, que perdoas a iniquidade e passas por cima da transgressão do resto da
+      sua herança? Ele não guarda a ira para sempre, pois se compraz na bondade.
+    status: ia-sem-revisao
+  '7:19':
+    texto: Voltará a ter compaixão de nós, calcará aos pés as nossas iniquidades; lançarás nas profundezas
+      do mar todos os seus pecados.
+    status: ia-sem-revisao
+  '7:20':
+    texto: Darás a Jacó a fidelidade e a Abraão a bondade, que juraste aos nossos pais desde os dias antigos.
+    status: ia-sem-revisao

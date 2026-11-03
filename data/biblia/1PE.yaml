@@ -1,0 +1,394 @@
+livro: 1PE
+fonte: sblgnt
+versiculos:
+  '1:1':
+    texto: Pedro, apóstolo de Jesus Cristo, aos eleitos forasteiros da dispersão do Ponto, da Galácia,
+      da Capadócia, da Ásia e da Bitínia,
+    status: ia-sem-revisao
+  '1:2':
+    texto: 'Segundo a presciência de Deus Pai, na santificação do Espírito, para a obediência e a aspersão
+      do sangue de Jesus Cristo: graça e paz vos sejam multiplicadas.'
+    status: ia-sem-revisao
+  '1:3':
+    texto: Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, que, segundo a sua grande misericórdia,
+      nos gerou de novo para uma esperança viva, pela ressurreição de Jesus Cristo dentre os mortos,
+    status: ia-sem-revisao
+  '1:4':
+    texto: Para uma herança incorruptível, imaculada e imarcescível, reservada nos céus para vós,
+    status: ia-sem-revisao
+  '1:5':
+    texto: Que pelo poder de Deus sois guardados, mediante a fé, para uma salvação pronta a ser revelada
+      no último tempo.
+    status: ia-sem-revisao
+  '1:6':
+    texto: Nisso exultais, ainda que agora, por um pouco, se for necessário, estejais entristecidos por
+      diversas provações,
+    status: ia-sem-revisao
+  '1:7':
+    texto: Para que a prova da vossa fé, mais preciosa que o ouro perecível, mas provado pelo fogo, se
+      encontre digna de louvor, glória e honra na revelação de Jesus Cristo.
+    status: ia-sem-revisao
+  '1:8':
+    texto: A quem, sem o ter visto, amais; nele, sem o ver agora, mas crendo, exultais com uma alegria
+      inefável e gloriosa,
+    status: ia-sem-revisao
+  '1:9':
+    texto: 'Alcançando o fim da vossa fé: a salvação das almas.'
+    status: ia-sem-revisao
+  '1:10':
+    texto: Sobre essa salvação indagaram e investigaram os profetas que profetizaram a respeito da graça
+      destinada a vós,
+    status: ia-sem-revisao
+  '1:11':
+    texto: Investigando para qual ou que tempo indicava o Espírito de Cristo que neles estava, ao testemunhar
+      de antemão os sofrimentos destinados a Cristo e as glórias que viriam depois deles.
+    status: ia-sem-revisao
+  '1:12':
+    texto: A eles foi revelado que não a si mesmos, mas a vós serviam estas coisas, que agora vos foram
+      anunciadas por aqueles que vos evangelizaram no Espírito Santo enviado do céu, coisas que os anjos
+      desejam contemplar.
+    status: ia-sem-revisao
+  '1:13':
+    texto: Por isso, cingindo os lombos da vossa mente, sendo sóbrios, esperai plenamente na graça que
+      vos é trazida na revelação de Jesus Cristo.
+    status: ia-sem-revisao
+  '1:14':
+    texto: Como filhos obedientes, não vos conformando aos desejos que antes tínheis na vossa ignorância,
+    status: ia-sem-revisao
+  '1:15':
+    texto: Mas, segundo o Santo que vos chamou, sede também vós santos em todo o vosso proceder,
+    status: ia-sem-revisao
+  '1:16':
+    texto: 'Porque está escrito: “Sede santos, porque eu sou santo.”'
+    status: ia-sem-revisao
+  '1:17':
+    texto: E se invocais como Pai aquele que julga sem acepção de pessoas, segundo a obra de cada um,
+      vivei com temor o tempo da vossa peregrinação,
+    status: ia-sem-revisao
+  '1:18':
+    texto: Sabendo que não foi com coisas perecíveis, prata ou ouro, que fostes resgatados da vossa vã
+      conduta herdada dos pais,
+    status: ia-sem-revisao
+  '1:19':
+    texto: Mas com o precioso sangue de Cristo, como de um cordeiro sem defeito e sem mancha,
+    status: ia-sem-revisao
+  '1:20':
+    texto: Conhecido de antemão antes da fundação do mundo, mas manifestado no fim dos tempos por causa
+      de vós,
+    status: ia-sem-revisao
+  '1:21':
+    texto: Que por ele credes em Deus, que o ressuscitou dentre os mortos e lhe deu glória, de modo que
+      a vossa fé e esperança estejam em Deus.
+    status: ia-sem-revisao
+  '1:22':
+    texto: Tendo purificado as vossas almas na obediência à verdade, para um amor fraterno sem hipocrisia,
+      amai-vos intensamente uns aos outros, de coração,
+    status: ia-sem-revisao
+  '1:23':
+    texto: Tendo sido gerados de novo, não de semente corruptível, mas incorruptível, pela palavra de
+      Deus, viva e permanente;
+    status: ia-sem-revisao
+  '1:24':
+    texto: Pois toda carne é como a erva, e toda a sua glória como a flor da erva; secou a erva, e a flor
+      caiu;
+    status: ia-sem-revisao
+  '1:25':
+    texto: Mas a palavra do Senhor permanece para sempre. E esta é a palavra que vos foi evangelizada.
+    status: ia-sem-revisao
+  '2:1':
+    texto: Deixando, pois, toda malícia, todo engano, hipocrisias, invejas e todas as maledicências,
+    status: ia-sem-revisao
+  '2:2':
+    texto: Como recém-nascidos, desejai o leite espiritual, não adulterado, para que por ele cresçais
+      para a salvação,
+    status: ia-sem-revisao
+  '2:3':
+    texto: Se é que provastes que o Senhor é bom.
+    status: ia-sem-revisao
+  '2:4':
+    texto: Aproximando-vos dele, pedra viva, rejeitada pelos homens, mas escolhida e preciosa diante de
+      Deus,
+    status: ia-sem-revisao
+  '2:5':
+    texto: Também vós, como pedras vivas, sois edificados como casa espiritual, para um sacerdócio santo,
+      a fim de oferecer sacrifícios espirituais agradáveis a Deus por meio de Jesus Cristo.
+    status: ia-sem-revisao
+  '2:6':
+    texto: 'Pois está contido na Escritura: “Eis que ponho em Sião uma pedra angular, escolhida e preciosa;
+      e quem nela crê de modo algum será envergonhado.”'
+    status: ia-sem-revisao
+  '2:7':
+    texto: Para vós, portanto, que credes, está a honra; mas para os que não creem, a pedra que os construtores
+      rejeitaram, esta se tornou pedra angular,
+    status: ia-sem-revisao
+  '2:8':
+    texto: E pedra de tropeço e rocha de escândalo; tropeçam na palavra, sendo desobedientes, para o que
+      também foram destinados.
+    status: ia-sem-revisao
+  '2:9':
+    texto: Vós, porém, sois geração eleita, sacerdócio régio, nação santa, povo adquirido, para que proclameis
+      as virtudes daquele que vos chamou das trevas para a sua maravilhosa luz;
+    status: ia-sem-revisao
+  '2:10':
+    texto: Vós, que outrora não éreis povo, mas agora sois povo de Deus; que não tínheis alcançado misericórdia,
+      mas agora a alcançastes.
+    status: ia-sem-revisao
+  '2:11':
+    texto: Amados, exorto-vos, como forasteiros e peregrinos, a vos absterdes dos desejos carnais, que
+      fazem guerra contra a alma;
+    status: ia-sem-revisao
+  '2:12':
+    texto: Mantendo bom o vosso proceder entre os gentios, para que, naquilo em que falam mal de vós como
+      malfeitores, observando as vossas boas obras, glorifiquem a Deus no dia da visita.
+    status: ia-sem-revisao
+  '2:13':
+    texto: 'Submetei-vos a toda instituição humana por causa do Senhor: seja ao rei, como soberano,'
+    status: ia-sem-revisao
+  '2:14':
+    texto: Seja aos governadores, como enviados por ele para castigo dos malfeitores e louvor dos que
+      fazem o bem —
+    status: ia-sem-revisao
+  '2:15':
+    texto: 'Pois assim é a vontade de Deus: que, fazendo o bem, caleis a ignorância dos homens insensatos
+      —'
+    status: ia-sem-revisao
+  '2:16':
+    texto: Como livres, e não tendo a liberdade como pretexto para a maldade, mas como servos de Deus.
+    status: ia-sem-revisao
+  '2:17':
+    texto: Honrai a todos, amai a fraternidade, temei a Deus, honrai o rei.
+    status: ia-sem-revisao
+  '2:18':
+    texto: Servos, submetei-vos com todo o temor aos senhores, não só aos bons e amáveis, mas também aos
+      difíceis.
+    status: ia-sem-revisao
+  '2:19':
+    texto: 'Pois isto é graça: se, por consciência de Deus, alguém suporta tristezas, sofrendo injustamente.'
+    status: ia-sem-revisao
+  '2:20':
+    texto: Pois que glória há se, pecando e sendo esbofeteados, suportais? Mas se, fazendo o bem e sofrendo,
+      suportais, isto é graça diante de Deus.
+    partes:
+    - Pois que glória há se, pecando e sendo esbofeteados, suportais?
+    - Mas se, fazendo o bem e sofrendo, suportais, isto é graça diante de Deus.
+    status: ia-sem-revisao
+  '2:21':
+    texto: Pois para isto fostes chamados, porque também Cristo sofreu por vós, deixando-vos um exemplo,
+      para que sigais as suas pegadas;
+    status: ia-sem-revisao
+  '2:22':
+    texto: Ele, que não cometeu pecado, e em cuja boca não se achou engano;
+    status: ia-sem-revisao
+  '2:23':
+    texto: Que, ao ser insultado, não revidava; ao sofrer, não ameaçava, mas entregava-se àquele que julga
+      com justiça;
+    status: ia-sem-revisao
+  '2:24':
+    texto: Ele mesmo levou os nossos pecados em seu corpo sobre o madeiro, para que, mortos para os pecados,
+      vivamos para a justiça; por suas feridas fostes curados.
+    status: ia-sem-revisao
+  '2:25':
+    texto: Pois éreis como ovelhas desgarradas, mas agora voltastes ao pastor e guardião das vossas almas.
+    status: ia-sem-revisao
+  '3:1':
+    texto: Do mesmo modo, mulheres, sede submissas aos vossos próprios maridos, para que, se alguns não
+      obedecem à palavra, sejam ganhos sem palavra pelo comportamento das mulheres,
+    status: ia-sem-revisao
+  '3:2':
+    texto: Ao observarem o vosso proceder casto, com temor.
+    status: ia-sem-revisao
+  '3:3':
+    texto: 'O vosso adorno não seja o exterior: tranças nos cabelos, joias de ouro ou vestes elegantes,'
+    status: ia-sem-revisao
+  '3:4':
+    texto: Mas o homem oculto do coração, na incorruptibilidade de um espírito manso e tranquilo, que
+      é de grande valor diante de Deus.
+    status: ia-sem-revisao
+  '3:5':
+    texto: Assim, com efeito, também outrora as santas mulheres que esperavam em Deus se adornavam, submissas
+      aos seus próprios maridos,
+    status: ia-sem-revisao
+  '3:6':
+    texto: Como Sara obedeceu a Abraão, chamando-o senhor; vós sois filhas dela, se fazeis o bem e não
+      temeis nenhum susto.
+    status: ia-sem-revisao
+  '3:7':
+    texto: Maridos, do mesmo modo, convivei com ela segundo o conhecimento, dando honra à mulher como
+      a um vaso mais frágil, e como co-herdeiras da graça da vida, para que as vossas orações não sejam
+      impedidas.
+    status: ia-sem-revisao
+  '3:8':
+    texto: Finalmente, sede todos concordes, compassivos, amantes dos irmãos, misericordiosos, humildes,
+    status: ia-sem-revisao
+  '3:9':
+    texto: 'Não retribuindo mal por mal, nem insulto por insulto, mas, ao contrário, abençoando, porque
+      para isto fostes chamados: para herdardes bênção.'
+    status: ia-sem-revisao
+  '3:10':
+    texto: Pois “quem quer amar a vida e ver dias bons refreie a língua do mal e os lábios de falar engano;
+    status: ia-sem-revisao
+  '3:11':
+    texto: Afaste-se do mal e faça o bem, procure a paz e siga-a;
+    status: ia-sem-revisao
+  '3:12':
+    texto: Porque os olhos do Senhor estão sobre os justos, e os seus ouvidos atentos à súplica deles,
+      mas o rosto do Senhor está contra os que fazem o mal.”
+    status: ia-sem-revisao
+  '3:13':
+    texto: E quem vos fará mal, se fordes zelosos do bem?
+    status: ia-sem-revisao
+  '3:14':
+    texto: Mas, ainda que sofrais por causa da justiça, sois bem-aventurados. Não temais o temor deles,
+      nem vos perturbeis,
+    status: ia-sem-revisao
+  '3:15':
+    texto: Mas santificai em vossos corações o Senhor, o Cristo, prontos sempre para a defesa diante de
+      todo aquele que vos pedir razão da esperança que há em vós,
+    status: ia-sem-revisao
+  '3:16':
+    texto: Mas com mansidão e temor, tendo boa consciência, para que, naquilo em que sois caluniados,
+      fiquem envergonhados os que difamam o vosso bom comportamento em Cristo.
+    status: ia-sem-revisao
+  '3:17':
+    texto: Pois é melhor, se assim for a vontade de Deus, sofrer fazendo o bem do que fazendo o mal.
+    status: ia-sem-revisao
+  '3:18':
+    texto: Porque também Cristo sofreu uma vez por pecados, o justo pelos injustos, para vos conduzir
+      a Deus, tendo sido morto na carne, mas vivificado no espírito;
+    status: ia-sem-revisao
+  '3:19':
+    texto: No qual foi também pregar aos espíritos que estavam em prisão,
+    status: ia-sem-revisao
+  '3:20':
+    texto: Que outrora foram desobedientes, quando a paciência de Deus esperava, nos dias de Noé, enquanto
+      se construía a arca, na qual poucos, isto é, oito pessoas, foram salvos pela água.
+    status: ia-sem-revisao
+  '3:21':
+    texto: Disso a figura correspondente, o batismo, agora também vos salva — não como remoção da sujeira
+      da carne, mas como pedido a Deus de uma boa consciência — por meio da ressurreição de Jesus Cristo,
+    status: ia-sem-revisao
+  '3:22':
+    texto: Que está à direita de Deus, tendo ido ao céu, estando-lhe submetidos anjos, autoridades e potências.
+    status: ia-sem-revisao
+  '4:1':
+    texto: 'Tendo, pois, Cristo sofrido na carne, armai-vos também vós do mesmo pensamento: quem sofreu
+      na carne rompeu com o pecado,'
+    status: ia-sem-revisao
+  '4:2':
+    texto: Para viver o tempo restante na carne não mais segundo os desejos dos homens, mas segundo a
+      vontade de Deus.
+    status: ia-sem-revisao
+  '4:3':
+    texto: Pois basta o tempo passado de ter feito a vontade dos gentios, vivendo em libertinagens, desejos,
+      bebedeiras, orgias, banquetes e idolatrias ilícitas.
+    status: ia-sem-revisao
+  '4:4':
+    texto: Por isso estranham que não corrais com eles ao mesmo dilúvio de devassidão, e blasfemam;
+    status: ia-sem-revisao
+  '4:5':
+    texto: Eles prestarão contas àquele que está pronto para julgar vivos e mortos.
+    status: ia-sem-revisao
+  '4:6':
+    texto: 'Pois para isto foi anunciado o Evangelho também aos mortos: para que, julgados segundo os
+      homens na carne, vivam segundo Deus no espírito.'
+    status: ia-sem-revisao
+  '4:7':
+    texto: O fim de todas as coisas está próximo. Sede, pois, sensatos e sóbrios para as orações;
+    status: ia-sem-revisao
+  '4:8':
+    texto: Antes de tudo, tendo intenso amor uns pelos outros, porque o amor cobre uma multidão de pecados;
+    status: ia-sem-revisao
+  '4:9':
+    texto: Sede hospitaleiros uns com os outros, sem murmuração;
+    status: ia-sem-revisao
+  '4:10':
+    texto: Cada um conforme o dom que recebeu, servi-vos mutuamente com ele, como bons administradores
+      da multiforme graça de Deus;
+    status: ia-sem-revisao
+  '4:11':
+    texto: Se alguém fala, fale como palavras de Deus; se alguém serve, sirva como pela força que Deus
+      concede, para que em tudo Deus seja glorificado por Jesus Cristo, a quem pertencem a glória e o
+      poder pelos séculos dos séculos. Amém.
+    status: ia-sem-revisao
+  '4:12':
+    texto: Amados, não estranheis o fogo que se acende entre vós para vos pôr à prova, como se vos acontecesse
+      algo estranho,
+    status: ia-sem-revisao
+  '4:13':
+    texto: Mas, na medida em que participais dos sofrimentos de Cristo, alegrai-vos, para que também na
+      revelação da sua glória vos alegreis exultando.
+    status: ia-sem-revisao
+  '4:14':
+    texto: Se sois insultados em nome de Cristo, sois bem-aventurados, porque o Espírito da glória, que
+      é o Espírito de Deus, repousa sobre vós.
+    status: ia-sem-revisao
+  '4:15':
+    texto: Que nenhum de vós sofra como homicida, ladrão, malfeitor ou intrometido em assuntos alheios;
+    status: ia-sem-revisao
+  '4:16':
+    texto: Mas se sofre como cristão, não se envergonhe, e glorifique a Deus por este nome.
+    status: ia-sem-revisao
+  '4:17':
+    texto: Pois é chegado o tempo de começar o julgamento pela casa de Deus; e se começa primeiro por
+      nós, qual será o fim dos que desobedecem ao Evangelho de Deus?
+    status: ia-sem-revisao
+  '4:18':
+    texto: E se o justo a custo se salva, o ímpio e pecador onde aparecerá?
+    status: ia-sem-revisao
+  '4:19':
+    texto: Assim também os que sofrem segundo a vontade de Deus confiem as suas almas ao Criador fiel,
+      fazendo o bem.
+    status: ia-sem-revisao
+  '5:1':
+    texto: 'Aos presbíteros que há entre vós exorto eu, presbítero como eles, testemunha dos sofrimentos
+      de Cristo e participante da glória que será revelada:'
+    status: ia-sem-revisao
+  '5:2':
+    texto: Apascentai o rebanho de Deus que está entre vós, cuidando dele não por obrigação, mas de boa
+      vontade, segundo Deus; nem por lucro torpe, mas com generosidade;
+    status: ia-sem-revisao
+  '5:3':
+    texto: Nem como dominadores sobre os que vos foram confiados, mas tornando-vos modelos do rebanho.
+    status: ia-sem-revisao
+  '5:4':
+    texto: E, quando aparecer o supremo Pastor, recebereis a coroa imarcescível da glória.
+    status: ia-sem-revisao
+  '5:5':
+    texto: Do mesmo modo, jovens, sede submissos aos presbíteros. E todos, revesti-vos de humildade uns
+      para com os outros, porque “Deus resiste aos soberbos, mas dá graça aos humildes.”
+    partes:
+    - Do mesmo modo, jovens, sede submissos aos presbíteros.
+    - E todos, revesti-vos de humildade uns para com os outros, porque “Deus resiste aos soberbos, mas
+      dá graça aos humildes.”
+    status: ia-sem-revisao
+  '5:6':
+    texto: Humilhai-vos, pois, sob a poderosa mão de Deus, para que ele vos exalte no tempo oportuno,
+    status: ia-sem-revisao
+  '5:7':
+    texto: Lançando sobre ele toda a vossa preocupação, porque ele cuida de vós.
+    status: ia-sem-revisao
+  '5:8':
+    texto: Sede sóbrios, vigiai. O vosso adversário, o diabo, como leão que ruge, anda ao redor procurando
+      a quem devorar.
+    status: ia-sem-revisao
+  '5:9':
+    texto: Resisti-lhe, firmes na fé, sabendo que os mesmos sofrimentos se cumprem na vossa fraternidade
+      que está no mundo.
+    status: ia-sem-revisao
+  '5:10':
+    texto: O Deus de toda graça, que vos chamou à sua glória eterna em Cristo, depois de terdes sofrido
+      por um pouco, ele mesmo vos restabelecerá, firmará, fortalecerá e fundamentará.
+    status: ia-sem-revisao
+  '5:11':
+    texto: A ele o poder pelos séculos dos séculos. Amém.
+    status: ia-sem-revisao
+  '5:12':
+    texto: Por meio de Silvano, o irmão fiel, como julgo, escrevi-vos brevemente, exortando e testemunhando
+      que esta é a verdadeira graça de Deus; nela permanecei firmes.
+    status: ia-sem-revisao
+  '5:13':
+    texto: Saúda-vos a que está em Babilônia, eleita como vós, e Marcos, meu filho.
+    status: ia-sem-revisao
+  '5:14':
+    texto: Saudai-vos uns aos outros com o beijo do amor. Paz a todos vós que estais em Cristo.
+    status: ia-sem-revisao

@@ -1,0 +1,31 @@
+livro: 1CH
+fonte: oshb
+versiculos:
+  '29:10':
+    texto: 'Davi bendisse o Senhor diante de toda a assembleia e disse: “Bendito és tu, Senhor, Deus de
+      Israel, nosso pai, de eternidade em eternidade.'
+    partes:
+    - Davi bendisse o Senhor diante de toda a assembleia
+    - 'e disse: “Bendito és tu, Senhor, Deus de Israel, nosso pai, de eternidade em eternidade.'
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '29:11':
+    texto: Teu, Senhor, é a grandeza, o poder, o esplendor, a vitória e a majestade, pois tudo o que está
+      nos céus e na terra é teu; teu, Senhor, é o reino, e tu te elevas como cabeça sobre tudo.
+    partes:
+    - Teu, Senhor, é a grandeza, o poder,
+    - o esplendor, a vitória e a majestade,
+    - pois tudo o que está nos céus e na terra é teu;
+    - teu, Senhor, é o reino, e tu te elevas como cabeça sobre tudo.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '29:12':
+    texto: A riqueza e a glória vêm de ti; tu dominas sobre tudo; na tua mão estão a força e o poder,
+      e na tua mão está engrandecer e fortalecer a todos.
+    partes:
+    - A riqueza e a glória vêm de ti;
+    - tu dominas sobre tudo;
+    - na tua mão estão a força e o poder,
+    - e na tua mão está engrandecer e fortalecer a todos.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'

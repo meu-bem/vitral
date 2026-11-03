@@ -1,0 +1,162 @@
+livro: JON
+fonte: oshb
+versiculos:
+  '1:1':
+    texto: 'A palavra do Senhor foi dirigida a Jonas, filho de Amati:'
+    status: ia-sem-revisao
+  '1:2':
+    texto: “Levanta-te, vai a Nínive, a grande cidade, e proclama contra ela, porque a sua maldade subiu
+      até mim.”
+    status: ia-sem-revisao
+  '1:3':
+    texto: Jonas levantou-se para fugir para Társis, para longe da face do Senhor; desceu a Jope, encontrou
+      um navio que ia para Társis, pagou a passagem e embarcou nele para ir com eles a Társis, para longe
+      da face do Senhor.
+    status: ia-sem-revisao
+  '1:4':
+    texto: Mas o Senhor lançou sobre o mar um vento forte, e houve uma grande tempestade no mar; e o navio
+      ameaçava despedaçar-se.
+    status: ia-sem-revisao
+  '1:5':
+    texto: Os marinheiros tiveram medo e clamaram, cada um ao seu deus; lançaram ao mar a carga que estava
+      no navio, para o aliviar. Jonas, porém, tinha descido ao porão do navio, deitara-se e dormia profundamente.
+    status: ia-sem-revisao
+  '1:6':
+    texto: 'O capitão aproximou-se dele e disse: “Que fazes tu a dormir? Levanta-te, invoca o teu Deus;
+      talvez esse Deus se lembre de nós, e não pereçamos.”'
+    status: ia-sem-revisao
+  '1:7':
+    texto: 'Disseram uns aos outros: “Vinde, lancemos sortes para sabermos por causa de quem nos veio
+      este mal.” Lançaram as sortes, e a sorte caiu sobre Jonas.'
+    status: ia-sem-revisao
+  '1:8':
+    texto: 'Disseram-lhe: “Conta-nos, por favor, por causa de quem nos veio este mal. Qual é o teu ofício?
+      De onde vens? Qual é a tua terra? De que povo és?”'
+    status: ia-sem-revisao
+  '1:9':
+    texto: 'Ele lhes respondeu: “Sou hebreu e temo o Senhor, Deus do céu, que fez o mar e a terra firme.”'
+    status: ia-sem-revisao
+  '1:10':
+    texto: 'Os homens ficaram tomados de grande temor e lhe disseram: “Que fizeste?” Pois sabiam que fugia
+      da face do Senhor, porque ele lho dissera.'
+    status: ia-sem-revisao
+  '1:11':
+    texto: 'Disseram-lhe: “Que faremos contigo, para que o mar se acalme para nós?” Pois o mar se tornava
+      cada vez mais tempestuoso.'
+    status: ia-sem-revisao
+  '1:12':
+    texto: 'Ele lhes respondeu: “Tomai-me e lançai-me ao mar, e o mar se acalmará para vós; pois sei que
+      é por minha causa que esta grande tempestade vos atingiu.”'
+    status: ia-sem-revisao
+  '1:13':
+    texto: Os homens remaram para voltar à terra firme, mas não conseguiram, porque o mar se tornava cada
+      vez mais tempestuoso contra eles.
+    status: ia-sem-revisao
+  '1:14':
+    texto: 'Então invocaram o Senhor e disseram: “Ah, Senhor, não pereçamos por causa da vida deste homem,
+      e não ponhas sobre nós sangue inocente, pois tu, Senhor, fizeste como quiseste.”'
+    status: ia-sem-revisao
+  '1:15':
+    texto: Tomaram Jonas e o lançaram ao mar, e o mar cessou a sua fúria.
+    status: ia-sem-revisao
+  '1:16':
+    texto: Os homens temeram o Senhor com grande temor, ofereceram sacrifício ao Senhor e fizeram votos.
+    status: ia-sem-revisao
+  '2:1':
+    texto: O Senhor fez vir um grande peixe para engolir Jonas, e Jonas ficou no ventre do peixe três
+      dias e três noites.
+    status: ia-sem-revisao
+  '2:3':
+    texto: 'Disse: “Na minha angústia invoquei o Senhor, e ele me respondeu; do ventre do Xeol pedi socorro,
+      e ouviste a minha voz.'
+    status: ia-sem-revisao
+  '2:4':
+    texto: Lançaste-me ao fundo, no coração dos mares, e a corrente me envolveu; todas as tuas ondas e
+      as tuas vagas passaram sobre mim.
+    status: ia-sem-revisao
+  '2:5':
+    texto: 'Eu dizia: ‘Fui expulso de diante dos teus olhos; contudo, tornarei a olhar para o teu santo
+      templo.’'
+    status: ia-sem-revisao
+  '2:8':
+    texto: Quando a minha alma desfalecia dentro de mim, lembrei-me do Senhor, e a minha oração chegou
+      até ti, ao teu santo templo.
+    status: ia-sem-revisao
+  '3:1':
+    texto: 'A palavra do Senhor foi dirigida a Jonas pela segunda vez:'
+    status: ia-sem-revisao
+  '3:2':
+    texto: “Levanta-te, vai a Nínive, a grande cidade, e proclama-lhe a proclamação que eu te disser.”
+    status: ia-sem-revisao
+  '3:3':
+    texto: Jonas levantou-se e foi a Nínive, segundo a palavra do Senhor. Nínive era uma cidade muito
+      grande, de três dias de caminho.
+    status: ia-sem-revisao
+  '3:4':
+    texto: 'Jonas começou a entrar na cidade, caminhando um dia, e proclamou: “Ainda quarenta dias, e
+      Nínive será subvertida.”'
+    status: ia-sem-revisao
+  '3:5':
+    texto: Os habitantes de Nínive creram em Deus, proclamaram um jejum e vestiram-se de saco, do maior
+      ao menor.
+    status: ia-sem-revisao
+  '3:6':
+    texto: A notícia chegou ao rei de Nínive; ele levantou-se do seu trono, tirou de cima de si o manto,
+      cobriu-se de saco e sentou-se sobre cinza.
+    status: ia-sem-revisao
+  '3:7':
+    texto: 'Fez proclamar em Nínive, por decreto do rei e dos seus grandes: “Homens e animais, bois e
+      ovelhas, não provem nada, não pastem nem bebam água.'
+    status: ia-sem-revisao
+  '3:8':
+    texto: Cubram-se de saco homens e animais, e clamem a Deus com força; e cada um converta-se do seu
+      mau caminho e da violência que há em suas mãos.
+    status: ia-sem-revisao
+  '3:9':
+    texto: Quem sabe? Deus talvez volte atrás, arrependa-se e abandone o ardor da sua ira, e não pereçamos.”
+    status: ia-sem-revisao
+  '3:10':
+    texto: Deus viu as suas obras, que se converteram do seu mau caminho, e Deus se arrependeu do mal
+      que dissera que lhes faria, e não o fez.
+    status: ia-sem-revisao
+  '4:1':
+    texto: Isso desagradou muito a Jonas, e ele se irritou.
+    status: ia-sem-revisao
+  '4:2':
+    texto: 'Orou ao Senhor e disse: “Ah, Senhor, não era isto que eu dizia quando ainda estava na minha
+      terra? Por isso me adiantei a fugir para Társis, pois sabia que és um Deus clemente e misericordioso,
+      lento para a ira, rico em bondade, e que te arrependes do mal.'
+    status: ia-sem-revisao
+  '4:3':
+    texto: Agora, Senhor, tira-me a vida, peço-te, pois é melhor para mim morrer do que viver.”
+    status: ia-sem-revisao
+  '4:4':
+    texto: 'O Senhor disse: “Fazes bem em irritar-te?”'
+    status: ia-sem-revisao
+  '4:5':
+    texto: Jonas saiu da cidade e sentou-se a oriente da cidade; ali fez para si uma cabana e sentou-se
+      à sua sombra, até ver o que aconteceria na cidade.
+    status: ia-sem-revisao
+  '4:6':
+    texto: O Senhor Deus fez nascer uma planta de rícino, que subiu acima de Jonas, para dar sombra à
+      sua cabeça e livrá-lo do seu mal; e Jonas alegrou-se muito com a planta.
+    status: ia-sem-revisao
+  '4:7':
+    texto: Mas, ao subir da aurora do dia seguinte, Deus mandou um verme, que feriu a planta, e ela secou.
+    status: ia-sem-revisao
+  '4:8':
+    texto: 'Quando o sol nasceu, Deus mandou um vento oriental abrasador; o sol feriu a cabeça de Jonas,
+      e ele desfaleceu. Pediu para si a morte e disse: “É melhor para mim morrer do que viver.”'
+    status: ia-sem-revisao
+  '4:9':
+    texto: 'Deus disse a Jonas: “Fazes bem em irritar-te por causa da planta?” Ele respondeu: “Faço bem
+      em irritar-me até a morte.”'
+    status: ia-sem-revisao
+  '4:10':
+    texto: 'O Senhor disse: “Tu tiveste pena da planta, que não cultivaste nem fizeste crescer, que numa
+      noite nasceu e numa noite pereceu.'
+    status: ia-sem-revisao
+  '4:11':
+    texto: E eu não teria pena de Nínive, a grande cidade, onde há mais de cento e vinte mil pessoas que
+      não sabem distinguir a sua direita da sua esquerda, e também muitos animais?”
+    status: ia-sem-revisao

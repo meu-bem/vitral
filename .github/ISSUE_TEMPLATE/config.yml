@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Como contribuir
+    url: https://github.com/meu-bem/vitral/blob/main/CONTRIBUINDO.md
+    about: Regras do projeto, licenças e como corrigir dados.

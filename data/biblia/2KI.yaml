@@ -1,0 +1,434 @@
+livro: 2KI
+fonte: oshb
+versiculos:
+  '2:1':
+    texto: Quando o Senhor estava para elevar Elias ao céu num redemoinho, Elias e Eliseu partiram de
+      Guilgal.
+    status: ia-sem-revisao
+  '2:6':
+    texto: 'Elias disse-lhe: “Fica aqui, por favor, pois o Senhor me enviou ao Jordão.” Ele respondeu:
+      “Pela vida do Senhor e pela tua vida, não te deixarei.” E seguiram os dois.'
+    status: ia-sem-revisao
+  '2:7':
+    texto: Cinquenta homens dos filhos dos profetas foram e pararam à distância, defronte; e os dois pararam
+      junto ao Jordão.
+    status: ia-sem-revisao
+  '2:8':
+    texto: Elias tomou o seu manto, enrolou-o e bateu nas águas, que se dividiram para um lado e para
+      o outro, e os dois passaram a seco.
+    status: ia-sem-revisao
+  '2:9':
+    texto: 'Ao passarem, Elias disse a Eliseu: “Pede o que queres que eu faça por ti antes que eu seja
+      tirado de ti.” Eliseu respondeu: “Que haja, por favor, uma porção dupla do teu espírito sobre mim.”'
+    status: ia-sem-revisao
+  '2:10':
+    texto: 'Disse Elias: “Pediste uma coisa difícil. Se me vires quando eu for tirado de ti, assim te
+      será; se não, não será.”'
+    status: ia-sem-revisao
+  '2:11':
+    texto: Enquanto caminhavam e conversavam, eis que um carro de fogo e cavalos de fogo os separaram
+      um do outro, e Elias subiu ao céu num redemoinho.
+    status: ia-sem-revisao
+  '2:12':
+    texto: 'Eliseu o via e gritava: “Meu pai, meu pai! Carro de Israel e seus cavaleiros!” E não o viu
+      mais. Agarrou as suas vestes e as rasgou em dois pedaços.'
+    status: ia-sem-revisao
+  '2:13':
+    texto: Levantou o manto de Elias, que lhe caíra, voltou e parou à margem do Jordão.
+    status: ia-sem-revisao
+  '2:14':
+    texto: 'Tomou o manto de Elias, que lhe caíra, bateu nas águas e disse: “Onde está o Senhor, o Deus
+      de Elias?” Bateu também ele nas águas, que se dividiram para um lado e para o outro, e Eliseu passou.'
+    status: ia-sem-revisao
+  '4:8':
+    texto: Certo dia, Eliseu passou por Sunam, onde havia uma mulher importante, que o convidou insistentemente
+      a comer; e, sempre que passava, ele se retirava para lá a fim de comer.
+    status: ia-sem-revisao
+  '4:9':
+    texto: 'Ela disse ao marido: “Sei que este homem que passa sempre por nós é um santo homem de Deus.'
+    status: ia-sem-revisao
+  '4:10':
+    texto: Façamos um pequeno quarto no andar de cima e ponhamos ali para ele uma cama, uma mesa, uma
+      cadeira e um candeeiro; e, quando vier a nós, ele se recolherá ali.”
+    status: ia-sem-revisao
+  '4:11':
+    texto: Certo dia ele chegou ali, retirou-se para o quarto e deitou-se.
+    status: ia-sem-revisao
+  '4:14':
+    texto: 'Ele disse: “Que se pode fazer por ela?” Giezi respondeu: “Ela não tem filho, e o seu marido
+      é velho.”'
+    status: ia-sem-revisao
+  '4:15':
+    texto: 'Ele disse: “Chama-a.” Giezi a chamou, e ela ficou à porta.'
+    status: ia-sem-revisao
+  '4:16':
+    texto: 'Ele disse: “Neste tempo marcado, ao chegar a estação, estarás com um filho nos braços.” Ela
+      respondeu: “Não, meu senhor, homem de Deus, não enganes a tua serva!”'
+    partes:
+    - 'Ele disse: “Neste tempo marcado, ao chegar a estação, estarás com um filho nos braços.”'
+    - 'Ela respondeu: “Não, meu senhor, homem de Deus, não enganes a tua serva!”'
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '4:42':
+    texto: 'Veio um homem de Baal-Salisa e trouxe ao homem de Deus pão das primícias: vinte pães de cevada
+      e espigas frescas no seu alforje. Eliseu disse: “Dá ao povo, para que coma.”'
+    status: ia-sem-revisao
+  '4:43':
+    texto: 'Seu servo disse: “Como porei isto diante de cem homens?” Mas ele repetiu: “Dá ao povo, para
+      que coma, pois assim diz o Senhor: ‘Comerão, e ainda sobrará.’”'
+    status: ia-sem-revisao
+  '4:44':
+    texto: Ele pôs diante deles, e comeram, e sobrou, conforme a palavra do Senhor.
+    status: ia-sem-revisao
+  '5:1':
+    texto: Naamã, chefe do exército do rei de Aram, era um homem importante diante do seu senhor e muito
+      estimado, porque por ele o Senhor tinha dado a vitória a Aram; era homem valente e forte, mas leproso.
+    status: ia-sem-revisao
+  '5:2':
+    texto: Os arameus, em incursões, tinham levado cativa da terra de Israel uma menina, que ficou a serviço
+      da mulher de Naamã.
+    status: ia-sem-revisao
+  '5:3':
+    texto: 'Ela disse à sua senhora: “Oxalá o meu senhor estivesse diante do profeta que está em Samaria!
+      Ele o livraria da sua lepra.”'
+    status: ia-sem-revisao
+  '5:4':
+    texto: 'Naamã foi e contou ao seu senhor: “Assim e assim falou a menina que é da terra de Israel.”'
+    status: ia-sem-revisao
+  '5:5':
+    texto: 'O rei de Aram disse: “Vai, e eu enviarei uma carta ao rei de Israel.” Ele foi, levando consigo
+      dez talentos de prata, seis mil siclos de ouro e dez mudas de roupa.'
+    status: ia-sem-revisao
+  '5:6':
+    texto: 'Levou ao rei de Israel a carta, que dizia: “Ao chegar a ti esta carta, saberás que te enviei
+      Naamã, meu servo, para que o livres da sua lepra.”'
+    status: ia-sem-revisao
+  '5:7':
+    texto: 'Quando o rei de Israel leu a carta, rasgou as suas vestes e disse: “Sou eu Deus, para dar
+      a morte e a vida, que este me manda um homem para o livrar da sua lepra? Sabei, pois, e vede como
+      ele procura briga comigo.”'
+    status: ia-sem-revisao
+  '5:8':
+    texto: 'Quando Eliseu, o homem de Deus, soube que o rei de Israel tinha rasgado as suas vestes, mandou
+      dizer ao rei: “Por que rasgaste as tuas vestes? Que ele venha a mim e saberá que há um profeta em
+      Israel.”'
+    status: ia-sem-revisao
+  '5:9':
+    texto: Naamã veio com os seus cavalos e o seu carro e parou à porta da casa de Eliseu.
+    status: ia-sem-revisao
+  '5:10':
+    texto: 'Eliseu enviou-lhe um mensageiro, dizendo: “Vai, lava-te sete vezes no Jordão, e a tua carne
+      voltará a ser como era, e ficarás limpo.”'
+    status: ia-sem-revisao
+  '5:11':
+    texto: 'Naamã irritou-se, foi-se embora e disse: “Eis que eu dizia comigo: ‘Certamente sairá, ficará
+      de pé, invocará o nome do Senhor, seu Deus, agitará a mão sobre o lugar e livrará o leproso.’'
+    status: ia-sem-revisao
+  '5:12':
+    texto: Não são o Abana e o Farfar, rios de Damasco, melhores do que todas as águas de Israel? Não
+      poderia eu lavar-me neles e ficar limpo?” E voltou-se e partiu enfurecido.
+    status: ia-sem-revisao
+  '5:13':
+    texto: 'Os seus servos aproximaram-se e lhe disseram: “Meu pai, se o profeta te tivesse mandado algo
+      difícil, não o farias? Quanto mais, se te disse: ‘Lava-te e ficarás limpo’!”'
+    status: ia-sem-revisao
+  '5:14':
+    texto: Ele desceu e mergulhou sete vezes no Jordão, conforme a palavra do homem de Deus, e a sua carne
+      voltou a ser como a carne de um menino pequeno, e ficou limpo.
+    status: ia-sem-revisao
+  '5:15':
+    texto: 'Voltou ao homem de Deus, ele e toda a sua comitiva; chegou, parou diante dele e disse: “Eis
+      que agora sei que não há Deus em toda a terra, a não ser em Israel. Aceita, por favor, um presente
+      do teu servo.”'
+    status: ia-sem-revisao
+  '5:16':
+    texto: 'Eliseu respondeu: “Pela vida do Senhor, diante de quem estou, não aceitarei.” Naamã insistiu
+      para que aceitasse, mas ele recusou.'
+    status: ia-sem-revisao
+  '5:17':
+    texto: 'Naamã disse: “Então, ao menos, seja dada ao teu servo uma carga de terra, o que carregam dois
+      mulos, pois o teu servo já não oferecerá holocausto nem sacrifício a outros deuses, mas somente
+      ao Senhor.”'
+    status: ia-sem-revisao
+  '11:1':
+    texto: Atalia, mãe de Ocozias, vendo que seu filho estava morto, levantou-se e eliminou toda a descendência
+      real.
+    status: ia-sem-revisao
+  '11:2':
+    texto: Mas Josaba, filha do rei Jorão, irmã de Ocozias, tomou Joás, filho de Ocozias, e o furtou do
+      meio dos filhos do rei que eram mortos, a ele e à sua ama, e os pôs no quarto das camas; assim o
+      esconderam de Atalia, e ele não foi morto.
+    status: ia-sem-revisao
+  '11:3':
+    texto: Ficou com ela escondido na casa do Senhor durante seis anos, enquanto Atalia reinava sobre
+      a terra.
+    status: ia-sem-revisao
+  '11:4':
+    texto: No sétimo ano, Joiada mandou chamar os chefes de cem dos carios e dos guardas, fê-los vir a
+      ele à casa do Senhor, fez com eles uma aliança, fê-los jurar na casa do Senhor e mostrou-lhes o
+      filho do rei.
+    status: ia-sem-revisao
+  '11:9':
+    texto: Os chefes de cem fizeram tudo o que ordenara o sacerdote Joiada; cada um tomou os seus homens,
+      os que entravam no sábado e os que saíam no sábado, e foram ao sacerdote Joiada.
+    status: ia-sem-revisao
+  '11:10':
+    texto: O sacerdote deu aos chefes de cem as lanças e os escudos do rei Davi, que estavam na casa do
+      Senhor.
+    status: ia-sem-revisao
+  '11:11':
+    texto: Os guardas se postaram, cada um com as armas na mão, desde o lado direito da casa até o lado
+      esquerdo, junto ao altar e junto à casa, em torno do rei.
+    status: ia-sem-revisao
+  '11:12':
+    texto: 'Joiada fez sair o filho do rei, pôs-lhe o diadema e o testemunho, e o proclamaram rei e o
+      ungiram; bateram palmas e disseram: “Viva o rei!”'
+    status: ia-sem-revisao
+  '11:13':
+    texto: Atalia ouviu o clamor dos guardas e do povo e foi ao povo, na casa do Senhor.
+    status: ia-sem-revisao
+  '11:14':
+    texto: 'Olhou e viu o rei de pé sobre a coluna, conforme o costume, e os chefes e as trombetas junto
+      ao rei, e todo o povo da terra alegre e tocando trombetas. Atalia rasgou as suas vestes e gritou:
+      “Conspiração! Conspiração!”'
+    status: ia-sem-revisao
+  '11:15':
+    texto: 'O sacerdote Joiada ordenou aos chefes de cem, comandantes do exército, e lhes disse: “Levai-a
+      para fora, por entre as fileiras, e quem a seguir seja morto à espada.” Pois o sacerdote dissera:
+      “Que não seja morta na casa do Senhor.”'
+    status: ia-sem-revisao
+  '11:16':
+    texto: Abriram-lhe passagem, e ela chegou ao caminho da entrada dos cavalos da casa do rei, e ali
+      foi morta.
+    status: ia-sem-revisao
+  '11:17':
+    texto: Joiada fez a aliança entre o Senhor, o rei e o povo, para que fossem povo do Senhor, e também
+      entre o rei e o povo.
+    status: ia-sem-revisao
+  '11:18':
+    texto: Todo o povo da terra entrou na casa de Baal e a demoliu; quebraram bem os seus altares e as
+      suas imagens e mataram Matã, sacerdote de Baal, diante dos altares. O sacerdote pôs guardas na casa
+      do Senhor.
+    status: ia-sem-revisao
+  '11:20':
+    texto: Todo o povo da terra se alegrou, e a cidade ficou tranquila; quanto a Atalia, mataram-na à
+      espada na casa do rei.
+    status: ia-sem-revisao
+  '17:5':
+    texto: O rei da Assíria invadiu toda a terra, subiu a Samaria e a sitiou durante três anos.
+    status: ia-sem-revisao
+  '17:6':
+    texto: No nono ano de Oseias, o rei da Assíria tomou Samaria, deportou Israel para a Assíria e o instalou
+      em Hala, e em Habor, rio de Gozã, e nas cidades dos medos.
+    status: ia-sem-revisao
+  '17:7':
+    texto: Isso aconteceu porque os filhos de Israel pecaram contra o Senhor, seu Deus, que os fizera
+      subir da terra do Egito, de debaixo da mão do faraó, rei do Egito, e porque temeram outros deuses.
+    status: ia-sem-revisao
+  '17:8':
+    texto: Andaram segundo os costumes das nações que o Senhor expulsara diante dos filhos de Israel,
+      e segundo o que fizeram os reis de Israel.
+    status: ia-sem-revisao
+  '17:13':
+    texto: 'O Senhor advertiu Israel e Judá por meio de todos os seus profetas e videntes: “Voltai dos
+      vossos maus caminhos e guardai os meus mandamentos e estatutos, conforme toda a lei que ordenei
+      aos vossos pais e que vos enviei por meio dos meus servos, os profetas.”'
+    status: ia-sem-revisao
+  '17:14':
+    texto: Mas não ouviram e endureceram a sua cerviz, como a cerviz de seus pais, que não creram no Senhor,
+      seu Deus.
+    status: ia-sem-revisao
+  '17:15':
+    texto: Rejeitaram os seus estatutos, a aliança que fizera com os seus pais e os testemunhos com que
+      os advertira; foram atrás da vaidade e tornaram-se vãos, e atrás das nações ao seu redor, das quais
+      o Senhor lhes ordenara que não imitassem o procedimento.
+    status: ia-sem-revisao
+  '17:18':
+    texto: O Senhor irritou-se muito contra Israel e o afastou de diante da sua face; não ficou senão
+      a tribo de Judá.
+    status: ia-sem-revisao
+  '19:9':
+    texto: 'Ouvindo dizer a respeito de Tiraca, rei de Cuxe: “Eis que saiu para combater contigo”, ele
+      voltou a enviar mensageiros a Ezequias, dizendo:'
+    status: ia-sem-revisao
+  '19:10':
+    texto: '“Assim direis a Ezequias, rei de Judá: Que o teu Deus, em quem confias, não te engane, dizendo:
+      ‘Jerusalém não será entregue na mão do rei da Assíria.’'
+    status: ia-sem-revisao
+  '19:11':
+    texto: Eis que ouviste o que os reis da Assíria fizeram a todas as terras, consagrando-as ao extermínio;
+      e tu serias poupado?”
+    status: ia-sem-revisao
+  '19:14':
+    texto: Ezequias tomou as cartas da mão dos mensageiros e as leu; subiu à casa do Senhor e as estendeu
+      diante do Senhor.
+    status: ia-sem-revisao
+  '19:15':
+    texto: 'Ezequias orou diante do Senhor e disse: “Senhor, Deus de Israel, que te assentas sobre os
+      querubins, só tu és Deus de todos os reinos da terra; tu fizeste o céu e a terra.'
+    status: ia-sem-revisao
+  '19:16':
+    texto: Inclina, Senhor, o teu ouvido e ouve; abre, Senhor, os teus olhos e vê; ouve as palavras de
+      Senaquerib, que enviou para insultar o Deus vivo.
+    status: ia-sem-revisao
+  '19:17':
+    texto: 'É verdade, Senhor: os reis da Assíria devastaram as nações e as suas terras'
+    status: ia-sem-revisao
+  '19:18':
+    texto: e lançaram ao fogo os seus deuses, pois não eram deuses, mas obra de mãos humanas, madeira
+      e pedra; por isso os destruíram.
+    status: ia-sem-revisao
+  '19:19':
+    texto: Agora, Senhor, nosso Deus, salva-nos, peço-te, da sua mão, para que todos os reinos da terra
+      saibam que só tu, Senhor, és Deus.”
+    status: ia-sem-revisao
+  '19:20':
+    texto: 'Isaías, filho de Amós, mandou dizer a Ezequias: “Assim diz o Senhor, Deus de Israel: Ouvi
+      a oração que me fizeste a respeito de Senaquerib, rei da Assíria.'
+    status: ia-sem-revisao
+  '19:21':
+    texto: 'Esta é a palavra que o Senhor pronunciou contra ele: Despreza-te, zomba de ti a virgem, filha
+      de Sião; atrás de ti balança a cabeça a filha de Jerusalém.'
+    status: ia-sem-revisao
+  '19:31':
+    texto: Pois de Jerusalém sairá um resto, e do monte Sião, os sobreviventes. O zelo do Senhor dos Exércitos
+      fará isto.
+    status: ia-sem-revisao
+  '19:32':
+    texto: 'Por isso assim diz o Senhor sobre o rei da Assíria: Não entrará nesta cidade, nem lançará
+      ali uma flecha, nem a enfrentará com escudo, nem levantará contra ela uma rampa.'
+    status: ia-sem-revisao
+  '19:33':
+    texto: Voltará pelo caminho por onde veio e não entrará nesta cidade, oráculo do Senhor.
+    status: ia-sem-revisao
+  '19:34':
+    texto: Protegerei esta cidade para a salvar, por amor de mim e por amor de Davi, meu servo.”
+    status: ia-sem-revisao
+  '19:35':
+    texto: Naquela noite, saiu o anjo do Senhor e feriu no acampamento dos assírios cento e oitenta e
+      cinco mil; ao se levantarem de manhã, eis que eram todos cadáveres.
+    status: ia-sem-revisao
+  '19:36':
+    texto: Senaquerib, rei da Assíria, levantou acampamento, partiu, voltou e ficou em Nínive.
+    status: ia-sem-revisao
+  '22:8':
+    texto: 'O sumo sacerdote Helcias disse ao escriba Safã: “Achei o livro da Lei na casa do Senhor.”
+      E Helcias entregou o livro a Safã, que o leu.'
+    status: ia-sem-revisao
+  '22:9':
+    texto: 'O escriba Safã foi ao rei e lhe deu conta: “Os teus servos fundiram a prata que se achava
+      na casa e a entregaram nas mãos dos que dirigem a obra, encarregados da casa do Senhor.”'
+    status: ia-sem-revisao
+  '22:10':
+    texto: 'O escriba Safã anunciou ao rei: “O sacerdote Helcias me entregou um livro.” E Safã o leu diante
+      do rei.'
+    status: ia-sem-revisao
+  '22:11':
+    texto: Quando o rei ouviu as palavras do livro da Lei, rasgou as suas vestes.
+    status: ia-sem-revisao
+  '22:12':
+    texto: 'O rei ordenou ao sacerdote Helcias, a Aicam, filho de Safã, a Acobor, filho de Micaías, ao
+      escriba Safã e a Asaías, servo do rei:'
+    status: ia-sem-revisao
+  '22:13':
+    texto: “Ide consultar o Senhor por mim, pelo povo e por todo Judá acerca das palavras deste livro
+      que foi achado, pois grande é a ira do Senhor que se acendeu contra nós, porque os nossos pais não
+      ouviram as palavras deste livro, para fazer tudo o que está escrito a nosso respeito.”
+    status: ia-sem-revisao
+  '23:1':
+    texto: O rei mandou reunir junto a si todos os anciãos de Judá e de Jerusalém.
+    status: ia-sem-revisao
+  '23:2':
+    texto: O rei subiu à casa do Senhor, com todos os homens de Judá, todos os habitantes de Jerusalém,
+      os sacerdotes, os profetas e todo o povo, do menor ao maior; e leu aos seus ouvidos todas as palavras
+      do livro da Aliança, achado na casa do Senhor.
+    status: ia-sem-revisao
+  '23:3':
+    texto: De pé sobre a coluna, o rei fez diante do Senhor a aliança de seguir o Senhor e de guardar
+      os seus mandamentos, testemunhos e estatutos com todo o coração e toda a alma, para cumprir as palavras
+      desta aliança escritas neste livro; e todo o povo aderiu à aliança.
+    status: ia-sem-revisao
+  '24:8':
+    texto: Joaquin tinha dezoito anos quando começou a reinar e reinou três meses em Jerusalém; sua mãe
+      chamava-se Neusta, filha de Elnatã, de Jerusalém.
+    status: ia-sem-revisao
+  '24:9':
+    texto: Fez o que é mau aos olhos do Senhor, tudo como fizera seu pai.
+    status: ia-sem-revisao
+  '24:10':
+    texto: Naquele tempo, os servos de Nabucodonosor, rei da Babilônia, subiram a Jerusalém, e a cidade
+      ficou sitiada.
+    status: ia-sem-revisao
+  '24:11':
+    texto: Nabucodonosor, rei da Babilônia, chegou à cidade enquanto os seus servos a cercavam.
+    status: ia-sem-revisao
+  '24:12':
+    texto: Joaquin, rei de Judá, saiu ao rei da Babilônia, ele, sua mãe, seus servos, seus príncipes e
+      seus eunucos; e o rei da Babilônia o tomou no oitavo ano do seu reinado.
+    status: ia-sem-revisao
+  '24:13':
+    texto: Tirou dali todos os tesouros da casa do Senhor e os tesouros da casa do rei e despedaçou todos
+      os objetos de ouro que Salomão, rei de Israel, fizera no templo do Senhor, como o Senhor dissera.
+    status: ia-sem-revisao
+  '24:14':
+    texto: Deportou todo Jerusalém, todos os príncipes e todos os homens valentes, dez mil deportados,
+      bem como todos os artesãos e ferreiros; não ficou senão a gente mais pobre do povo da terra.
+    status: ia-sem-revisao
+  '24:15':
+    texto: Levou Joaquin para a Babilônia, e a mãe do rei, as mulheres do rei, os seus eunucos e os grandes
+      da terra, conduziu-os deportados de Jerusalém para a Babilônia.
+    status: ia-sem-revisao
+  '24:16':
+    texto: Todos os homens de guerra, sete mil, e os artesãos e ferreiros, mil, todos valentes e aptos
+      para a guerra, o rei da Babilônia os levou deportados para a Babilônia.
+    status: ia-sem-revisao
+  '24:17':
+    texto: O rei da Babilônia constituiu rei, em lugar dele, Matanias, seu tio, e mudou-lhe o nome para
+      Sedecias.
+    status: ia-sem-revisao
+  '25:1':
+    texto: No nono ano do seu reinado, no décimo mês, no décimo dia do mês, Nabucodonosor, rei da Babilônia,
+      veio com todo o seu exército contra Jerusalém, acampou diante dela e construiu em volta dela um
+      cerco.
+    status: ia-sem-revisao
+  '25:2':
+    texto: A cidade ficou sitiada até o décimo primeiro ano do rei Sedecias.
+    status: ia-sem-revisao
+  '25:3':
+    texto: No nono dia do mês, a fome tornou-se severa na cidade, e não havia pão para o povo da terra.
+    status: ia-sem-revisao
+  '25:4':
+    texto: Abriu-se uma brecha na cidade, e todos os homens de guerra fugiram de noite pelo caminho da
+      porta entre as duas muralhas, junto ao jardim do rei, enquanto os caldeus estavam ao redor da cidade;
+      e ele seguiu o caminho da Arabá.
+    status: ia-sem-revisao
+  '25:5':
+    texto: O exército dos caldeus perseguiu o rei e o alcançou nas planícies de Jericó, e todo o seu exército
+      se dispersou para longe dele.
+    status: ia-sem-revisao
+  '25:6':
+    texto: Prenderam o rei e o levaram ao rei da Babilônia, em Ribla, onde pronunciaram contra ele a sentença.
+    status: ia-sem-revisao
+  '25:7':
+    texto: Mataram os filhos de Sedecias diante dos seus olhos; depois cegaram os olhos de Sedecias, acorrentaram-no
+      com cadeias de bronze e o levaram para a Babilônia.
+    status: ia-sem-revisao
+  '25:8':
+    texto: No quinto mês, no sétimo dia do mês — era o décimo nono ano do rei Nabucodonosor, rei da Babilônia
+      —, Nabuzaradã, chefe da guarda, servo do rei da Babilônia, entrou em Jerusalém.
+    status: ia-sem-revisao
+  '25:9':
+    texto: Incendiou a casa do Senhor, a casa do rei e todas as casas de Jerusalém; incendiou toda casa
+      grande.
+    status: ia-sem-revisao
+  '25:10':
+    texto: Todo o exército dos caldeus que estava com o chefe da guarda derrubou as muralhas de Jerusalém
+      em redor.
+    status: ia-sem-revisao
+  '25:11':
+    texto: O resto do povo que ficara na cidade, os que tinham passado para o rei da Babilônia e o resto
+      da multidão, Nabuzaradã, chefe da guarda, deportou.
+    status: ia-sem-revisao
+  '25:12':
+    texto: Mas dos mais pobres da terra o chefe da guarda deixou alguns como vinhateiros e lavradores.
+    status: ia-sem-revisao

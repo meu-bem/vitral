@@ -1,0 +1,742 @@
+livro: SIR
+fonte: clementina
+versiculos:
+  '1:1':
+    texto: Toda sabedoria vem do Senhor Deus; ela esteve sempre com ele e existe antes dos séculos.
+    status: ia-sem-revisao
+    observacao: O latim da Clementina traz antes do v. 1 o prólogo do tradutor, que não é versículo do
+      livro e não foi traduzido. Livro deuterocanônico, traduzido do latim (Clementina).
+  '1:2':
+    texto: A areia do mar, as gotas da chuva e os dias do mundo, quem os contou? A altura do céu, a largura
+      da terra e a profundidade do abismo, quem os mediu?
+    status: ia-sem-revisao
+  '1:3':
+    texto: A sabedoria de Deus, que precede todas as coisas, quem a investigou?
+    status: ia-sem-revisao
+  '1:4':
+    texto: A sabedoria foi criada antes de tudo, e a inteligência prudente, desde a eternidade.
+    status: ia-sem-revisao
+  '1:5':
+    texto: A fonte da sabedoria é a Palavra de Deus nas alturas, e os seus caminhos são os mandamentos
+      eternos.
+    status: ia-sem-revisao
+  '1:6':
+    texto: A raiz da sabedoria, a quem foi revelada? E as suas sutilezas, quem as conheceu?
+    status: ia-sem-revisao
+  '1:7':
+    texto: A disciplina da sabedoria, a quem foi revelada e manifestada? E a multiplicação dos seus caminhos,
+      quem a compreendeu?
+    status: ia-sem-revisao
+  '1:8':
+    texto: Um só é o Altíssimo, Criador onipotente, rei poderoso e muito temível, que está sentado sobre
+      o seu trono, o Deus que domina.
+    status: ia-sem-revisao
+  '1:9':
+    texto: Ele mesmo a criou no Espírito Santo, a viu, a contou e a mediu,
+    status: ia-sem-revisao
+  '1:10':
+    texto: e a derramou sobre todas as suas obras e sobre toda carne, segundo a sua generosidade, e a
+      deu aos que o amam.
+    status: ia-sem-revisao
+  '2:1':
+    texto: Filho, se te aproximas para servir a Deus, permanece na justiça e no temor e prepara a tua
+      alma para a prova.
+    status: ia-sem-revisao
+  '2:2':
+    texto: Humilha o teu coração e persevera; inclina o teu ouvido e acolhe as palavras da inteligência;
+      não te apresses no tempo da adversidade.
+    status: ia-sem-revisao
+  '2:3':
+    texto: Suporta as demoras de Deus; une-te a Deus e persevera, para que a tua vida cresça no fim.
+    status: ia-sem-revisao
+  '2:4':
+    texto: Aceita tudo o que te sobrevier; na dor, persevera, e na tua humilhação, tem paciência,
+    status: ia-sem-revisao
+  '2:5':
+    texto: pois o ouro e a prata são provados no fogo, e os homens que Deus aceita, no forno da humilhação.
+    status: ia-sem-revisao
+  '2:6':
+    texto: Crê em Deus, e ele te sustentará; endireita o teu caminho e espera nele; guarda o seu temor
+      e envelhece nele.
+    status: ia-sem-revisao
+  '2:7':
+    texto: Vós que temeis o Senhor, esperai a sua misericórdia; não vos desvieis dele, para que não caiais.
+    status: ia-sem-revisao
+  '2:8':
+    texto: Vós que temeis o Senhor, crede nele, e a vossa recompensa não será perdida.
+    status: ia-sem-revisao
+  '2:9':
+    texto: Vós que temeis o Senhor, esperai nele, e a misericórdia virá a vós como alegria.
+    status: ia-sem-revisao
+  '2:10':
+    texto: Vós que temeis o Senhor, amai-o, e os vossos corações serão iluminados.
+    status: ia-sem-revisao
+  '2:11':
+    texto: Considerai, filhos, as gerações dos homens, e sabei que ninguém esperou no Senhor e foi confundido.
+    status: ia-sem-revisao
+  '2:12':
+    texto: Quem permaneceu nos seus mandamentos e foi abandonado? Ou quem o invocou e foi desprezado por
+      ele?
+    status: ia-sem-revisao
+  '2:13':
+    texto: Pois Deus é piedoso e misericordioso, perdoa os pecados no dia da tribulação e protege todos
+      os que o procuram na verdade.
+    status: ia-sem-revisao
+  '3:2':
+    texto: Filhos, ouvi o julgamento do pai e fazei assim, para que sejais salvos.
+    status: ia-sem-revisao
+  '3:3':
+    texto: Pois Deus honrou o pai nos filhos e, confirmando o julgamento da mãe, firmou-o sobre os filhos.
+    status: ia-sem-revisao
+  '3:4':
+    texto: Quem ama a Deus obterá o perdão dos pecados, abster-se-á deles e será ouvido na oração de cada
+      dia.
+    status: ia-sem-revisao
+  '3:5':
+    texto: Quem honra a mãe é como quem acumula tesouros.
+    status: ia-sem-revisao
+  '3:6':
+    texto: Quem honra o pai terá alegria nos filhos e será ouvido no dia da sua oração.
+    status: ia-sem-revisao
+  '3:7':
+    texto: Quem honra o pai terá vida mais longa, e quem obedece ao pai dará descanso à mãe.
+    status: ia-sem-revisao
+  '3:12':
+    texto: Não te glories do desprezo do teu pai, pois a sua desonra não é glória para ti.
+    status: ia-sem-revisao
+  '3:13':
+    texto: Pois a glória do homem vem da honra do seu pai, e o filho que desonra o pai é vergonha para
+      ele.
+    status: ia-sem-revisao
+  '3:14':
+    texto: Filho, ampara a velhice do teu pai, e não o entristeças enquanto ele viver.
+    partes:
+    - Filho, ampara a velhice do teu pai,
+    - e não o entristeças enquanto ele viver.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '3:17':
+    texto: e será edificada para ti na justiça; no dia da tribulação lembrar-se-ão de ti, e os teus pecados
+      se derreterão como o gelo em tempo sereno.
+    status: ia-sem-revisao
+  '3:18':
+    texto: Quão infame é quem abandona o pai, e maldito de Deus quem exaspera a mãe!
+    status: ia-sem-revisao
+  '3:20':
+    texto: Quanto maior fores, mais te humilha em tudo, e diante de Deus encontrarás graça,
+    status: ia-sem-revisao
+  '3:28':
+    texto: O coração que segue dois caminhos não terá sucesso, e o perverso de coração tropeçará neles.
+    status: ia-sem-revisao
+  '3:29':
+    texto: O coração mau será oprimido por dores, e o pecador acrescentará pecado a pecado.
+    status: ia-sem-revisao
+  '4:11':
+    texto: e serás como um filho obediente do Altíssimo, e ele terá mais compaixão de ti do que uma mãe.
+    status: ia-sem-revisao
+  '4:12':
+    texto: A sabedoria inspira vida aos seus filhos, acolhe os que a procuram e os guiará no caminho da
+      justiça.
+    status: ia-sem-revisao
+  '4:13':
+    texto: Quem a ama, ama a vida, e os que vigiam por ela alcançarão o seu favor.
+    status: ia-sem-revisao
+  '4:14':
+    texto: Os que a possuem herdarão a vida, e Deus abençoará o lugar onde ela entrar.
+    status: ia-sem-revisao
+  '4:15':
+    texto: Os que a servem prestam culto ao Santo, e Deus ama os que a amam.
+    status: ia-sem-revisao
+  '4:16':
+    texto: Quem a escuta julgará as nações, e quem a contempla permanecerá confiante.
+    status: ia-sem-revisao
+  '4:17':
+    texto: Se alguém confiar nela, herdá-la-á, e os seus descendentes a possuirão com firmeza,
+    status: ia-sem-revisao
+  '4:18':
+    texto: pois ela caminha com ele na prova e o escolhe desde o início.
+    status: ia-sem-revisao
+  '4:19':
+    texto: Fará vir sobre ele temor, medo e provação; atormentá-lo-á com a sua disciplina, até o pôr à
+      prova nos seus pensamentos e confiar na sua alma.
+    status: ia-sem-revisao
+  '5:1':
+    texto: 'Não te apegues a bens injustos e não digas: “Tenho o bastante para viver”, pois de nada servirão
+      no tempo da vingança e da adversidade.'
+    status: ia-sem-revisao
+  '5:2':
+    texto: Não sigas, com a tua força, o desejo do teu coração,
+    status: ia-sem-revisao
+  '5:3':
+    texto: 'e não digas: “Como pude?” ou “Quem me submeterá por causa do que fiz?”, pois Deus certamente
+      fará justiça.'
+    status: ia-sem-revisao
+  '5:4':
+    texto: 'Não digas: “Pequei, e que mal me aconteceu?”, pois o Altíssimo é paciente ao retribuir.'
+    status: ia-sem-revisao
+  '5:5':
+    texto: Do pecado perdoado não fiques sem temor, e não acrescentes pecado a pecado.
+    status: ia-sem-revisao
+  '5:6':
+    texto: 'E não digas: “A misericórdia do Senhor é grande; terá piedade da multidão dos meus pecados”,'
+    status: ia-sem-revisao
+  '5:7':
+    texto: pois a misericórdia e a ira dele vêm depressa, e a sua ira recai sobre os pecadores.
+    status: ia-sem-revisao
+  '5:8':
+    texto: Não tardes em converter-te ao Senhor e não o adies de dia em dia,
+    status: ia-sem-revisao
+  '6:5':
+    texto: A palavra doce multiplica os amigos e abranda os inimigos, e a língua amável abunda no homem
+      bom.
+    status: ia-sem-revisao
+  '6:6':
+    texto: Sejam muitos os que estão em paz contigo, mas teu conselheiro seja um entre mil.
+    status: ia-sem-revisao
+  '6:7':
+    texto: Se tens um amigo, adquire-o na prova e não confies nele facilmente.
+    status: ia-sem-revisao
+  '6:8':
+    texto: Pois há amigo só por um tempo, que não permanecerá no dia da tribulação.
+    status: ia-sem-revisao
+  '6:9':
+    texto: Há amigo que se torna inimigo, e há amigo que revelará ódio, briga e injúrias.
+    status: ia-sem-revisao
+  '6:10':
+    texto: Há também amigo que se senta à mesa, mas não permanecerá no dia da necessidade.
+    status: ia-sem-revisao
+  '6:11':
+    texto: O amigo, se permanecer firme, será para ti como um igual e agirá com confiança entre os teus
+      familiares.
+    status: ia-sem-revisao
+  '6:12':
+    texto: Se se humilhar contra ti e se esconder da tua presença, terás uma boa amizade, com um só ânimo.
+    status: ia-sem-revisao
+  '6:13':
+    texto: Separa-te dos teus inimigos e fica atento aos teus amigos.
+    status: ia-sem-revisao
+  '6:14':
+    texto: Um amigo fiel é uma proteção forte; quem o encontra, encontra um tesouro.
+    status: ia-sem-revisao
+  '6:15':
+    texto: Nada se compara a um amigo fiel, e nenhum peso de ouro e prata é digno da bondade da sua fidelidade.
+    status: ia-sem-revisao
+  '6:16':
+    texto: Um amigo fiel é remédio de vida e de imortalidade, e os que temem o Senhor o encontrarão.
+    status: ia-sem-revisao
+  '6:17':
+    texto: Quem teme a Deus terá igualmente boa amizade, pois conforme ele será o seu amigo.
+    status: ia-sem-revisao
+  '15:1':
+    texto: Quem teme a Deus fará o bem, e quem se atém à justiça a alcançará.
+    status: ia-sem-revisao
+  '15:2':
+    texto: Ela virá ao seu encontro como mãe honrada e o receberá como esposa da virgindade.
+    status: ia-sem-revisao
+  '15:3':
+    texto: Alimentá-lo-á com o pão da vida e da inteligência, e dar-lhe-á a beber a água da sabedoria
+      salutar; ele se firmará nela e não vacilará.
+    status: ia-sem-revisao
+  '15:4':
+    texto: Ela o sustentará, e ele não será confundido; ela o exaltará diante dos seus próximos,
+    status: ia-sem-revisao
+  '15:5':
+    texto: e abrirá a sua boca no meio da assembleia, enchê-lo-á do espírito de sabedoria e de inteligência
+      e o revestirá com uma veste de glória.
+    status: ia-sem-revisao
+  '15:6':
+    texto: Acumulará sobre ele alegria e exultação, e o fará herdar um nome eterno.
+    status: ia-sem-revisao
+  '15:15':
+    texto: acrescentou-lhe os seus mandamentos e preceitos.
+    status: ia-sem-revisao
+  '15:16':
+    texto: Se quiseres guardar os mandamentos, eles te guardarão, e farás para sempre o que é agradável
+      pela fidelidade.
+    status: ia-sem-revisao
+  '15:17':
+    texto: 'Pôs diante de ti a água e o fogo: estende a mão para o que quiseres.'
+    status: ia-sem-revisao
+  '15:18':
+    texto: 'Diante do homem estão a vida e a morte, o bem e o mal: o que lhe agradar, isso lhe será dado,'
+    status: ia-sem-revisao
+  '15:19':
+    texto: pois grande é a sabedoria de Deus, forte no poder, vendo tudo sem cessar.
+    status: ia-sem-revisao
+  '15:20':
+    texto: Os olhos do Senhor estão sobre os que o temem, e ele conhece toda obra do homem.
+    status: ia-sem-revisao
+  '17:1':
+    texto: Deus criou o homem da terra e o fez à sua imagem,
+    status: ia-sem-revisao
+  '17:2':
+    texto: e de novo o converteu nela e o revestiu de força, à sua semelhança.
+    status: ia-sem-revisao
+  '17:3':
+    texto: Deu-lhe um número de dias e um tempo, e deu-lhe poder sobre o que há na terra.
+    status: ia-sem-revisao
+  '17:4':
+    texto: Pôs o temor dele sobre toda carne, e dominou as feras e as aves.
+    status: ia-sem-revisao
+  '17:5':
+    texto: Criou, a partir dele, uma auxiliar semelhante a ele; deu-lhes conselho, língua, olhos, ouvidos
+      e coração para pensar, e encheu-os da disciplina da inteligência.
+    status: ia-sem-revisao
+  '17:6':
+    texto: Criou para eles o conhecimento do espírito, encheu de discernimento o coração deles e mostrou-lhes
+      o bem e o mal.
+    status: ia-sem-revisao
+  '17:7':
+    texto: Pôs o seu olhar sobre o coração deles, para lhes mostrar a grandeza das suas obras,
+    status: ia-sem-revisao
+  '17:8':
+    texto: para que louvem o seu santo nome, se gloriem nas suas maravilhas e narrem a grandeza das suas
+      obras.
+    status: ia-sem-revisao
+  '17:9':
+    texto: Acrescentou-lhes a instrução e deu-lhes em herança a lei da vida.
+    status: ia-sem-revisao
+  '17:10':
+    texto: Estabeleceu com eles uma aliança eterna e mostrou-lhes a sua justiça e os seus juízos.
+    status: ia-sem-revisao
+  '17:11':
+    texto: 'Os seus olhos viram a grandeza da sua glória, e os seus ouvidos ouviram a majestade da sua
+      voz. E disse-lhes: “Guardai-vos de toda iniquidade.”'
+    status: ia-sem-revisao
+  '17:12':
+    texto: E ordenou a cada um o que se refere ao próximo.
+    status: ia-sem-revisao
+  '17:13':
+    texto: Os caminhos deles estão sempre diante dele; não estão escondidos dos seus olhos.
+    status: ia-sem-revisao
+  '17:14':
+    texto: Sobre cada nação colocou um governante,
+    status: ia-sem-revisao
+  '17:15':
+    texto: e Israel tornou-se a porção manifesta de Deus.
+    status: ia-sem-revisao
+  '17:20':
+    texto: Aos que se arrependem, deu o caminho da justiça, confirmou os que fraquejam para que perseverem
+      e destinou-lhes a sorte da verdade.
+    status: ia-sem-revisao
+  '17:21':
+    texto: Converte-te ao Senhor e abandona os teus pecados;
+    status: ia-sem-revisao
+  '17:22':
+    texto: suplica diante do Senhor e diminui os escândalos.
+    status: ia-sem-revisao
+  '17:23':
+    texto: Volta ao Senhor, afasta-te da tua injustiça e odeia muito a abominação;
+    status: ia-sem-revisao
+  '17:24':
+    texto: conhece as justiças e os juízos de Deus e permanece na sorte do que é posto diante de ti e
+      na oração ao Deus Altíssimo.
+    status: ia-sem-revisao
+  '17:25':
+    texto: Vai para a parte do século santo, com os vivos que dão graças a Deus.
+    status: ia-sem-revisao
+  '17:26':
+    texto: Não permaneças no erro dos ímpios; confessa antes da morte; para o morto, como se nada fosse,
+      perece a ação de graças.
+    status: ia-sem-revisao
+  '17:27':
+    texto: Dar-lhe-ás graças enquanto vives; vivo e são, dar-lhe-ás graças, louvarás a Deus e te gloriarás
+      nas suas misericórdias.
+    status: ia-sem-revisao
+  '17:28':
+    texto: Quão grande é a misericórdia do Senhor e o seu perdão para os que se convertem a ele!
+    status: ia-sem-revisao
+  '17:29':
+    texto: Pois nem tudo pode estar nos homens, porque o filho do homem não é imortal, e se comprazeram
+      na vaidade da maldade.
+    status: ia-sem-revisao
+  '24:1':
+    texto: A sabedoria louvará a si mesma, será honrada em Deus e se gloriará no meio do seu povo,
+    status: ia-sem-revisao
+  '24:2':
+    texto: abrirá a sua boca nas assembleias do Altíssimo e se gloriará diante do seu poder,
+    status: ia-sem-revisao
+  '24:8':
+    texto: Sozinha percorri o círculo do céu e penetrei a profundidade do abismo; caminhei sobre as ondas
+      do mar.
+    status: ia-sem-revisao
+  '24:9':
+    texto: Estive em toda a terra e em todo povo,
+    status: ia-sem-revisao
+  '24:10':
+    texto: e em toda nação tive o primado;
+    status: ia-sem-revisao
+  '24:11':
+    texto: e com o meu poder calquei aos pés os corações de todos os grandes e humildes. Em todos eles
+      busquei repouso e habitarei na herança do Senhor.
+    status: ia-sem-revisao
+  '24:12':
+    texto: Então o Criador de todas as coisas ordenou e disse-me, e aquele que me criou repousou na minha
+      tenda.
+    status: ia-sem-revisao
+  '26:1':
+    texto: 'Feliz o marido de uma boa mulher: o número dos seus anos será duplicado.'
+    status: ia-sem-revisao
+  '26:2':
+    texto: A mulher forte alegra o seu marido e completará em paz os anos da sua vida.
+    status: ia-sem-revisao
+  '26:3':
+    texto: 'Uma boa mulher é uma boa porção: será dada ao marido, entre os que temem a Deus, pelas suas
+      boas obras.'
+    status: ia-sem-revisao
+  '26:4':
+    texto: Seja rico ou pobre, o coração é bom, e em todo tempo o seu rosto é alegre.
+    status: ia-sem-revisao
+  '26:13':
+    texto: Se tens uma filha que não se contém, vigia-a com firmeza, para que não aproveite a ocasião.
+    status: ia-sem-revisao
+  '26:14':
+    texto: Cuida de toda irreverência dos seus olhos e não te admires se ela te desprezar.
+    status: ia-sem-revisao
+  '26:15':
+    texto: Como o viajante sedento abre a boca junto a uma fonte e bebe de toda água próxima, assim ela
+      se sentará diante de toda estaca e, contra toda flecha, abrirá a aljava, até se esgotar.
+    status: ia-sem-revisao
+  '26:16':
+    texto: A graça da mulher diligente alegrará o seu marido e dará vigor aos seus ossos.
+    status: ia-sem-revisao
+  '27:4':
+    texto: Se não te mantiveres com firmeza no temor do Senhor, depressa a tua casa será destruída.
+    status: ia-sem-revisao
+  '27:5':
+    texto: Como, ao se sacudir a peneira, fica o resíduo, assim a perplexidade do homem nos seus pensamentos.
+    status: ia-sem-revisao
+  '27:6':
+    texto: O forno prova os vasos do oleiro, e a prova da tribulação, os homens justos.
+    status: ia-sem-revisao
+  '27:7':
+    texto: Como o cultivo da árvore mostra o seu fruto, assim a palavra mostra o pensamento do coração
+      do homem.
+    status: ia-sem-revisao
+  '27:30':
+    texto: Quem faz um plano muito perverso, ele cairá sobre si mesmo, e não saberá de onde lhe vem.
+    status: ia-sem-revisao
+  '28:1':
+    texto: Quem quer vingar-se achará vingança da parte do Senhor, que guardará cuidadosamente os seus
+      pecados.
+    status: ia-sem-revisao
+  '28:2':
+    texto: Perdoa ao teu próximo que te fez mal, e então, quando orares, os teus pecados serão perdoados.
+    status: ia-sem-revisao
+  '28:3':
+    texto: Um homem guarda a ira contra outro homem e procura de Deus a cura?
+    status: ia-sem-revisao
+  '28:4':
+    texto: Não tem misericórdia de um homem semelhante a ele e suplica pelos seus próprios pecados?
+    status: ia-sem-revisao
+  '28:5':
+    texto: 'Ele, sendo carne, guarda a ira e pede a Deus o perdão: quem intercederá pelos seus delitos?'
+    status: ia-sem-revisao
+  '28:6':
+    texto: Lembra-te do teu fim e deixa de odiar;
+    status: ia-sem-revisao
+  '28:7':
+    texto: pois a corrupção e a morte pairam sobre os seus mandamentos.
+    status: ia-sem-revisao
+  '35:1':
+    texto: Quem observa a lei multiplica as oferendas.
+    status: ia-sem-revisao
+  '35:2':
+    texto: É sacrifício de salvação atender aos mandamentos e afastar-se de toda iniquidade.
+    status: ia-sem-revisao
+  '35:3':
+    texto: Oferecer a flor de farinha em sacrifício de expiação é afastar-se das injustiças; e a súplica
+      pelos pecados é afastar-se da injustiça.
+    status: ia-sem-revisao
+  '35:4':
+    texto: Quem oferece flor de farinha retribui um favor; e quem pratica a misericórdia oferece sacrifício.
+    status: ia-sem-revisao
+  '35:5':
+    texto: O que agrada ao Senhor é afastar-se da iniquidade; e a súplica pelos pecados é afastar-se da
+      injustiça.
+    status: ia-sem-revisao
+  '35:6':
+    texto: Não te apresentarás de mãos vazias diante do Senhor,
+    status: ia-sem-revisao
+  '35:7':
+    texto: pois tudo isso se faz por causa do mandamento de Deus.
+    status: ia-sem-revisao
+  '35:8':
+    texto: A oferta do justo engorda o altar, e o seu odor suave sobe até o Altíssimo.
+    status: ia-sem-revisao
+  '35:9':
+    texto: O sacrifício do justo é aceito, e o Senhor não esquecerá a sua lembrança.
+    status: ia-sem-revisao
+  '35:10':
+    texto: De bom ânimo dá glória a Deus e não diminuas as primícias das tuas mãos.
+    status: ia-sem-revisao
+  '35:11':
+    texto: Em toda dádiva mostra um rosto alegre e com exultação santifica os teus dízimos.
+    status: ia-sem-revisao
+  '35:12':
+    texto: Dá ao Altíssimo segundo o que ele deu, com generosidade, conforme o que as tuas mãos puderem,
+    status: ia-sem-revisao
+  '35:13':
+    texto: pois o Senhor é quem retribui e te devolverá sete vezes mais.
+    status: ia-sem-revisao
+  '35:14':
+    texto: Não ofereças presentes perversos, pois ele não os aceitará.
+    status: ia-sem-revisao
+  '35:16':
+    texto: O Senhor não faz acepção de pessoa contra o pobre e ouvirá a súplica do oprimido.
+    status: ia-sem-revisao
+  '35:17':
+    texto: Não desprezará a prece do órfão, nem da viúva, quando derrama o seu lamento.
+    status: ia-sem-revisao
+  '35:18':
+    texto: Não descem as lágrimas da viúva pela face, e o seu clamor não sobe contra quem as faz correr?
+    status: ia-sem-revisao
+  '36:1':
+    texto: Tem piedade de nós, Deus de todas as coisas, olha para nós e mostra-nos a luz das tuas misericórdias,
+    status: ia-sem-revisao
+  '36:2':
+    texto: e infunde o teu temor sobre as nações que não te procuraram, para que saibam que não há Deus
+      senão tu e narrem as tuas grandezas.
+    partes:
+    - e infunde o teu temor sobre as nações que não te procuraram,
+    - para que saibam que não há Deus senão tu e narrem as tuas grandezas.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '36:4':
+    texto: Assim como diante deles foste santificado em nós, assim diante de nós sejas glorificado neles,
+    status: ia-sem-revisao
+  '36:5':
+    texto: para que te conheçam, como também nós conhecemos que não há Deus fora de ti, Senhor.
+    partes:
+    - para que te conheçam,
+    - como também nós conhecemos que não há Deus fora de ti, Senhor.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '36:9':
+    texto: Elimina o adversário e abate o inimigo.
+    status: ia-sem-revisao
+  '36:10':
+    texto: Apressa o tempo e lembra-te do fim, para que narrem as tuas maravilhas.
+    status: ia-sem-revisao
+  '36:11':
+    texto: Na ira da chama seja devorado quem escapa, e os que oprimem o teu povo encontrem a perdição.
+    status: ia-sem-revisao
+  '36:12':
+    texto: 'Esmaga a cabeça dos príncipes inimigos, que dizem: “Não há outro além de nós.”'
+    status: ia-sem-revisao
+  '36:13':
+    texto: Reúne todas as tribos de Jacó, para que saibam que não há Deus senão tu e narrem as tuas grandezas;
+      e tu os receberás em herança como desde o princípio.
+    status: ia-sem-revisao
+  '36:14':
+    texto: Tem piedade do teu povo, sobre o qual foi invocado o teu nome, e de Israel, a quem igualaste
+      ao teu primogênito.
+    status: ia-sem-revisao
+  '36:15':
+    texto: Tem piedade da cidade da tua santificação, Jerusalém, a cidade do teu repouso.
+    status: ia-sem-revisao
+  '36:16':
+    texto: Enche Sião com as tuas palavras inefáveis e o teu povo, com a tua glória.
+    status: ia-sem-revisao
+  '36:17':
+    texto: Dá testemunho em favor dos que existem desde o princípio da tua criação e faz cumprir as profecias
+      que os primeiros profetas pronunciaram em teu nome.
+    status: ia-sem-revisao
+  '39:6':
+    texto: Entregará o seu coração a velar de madrugada pelo Senhor que o fez e rezará diante do Altíssimo.
+    status: ia-sem-revisao
+  '39:7':
+    texto: Abrirá a boca em oração e suplicará pelos seus delitos.
+    status: ia-sem-revisao
+  '39:8':
+    texto: Pois, se o grande Senhor quiser, enchê-lo-á do espírito de inteligência;
+    status: ia-sem-revisao
+  '39:9':
+    texto: e ele mesmo derramará como chuvas as palavras da sua sabedoria e, na oração, dará graças ao
+      Senhor;
+    status: ia-sem-revisao
+  '39:10':
+    texto: e o próprio Senhor dirigirá o seu conselho e a sua instrução, e ele meditará nos mistérios
+      do Senhor.
+    status: ia-sem-revisao
+  '42:15':
+    texto: Lembrar-me-ei, pois, das obras do Senhor e anunciarei o que vi. Pelas palavras do Senhor existem
+      as suas obras.
+    status: ia-sem-revisao
+  '42:16':
+    texto: O sol, que ilumina tudo, olhou, e a obra do Senhor está cheia da sua glória.
+    status: ia-sem-revisao
+  '42:17':
+    texto: Não fez o Senhor que os seus santos narrassem todas as suas maravilhas, que o Senhor onipotente
+      firmou para serem estabelecidas na sua glória?
+    status: ia-sem-revisao
+  '42:18':
+    texto: Sondou o abismo e o coração dos homens e conheceu as suas astúcias.
+    status: ia-sem-revisao
+  '42:19':
+    texto: Pois o Senhor conhece todo o saber e vê o sinal dos séculos, anunciando o que passou e o que
+      há de vir, revelando os vestígios das coisas ocultas.
+    status: ia-sem-revisao
+  '42:20':
+    texto: Nenhum pensamento lhe escapa, e nenhuma palavra se esconde dele.
+    status: ia-sem-revisao
+  '42:21':
+    texto: Ornou as grandezas da sua sabedoria, ele que é antes dos séculos e até os séculos; nada lhe
+      foi acrescentado,
+    status: ia-sem-revisao
+  '42:22':
+    texto: nem diminuído, e não precisa do conselho de ninguém.
+    status: ia-sem-revisao
+  '42:23':
+    texto: Quão desejáveis são todas as suas obras! E mesmo uma centelha, quanto vale contemplá-la!
+    status: ia-sem-revisao
+  '42:24':
+    texto: Todas estas coisas vivem e permanecem para sempre, e em toda necessidade todas lhe obedecem.
+    status: ia-sem-revisao
+  '42:25':
+    texto: Todas as coisas são duplas, uma contra a outra, e nada fez que falte.
+    status: ia-sem-revisao
+  '44:1':
+    texto: Louvemos os homens gloriosos, os nossos pais, na sua geração.
+    status: ia-sem-revisao
+  '44:9':
+    texto: 'Há outros, de quem não resta memória: pereceram como se nunca tivessem existido; nasceram
+      como se não tivessem nascido, eles e os seus filhos.'
+    status: ia-sem-revisao
+  '44:10':
+    texto: Mas estes são homens de misericórdia, cujas obras de piedade não foram esquecidas.
+    status: ia-sem-revisao
+  '44:11':
+    texto: Com a sua descendência permanecem os bens;
+    status: ia-sem-revisao
+  '44:12':
+    texto: a sua descendência é herança santa, e os seus netos permaneceram fiéis às alianças.
+    status: ia-sem-revisao
+  '44:13':
+    texto: Os seus filhos, por causa deles, permanecem para sempre; a sua descendência e a sua glória
+      não serão abandonadas.
+    status: ia-sem-revisao
+  '44:14':
+    texto: Os seus corpos foram sepultados em paz, e o seu nome vive de geração em geração.
+    status: ia-sem-revisao
+  '44:15':
+    texto: Os povos narrarão a sua sabedoria, e a assembleia proclamará o seu louvor.
+    status: ia-sem-revisao
+  '47:2':
+    texto: Como a gordura separada da carne, assim foi Davi separado dos filhos de Israel.
+    status: ia-sem-revisao
+  '47:3':
+    texto: Brincou com os leões como com cordeiros e, com os ursos, fez o mesmo que com cordeiros de ovelhas,
+      na sua juventude.
+    status: ia-sem-revisao
+  '47:4':
+    texto: Não matou o gigante e tirou o opróbrio do povo?
+    status: ia-sem-revisao
+  '47:5':
+    texto: Ao levantar a mão, com uma pedra de funda abateu a arrogância de Golias,
+    status: ia-sem-revisao
+  '47:6':
+    texto: pois invocou o Senhor onipotente, que lhe deu na mão direita o poder de derrubar um homem forte
+      na guerra e de exaltar o poder do seu povo.
+    status: ia-sem-revisao
+  '47:7':
+    texto: Assim o glorificou entre dez mil, e o louvou nas bênçãos do Senhor, oferecendo-lhe uma coroa
+      de glória,
+    status: ia-sem-revisao
+  '47:8':
+    texto: pois esmagou os inimigos de todos os lados e exterminou os filisteus adversários até o dia
+      de hoje; esmagou o poder deles para sempre.
+    status: ia-sem-revisao
+  '47:9':
+    texto: Em toda obra deu graças ao Santo e ao Excelso, com palavras de glória.
+    status: ia-sem-revisao
+  '47:10':
+    texto: De todo o seu coração louvou o Senhor e amou o Deus que o fez, e que lhe deu poder contra os
+      inimigos;
+    status: ia-sem-revisao
+  '47:11':
+    texto: e fez estar de pé os cantores diante do altar e com o seu som compôs doces melodias.
+    status: ia-sem-revisao
+  '48:1':
+    texto: Surgiu então Elias, profeta como o fogo, e a sua palavra ardia como uma tocha.
+    status: ia-sem-revisao
+  '48:2':
+    texto: Ele fez vir sobre eles a fome; e os que o provocavam com a sua inveja ficaram poucos, pois
+      não podiam suportar os preceitos do Senhor.
+    status: ia-sem-revisao
+  '48:3':
+    texto: Pela palavra do Senhor reteve o céu e fez cair fogo do céu três vezes.
+    status: ia-sem-revisao
+  '48:4':
+    texto: Assim foi Elias engrandecido pelas suas maravilhas. E quem pode gloriar-se como tu?
+    status: ia-sem-revisao
+  '48:5':
+    texto: Tu, que levantaste um morto do abismo, da sorte da morte, pela palavra do Senhor Deus;
+    status: ia-sem-revisao
+  '48:6':
+    texto: que lançaste reis à ruína, quebraste facilmente o poder deles e os glorificados no seu leito;
+    status: ia-sem-revisao
+  '48:7':
+    texto: que ouves no Sinai a sentença e no Horeb as sentenças de vingança;
+    status: ia-sem-revisao
+  '48:8':
+    texto: que ungiste reis para o castigo e profetas como sucessores depois de ti;
+    status: ia-sem-revisao
+  '48:9':
+    texto: que foste arrebatado num redemoinho de fogo, num carro de cavalos de fogo;
+    status: ia-sem-revisao
+  '48:10':
+    texto: que estás escrito nas sentenças dos tempos para aplacar a ira do Senhor, reconciliar o coração
+      do pai com o filho e restabelecer as tribos de Jacó.
+    status: ia-sem-revisao
+  '48:11':
+    texto: Felizes os que te viram e foram honrados com a tua amizade.
+    status: ia-sem-revisao
+  '48:12':
+    texto: Pois nós só temos a vida; depois da morte não será igual o nosso nome.
+    status: ia-sem-revisao
+  '48:13':
+    texto: Elias foi envolvido num redemoinho, e o seu espírito se completou em Eliseu; nos seus dias
+      não temeu príncipe algum, e ninguém o venceu pelo poder.
+    status: ia-sem-revisao
+  '48:14':
+    texto: Nenhuma palavra o superou, e o seu corpo, depois de morto, profetizou.
+    status: ia-sem-revisao
+  '48:15':
+    texto: Em vida fez prodígios e, na morte, realizou maravilhas.
+    status: ia-sem-revisao
+  '51:12':
+    texto: pois livras os que esperam em ti, Senhor, e os salvas das mãos das nações.
+    status: ia-sem-revisao
+  '51:13':
+    texto: Exaltaste sobre a terra a minha morada, e supliquei contra a morte que corria.
+    status: ia-sem-revisao
+  '51:14':
+    texto: Invoquei o Senhor, Pai do meu Senhor, para que não me abandonasse no dia da minha tribulação
+      e no tempo dos soberbos, sem auxílio.
+    status: ia-sem-revisao
+  '51:15':
+    texto: Louvarei o teu nome continuamente e o louvarei com ação de graças; e a minha oração foi ouvida,
+    status: ia-sem-revisao
+  '51:16':
+    texto: e me livraste da perdição e me arrancaste de um tempo mau.
+    status: ia-sem-revisao
+  '51:17':
+    texto: Por isso te darei graças e te direi louvores, e bendirei o nome do Senhor.
+    status: ia-sem-revisao
+  '51:18':
+    texto: Quando eu ainda era jovem, antes de me extraviar, busquei abertamente a sabedoria na minha
+      oração.
+    status: ia-sem-revisao
+  '51:19':
+    texto: Diante do templo a pedia por eles e até o fim a procurarei; e ela floresceu como uva temporã.
+    status: ia-sem-revisao
+  '51:20':
+    texto: O meu coração alegrou-se nela; o meu pé andou por caminho reto; desde a minha juventude eu
+      a procurava.
+    partes:
+    - O meu coração alegrou-se nela;
+    - o meu pé andou por caminho reto;
+    - desde a minha juventude eu a procurava.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'

@@ -16,6 +16,19 @@ Obrigado pelo interesse. Antes de tudo, leia as regras do projeto em
 3. Ao enviar, você declara que o texto é seu (ou que tem o direito de cedê-lo) e que o licencia
    como indicado no campo `licenca`.
 
+## Sugerir correção na tradução
+
+A tradução das passagens é feita por IA a partir do grego e do hebraico, sem revisão humana completa.
+Se você achar um erro, use o formulário
+[Sugerir correção na tradução](https://github.com/meu-bem/vitral/issues/new?template=correcao-traducao.yml).
+Não precisa saber programar.
+
+- Diga a passagem, o que está no livro e como deveria ficar, com suas palavras.
+- **Nunca cole texto de tradução com direitos reservados** (CNBB, Ave-Maria, Bíblia de Jerusalém,
+  NVI, ARA etc.). Sugestões que copiem esses textos serão recusadas.
+- Cite o original (grego, hebraico ou latim) ou uma fonte em domínio público quando puder.
+- Uma sugestão aceita muda o `status` do versículo para revisado e entra no livro do ano seguinte.
+
 ## Corrigir um dado (calendário ou referência)
 
 1. Encontre a fonte: documento da Santa Sé, determinação oficial da CNBB publicada ao público

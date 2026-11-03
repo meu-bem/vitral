@@ -1,0 +1,1609 @@
+livro: REV
+fonte: sblgnt
+versiculos:
+  '1:1':
+    texto: Revelação de Jesus Cristo, que Deus lhe deu para mostrar aos seus servos o que deve acontecer
+      em breve, e que ele, enviando o seu anjo, deu a conhecer ao seu servo João,
+    status: ia-sem-revisao
+  '1:2':
+    texto: O qual testemunhou a palavra de Deus e o testemunho de Jesus Cristo, tudo o que viu.
+    status: ia-sem-revisao
+  '1:3':
+    texto: Bem-aventurado o que lê e os que ouvem as palavras da profecia e guardam o que nela está escrito,
+      pois o tempo está próximo.
+    status: ia-sem-revisao
+  '1:4':
+    texto: 'João às sete igrejas que estão na Ásia: graça e paz a vós da parte daquele que é, que era
+      e que vem, e dos sete espíritos que estão diante do seu trono,'
+    status: ia-sem-revisao
+  '1:5':
+    texto: E da parte de Jesus Cristo, a testemunha fiel, o primogênito dos mortos e o soberano dos reis
+      da terra. Àquele que nos ama e nos libertou dos nossos pecados pelo seu sangue —
+    status: ia-sem-revisao
+  '1:6':
+    texto: E fez de nós um reino, sacerdotes para Deus, seu Pai — a ele a glória e o poder pelos séculos
+      dos séculos. Amém.
+    status: ia-sem-revisao
+  '1:7':
+    texto: Eis que vem com as nuvens, e todo olho o verá, também os que o transpassaram, e todas as tribos
+      da terra se lamentarão por causa dele. Sim! Amém.
+    status: ia-sem-revisao
+  '1:8':
+    texto: “Eu sou o Alfa e o Ômega”, diz o Senhor Deus, “aquele que é, que era e que vem, o Todo-Poderoso.”
+    status: ia-sem-revisao
+  '1:9':
+    texto: Eu, João, vosso irmão e companheiro na tribulação, no reino e na perseverança em Jesus, estive
+      na ilha chamada Patmos, por causa da palavra de Deus e do testemunho de Jesus.
+    status: ia-sem-revisao
+  '1:10':
+    texto: Fiquei em espírito no dia do Senhor e ouvi atrás de mim uma voz forte, como de trombeta,
+    status: ia-sem-revisao
+  '1:11':
+    texto: 'Que dizia: “O que vês, escreve-o num livro e envia-o às sete igrejas: a Éfeso, a Esmirna,
+      a Pérgamo, a Tiatira, a Sardes, a Filadélfia e a Laodiceia.”'
+    partes:
+    - 'Que dizia:'
+    - '“O que vês, escreve-o num livro e envia-o às sete igrejas: a Éfeso, a Esmirna, a Pérgamo, a Tiatira,
+      a Sardes, a Filadélfia e a Laodiceia.”'
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '1:12':
+    texto: Voltei-me para ver a voz que falava comigo; e, ao voltar-me, vi sete candelabros de ouro,
+    status: ia-sem-revisao
+  '1:13':
+    texto: E no meio dos candelabros alguém semelhante a um filho de homem, vestido com uma túnica até
+      os pés e cingido ao peito com uma faixa de ouro.
+    status: ia-sem-revisao
+  '1:14':
+    texto: A sua cabeça e os seus cabelos eram brancos como lã branca, como neve, e os seus olhos como
+      chama de fogo;
+    status: ia-sem-revisao
+  '1:15':
+    texto: Os seus pés semelhantes a bronze polido, como refinado numa fornalha, e a sua voz como voz
+      de muitas águas;
+    status: ia-sem-revisao
+  '1:16':
+    texto: Tinha na mão direita sete estrelas, e da sua boca saía uma espada afiada de dois gumes, e o
+      seu rosto era como o sol quando brilha na sua força.
+    status: ia-sem-revisao
+  '1:17':
+    texto: 'Quando o vi, caí aos seus pés como morto; ele pôs sobre mim a sua mão direita, dizendo: “Não
+      temas! Eu sou o Primeiro e o Último,'
+    status: ia-sem-revisao
+  '1:18':
+    texto: E o que vive — estive morto, e eis que estou vivo pelos séculos dos séculos — e tenho as chaves
+      da morte e do Hades.
+    status: ia-sem-revisao
+  '1:19':
+    texto: Escreve, pois, o que viste, o que é e o que há de acontecer depois destas coisas.
+    status: ia-sem-revisao
+  '1:20':
+    texto: 'O mistério das sete estrelas que viste na minha mão direita e dos sete candelabros de ouro:
+      as sete estrelas são os anjos das sete igrejas, e os sete candelabros são as sete igrejas.”'
+    status: ia-sem-revisao
+  '2:1':
+    texto: '“Ao anjo da igreja em Éfeso escreve: Isto diz aquele que segura as sete estrelas na sua mão
+      direita, que anda no meio dos sete candelabros de ouro:'
+    status: ia-sem-revisao
+  '2:2':
+    texto: Conheço as tuas obras, o teu esforço e a tua perseverança, e que não podes suportar os maus,
+      e que puseste à prova os que se dizem apóstolos e não o são, e os achaste mentirosos;
+    status: ia-sem-revisao
+  '2:3':
+    texto: E tens perseverança, e suportaste por causa do meu nome, e não te cansaste.
+    status: ia-sem-revisao
+  '2:4':
+    texto: Mas tenho contra ti que deixaste o teu primeiro amor.
+    status: ia-sem-revisao
+  '2:5':
+    texto: Lembra-te, pois, de onde caíste, e converte-te, e pratica as primeiras obras; se não, venho
+      a ti e removerei o teu candelabro do seu lugar, se não te converteres.
+    partes:
+    - Lembra-te, pois, de onde caíste, e converte-te, e pratica as primeiras obras;
+    - se não, venho a ti e removerei o teu candelabro do seu lugar, se não te converteres.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '2:6':
+    texto: 'Mas tens isto: odeias as obras dos nicolaítas, que eu também odeio.'
+    status: ia-sem-revisao
+  '2:7':
+    texto: Quem tem ouvidos, ouça o que o Espírito diz às igrejas. Ao vencedor darei a comer da árvore
+      da vida, que está no paraíso de Deus.”
+    status: ia-sem-revisao
+  '2:8':
+    texto: '“E ao anjo da igreja em Esmirna escreve: Isto diz o Primeiro e o Último, aquele que esteve
+      morto e voltou a viver:'
+    status: ia-sem-revisao
+  '2:9':
+    texto: Conheço a tua tribulação e a tua pobreza — mas és rico — e a blasfêmia dos que se dizem judeus
+      e não o são, mas são sinagoga de Satanás.
+    status: ia-sem-revisao
+  '2:10':
+    texto: Não temas nada do que vais sofrer. Eis que o diabo vai lançar alguns de vós na prisão, para
+      que sejais postos à prova, e tereis uma tribulação de dez dias. Sê fiel até a morte, e dar-te-ei
+      a coroa da vida.
+    status: ia-sem-revisao
+  '2:11':
+    texto: Quem tem ouvidos, ouça o que o Espírito diz às igrejas. O vencedor de modo algum sofrerá dano
+      da segunda morte.”
+    status: ia-sem-revisao
+  '2:12':
+    texto: '“E ao anjo da igreja em Pérgamo escreve: Isto diz aquele que tem a espada afiada de dois gumes:'
+    status: ia-sem-revisao
+  '2:13':
+    texto: 'Sei onde habitas: onde está o trono de Satanás; e manténs o meu nome e não renegaste a minha
+      fé, mesmo nos dias de Antipas, a minha testemunha fiel, que foi morto entre vós, onde Satanás habita.'
+    status: ia-sem-revisao
+  '2:14':
+    texto: 'Mas tenho contra ti algumas coisas: tens aí os que se apegam à doutrina de Balaão, que ensinava
+      Balac a pôr uma pedra de tropeço diante dos filhos de Israel, para comerem carnes sacrificadas aos
+      ídolos e se prostituírem.'
+    status: ia-sem-revisao
+  '2:15':
+    texto: Assim também tu tens os que, do mesmo modo, se apegam à doutrina dos nicolaítas.
+    status: ia-sem-revisao
+  '2:16':
+    texto: Converte-te, pois; se não, venho a ti depressa e combaterei contra eles com a espada da minha
+      boca.
+    status: ia-sem-revisao
+  '2:17':
+    texto: Quem tem ouvidos, ouça o que o Espírito diz às igrejas. Ao vencedor darei do maná escondido,
+      e darei a ele uma pedrinha branca, e sobre a pedrinha um nome novo escrito, que ninguém conhece,
+      a não ser quem o recebe.”
+    status: ia-sem-revisao
+  '2:18':
+    texto: '“E ao anjo da igreja em Tiatira escreve: Isto diz o Filho de Deus, aquele que tem os olhos
+      como chama de fogo e os pés semelhantes a bronze polido:'
+    status: ia-sem-revisao
+  '2:19':
+    texto: Conheço as tuas obras, o teu amor, a tua fé, o teu serviço e a tua perseverança, e que as tuas
+      últimas obras são mais numerosas do que as primeiras.
+    status: ia-sem-revisao
+  '2:20':
+    texto: Mas tenho contra ti que toleras a mulher Jezabel, que se diz profetisa, e ensina e seduz os
+      meus servos a se prostituírem e a comerem carnes sacrificadas aos ídolos.
+    status: ia-sem-revisao
+  '2:21':
+    texto: E dei-lhe tempo para se converter, e ela não quer converter-se da sua prostituição.
+    status: ia-sem-revisao
+  '2:22':
+    texto: Eis que a lanço num leito, e os que cometem adultério com ela, numa grande tribulação, se não
+      se converterem das obras dela;
+    status: ia-sem-revisao
+  '2:23':
+    texto: E matarei de morte os seus filhos; e todas as igrejas saberão que eu sou aquele que perscruta
+      os rins e os corações, e darei a cada um de vós segundo as vossas obras.
+    status: ia-sem-revisao
+  '2:24':
+    texto: 'A vós, porém, digo, aos restantes de Tiatira, a todos os que não têm esta doutrina, os que
+      não conheceram as “profundezas de Satanás”, como dizem: não lanço sobre vós outro fardo;'
+    status: ia-sem-revisao
+  '2:25':
+    texto: Apenas conservai o que tendes, até que eu venha.
+    status: ia-sem-revisao
+  '2:26':
+    texto: E ao vencedor, ao que guardar até o fim as minhas obras, darei autoridade sobre as nações,
+    status: ia-sem-revisao
+  '2:27':
+    texto: E as governará com vara de ferro, como se quebram os vasos de barro,
+    status: ia-sem-revisao
+  '2:28':
+    texto: Como eu também recebi de meu Pai; e dar-lhe-ei a estrela da manhã.
+    status: ia-sem-revisao
+  '2:29':
+    texto: Quem tem ouvidos, ouça o que o Espírito diz às igrejas.”
+    status: ia-sem-revisao
+  '3:1':
+    texto: '“E ao anjo da igreja em Sardes escreve: Isto diz aquele que tem os sete espíritos de Deus
+      e as sete estrelas: Conheço as tuas obras: tens nome de que vives, e estás morto.'
+    status: ia-sem-revisao
+  '3:2':
+    texto: Sê vigilante e fortalece o que resta e estava para morrer, pois não encontrei as tuas obras
+      completas diante do meu Deus.
+    status: ia-sem-revisao
+  '3:3':
+    texto: Lembra-te, pois, de como recebeste e ouviste, e guarda-o, e converte-te. Se, portanto, não
+      vigiares, virei como ladrão, e não saberás a que hora virei sobre ti.
+    status: ia-sem-revisao
+  '3:4':
+    texto: Mas tens em Sardes poucos nomes que não mancharam as suas vestes, e andarão comigo vestidos
+      de branco, porque são dignos.
+    status: ia-sem-revisao
+  '3:5':
+    texto: O vencedor será assim vestido de vestes brancas, e de modo algum apagarei o seu nome do livro
+      da vida, e confessarei o seu nome diante de meu Pai e diante dos seus anjos.
+    status: ia-sem-revisao
+  '3:6':
+    texto: Quem tem ouvidos, ouça o que o Espírito diz às igrejas.”
+    status: ia-sem-revisao
+  '3:7':
+    texto: '“E ao anjo da igreja em Filadélfia escreve: Isto diz o Santo, o Verdadeiro, aquele que tem
+      a chave de Davi, que abre e ninguém fechará, e fecha e ninguém abre:'
+    status: ia-sem-revisao
+  '3:8':
+    texto: Conheço as tuas obras — eis que pus diante de ti uma porta aberta, que ninguém pode fechar
+      — pois tens pouca força, e guardaste a minha palavra e não renegaste o meu nome.
+    status: ia-sem-revisao
+  '3:9':
+    texto: Eis que te dou alguns da sinagoga de Satanás, dos que se dizem judeus e não o são, mas mentem
+      — eis que farei com que venham e se prostrem diante dos teus pés, e saibam que eu te amei.
+    status: ia-sem-revisao
+  '3:10':
+    texto: Porque guardaste a palavra da minha perseverança, também eu te guardarei da hora da provação
+      que há de vir sobre o mundo inteiro, para pôr à prova os que habitam sobre a terra.
+    status: ia-sem-revisao
+  '3:11':
+    texto: Venho depressa; mantém o que tens, para que ninguém tome a tua coroa.
+    status: ia-sem-revisao
+  '3:12':
+    texto: Ao vencedor, fá-lo-ei coluna no templo do meu Deus, e dali nunca mais sairá; e escreverei sobre
+      ele o nome do meu Deus e o nome da cidade do meu Deus, a nova Jerusalém, que desce do céu, da parte
+      do meu Deus, e o meu nome novo.
+    status: ia-sem-revisao
+  '3:13':
+    texto: Quem tem ouvidos, ouça o que o Espírito diz às igrejas.”
+    status: ia-sem-revisao
+  '3:14':
+    texto: '“E ao anjo da igreja em Laodiceia escreve: Isto diz o Amém, a testemunha fiel e verdadeira,
+      o princípio da criação de Deus:'
+    partes:
+    - '“E ao anjo da igreja em Laodiceia escreve:'
+    - 'Isto diz o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus:'
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '3:15':
+    texto: 'Conheço as tuas obras: não és frio nem quente. Oxalá fosses frio ou quente!'
+    status: ia-sem-revisao
+  '3:16':
+    texto: Assim, porque és morno, e nem quente nem frio, estou para te vomitar da minha boca.
+    status: ia-sem-revisao
+  '3:17':
+    texto: 'Porque dizes: ‘Sou rico, enriqueci e de nada tenho necessidade’, e não sabes que és tu o infeliz,
+      miserável, pobre, cego e nu,'
+    status: ia-sem-revisao
+  '3:18':
+    texto: Aconselho-te que compres de mim ouro refinado no fogo para te enriqueceres, e vestes brancas
+      para te vestires e não se manifestar a vergonha da tua nudez, e colírio para ungires os teus olhos,
+      a fim de veres.
+    status: ia-sem-revisao
+  '3:19':
+    texto: Eu repreendo e corrijo todos os que amo; sê, pois, zeloso e converte-te.
+    status: ia-sem-revisao
+  '3:20':
+    texto: Eis que estou à porta e bato; se alguém ouvir a minha voz e abrir a porta, entrarei em sua
+      casa e cearei com ele, e ele comigo.
+    status: ia-sem-revisao
+  '3:21':
+    texto: Ao vencedor darei sentar-se comigo no meu trono, como também eu venci e me sentei com meu Pai
+      no seu trono.
+    status: ia-sem-revisao
+  '3:22':
+    texto: Quem tem ouvidos, ouça o que o Espírito diz às igrejas.”
+    status: ia-sem-revisao
+  '4:1':
+    texto: 'Depois disso, olhei, e eis uma porta aberta no céu, e a primeira voz que ouvi, como de trombeta,
+      falando comigo, dizia: “Sobe aqui, e mostrar-te-ei o que deve acontecer depois destas coisas.”'
+    status: ia-sem-revisao
+  '4:2':
+    texto: Imediatamente fiquei em espírito; e eis que um trono estava posto no céu, e sobre o trono alguém
+      sentado.
+    status: ia-sem-revisao
+  '4:3':
+    texto: E o que estava sentado era, na aparência, semelhante a uma pedra de jaspe e de sardônio, e
+      um arco-íris ao redor do trono, semelhante, na aparência, a esmeralda.
+    status: ia-sem-revisao
+  '4:4':
+    texto: E ao redor do trono, vinte e quatro tronos, e sobre os tronos vinte e quatro anciãos sentados,
+      vestidos de vestes brancas, e sobre as suas cabeças coroas de ouro.
+    status: ia-sem-revisao
+  '4:5':
+    texto: Do trono saem relâmpagos, vozes e trovões; e diante do trono ardem sete lâmpadas de fogo, que
+      são os sete espíritos de Deus,
+    status: ia-sem-revisao
+  '4:6':
+    texto: E diante do trono há como um mar de vidro, semelhante a cristal. E no meio do trono e ao redor
+      do trono, quatro seres vivos cheios de olhos pela frente e por trás.
+    status: ia-sem-revisao
+  '4:7':
+    texto: O primeiro ser vivo era semelhante a um leão, o segundo ser vivo semelhante a um novilho, o
+      terceiro ser vivo tinha o rosto como de homem, e o quarto ser vivo era semelhante a uma águia em
+      voo.
+    status: ia-sem-revisao
+  '4:8':
+    texto: 'E os quatro seres vivos, cada um deles com seis asas, estão cheios de olhos ao redor e por
+      dentro; e não têm descanso, dia e noite, dizendo: “Santo, santo, santo, o Senhor Deus, o Todo-Poderoso,
+      aquele que era, que é e que vem!”'
+    status: ia-sem-revisao
+  '4:9':
+    texto: E quando os seres vivos derem glória, honra e ação de graças àquele que está sentado no trono,
+      àquele que vive pelos séculos dos séculos,
+    status: ia-sem-revisao
+  '4:10':
+    texto: 'Os vinte e quatro anciãos cairão diante daquele que está sentado no trono e adorarão aquele
+      que vive pelos séculos dos séculos, e lançarão as suas coroas diante do trono, dizendo:'
+    status: ia-sem-revisao
+  '4:11':
+    texto: “Digno és, Senhor e Deus nosso, de receber a glória, a honra e o poder, porque tu criaste todas
+      as coisas, e por tua vontade existiam e foram criadas.”
+    status: ia-sem-revisao
+  '5:1':
+    texto: E vi na mão direita daquele que estava sentado no trono um livro escrito por dentro e por fora,
+      selado com sete selos.
+    status: ia-sem-revisao
+  '5:2':
+    texto: 'E vi um anjo forte, proclamando em alta voz: “Quem é digno de abrir o livro e de romper os
+      seus selos?”'
+    status: ia-sem-revisao
+  '5:3':
+    texto: E ninguém, no céu, nem sobre a terra, nem debaixo da terra, podia abrir o livro nem olhar para
+      ele.
+    status: ia-sem-revisao
+  '5:4':
+    texto: E eu chorava muito, porque ninguém foi achado digno de abrir o livro nem de olhar para ele.
+    status: ia-sem-revisao
+  '5:5':
+    texto: 'E um dos anciãos me diz: “Não chores! Eis que venceu o leão da tribo de Judá, a raiz de Davi,
+      para abrir o livro e os seus sete selos.”'
+    status: ia-sem-revisao
+  '5:6':
+    texto: E vi no meio do trono e dos quatro seres vivos, e no meio dos anciãos, um Cordeiro em pé, como
+      imolado, com sete chifres e sete olhos, que são os sete espíritos de Deus, enviados por toda a terra.
+    status: ia-sem-revisao
+  '5:7':
+    texto: E veio e tomou o livro da mão direita daquele que estava sentado no trono.
+    status: ia-sem-revisao
+  '5:8':
+    texto: E quando tomou o livro, os quatro seres vivos e os vinte e quatro anciãos caíram diante do
+      Cordeiro, tendo cada um uma cítara e taças de ouro cheias de incenso, que são as orações dos santos;
+    status: ia-sem-revisao
+  '5:9':
+    texto: 'E cantam um cântico novo, dizendo: “Digno és de tomar o livro e de abrir os seus selos, porque
+      foste imolado e com o teu sangue adquiriste para Deus homens de toda tribo, língua, povo e nação,'
+    status: ia-sem-revisao
+  '5:10':
+    texto: E fizeste deles para o nosso Deus um reino e sacerdotes, e reinam sobre a terra.”
+    status: ia-sem-revisao
+  '5:11':
+    texto: E vi, e ouvi a voz de muitos anjos ao redor do trono, dos seres vivos e dos anciãos; e o seu
+      número eram miríades de miríades e milhares de milhares,
+    status: ia-sem-revisao
+  '5:12':
+    texto: 'Dizendo em alta voz: “Digno é o Cordeiro imolado de receber o poder, a riqueza, a sabedoria,
+      a força, a honra, a glória e a bênção.”'
+    status: ia-sem-revisao
+  '5:13':
+    texto: 'E toda criatura que está no céu, sobre a terra, debaixo da terra e sobre o mar, e tudo o que
+      neles há, ouvi dizer: “Àquele que está sentado no trono e ao Cordeiro, a bênção, a honra, a glória
+      e o domínio pelos séculos dos séculos.”'
+    status: ia-sem-revisao
+  '5:14':
+    texto: 'E os quatro seres vivos diziam: “Amém!” E os anciãos caíram e adoraram.'
+    status: ia-sem-revisao
+  '6:1':
+    texto: 'E vi quando o Cordeiro abriu um dos sete selos, e ouvi um dos quatro seres vivos dizer, como
+      voz de trovão: “Vem!”'
+    status: ia-sem-revisao
+  '6:2':
+    texto: E vi, e eis um cavalo branco, e o que estava montado nele tinha um arco, e foi-lhe dada uma
+      coroa, e saiu vencendo e para vencer.
+    status: ia-sem-revisao
+  '6:3':
+    texto: 'E quando abriu o segundo selo, ouvi o segundo ser vivo dizer: “Vem!”'
+    status: ia-sem-revisao
+  '6:4':
+    texto: E saiu outro cavalo, vermelho; e ao que estava montado nele foi dado tirar a paz da terra,
+      para que se matassem uns aos outros, e foi-lhe dada uma grande espada.
+    status: ia-sem-revisao
+  '6:5':
+    texto: 'E quando abriu o terceiro selo, ouvi o terceiro ser vivo dizer: “Vem!” E vi, e eis um cavalo
+      preto, e o que estava montado nele tinha uma balança na mão.'
+    status: ia-sem-revisao
+  '6:6':
+    texto: 'E ouvi como que uma voz no meio dos quatro seres vivos, dizendo: “Uma medida de trigo por
+      um denário, e três medidas de cevada por um denário; e não danifiques o azeite e o vinho!”'
+    status: ia-sem-revisao
+  '6:7':
+    texto: 'E quando abriu o quarto selo, ouvi a voz do quarto ser vivo dizer: “Vem!”'
+    status: ia-sem-revisao
+  '6:8':
+    texto: E vi, e eis um cavalo esverdeado, e o que estava montado nele tinha por nome Morte, e o Hades
+      o seguia; e foi-lhes dada autoridade sobre a quarta parte da terra, para matar pela espada, pela
+      fome, pela peste e pelas feras da terra.
+    status: ia-sem-revisao
+  '6:9':
+    texto: E quando abriu o quinto selo, vi debaixo do altar as almas dos que foram imolados por causa
+      da palavra de Deus e do testemunho que mantinham.
+    status: ia-sem-revisao
+  '6:10':
+    texto: 'E clamaram em alta voz, dizendo: “Até quando, Soberano santo e verdadeiro, não julgas nem
+      vingas o nosso sangue dos que habitam sobre a terra?”'
+    status: ia-sem-revisao
+  '6:11':
+    texto: E foi dada a cada um deles uma veste branca, e foi-lhes dito que repousassem ainda por um pouco
+      de tempo, até que se completasse o número também dos seus companheiros de serviço e dos seus irmãos
+      que haviam de ser mortos como eles.
+    status: ia-sem-revisao
+  '6:12':
+    texto: E vi quando abriu o sexto selo, e houve um grande terremoto, e o sol tornou-se negro como pano
+      de saco de pelo, e a lua inteira tornou-se como sangue,
+    status: ia-sem-revisao
+  '6:13':
+    texto: E as estrelas do céu caíram sobre a terra, como a figueira deixa cair os seus figos verdes
+      quando sacudida por um vento forte,
+    status: ia-sem-revisao
+  '6:14':
+    texto: E o céu foi retirado como um livro que se enrola, e todo monte e ilha foram removidos dos seus
+      lugares.
+    status: ia-sem-revisao
+  '6:15':
+    texto: E os reis da terra, os magnatas, os comandantes, os ricos, os poderosos e todo escravo e livre
+      esconderam-se nas cavernas e nas rochas dos montes;
+    status: ia-sem-revisao
+  '6:16':
+    texto: 'E dizem aos montes e às rochas: “Caí sobre nós e escondei-nos da face daquele que está sentado
+      no trono e da ira do Cordeiro,'
+    status: ia-sem-revisao
+  '6:17':
+    texto: Porque chegou o grande dia da ira deles, e quem pode resistir?”
+    status: ia-sem-revisao
+  '7:1':
+    texto: Depois disso, vi quatro anjos em pé sobre os quatro cantos da terra, segurando os quatro ventos
+      da terra, para que nenhum vento soprasse sobre a terra, nem sobre o mar, nem sobre árvore alguma.
+    status: ia-sem-revisao
+  '7:2':
+    texto: E vi outro anjo subindo do nascente do sol, tendo o selo do Deus vivo, e gritou em alta voz
+      aos quatro anjos a quem foi dado danificar a terra e o mar,
+    status: ia-sem-revisao
+  '7:3':
+    texto: 'Dizendo: “Não danifiqueis a terra, nem o mar, nem as árvores, até que tenhamos selado na fronte
+      os servos do nosso Deus.”'
+    status: ia-sem-revisao
+  '7:4':
+    texto: 'E ouvi o número dos selados: cento e quarenta e quatro mil, selados de todas as tribos dos
+      filhos de Israel:'
+    status: ia-sem-revisao
+  '7:5':
+    texto: Da tribo de Judá, doze mil selados; da tribo de Rúben, doze mil; da tribo de Gad, doze mil;
+    status: ia-sem-revisao
+  '7:6':
+    texto: Da tribo de Aser, doze mil; da tribo de Neftali, doze mil; da tribo de Manassés, doze mil;
+    status: ia-sem-revisao
+  '7:7':
+    texto: Da tribo de Simeão, doze mil; da tribo de Levi, doze mil; da tribo de Issacar, doze mil;
+    status: ia-sem-revisao
+  '7:8':
+    texto: Da tribo de Zabulon, doze mil; da tribo de José, doze mil; da tribo de Benjamim, doze mil selados.
+    status: ia-sem-revisao
+  '7:9':
+    texto: Depois disso, vi, e eis uma grande multidão, que ninguém podia contar, de toda nação, tribos,
+      povos e línguas, em pé diante do trono e diante do Cordeiro, vestidos de vestes brancas, e com palmas
+      nas suas mãos;
+    status: ia-sem-revisao
+  '7:10':
+    texto: 'E clamam em alta voz, dizendo: “A salvação pertence ao nosso Deus, que está sentado no trono,
+      e ao Cordeiro.”'
+    status: ia-sem-revisao
+  '7:11':
+    texto: E todos os anjos estavam em pé ao redor do trono, dos anciãos e dos quatro seres vivos, e prostraram-se
+      com o rosto em terra diante do trono e adoraram a Deus,
+    status: ia-sem-revisao
+  '7:12':
+    texto: 'Dizendo: “Amém! A bênção, a glória, a sabedoria, a ação de graças, a honra, o poder e a força
+      ao nosso Deus pelos séculos dos séculos! Amém.”'
+    status: ia-sem-revisao
+  '7:13':
+    texto: 'E um dos anciãos tomou a palavra e disse-me: “Estes que estão vestidos de vestes brancas,
+      quem são e de onde vieram?”'
+    status: ia-sem-revisao
+  '7:14':
+    texto: 'E eu lhe disse: “Meu senhor, tu o sabes.” E ele me disse: “Estes são os que vêm da grande
+      tribulação, e lavaram as suas vestes e as branquearam no sangue do Cordeiro.'
+    partes:
+    - 'E eu lhe disse: “Meu senhor, tu o sabes.”'
+    - 'E ele me disse: “Estes são os que vêm da grande tribulação, e lavaram as suas vestes e as branquearam
+      no sangue do Cordeiro.'
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '7:15':
+    texto: Por isso estão diante do trono de Deus e lhe prestam culto dia e noite no seu templo, e aquele
+      que está sentado no trono estenderá sobre eles a sua tenda.
+    status: ia-sem-revisao
+  '7:16':
+    texto: Não terão mais fome nem sede, nem o sol cairá sobre eles, nem qualquer calor,
+    status: ia-sem-revisao
+  '7:17':
+    texto: Porque o Cordeiro que está no meio do trono os apascentará e os guiará às fontes das águas
+      da vida; e Deus enxugará toda lágrima dos seus olhos.”
+    status: ia-sem-revisao
+  '8:1':
+    texto: E quando abriu o sétimo selo, fez-se silêncio no céu por cerca de meia hora.
+    status: ia-sem-revisao
+  '8:2':
+    texto: E vi os sete anjos que estão diante de Deus, e foram-lhes dadas sete trombetas.
+    status: ia-sem-revisao
+  '8:3':
+    texto: E outro anjo veio e pôs-se junto ao altar, tendo um incensário de ouro, e foi-lhe dado muito
+      incenso, para que o oferecesse com as orações de todos os santos sobre o altar de ouro que está
+      diante do trono.
+    status: ia-sem-revisao
+  '8:4':
+    texto: E subiu a fumaça do incenso, com as orações dos santos, da mão do anjo diante de Deus.
+    status: ia-sem-revisao
+  '8:5':
+    texto: E o anjo tomou o incensário, encheu-o do fogo do altar e lançou-o sobre a terra; e houve trovões,
+      vozes, relâmpagos e terremoto.
+    status: ia-sem-revisao
+  '8:6':
+    texto: E os sete anjos que tinham as sete trombetas prepararam-se para tocá-las.
+    status: ia-sem-revisao
+  '8:7':
+    texto: E o primeiro tocou a trombeta; e houve granizo e fogo misturados com sangue, e foram lançados
+      sobre a terra; e a terça parte da terra foi queimada, e a terça parte das árvores foi queimada,
+      e toda erva verde foi queimada.
+    status: ia-sem-revisao
+  '8:8':
+    texto: E o segundo anjo tocou a trombeta; e algo como um grande monte ardendo em fogo foi lançado
+      ao mar; e a terça parte do mar tornou-se sangue,
+    status: ia-sem-revisao
+  '8:9':
+    texto: E morreu a terça parte das criaturas que estavam no mar, as que têm vida, e a terça parte dos
+      navios foi destruída.
+    status: ia-sem-revisao
+  '8:10':
+    texto: E o terceiro anjo tocou a trombeta; e caiu do céu uma grande estrela ardendo como uma tocha,
+      e caiu sobre a terça parte dos rios e sobre as fontes das águas.
+    status: ia-sem-revisao
+  '8:11':
+    texto: E o nome da estrela chama-se Absinto. E a terça parte das águas tornou-se absinto, e muitos
+      homens morreram por causa das águas, porque se tornaram amargas.
+    status: ia-sem-revisao
+  '8:12':
+    texto: E o quarto anjo tocou a trombeta; e foi ferida a terça parte do sol, a terça parte da lua e
+      a terça parte das estrelas, para que a terça parte deles escurecesse, e o dia não brilhasse na sua
+      terça parte, e a noite igualmente.
+    status: ia-sem-revisao
+  '8:13':
+    texto: 'E vi, e ouvi uma águia voando no meio do céu, dizendo em alta voz: “Ai, ai, ai dos que habitam
+      sobre a terra, por causa dos demais toques de trombeta dos três anjos que ainda vão tocar!”'
+    status: ia-sem-revisao
+  '9:1':
+    texto: E o quinto anjo tocou a trombeta; e vi uma estrela caída do céu sobre a terra, e foi-lhe dada
+      a chave do poço do abismo;
+    status: ia-sem-revisao
+  '9:2':
+    texto: E abriu o poço do abismo, e subiu do poço uma fumaça como a fumaça de uma grande fornalha,
+      e o sol e o ar escureceram por causa da fumaça do poço.
+    status: ia-sem-revisao
+  '9:3':
+    texto: E da fumaça saíram gafanhotos sobre a terra, e foi-lhes dado um poder como o têm os escorpiões
+      da terra.
+    status: ia-sem-revisao
+  '9:4':
+    texto: E foi-lhes dito que não danificassem a erva da terra, nem nenhuma planta verde, nem nenhuma
+      árvore, mas somente os homens que não têm o selo de Deus na fronte.
+    status: ia-sem-revisao
+  '9:5':
+    texto: E foi-lhes concedido não os matar, mas serem atormentados durante cinco meses; e o seu tormento
+      era como o tormento do escorpião quando fere um homem.
+    status: ia-sem-revisao
+  '9:6':
+    texto: E naqueles dias os homens procurarão a morte e de modo algum a encontrarão, e desejarão morrer,
+      e a morte foge deles.
+    status: ia-sem-revisao
+  '9:7':
+    texto: E o aspecto dos gafanhotos era semelhante a cavalos preparados para a guerra; sobre as suas
+      cabeças havia como coroas semelhantes a ouro, e os seus rostos eram como rostos de homens;
+    status: ia-sem-revisao
+  '9:8':
+    texto: Tinham cabelos como cabelos de mulheres, e os seus dentes eram como de leões;
+    status: ia-sem-revisao
+  '9:9':
+    texto: Tinham couraças como couraças de ferro, e o ruído das suas asas era como o ruído de carros
+      de muitos cavalos correndo para a guerra;
+    status: ia-sem-revisao
+  '9:10':
+    texto: E têm caudas semelhantes a escorpiões, e ferrões, e nas suas caudas está o seu poder de danificar
+      os homens durante cinco meses.
+    status: ia-sem-revisao
+  '9:11':
+    texto: Têm sobre si como rei o anjo do abismo; o seu nome em hebraico é Abadon, e em grego tem o nome
+      de Apolion.
+    status: ia-sem-revisao
+  '9:12':
+    texto: O primeiro “ai” passou; eis que vêm ainda dois “ais” depois destas coisas.
+    status: ia-sem-revisao
+  '9:13':
+    texto: E o sexto anjo tocou a trombeta; e ouvi uma voz saindo dos chifres do altar de ouro que está
+      diante de Deus,
+    status: ia-sem-revisao
+  '9:14':
+    texto: 'Que dizia ao sexto anjo, o que tinha a trombeta: “Solta os quatro anjos que estão atados junto
+      ao grande rio Eufrates.”'
+    status: ia-sem-revisao
+  '9:15':
+    texto: E foram soltos os quatro anjos que estavam preparados para a hora, o dia, o mês e o ano, a
+      fim de matarem a terça parte dos homens.
+    status: ia-sem-revisao
+  '9:16':
+    texto: E o número dos exércitos de cavalaria era de duzentos milhões; ouvi o seu número.
+    status: ia-sem-revisao
+  '9:17':
+    texto: 'E assim vi na visão os cavalos e os que estavam montados neles: tinham couraças de fogo, de
+      jacinto e de enxofre; e as cabeças dos cavalos eram como cabeças de leões, e das suas bocas saem
+      fogo, fumaça e enxofre.'
+    status: ia-sem-revisao
+  '9:18':
+    texto: 'Por estas três pragas foi morta a terça parte dos homens: pelo fogo, pela fumaça e pelo enxofre
+      que saíam das suas bocas.'
+    status: ia-sem-revisao
+  '9:19':
+    texto: Pois o poder dos cavalos está na sua boca e nas suas caudas; pois as suas caudas são semelhantes
+      a serpentes, com cabeças, e com elas causam dano.
+    status: ia-sem-revisao
+  '9:20':
+    texto: E os demais homens, que não foram mortos por estas pragas, não se converteram das obras das
+      suas mãos, de modo a não adorarem os demônios e os ídolos de ouro, de prata, de bronze, de pedra
+      e de madeira, que não podem ver, nem ouvir, nem andar;
+    status: ia-sem-revisao
+  '9:21':
+    texto: E não se converteram dos seus assassinatos, nem das suas feitiçarias, nem da sua prostituição,
+      nem dos seus roubos.
+    status: ia-sem-revisao
+  '10:1':
+    texto: E vi outro anjo forte descendo do céu, envolto numa nuvem, com o arco-íris sobre a cabeça,
+      o rosto como o sol e os pés como colunas de fogo,
+    status: ia-sem-revisao
+  '10:2':
+    texto: E tendo na mão um pequeno livro aberto. E pôs o pé direito sobre o mar e o esquerdo sobre a
+      terra,
+    status: ia-sem-revisao
+  '10:3':
+    texto: E gritou em alta voz, como ruge o leão. E quando gritou, os sete trovões fizeram ouvir as suas
+      vozes.
+    status: ia-sem-revisao
+  '10:4':
+    texto: 'E quando os sete trovões falaram, eu ia escrever; e ouvi uma voz do céu que dizia: “Sela o
+      que os sete trovões falaram, e não o escrevas.”'
+    status: ia-sem-revisao
+  '10:5':
+    texto: E o anjo que vi em pé sobre o mar e sobre a terra levantou a mão direita para o céu,
+    status: ia-sem-revisao
+  '10:6':
+    texto: E jurou por aquele que vive pelos séculos dos séculos, que criou o céu e o que nele há, a terra
+      e o que nela há, e o mar e o que nele há, que já não haverá tempo;
+    status: ia-sem-revisao
+  '10:7':
+    texto: Mas nos dias da voz do sétimo anjo, quando estiver para tocar a trombeta, também se consumará
+      o mistério de Deus, como anunciou aos seus servos, os profetas.
+    status: ia-sem-revisao
+  '10:8':
+    texto: 'E a voz que ouvi do céu falava de novo comigo e dizia: “Vai, toma o livro aberto na mão do
+      anjo que está em pé sobre o mar e sobre a terra.”'
+    status: ia-sem-revisao
+  '10:9':
+    texto: 'E fui ao anjo, dizendo-lhe que me desse o pequeno livro. E ele me diz: “Toma-o e devora-o;
+      amargará o teu ventre, mas na tua boca será doce como mel.”'
+    status: ia-sem-revisao
+  '10:10':
+    texto: E tomei o pequeno livro da mão do anjo e devorei-o; e na minha boca era doce como mel; e quando
+      o comi, o meu ventre ficou amargo.
+    status: ia-sem-revisao
+  '10:11':
+    texto: 'E dizem-me: “É preciso que profetizes de novo sobre povos, nações, línguas e muitos reis.”'
+    status: ia-sem-revisao
+  '11:1':
+    texto: 'E foi-me dada uma cana semelhante a uma vara, dizendo-se: “Levanta-te e mede o templo de Deus,
+      o altar e os que adoram nele.'
+    status: ia-sem-revisao
+  '11:2':
+    texto: Mas o átrio exterior do templo deixa-o de fora e não o meças, porque foi dado às nações; e
+      elas pisarão a cidade santa durante quarenta e dois meses.
+    status: ia-sem-revisao
+  '11:3':
+    texto: E darei às minhas duas testemunhas que profetizem durante mil duzentos e sessenta dias, vestidas
+      de pano de saco.”
+    status: ia-sem-revisao
+  '11:4':
+    texto: Estas são as duas oliveiras e os dois candelabros que estão diante do Senhor da terra.
+    status: ia-sem-revisao
+  '11:5':
+    texto: E se alguém quer causar-lhes dano, sai fogo da boca delas e devora os seus inimigos; e se alguém
+      quiser causar-lhes dano, assim deve ser morto.
+    status: ia-sem-revisao
+  '11:6':
+    texto: Estas têm o poder de fechar o céu, para que não chova durante os dias da sua profecia, e têm
+      poder sobre as águas para as converter em sangue e para ferir a terra com toda espécie de praga,
+      quantas vezes quiserem.
+    status: ia-sem-revisao
+  '11:7':
+    texto: E quando terminarem o seu testemunho, a besta que sobe do abismo lhes fará guerra, vencê-las-á
+      e matá-las-á.
+    status: ia-sem-revisao
+  '11:8':
+    texto: E o cadáver delas ficará na praça da grande cidade, que se chama simbolicamente Sodoma e Egito,
+      onde também o seu Senhor foi crucificado.
+    status: ia-sem-revisao
+  '11:9':
+    texto: E das raças, tribos, línguas e nações veem o cadáver delas durante três dias e meio, e não
+      permitem que os seus cadáveres sejam postos no sepulcro.
+    status: ia-sem-revisao
+  '11:10':
+    texto: E os que habitam sobre a terra alegram-se por causa delas e fazem festa, e enviarão presentes
+      uns aos outros, porque esses dois profetas atormentaram os que habitam sobre a terra.
+    status: ia-sem-revisao
+  '11:11':
+    texto: E depois dos três dias e meio, um espírito de vida vindo de Deus entrou nelas, e puseram-se
+      de pé, e um grande temor caiu sobre os que as viam;
+    status: ia-sem-revisao
+  '11:12':
+    texto: 'E ouviram uma voz forte do céu que lhes dizia: “Subi para cá!”, e subiram ao céu na nuvem,
+      e os seus inimigos as viram.'
+    status: ia-sem-revisao
+  '11:13':
+    texto: E naquela hora houve um grande terremoto, e caiu a décima parte da cidade, e morreram no terremoto
+      sete mil nomes de homens, e os restantes ficaram cheios de temor e deram glória ao Deus do céu.
+    status: ia-sem-revisao
+  '11:14':
+    texto: O segundo “ai” passou; eis que o terceiro “ai” vem depressa.
+    status: ia-sem-revisao
+  '11:15':
+    texto: 'E o sétimo anjo tocou a trombeta; e houve grandes vozes no céu que diziam: “O reino do mundo
+      tornou-se do nosso Senhor e do seu Cristo, e reinará pelos séculos dos séculos!”'
+    status: ia-sem-revisao
+  '11:16':
+    texto: E os vinte e quatro anciãos, que estão sentados nos seus tronos diante de Deus, caíram sobre
+      o rosto e adoraram a Deus,
+    status: ia-sem-revisao
+  '11:17':
+    texto: 'Dizendo: “Damos-te graças, Senhor Deus, Todo-Poderoso, aquele que é e que era, porque tomaste
+      o teu grande poder e passaste a reinar.'
+    status: ia-sem-revisao
+  '11:18':
+    texto: As nações se irritaram, mas veio a tua ira e o tempo de os mortos serem julgados, de dar o
+      salário aos teus servos, os profetas, aos santos e aos que temem o teu nome, pequenos e grandes,
+      e de destruir os que destroem a terra.”
+    status: ia-sem-revisao
+  '11:19':
+    texto: E abriu-se o templo de Deus que está no céu, e foi vista a arca da sua aliança no seu templo;
+      e houve relâmpagos, vozes, trovões, terremoto e grande granizo.
+    status: ia-sem-revisao
+  '12:1':
+    texto: 'E apareceu um grande sinal no céu: uma mulher vestida do sol, com a lua debaixo dos pés e
+      sobre a cabeça uma coroa de doze estrelas,'
+    status: ia-sem-revisao
+  '12:2':
+    texto: E estava grávida; e grita com as dores do parto, atormentada para dar à luz.
+    status: ia-sem-revisao
+  '12:3':
+    texto: 'E apareceu outro sinal no céu: eis um grande dragão vermelho, com sete cabeças e dez chifres,
+      e sobre as suas cabeças sete diademas,'
+    status: ia-sem-revisao
+  '12:4':
+    texto: E a sua cauda arrasta a terça parte das estrelas do céu e lançou-as sobre a terra. E o dragão
+      postou-se diante da mulher que estava para dar à luz, a fim de devorar o seu filho quando ela o
+      tivesse dado à luz.
+    status: ia-sem-revisao
+  '12:5':
+    texto: E ela deu à luz um filho, um varão, que há de governar todas as nações com vara de ferro; e
+      o seu filho foi arrebatado para Deus e para o seu trono.
+    status: ia-sem-revisao
+  '12:6':
+    texto: E a mulher fugiu para o deserto, onde tem um lugar preparado por Deus, para que ali a sustentem
+      durante mil duzentos e sessenta dias.
+    status: ia-sem-revisao
+  '12:7':
+    texto: 'E houve guerra no céu: Miguel e os seus anjos guerrearam contra o dragão. E o dragão e os
+      seus anjos guerrearam,'
+    status: ia-sem-revisao
+  '12:8':
+    texto: Mas não prevaleceram, nem se achou mais lugar para eles no céu.
+    status: ia-sem-revisao
+  '12:9':
+    texto: E foi lançado o grande dragão, a serpente antiga, chamada Diabo e Satanás, o sedutor de toda
+      a terra habitada — foi lançado sobre a terra, e os seus anjos foram lançados com ele.
+    status: ia-sem-revisao
+  '12:10':
+    texto: 'E ouvi uma grande voz no céu que dizia: “Agora veio a salvação, o poder e o reino do nosso
+      Deus e a autoridade do seu Cristo, porque foi lançado fora o acusador dos nossos irmãos, aquele
+      que os acusava diante do nosso Deus dia e noite.'
+    status: ia-sem-revisao
+  '12:11':
+    texto: Eles o venceram por causa do sangue do Cordeiro e por causa da palavra do seu testemunho, e
+      não amaram a sua vida até a morte.
+    status: ia-sem-revisao
+  '12:12':
+    texto: Por isso, alegrai-vos, ó céus, e vós que neles habitais. Ai da terra e do mar, porque o diabo
+      desceu até vós, cheio de grande furor, sabendo que lhe resta pouco tempo!”
+    partes:
+    - Por isso, alegrai-vos, ó céus, e vós que neles habitais.
+    - Ai da terra e do mar, porque o diabo desceu até vós, cheio de grande furor, sabendo que lhe resta
+      pouco tempo!”
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '12:13':
+    texto: E quando o dragão viu que fora lançado sobre a terra, perseguiu a mulher que dera à luz o varão.
+    partes:
+    - E quando o dragão viu que fora lançado sobre a terra,
+    - perseguiu a mulher que dera à luz o varão.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '12:14':
+    texto: E foram dadas à mulher as duas asas da grande águia, para que voasse para o deserto, para o
+      seu lugar, onde é sustentada por um tempo, tempos e metade de um tempo, longe da face da serpente.
+    status: ia-sem-revisao
+  '12:15':
+    texto: E a serpente lançou da sua boca, atrás da mulher, água como um rio, para a fazer arrastar pela
+      corrente.
+    status: ia-sem-revisao
+  '12:16':
+    texto: E a terra socorreu a mulher, e a terra abriu a sua boca e engoliu o rio que o dragão lançara
+      da sua boca;
+    partes:
+    - E a terra socorreu a mulher,
+    - e a terra abriu a sua boca e engoliu o rio que o dragão lançara da sua boca;
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '12:17':
+    texto: E o dragão irritou-se contra a mulher e foi fazer guerra contra o resto da sua descendência,
+      os que guardam os mandamentos de Deus e têm o testemunho de Jesus;
+    status: ia-sem-revisao
+  '12:18':
+    texto: E postou-se sobre a areia do mar.
+    status: ia-sem-revisao
+  '13:1':
+    texto: E vi uma besta que subia do mar, com dez chifres e sete cabeças, e sobre os seus chifres dez
+      diademas, e sobre as suas cabeças nomes de blasfêmia.
+    status: ia-sem-revisao
+  '13:2':
+    texto: E a besta que vi era semelhante a um leopardo, os seus pés como de urso e a sua boca como boca
+      de leão. E o dragão deu-lhe o seu poder, o seu trono e grande autoridade.
+    status: ia-sem-revisao
+  '13:3':
+    texto: E uma das suas cabeças parecia ferida de morte, mas a sua ferida mortal foi curada. E toda
+      a terra, maravilhada, seguiu a besta,
+    status: ia-sem-revisao
+  '13:4':
+    texto: 'E adoraram o dragão, porque deu a autoridade à besta, e adoraram a besta, dizendo: “Quem é
+      semelhante à besta, e quem pode combater contra ela?”'
+    status: ia-sem-revisao
+  '13:5':
+    texto: E foi-lhe dada uma boca que fala coisas grandes e blasfêmias, e foi-lhe dada autoridade para
+      agir durante quarenta e dois meses.
+    status: ia-sem-revisao
+  '13:6':
+    texto: E abriu a boca em blasfêmias contra Deus, para blasfemar o seu nome, a sua tenda e os que habitam
+      no céu.
+    status: ia-sem-revisao
+  '13:7':
+    texto: E foi-lhe dado fazer guerra aos santos e vencê-los, e foi-lhe dada autoridade sobre toda tribo,
+      povo, língua e nação.
+    status: ia-sem-revisao
+  '13:8':
+    texto: E adorá-la-ão todos os que habitam sobre a terra, aqueles cujo nome não está escrito, desde
+      a fundação do mundo, no livro da vida do Cordeiro imolado.
+    status: ia-sem-revisao
+  '13:9':
+    texto: Se alguém tem ouvido, ouça.
+    status: ia-sem-revisao
+  '13:10':
+    texto: Se alguém é para o cativeiro, ao cativeiro vai; se alguém deve ser morto à espada, à espada
+      deve ser morto. Aqui está a perseverança e a fé dos santos.
+    status: ia-sem-revisao
+  '13:11':
+    texto: E vi outra besta que subia da terra, e tinha dois chifres semelhantes aos de um cordeiro, e
+      falava como um dragão.
+    status: ia-sem-revisao
+  '13:12':
+    texto: E exerce toda a autoridade da primeira besta diante dela. E faz com que a terra e os que nela
+      habitam adorem a primeira besta, cuja ferida mortal foi curada.
+    status: ia-sem-revisao
+  '13:13':
+    texto: E faz grandes sinais, até fazer descer fogo do céu à terra diante dos homens.
+    status: ia-sem-revisao
+  '13:14':
+    texto: E seduz os que habitam sobre a terra por causa dos sinais que lhe foi dado fazer diante da
+      besta, dizendo aos que habitam sobre a terra que façam uma imagem para a besta que tem a ferida
+      da espada e viveu.
+    status: ia-sem-revisao
+  '13:15':
+    texto: E foi-lhe dado dar espírito à imagem da besta, para que a imagem da besta também falasse e
+      fizesse que fossem mortos todos os que não adorassem a imagem da besta.
+    status: ia-sem-revisao
+  '13:16':
+    texto: E faz com que todos, pequenos e grandes, ricos e pobres, livres e escravos, recebam uma marca
+      na mão direita ou na fronte,
+    status: ia-sem-revisao
+  '13:17':
+    texto: E que ninguém possa comprar ou vender, a não ser quem tem a marca, o nome da besta ou o número
+      do seu nome.
+    status: ia-sem-revisao
+  '13:18':
+    texto: 'Aqui está a sabedoria: quem tem inteligência calcule o número da besta, pois é número de homem;
+      e o seu número é seiscentos e sessenta e seis.'
+    status: ia-sem-revisao
+  '14:1':
+    texto: E vi, e eis o Cordeiro em pé sobre o monte Sião, e com ele cento e quarenta e quatro mil, que
+      tinham o seu nome e o nome de seu Pai escrito na fronte.
+    status: ia-sem-revisao
+  '14:2':
+    texto: E ouvi uma voz do céu, como voz de muitas águas e como voz de grande trovão, e a voz que ouvi
+      era como a de citaristas tocando as suas cítaras.
+    status: ia-sem-revisao
+  '14:3':
+    texto: E cantam como que um cântico novo diante do trono, diante dos quatro seres vivos e dos anciãos;
+      e ninguém podia aprender o cântico, a não ser os cento e quarenta e quatro mil, os que foram resgatados
+      da terra.
+    status: ia-sem-revisao
+  '14:4':
+    texto: Estes são os que não se contaminaram com mulheres, pois são virgens; estes são os que seguem
+      o Cordeiro para onde quer que vá; estes foram resgatados dentre os homens como primícias para Deus
+      e para o Cordeiro,
+    status: ia-sem-revisao
+  '14:5':
+    texto: E na sua boca não se achou mentira; são irrepreensíveis.
+    status: ia-sem-revisao
+  '14:6':
+    texto: E vi outro anjo voando no meio do céu, com um evangelho eterno para anunciar aos que habitam
+      sobre a terra, a toda nação, tribo, língua e povo,
+    status: ia-sem-revisao
+  '14:7':
+    texto: 'Dizendo em alta voz: “Temei a Deus e dai-lhe glória, porque chegou a hora do seu julgamento;
+      e adorai aquele que fez o céu, a terra, o mar e as fontes das águas.”'
+    status: ia-sem-revisao
+  '14:8':
+    texto: 'E outro, um segundo anjo, seguiu, dizendo: “Caiu, caiu a grande Babilônia, que deu a beber
+      a todas as nações do vinho da fúria da sua prostituição.”'
+    status: ia-sem-revisao
+  '14:9':
+    texto: 'E outro, um terceiro anjo, seguiu-os, dizendo em alta voz: “Se alguém adora a besta e a sua
+      imagem e recebe a marca na fronte ou na mão,'
+    status: ia-sem-revisao
+  '14:10':
+    texto: Também ele beberá do vinho da fúria de Deus, preparado sem mistura no cálice da sua ira, e
+      será atormentado com fogo e enxofre diante dos santos anjos e diante do Cordeiro.
+    status: ia-sem-revisao
+  '14:11':
+    texto: E a fumaça do seu tormento sobe pelos séculos dos séculos, e não têm descanso, dia e noite,
+      os que adoram a besta e a sua imagem, e quem quer que receba a marca do seu nome.”
+    status: ia-sem-revisao
+  '14:12':
+    texto: Aqui está a perseverança dos santos, os que guardam os mandamentos de Deus e a fé em Jesus.
+    status: ia-sem-revisao
+  '14:13':
+    texto: 'E ouvi uma voz do céu que dizia: “Escreve: Bem-aventurados os mortos que morrem no Senhor,
+      desde agora. Sim, diz o Espírito, para que repousem dos seus trabalhos, pois as suas obras os acompanham.”'
+    status: ia-sem-revisao
+  '14:14':
+    texto: E vi, e eis uma nuvem branca, e sobre a nuvem alguém sentado, semelhante a um filho de homem,
+      tendo na cabeça uma coroa de ouro e na mão uma foice afiada.
+    status: ia-sem-revisao
+  '14:15':
+    texto: 'E outro anjo saiu do templo, gritando em alta voz àquele que estava sentado sobre a nuvem:
+      “Lança a tua foice e ceifa, porque chegou a hora de ceifar, pois a seara da terra está madura.”'
+    status: ia-sem-revisao
+  '14:16':
+    texto: E aquele que estava sentado sobre a nuvem lançou a sua foice sobre a terra, e a terra foi ceifada.
+    status: ia-sem-revisao
+  '14:17':
+    texto: E outro anjo saiu do templo que está no céu, tendo ele também uma foice afiada.
+    status: ia-sem-revisao
+  '14:18':
+    texto: 'E outro anjo, do altar, o que tem poder sobre o fogo, e gritou em alta voz ao que tinha a
+      foice afiada, dizendo: “Lança a tua foice afiada e vindima os cachos da videira da terra, porque
+      as suas uvas estão maduras.”'
+    status: ia-sem-revisao
+  '14:19':
+    texto: E o anjo lançou a sua foice sobre a terra, e vindimou a videira da terra, e lançou no grande
+      lagar da ira de Deus.
+    status: ia-sem-revisao
+  '14:20':
+    texto: E o lagar foi pisado fora da cidade, e saiu sangue do lagar até aos freios dos cavalos, por
+      mil e seiscentos estádios.
+    status: ia-sem-revisao
+  '15:1':
+    texto: 'E vi outro sinal no céu, grande e admirável: sete anjos que tinham sete pragas, as últimas,
+      porque nelas se consumou a ira de Deus.'
+    status: ia-sem-revisao
+  '15:2':
+    texto: E vi como que um mar de vidro misturado com fogo, e os vencedores da besta, da sua imagem e
+      do número do seu nome, em pé junto ao mar de vidro, com as cítaras de Deus.
+    status: ia-sem-revisao
+  '15:3':
+    texto: 'E cantam o cântico de Moisés, servo de Deus, e o cântico do Cordeiro, dizendo: “Grandes e
+      admiráveis são as tuas obras, Senhor Deus, Todo-Poderoso; justos e verdadeiros são os teus caminhos,
+      ó Rei das nações!'
+    status: ia-sem-revisao
+  '15:4':
+    texto: Quem não te temerá, Senhor, e não glorificará o teu nome? Pois só tu és santo; pois todas as
+      nações virão e se prostrarão diante de ti, porque os teus justos juízos foram manifestados.”
+    status: ia-sem-revisao
+  '15:5':
+    texto: E depois disso vi, e abriu-se no céu o santuário da tenda do testemunho,
+    status: ia-sem-revisao
+  '15:6':
+    texto: E saíram do santuário os sete anjos que tinham as sete pragas, vestidos de linho puro e resplandecente
+      e cingidos ao peito com cintos de ouro.
+    status: ia-sem-revisao
+  '15:7':
+    texto: E um dos quatro seres vivos deu aos sete anjos sete taças de ouro cheias da ira do Deus que
+      vive pelos séculos dos séculos.
+    status: ia-sem-revisao
+  '15:8':
+    texto: E o santuário encheu-se de fumaça da glória de Deus e do seu poder, e ninguém podia entrar
+      no santuário até que se consumassem as sete pragas dos sete anjos.
+    status: ia-sem-revisao
+  '16:1':
+    texto: 'E ouvi uma grande voz que saía do santuário e dizia aos sete anjos: “Ide e derramai sobre
+      a terra as sete taças da ira de Deus.”'
+    status: ia-sem-revisao
+  '16:2':
+    texto: E foi o primeiro e derramou a sua taça sobre a terra; e veio uma úlcera má e maligna sobre
+      os homens que tinham a marca da besta e adoravam a sua imagem.
+    status: ia-sem-revisao
+  '16:3':
+    texto: E o segundo derramou a sua taça sobre o mar; e tornou-se sangue como de morto, e toda alma
+      vivente que estava no mar morreu.
+    status: ia-sem-revisao
+  '16:4':
+    texto: E o terceiro derramou a sua taça sobre os rios e as fontes das águas; e tornaram-se sangue.
+    status: ia-sem-revisao
+  '16:5':
+    texto: 'E ouvi o anjo das águas dizer: “Tu és justo, tu que és e que eras, o Santo, porque assim julgaste,'
+    status: ia-sem-revisao
+  '16:6':
+    texto: Porque derramaram sangue de santos e de profetas, e deste-lhes sangue a beber; merecem-no!”
+    status: ia-sem-revisao
+  '16:7':
+    texto: 'E ouvi o altar dizer: “Sim, Senhor Deus, Todo-Poderoso, verdadeiros e justos são os teus julgamentos!”'
+    status: ia-sem-revisao
+  '16:8':
+    texto: E o quarto derramou a sua taça sobre o sol; e foi-lhe dado queimar os homens com fogo.
+    status: ia-sem-revisao
+  '16:9':
+    texto: E os homens foram queimados por um grande calor, e blasfemaram o nome de Deus, que tem poder
+      sobre estas pragas, e não se converteram para lhe dar glória.
+    status: ia-sem-revisao
+  '16:10':
+    texto: E o quinto derramou a sua taça sobre o trono da besta; e o seu reino ficou em trevas, e mordiam
+      as línguas de dor,
+    status: ia-sem-revisao
+  '16:11':
+    texto: E blasfemaram o Deus do céu por causa das suas dores e das suas úlceras, e não se converteram
+      das suas obras.
+    status: ia-sem-revisao
+  '16:12':
+    texto: E o sexto derramou a sua taça sobre o grande rio Eufrates; e a sua água secou, para que se
+      preparasse o caminho dos reis que vêm do nascente do sol.
+    status: ia-sem-revisao
+  '16:13':
+    texto: E vi saírem da boca do dragão, da boca da besta e da boca do falso profeta três espíritos imundos,
+      como rãs;
+    status: ia-sem-revisao
+  '16:14':
+    texto: Pois são espíritos de demônios que fazem sinais, e vão aos reis de todo o mundo, para reuni-los
+      para a guerra do grande dia de Deus, o Todo-Poderoso —
+    status: ia-sem-revisao
+  '16:15':
+    texto: “Eis que venho como ladrão. Bem-aventurado o que vigia e guarda as suas vestes, para não andar
+      nu e verem a sua vergonha” —
+    status: ia-sem-revisao
+  '16:16':
+    texto: E reuniu-os no lugar chamado em hebraico Armagedon.
+    status: ia-sem-revisao
+  '16:17':
+    texto: 'E o sétimo derramou a sua taça no ar — e saiu uma grande voz do santuário, do trono, que dizia:
+      “Está feito!” —'
+    status: ia-sem-revisao
+  '16:18':
+    texto: E houve relâmpagos, vozes e trovões, e houve um grande terremoto, como nunca houve desde que
+      existem homens sobre a terra, um terremoto tão grande,
+    status: ia-sem-revisao
+  '16:19':
+    texto: E a grande cidade foi dividida em três partes, e as cidades das nações caíram; e a grande Babilônia
+      foi lembrada diante de Deus para lhe dar o cálice do vinho da fúria da sua ira;
+    status: ia-sem-revisao
+  '16:20':
+    texto: E toda ilha fugiu, e os montes não foram achados.
+    status: ia-sem-revisao
+  '16:21':
+    texto: E um grande granizo, de um talento de peso, cai do céu sobre os homens; e os homens blasfemaram
+      contra Deus por causa da praga do granizo, porque a sua praga é extremamente grande.
+    status: ia-sem-revisao
+  '17:1':
+    texto: 'E veio um dos sete anjos que tinham as sete taças e falou comigo, dizendo: “Vem, mostrar-te-ei
+      o julgamento da grande prostituta que está sentada sobre muitas águas,'
+    status: ia-sem-revisao
+  '17:2':
+    texto: Com a qual se prostituíram os reis da terra, e os habitantes da terra se embriagaram com o
+      vinho da sua prostituição.”
+    status: ia-sem-revisao
+  '17:3':
+    texto: E levou-me em espírito a um deserto. E vi uma mulher sentada sobre uma besta escarlate, cheia
+      de nomes de blasfêmia, que tinha sete cabeças e dez chifres.
+    status: ia-sem-revisao
+  '17:4':
+    texto: E a mulher estava vestida de púrpura e escarlate, adornada de ouro, pedras preciosas e pérolas,
+      tendo na mão um cálice de ouro cheio de abominações e das impurezas da sua prostituição,
+    status: ia-sem-revisao
+  '17:5':
+    texto: 'E na sua fronte um nome escrito, um mistério: “Babilônia, a grande, a mãe das prostitutas
+      e das abominações da terra.”'
+    status: ia-sem-revisao
+  '17:6':
+    texto: E vi a mulher embriagada com o sangue dos santos e com o sangue das testemunhas de Jesus. E,
+      ao vê-la, admirei-me com grande admiração.
+    status: ia-sem-revisao
+  '17:7':
+    texto: 'E o anjo disse-me: “Por que te admiraste? Eu te direi o mistério da mulher e da besta que
+      a carrega, a que tem as sete cabeças e os dez chifres:'
+    status: ia-sem-revisao
+  '17:8':
+    texto: A besta que viste era e não é, e está para subir do abismo, e vai para a perdição; e os habitantes
+      da terra, cujo nome não está escrito no livro da vida desde a fundação do mundo, ficarão admirados
+      ao ver a besta, porque era e não é e virá a estar presente.
+    status: ia-sem-revisao
+  '17:9':
+    texto: 'Aqui está a mente que tem sabedoria. As sete cabeças são sete montes, sobre os quais a mulher
+      está sentada. E são sete reis:'
+    status: ia-sem-revisao
+  '17:10':
+    texto: Cinco caíram, um existe, o outro ainda não veio, e quando vier deve permanecer pouco tempo;
+    status: ia-sem-revisao
+  '17:11':
+    texto: E a besta que era e não é, também ela é o oitavo e é um dos sete, e vai para a perdição.
+    status: ia-sem-revisao
+  '17:12':
+    texto: E os dez chifres que viste são dez reis, que ainda não receberam reino, mas recebem autoridade
+      como reis, por uma hora, com a besta.
+    status: ia-sem-revisao
+  '17:13':
+    texto: Estes têm um só propósito, e entregam o seu poder e autoridade à besta.
+    status: ia-sem-revisao
+  '17:14':
+    texto: Estes combaterão contra o Cordeiro, e o Cordeiro os vencerá, porque é Senhor dos senhores e
+      Rei dos reis, e os que estão com ele são chamados, escolhidos e fiéis.”
+    status: ia-sem-revisao
+  '17:15':
+    texto: 'E diz-me: “As águas que viste, onde está sentada a prostituta, são povos, multidões, nações
+      e línguas.'
+    status: ia-sem-revisao
+  '17:16':
+    texto: E os dez chifres que viste e a besta odiarão a prostituta, e a deixarão desolada e nua, comerão
+      a sua carne e a queimarão no fogo;
+    status: ia-sem-revisao
+  '17:17':
+    texto: Pois Deus pôs nos seus corações realizar o seu propósito, e ter um só propósito, e entregar
+      o seu reino à besta, até que se cumpram as palavras de Deus.
+    status: ia-sem-revisao
+  '17:18':
+    texto: E a mulher que viste é a grande cidade, que tem reino sobre os reis da terra.”
+    status: ia-sem-revisao
+  '18:1':
+    texto: Depois disso, vi outro anjo que descia do céu, tendo grande autoridade, e a terra foi iluminada
+      com a sua glória.
+    status: ia-sem-revisao
+  '18:2':
+    texto: 'E gritou com voz forte, dizendo: “Caiu, caiu a grande Babilônia, e tornou-se morada de demônios,
+      abrigo de todo espírito imundo, abrigo de toda ave imunda e abrigo de toda fera imunda e detestada,'
+    status: ia-sem-revisao
+  '18:3':
+    texto: Pois do vinho da fúria da sua prostituição beberam todas as nações, e os reis da terra se prostituíram
+      com ela, e os mercadores da terra enriqueceram com o poder do seu luxo.”
+    status: ia-sem-revisao
+  '18:4':
+    texto: 'E ouvi outra voz do céu que dizia: “Saí dela, povo meu, para não participardes dos seus pecados
+      e não receberdes das suas pragas;'
+    status: ia-sem-revisao
+  '18:5':
+    texto: Porque os seus pecados se acumularam até o céu, e Deus se lembrou das suas injustiças.
+    status: ia-sem-revisao
+  '18:6':
+    texto: Retribuí-lhe como ela também retribuiu, e pagai-lhe o dobro segundo as suas obras; no cálice
+      em que misturou, misturai-lhe o dobro;
+    status: ia-sem-revisao
+  '18:7':
+    texto: 'Quanto ela se glorificou e viveu no luxo, tanto dai-lhe de tormento e luto. Porque diz no
+      seu coração: ‘Estou sentada como rainha, não sou viúva e não verei luto.’'
+    status: ia-sem-revisao
+  '18:8':
+    texto: 'Por isso, num só dia virão as suas pragas: morte, luto e fome, e será queimada no fogo; porque
+      forte é o Senhor Deus que a julgou.”'
+    status: ia-sem-revisao
+  '18:9':
+    texto: E os reis da terra que se prostituíram e viveram no luxo com ela chorarão e se lamentarão por
+      ela, quando virem a fumaça do seu incêndio,
+    status: ia-sem-revisao
+  '18:10':
+    texto: 'Ficando de longe, por medo do seu tormento, dizendo: “Ai, ai da grande cidade, Babilônia,
+      a cidade forte, porque numa só hora veio o teu julgamento!”'
+    status: ia-sem-revisao
+  '18:11':
+    texto: E os mercadores da terra choram e se lamentam por ela, porque ninguém mais compra a sua carga,
+    status: ia-sem-revisao
+  '18:12':
+    texto: Carga de ouro, prata, pedras preciosas, pérolas, linho fino, púrpura, seda e escarlate, e toda
+      madeira aromática, todo objeto de marfim, todo objeto de madeira preciosíssima, de bronze, de ferro
+      e de mármore,
+    status: ia-sem-revisao
+  '18:13':
+    texto: E canela, amomo, perfumes, mirra, incenso, vinho, azeite, flor de farinha, trigo, gado e ovelhas,
+      cavalos e carros, e corpos, e almas de homens.
+    status: ia-sem-revisao
+  '18:14':
+    texto: E os frutos maduros que a tua alma desejava afastaram-se de ti, e todas as coisas finas e esplêndidas
+      pereceram para ti, e jamais as encontrarão.
+    status: ia-sem-revisao
+  '18:15':
+    texto: Os mercadores destas coisas, que dela enriqueceram, ficarão de longe, por medo do seu tormento,
+      chorando e lamentando,
+    status: ia-sem-revisao
+  '18:16':
+    texto: 'Dizendo: “Ai, ai da grande cidade, vestida de linho fino, púrpura e escarlate, adornada de
+      ouro, pedras preciosas e pérolas,'
+    status: ia-sem-revisao
+  '18:17':
+    texto: Porque numa só hora foi devastada tanta riqueza!” E todo piloto, todo o que navega para algum
+      lugar, os marinheiros e todos os que trabalham no mar ficaram de longe
+    status: ia-sem-revisao
+  '18:18':
+    texto: 'E gritaram, vendo a fumaça do seu incêndio, dizendo: “Que cidade é semelhante à grande cidade?”'
+    status: ia-sem-revisao
+  '18:19':
+    texto: 'E lançaram pó sobre as suas cabeças e gritaram, chorando e lamentando, dizendo: “Ai, ai da
+      grande cidade, na qual enriqueceram todos os que têm navios no mar por causa da sua riqueza, porque
+      numa só hora foi devastada!'
+    status: ia-sem-revisao
+  '18:20':
+    texto: Alegra-te por ela, ó céu, e vós, santos, apóstolos e profetas, porque Deus julgou, em favor
+      vosso, a causa contra ela!”
+    status: ia-sem-revisao
+  '18:21':
+    texto: 'E um anjo forte levantou uma pedra do tamanho de uma grande mó e lançou-a ao mar, dizendo:
+      “Assim, com violência, será lançada a grande cidade de Babilônia, e jamais será achada.'
+    status: ia-sem-revisao
+  '18:22':
+    texto: E voz de citaristas, de músicos, de flautistas e de trombeteiros jamais será ouvida em ti,
+      e artífice de qualquer ofício jamais será achado em ti, e ruído de mó jamais será ouvido em ti,
+    status: ia-sem-revisao
+  '18:23':
+    texto: E luz de lâmpada jamais brilhará em ti, e voz de noivo e de noiva jamais será ouvida em ti;
+      porque os teus mercadores eram os magnatas da terra, porque todas as nações foram seduzidas pela
+      tua feitiçaria,
+    status: ia-sem-revisao
+  '18:24':
+    texto: E nela foi achado o sangue de profetas e de santos e de todos os que foram imolados sobre a
+      terra.”
+    status: ia-sem-revisao
+  '19:1':
+    texto: 'Depois disso, ouvi como que uma grande voz de uma numerosa multidão no céu, que dizia: “Aleluia!
+      A salvação, a glória e o poder são do nosso Deus,'
+    status: ia-sem-revisao
+  '19:2':
+    texto: Porque verdadeiros e justos são os seus julgamentos; pois julgou a grande prostituta que corrompeu
+      a terra com a sua prostituição, e vingou o sangue dos seus servos, tirando-o da mão dela.”
+    status: ia-sem-revisao
+  '19:3':
+    texto: 'E disseram pela segunda vez: “Aleluia! E a sua fumaça sobe pelos séculos dos séculos.”'
+    status: ia-sem-revisao
+  '19:4':
+    texto: 'E os vinte e quatro anciãos e os quatro seres vivos caíram e adoraram a Deus, que está sentado
+      no trono, dizendo: “Amém! Aleluia!”'
+    status: ia-sem-revisao
+  '19:5':
+    texto: 'E saiu uma voz do trono, que dizia: “Louvai o nosso Deus, todos os seus servos, e os que o
+      temem, pequenos e grandes!”'
+    status: ia-sem-revisao
+  '19:6':
+    texto: 'E ouvi como que a voz de uma numerosa multidão, como a voz de muitas águas e como a voz de
+      fortes trovões, que dizia: “Aleluia! Porque o Senhor, nosso Deus, o Todo-Poderoso, passou a reinar.'
+    status: ia-sem-revisao
+  '19:7':
+    texto: Alegremo-nos, exultemos e demos-lhe a glória, porque chegaram as núpcias do Cordeiro, e a sua
+      esposa se preparou;
+    status: ia-sem-revisao
+  '19:8':
+    texto: E foi-lhe dado vestir-se de linho fino, resplandecente e puro” — pois o linho fino são as obras
+      justas dos santos.
+    status: ia-sem-revisao
+  '19:9':
+    texto: 'E diz-me: “Escreve: Bem-aventurados os convidados para o banquete das núpcias do Cordeiro.”
+      E diz-me: “Estas são as verdadeiras palavras de Deus.”'
+    partes:
+    - 'E diz-me: “Escreve: Bem-aventurados os convidados para o banquete das núpcias do Cordeiro.”'
+    - 'E diz-me: “Estas são as verdadeiras palavras de Deus.”'
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '19:10':
+    texto: 'E caí diante dos seus pés para o adorar. E diz-me: “Não faças isso! Sou teu companheiro de
+      serviço e dos teus irmãos que têm o testemunho de Jesus; adora a Deus! Pois o testemunho de Jesus
+      é o espírito da profecia.”'
+    status: ia-sem-revisao
+  '19:11':
+    texto: E vi o céu aberto, e eis um cavalo branco, e o que estava montado nele chama-se Fiel e Verdadeiro,
+      e julga e combate com justiça.
+    status: ia-sem-revisao
+  '19:12':
+    texto: Os seus olhos são chama de fogo, e sobre a sua cabeça há muitos diademas, e tem um nome escrito
+      que ninguém conhece, a não ser ele mesmo,
+    status: ia-sem-revisao
+  '19:13':
+    texto: E está vestido de um manto tingido de sangue, e o seu nome é chamado o Verbo de Deus.
+    status: ia-sem-revisao
+  '19:14':
+    texto: E os exércitos que estão no céu o seguiam em cavalos brancos, vestidos de linho fino, branco
+      e puro.
+    status: ia-sem-revisao
+  '19:15':
+    texto: E da sua boca sai uma espada afiada, para com ela ferir as nações; e ele as governará com vara
+      de ferro; e ele mesmo pisa o lagar do vinho da fúria da ira de Deus, o Todo-Poderoso.
+    status: ia-sem-revisao
+  '19:16':
+    texto: 'E tem sobre o manto e sobre a coxa um nome escrito: “Rei dos reis e Senhor dos senhores.”'
+    status: ia-sem-revisao
+  '19:17':
+    texto: 'E vi um anjo em pé no sol, e gritou em alta voz, dizendo a todas as aves que voam no meio
+      do céu: “Vinde, reuni-vos para o grande banquete de Deus,'
+    status: ia-sem-revisao
+  '19:18':
+    texto: Para comerdes carnes de reis, carnes de comandantes, carnes de poderosos, carnes de cavalos
+      e dos que neles montam, e carnes de todos, livres e escravos, pequenos e grandes.”
+    status: ia-sem-revisao
+  '19:19':
+    texto: E vi a besta, os reis da terra e os seus exércitos reunidos para fazer guerra àquele que estava
+      montado no cavalo e ao seu exército.
+    status: ia-sem-revisao
+  '19:20':
+    texto: E a besta foi capturada, e com ela o falso profeta, o que fez diante dela os sinais com os
+      quais seduziu os que receberam a marca da besta e os que adoravam a sua imagem; os dois foram lançados
+      vivos no lago de fogo que arde com enxofre.
+    status: ia-sem-revisao
+  '19:21':
+    texto: E os restantes foram mortos pela espada daquele que estava montado no cavalo, a que saía da
+      sua boca, e todas as aves se saciaram das suas carnes.
+    status: ia-sem-revisao
+  '20:1':
+    texto: E vi um anjo que descia do céu, tendo a chave do abismo e uma grande corrente na mão.
+    status: ia-sem-revisao
+  '20:2':
+    texto: E prendeu o dragão, a serpente antiga, que é o Diabo e Satanás, e o acorrentou por mil anos,
+    status: ia-sem-revisao
+  '20:3':
+    texto: E lançou-o no abismo, e fechou-o e selou-o por cima, para que não seduzisse mais as nações
+      até que se completassem os mil anos; depois disso, é preciso que seja solto por um pouco de tempo.
+    status: ia-sem-revisao
+  '20:4':
+    texto: E vi tronos, e sentaram-se neles, e foi-lhes dado o poder de julgar; e vi as almas dos decapitados
+      por causa do testemunho de Jesus e por causa da palavra de Deus, e os que não adoraram a besta nem
+      a sua imagem e não receberam a marca na fronte e na mão; e viveram e reinaram com Cristo durante
+      mil anos.
+    status: ia-sem-revisao
+  '20:5':
+    texto: Os restantes dos mortos não viveram até que se completassem os mil anos. Esta é a primeira
+      ressurreição.
+    status: ia-sem-revisao
+  '20:6':
+    texto: Bem-aventurado e santo aquele que tem parte na primeira ressurreição; sobre estes a segunda
+      morte não tem poder, mas serão sacerdotes de Deus e de Cristo, e reinarão com ele durante mil anos.
+    status: ia-sem-revisao
+  '20:7':
+    texto: E quando se completarem os mil anos, Satanás será solto da sua prisão,
+    status: ia-sem-revisao
+  '20:8':
+    texto: E sairá para seduzir as nações que estão nos quatro cantos da terra, Gog e Magog, para reuni-las
+      para a guerra; o seu número é como a areia do mar.
+    status: ia-sem-revisao
+  '20:9':
+    texto: E subiram sobre a superfície da terra e cercaram o acampamento dos santos e a cidade amada.
+      E desceu fogo do céu e os devorou;
+    status: ia-sem-revisao
+  '20:10':
+    texto: E o diabo que os seduzia foi lançado no lago de fogo e enxofre, onde estão também a besta e
+      o falso profeta, e serão atormentados dia e noite pelos séculos dos séculos.
+    status: ia-sem-revisao
+  '20:11':
+    texto: E vi um grande trono branco e aquele que estava sentado nele, de cuja face fugiram a terra
+      e o céu, e não se achou lugar para eles.
+    status: ia-sem-revisao
+  '20:12':
+    texto: E vi os mortos, grandes e pequenos, em pé diante do trono, e abriram-se livros; e foi aberto
+      outro livro, que é o da vida; e os mortos foram julgados segundo o que estava escrito nos livros,
+      conforme as suas obras.
+    status: ia-sem-revisao
+  '20:13':
+    texto: E o mar entregou os mortos que nele havia, e a morte e o Hades entregaram os mortos que neles
+      havia, e foram julgados cada um segundo as suas obras.
+    status: ia-sem-revisao
+  '20:14':
+    texto: 'E a morte e o Hades foram lançados no lago de fogo. Esta é a segunda morte: o lago de fogo.'
+    status: ia-sem-revisao
+  '20:15':
+    texto: E se alguém não foi achado escrito no livro da vida, foi lançado no lago de fogo.
+    status: ia-sem-revisao
+  '21:1':
+    texto: E vi um céu novo e uma terra nova; pois o primeiro céu e a primeira terra passaram, e o mar
+      já não existe.
+    status: ia-sem-revisao
+  '21:2':
+    texto: E vi a cidade santa, a nova Jerusalém, que descia do céu, da parte de Deus, preparada como
+      uma noiva adornada para o seu marido.
+    status: ia-sem-revisao
+  '21:3':
+    texto: 'E ouvi uma grande voz que saía do trono, dizendo: “Eis a tenda de Deus com os homens; ele
+      habitará com eles, e eles serão os seus povos, e o próprio Deus estará com eles,'
+    status: ia-sem-revisao
+  '21:4':
+    texto: E enxugará toda lágrima dos seus olhos; e a morte já não existirá; nem luto, nem clamor, nem
+      dor existirão mais. As primeiras coisas passaram.”
+    status: ia-sem-revisao
+  '21:5':
+    texto: 'E disse o que estava sentado no trono: “Eis que faço novas todas as coisas.” E diz: “Escreve,
+      porque estas palavras são fiéis e verdadeiras.”'
+    partes:
+    - 'E disse o que estava sentado no trono: “Eis que faço novas todas as coisas.”'
+    - 'E diz: “Escreve, porque estas palavras são fiéis e verdadeiras.”'
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '21:6':
+    texto: 'E disse-me: “Está feito! Eu sou o Alfa e o Ômega, o princípio e o fim. Ao que tem sede darei
+      gratuitamente da fonte da água da vida.'
+    status: ia-sem-revisao
+  '21:7':
+    texto: O vencedor herdará estas coisas, e eu serei o seu Deus, e ele será o meu filho.
+    status: ia-sem-revisao
+  '21:8':
+    texto: Mas os covardes, os incrédulos, os abomináveis, os assassinos, os impuros, os feiticeiros,
+      os idólatras e todos os mentirosos terão a sua parte no lago que arde com fogo e enxofre, que é
+      a segunda morte.”
+    status: ia-sem-revisao
+  '21:9':
+    texto: 'E veio um dos sete anjos que tinham as sete taças cheias das sete últimas pragas, e falou
+      comigo, dizendo: “Vem, mostrar-te-ei a noiva, a esposa do Cordeiro.”'
+    partes:
+    - 'E veio um dos sete anjos que tinham as sete taças cheias das sete últimas pragas, e falou comigo,
+      dizendo:'
+    - “Vem, mostrar-te-ei a noiva, a esposa do Cordeiro.”
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '21:10':
+    texto: E levou-me em espírito a um grande e alto monte, e mostrou-me a cidade santa, Jerusalém, que
+      descia do céu, da parte de Deus,
+    status: ia-sem-revisao
+  '21:11':
+    texto: Tendo a glória de Deus; o seu brilho era semelhante a uma pedra preciosíssima, como pedra de
+      jaspe cristalino;
+    status: ia-sem-revisao
+  '21:12':
+    texto: 'Tinha um grande e alto muro, tinha doze portas, e sobre as portas doze anjos, e nomes inscritos,
+      que são os das doze tribos dos filhos de Israel:'
+    status: ia-sem-revisao
+  '21:13':
+    texto: Do nascente, três portas; do norte, três portas; do sul, três portas; e do poente, três portas;
+    status: ia-sem-revisao
+  '21:14':
+    texto: E o muro da cidade tinha doze alicerces, e sobre eles doze nomes, os dos doze apóstolos do
+      Cordeiro.
+    status: ia-sem-revisao
+  '21:15':
+    texto: E o que falava comigo tinha como medida uma cana de ouro, para medir a cidade, as suas portas
+      e o seu muro.
+    status: ia-sem-revisao
+  '21:16':
+    texto: 'E a cidade está disposta em quadrado, e o seu comprimento é igual à largura. E mediu a cidade
+      com a cana: doze mil estádios; o comprimento, a largura e a altura dela são iguais.'
+    status: ia-sem-revisao
+  '21:17':
+    texto: 'E mediu o seu muro: cento e quarenta e quatro côvados, medida humana, que é a do anjo.'
+    status: ia-sem-revisao
+  '21:18':
+    texto: E o material do seu muro era jaspe, e a cidade, ouro puro semelhante a vidro puro;
+    status: ia-sem-revisao
+  '21:19':
+    texto: 'Os alicerces do muro da cidade estavam adornados de toda pedra preciosa: o primeiro alicerce,
+      jaspe; o segundo, safira; o terceiro, calcedônia; o quarto, esmeralda;'
+    status: ia-sem-revisao
+  '21:20':
+    texto: O quinto, sardônica; o sexto, sardônio; o sétimo, crisólito; o oitavo, berilo; o nono, topázio;
+      o décimo, crisópraso; o undécimo, jacinto; o duodécimo, ametista;
+    status: ia-sem-revisao
+  '21:21':
+    texto: E as doze portas, doze pérolas; cada uma das portas era feita de uma só pérola; e a praça da
+      cidade, ouro puro como vidro transparente.
+    status: ia-sem-revisao
+  '21:22':
+    texto: E não vi nela santuário, pois o seu santuário é o Senhor Deus, o Todo-Poderoso, e o Cordeiro.
+    status: ia-sem-revisao
+  '21:23':
+    texto: E a cidade não tem necessidade do sol nem da lua para que brilhem sobre ela, pois a glória
+      de Deus a iluminou, e a sua lâmpada é o Cordeiro.
+    status: ia-sem-revisao
+  '21:24':
+    texto: E as nações andarão por meio da sua luz; e os reis da terra levam para ela a sua glória;
+    status: ia-sem-revisao
+  '21:25':
+    texto: E as suas portas de modo algum se fecharão de dia, pois ali não haverá noite,
+    status: ia-sem-revisao
+  '21:26':
+    texto: E levarão para ela a glória e a honra das nações.
+    status: ia-sem-revisao
+  '21:27':
+    texto: E de modo algum entrará nela algo profano, nem quem pratica abominação e mentira, mas somente
+      os que estão inscritos no livro da vida do Cordeiro.
+    status: ia-sem-revisao
+  '22:1':
+    texto: E mostrou-me um rio de água da vida, brilhante como cristal, que saía do trono de Deus e do
+      Cordeiro,
+    status: ia-sem-revisao
+  '22:2':
+    texto: No meio da sua praça; e de um lado e do outro do rio, a árvore da vida, que produz doze frutos,
+      dando o seu fruto cada mês, e as folhas da árvore servem para a cura das nações.
+    status: ia-sem-revisao
+  '22:3':
+    texto: E nada mais haverá de maldito. E o trono de Deus e do Cordeiro estará nela, e os seus servos
+      lhe prestarão culto,
+    status: ia-sem-revisao
+  '22:4':
+    texto: E verão a sua face, e o seu nome estará nas suas frontes.
+    status: ia-sem-revisao
+  '22:5':
+    texto: E noite já não haverá, e não têm necessidade de luz de lâmpada nem de luz do sol, porque o
+      Senhor Deus iluminará sobre eles, e reinarão pelos séculos dos séculos.
+    status: ia-sem-revisao
+  '22:6':
+    texto: 'E disse-me: “Estas palavras são fiéis e verdadeiras; e o Senhor, o Deus dos espíritos dos
+      profetas, enviou o seu anjo para mostrar aos seus servos o que deve acontecer em breve.'
+    status: ia-sem-revisao
+  '22:7':
+    texto: E eis que venho depressa. Bem-aventurado aquele que guarda as palavras da profecia deste livro.”
+    status: ia-sem-revisao
+  '22:8':
+    texto: E eu, João, sou o que ouviu e viu estas coisas. E quando ouvi e vi, caí para adorar diante
+      dos pés do anjo que me mostrava estas coisas.
+    status: ia-sem-revisao
+  '22:9':
+    texto: 'E diz-me: “Não faças isso! Sou teu companheiro de serviço e dos teus irmãos, os profetas,
+      e dos que guardam as palavras deste livro; adora a Deus!”'
+    status: ia-sem-revisao
+  '22:10':
+    texto: 'E diz-me: “Não seles as palavras da profecia deste livro, porque o tempo está próximo.'
+    status: ia-sem-revisao
+  '22:11':
+    texto: Quem comete injustiça continue a cometer injustiça, e quem é impuro continue impuro, e quem
+      é justo continue a praticar a justiça, e quem é santo continue a santificar-se.
+    status: ia-sem-revisao
+  '22:12':
+    texto: Eis que venho depressa, e a minha recompensa está comigo, para retribuir a cada um segundo
+      a sua obra.
+    status: ia-sem-revisao
+  '22:13':
+    texto: Eu sou o Alfa e o Ômega, o Primeiro e o Último, o princípio e o fim.
+    status: ia-sem-revisao
+  '22:14':
+    texto: Bem-aventurados os que lavam as suas vestes, para terem direito à árvore da vida e entrarem
+      na cidade pelas portas.
+    status: ia-sem-revisao
+  '22:15':
+    texto: Fora ficam os cães, os feiticeiros, os impuros, os assassinos, os idólatras e todo aquele que
+      ama e pratica a mentira.
+    status: ia-sem-revisao
+  '22:16':
+    texto: Eu, Jesus, enviei o meu anjo para vos testemunhar estas coisas nas igrejas. Eu sou a raiz e
+      a descendência de Davi, a estrela brilhante da manhã.”
+    status: ia-sem-revisao
+  '22:17':
+    texto: 'E o Espírito e a noiva dizem: “Vem!” E quem ouve diga: “Vem!” E quem tem sede venha; quem
+      quiser, receba gratuitamente a água da vida.'
+    status: ia-sem-revisao
+  '22:18':
+    texto: 'Eu testemunho a todo aquele que ouve as palavras da profecia deste livro: se alguém lhes acrescentar
+      algo, Deus acrescentará sobre ele as pragas escritas neste livro;'
+    status: ia-sem-revisao
+  '22:19':
+    texto: E se alguém tirar algo das palavras do livro desta profecia, Deus tirará a sua parte da árvore
+      da vida e da cidade santa, das coisas escritas neste livro.
+    status: ia-sem-revisao
+  '22:20':
+    texto: 'Diz aquele que testemunha estas coisas: “Sim, venho depressa.” Amém! Vem, Senhor Jesus!'
+    status: ia-sem-revisao
+  '22:21':
+    texto: A graça do Senhor Jesus esteja com todos.
+    status: ia-sem-revisao

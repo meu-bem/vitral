@@ -1,0 +1,88 @@
+livro: PHM
+fonte: sblgnt
+versiculos:
+  '1:1':
+    texto: Paulo, prisioneiro de Cristo Jesus, e Timóteo, o irmão, a Filêmon, o amado e nosso colaborador,
+    status: ia-sem-revisao
+  '1:2':
+    texto: 'E a Ápia, a irmã, e a Arquipo, nosso companheiro de luta, e à igreja que está em tua casa:'
+    status: ia-sem-revisao
+  '1:3':
+    texto: Graça e paz a vós, da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.
+    status: ia-sem-revisao
+  '1:4':
+    texto: Dou graças ao meu Deus, sempre me lembrando de ti nas minhas orações,
+    status: ia-sem-revisao
+  '1:5':
+    texto: Ouvindo falar do teu amor e da fé que tens para com o Senhor Jesus e para com todos os santos,
+    status: ia-sem-revisao
+  '1:6':
+    texto: Para que a comunhão da tua fé se torne eficaz no pleno conhecimento de todo o bem que há em
+      nós, para Cristo.
+    status: ia-sem-revisao
+  '1:7':
+    texto: Pois tive grande alegria e consolação pelo teu amor, porque o coração dos santos foi reconfortado
+      por ti, irmão.
+    status: ia-sem-revisao
+  '1:8':
+    texto: Por isso, embora tenha em Cristo plena liberdade para te ordenar o que convém,
+    status: ia-sem-revisao
+  '1:9':
+    texto: Prefiro, por causa do amor, pedir-te Sendo eu tal, como Paulo, idoso e agora também prisioneiro
+      de Cristo Jesus —
+    partes:
+    - Prefiro, por causa do amor, pedir-te
+    - Sendo eu tal, como Paulo, idoso e agora também prisioneiro de Cristo Jesus —
+    status: ia-sem-revisao
+  '1:10':
+    texto: Peço-te pelo meu filho, que gerei na prisão, Onésimo,
+    status: ia-sem-revisao
+  '1:11':
+    texto: Outrora inútil para ti, mas agora útil para ti e para mim,
+    status: ia-sem-revisao
+  '1:12':
+    texto: A quem te devolvi, ele mesmo, isto é, o meu próprio coração.
+    status: ia-sem-revisao
+  '1:13':
+    texto: Eu queria retê-lo junto de mim, para que em teu lugar me servisse nas prisões do Evangelho,
+    status: ia-sem-revisao
+  '1:14':
+    texto: Mas nada quis fazer sem o teu consentimento, para que o teu bem não fosse como que por obrigação,
+      e sim voluntário.
+    status: ia-sem-revisao
+  '1:15':
+    texto: Pois talvez por isso ele foi separado de ti por um tempo, para que o tenhas para sempre,
+    status: ia-sem-revisao
+  '1:16':
+    texto: Já não como escravo, mas acima de escravo, como irmão amado, sobretudo para mim, e quanto mais
+      para ti, tanto na carne como no Senhor.
+    status: ia-sem-revisao
+  '1:17':
+    texto: Se, pois, me tens como companheiro, acolhe-o como a mim.
+    status: ia-sem-revisao
+  '1:18':
+    texto: E se em algo ele te prejudicou ou te deve, põe isso na minha conta.
+    status: ia-sem-revisao
+  '1:19':
+    texto: 'Eu, Paulo, escrevi com a minha própria mão: eu pagarei, para não te dizer que tu me deves
+      até a ti mesmo.'
+    status: ia-sem-revisao
+  '1:20':
+    texto: Sim, irmão, que eu tenha de ti proveito no Senhor; reconforta o meu coração em Cristo.
+    status: ia-sem-revisao
+  '1:21':
+    texto: Confiando na tua obediência, escrevi-te, sabendo que farás ainda mais do que digo.
+    status: ia-sem-revisao
+  '1:22':
+    texto: Ao mesmo tempo, prepara-me também hospedagem, pois espero que, por meio das vossas orações,
+      eu vos seja concedido.
+    status: ia-sem-revisao
+  '1:23':
+    texto: Saúda-te Epafras, meu companheiro de prisão em Cristo Jesus,
+    status: ia-sem-revisao
+  '1:24':
+    texto: Marcos, Aristarco, Demas e Lucas, meus colaboradores.
+    status: ia-sem-revisao
+  '1:25':
+    texto: A graça do Senhor Jesus Cristo esteja com o vosso espírito.
+    status: ia-sem-revisao

@@ -1,0 +1,381 @@
+livro: WIS
+fonte: clementina
+versiculos:
+  '1:1':
+    texto: Amai a justiça, vós que julgais a terra; pensai do Senhor com bondade e buscai-o na simplicidade
+      do coração,
+    status: ia-sem-revisao
+    observacao: Livro deuterocanônico, traduzido do latim (Clementina).
+  '1:2':
+    texto: pois ele se deixa encontrar por aqueles que não o tentam e se manifesta aos que nele têm fé.
+    status: ia-sem-revisao
+  '1:3':
+    texto: Os pensamentos perversos separam de Deus, e a virtude posta à prova confunde os insensatos.
+    status: ia-sem-revisao
+  '1:4':
+    texto: Pois a sabedoria não entrará numa alma malévola, nem habitará num corpo sujeito ao pecado.
+    status: ia-sem-revisao
+  '1:5':
+    texto: Com efeito, o Espírito Santo da disciplina fugirá do que é fingido, afastar-se-á dos pensamentos
+      sem inteligência e será repelido pela iniquidade que sobrevém.
+    status: ia-sem-revisao
+  '1:6':
+    texto: Benigno é o espírito da sabedoria, e não deixará impune o maldizente pelos seus lábios, porque
+      Deus é testemunha dos seus rins, verdadeiro perscrutador do seu coração e ouvinte da sua língua.
+    status: ia-sem-revisao
+  '1:7':
+    texto: Pois o espírito do Senhor encheu o orbe da terra, e aquele que contém todas as coisas tem conhecimento
+      da voz.
+    status: ia-sem-revisao
+  '1:13':
+    texto: Porque Deus não fez a morte, nem se alegra com a perdição dos vivos.
+    status: ia-sem-revisao
+  '1:14':
+    texto: Criou todas as coisas para que existissem, e fez sãs as nações do orbe da terra; nelas não
+      há veneno de extermínio, nem reino dos infernos sobre a terra.
+    status: ia-sem-revisao
+  '1:15':
+    texto: Pois a justiça é perpétua e imortal.
+    status: ia-sem-revisao
+  '2:1':
+    texto: 'Disseram, com efeito, pensando entre si de modo não reto: “Breve e penoso é o tempo da nossa
+      vida, não há alívio no fim do homem, e não se conhece quem tenha voltado dos infernos.'
+    partes:
+    - 'Disseram, com efeito, pensando entre si de modo não reto:'
+    - “Breve e penoso é o tempo da nossa vida, não há alívio no fim do homem, e não se conhece quem tenha
+      voltado dos infernos.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '2:12':
+    texto: Armemos ciladas ao justo, porque nos é inútil, opõe-se às nossas obras, censura-nos as faltas
+      contra a lei e nos difama as faltas contra a nossa educação.
+    status: ia-sem-revisao
+  '2:13':
+    texto: Promete ter o conhecimento de Deus e chama-se filho de Deus.
+    status: ia-sem-revisao
+  '2:14':
+    texto: Tornou-se para nós uma censura dos nossos pensamentos.
+    status: ia-sem-revisao
+  '2:15':
+    texto: É-nos pesado até de ver, porque a sua vida é diferente da dos outros, e os seus caminhos são
+      diversos.
+    status: ia-sem-revisao
+  '2:16':
+    texto: Fomos considerados por ele como coisas vãs, e ele se abstém dos nossos caminhos como de imundícies;
+      proclama feliz o fim dos justos e gloria-se de ter Deus por pai.
+    status: ia-sem-revisao
+  '2:17':
+    texto: Vejamos, pois, se as suas palavras são verdadeiras, e experimentemos o que lhe vai acontecer,
+      e saberemos qual será o seu fim.
+    status: ia-sem-revisao
+  '2:18':
+    texto: Se de fato é filho de Deus, ele o acolherá e o livrará das mãos dos adversários.
+    status: ia-sem-revisao
+  '2:19':
+    texto: Interroguemo-lo com insultos e tormentos, para conhecermos a sua serenidade e pormos à prova
+      a sua paciência.
+    status: ia-sem-revisao
+  '2:20':
+    texto: Condenemo-lo a uma morte vergonhosa, pois, conforme as suas palavras, haverá atenção para com
+      ele.”
+    status: ia-sem-revisao
+  '2:21':
+    texto: 'Assim pensaram, e erraram: a sua malícia os cegou.'
+    status: ia-sem-revisao
+  '2:22':
+    texto: Não conheceram os mistérios de Deus, nem esperaram recompensa para a justiça, nem julgaram
+      a honra das almas santas.
+    status: ia-sem-revisao
+  '2:23':
+    texto: Porque Deus criou o homem incorruptível e o fez à imagem da sua semelhança.
+    status: ia-sem-revisao
+  '2:24':
+    texto: Mas pela inveja do diabo a morte entrou no mundo.
+    status: ia-sem-revisao
+  '3:1':
+    texto: As almas dos justos estão na mão de Deus, e o tormento da morte não os tocará.
+    status: ia-sem-revisao
+  '3:2':
+    texto: Aos olhos dos insensatos pareceram morrer, e a sua partida foi considerada uma aflição,
+    status: ia-sem-revisao
+  '3:3':
+    texto: e a sua saída de entre nós, um extermínio; eles, porém, estão em paz.
+    status: ia-sem-revisao
+  '3:4':
+    texto: Embora tenham sofrido tormentos diante dos homens, a sua esperança está cheia de imortalidade.
+    status: ia-sem-revisao
+  '3:5':
+    texto: Por pouco foram afligidos, por muito serão bem recompensados, porque Deus os provou e os achou
+      dignos de si.
+    status: ia-sem-revisao
+  '3:6':
+    texto: Como ouro na fornalha os provou, e como hóstia de holocausto os acolheu; e no tempo da visita
+      haverá atenção para com eles.
+    status: ia-sem-revisao
+  '3:7':
+    texto: Resplandecerão os justos e correrão como centelhas no canavial.
+    status: ia-sem-revisao
+  '3:8':
+    texto: Julgarão as nações e dominarão os povos, e o Senhor reinará sobre eles para sempre.
+    status: ia-sem-revisao
+  '3:9':
+    texto: Os que confiam nele compreenderão a verdade, e os fiéis no amor repousarão nele, porque a graça
+      e a paz são para os seus eleitos.
+    status: ia-sem-revisao
+  '6:1':
+    texto: Melhor é a sabedoria do que a força, e o homem prudente, do que o forte.
+    status: ia-sem-revisao
+  '6:2':
+    texto: Ouvi, pois, reis, e entendei; aprendei, juízes dos confins da terra.
+    status: ia-sem-revisao
+  '6:3':
+    texto: Prestai ouvidos, vós que governais as multidões e vos comprazeis nas turbas das nações.
+    status: ia-sem-revisao
+  '6:4':
+    texto: Porque o poder vos foi dado pelo Senhor, e a força, pelo Altíssimo, que examinará as vossas
+      obras e perscrutará os vossos pensamentos.
+    status: ia-sem-revisao
+  '6:5':
+    texto: Pois, sendo ministros do seu reino, não julgastes retamente, nem guardastes a lei da justiça,
+      nem andastes segundo a vontade de Deus.
+    status: ia-sem-revisao
+  '6:6':
+    texto: De modo terrível e rápido ele aparecerá a vós, porque um juízo muito duro cai sobre os que
+      governam.
+    status: ia-sem-revisao
+  '6:7':
+    texto: Ao pequeno se concede misericórdia, mas os poderosos serão poderosamente atormentados.
+    status: ia-sem-revisao
+  '6:8':
+    texto: Pois Deus não fará acepção de pessoa alguma, nem temerá a grandeza de ninguém, porque ele fez
+      o pequeno e o grande, e tem cuidado igual de todos.
+    status: ia-sem-revisao
+  '6:9':
+    texto: Mas sobre os mais fortes impende um castigo mais forte.
+    status: ia-sem-revisao
+  '6:10':
+    texto: A vós, pois, reis, dirigem-se estas minhas palavras, para que aprendais a sabedoria e não caiais.
+    status: ia-sem-revisao
+  '6:11':
+    texto: Pois os que guardarem com justiça as coisas justas serão justificados, e os que as aprenderem
+      encontrarão o que responder.
+    status: ia-sem-revisao
+  '6:12':
+    texto: Desejai, pois, as minhas palavras, amai-as, e tereis instrução.
+    status: ia-sem-revisao
+  '6:13':
+    texto: Brilhante e imarcescível é a sabedoria; facilmente é vista por quem a ama e achada por quem
+      a procura.
+    status: ia-sem-revisao
+  '6:14':
+    texto: Antecipa-se aos que a desejam, para se mostrar a eles primeiro.
+    status: ia-sem-revisao
+  '6:15':
+    texto: Quem madrugar por ela não se cansará, pois a encontrará sentada à sua porta.
+    status: ia-sem-revisao
+  '6:16':
+    texto: Pensar nela é, pois, a perfeição da inteligência, e quem vigiar por causa dela logo estará
+      seguro.
+    status: ia-sem-revisao
+  '7:7':
+    texto: Por isso orei, e foi-me dada a inteligência; invoquei, e veio a mim o espírito da sabedoria,
+    status: ia-sem-revisao
+  '7:8':
+    texto: e preferi-a aos cetros e aos tronos, e considerei as riquezas como nada em comparação com ela.
+    status: ia-sem-revisao
+  '7:9':
+    texto: Nem lhe comparei a pedra preciosa, porque todo o ouro, em comparação com ela, é pouca areia,
+      e a prata será considerada como lama diante dela.
+    status: ia-sem-revisao
+  '7:10':
+    texto: Amei-a mais do que a saúde e a beleza, e propus-me tê-la como luz, porque a sua claridade não
+      se extingue.
+    status: ia-sem-revisao
+  '7:11':
+    texto: Vieram a mim todos os bens juntamente com ela, e uma honestidade incontável pelas suas mãos;
+    status: ia-sem-revisao
+  '7:15':
+    texto: Deus concedeu-me falar conforme o meu pensamento e conceber coisas dignas dos dons que recebo,
+      porque ele é guia da sabedoria e corretor dos sábios.
+    status: ia-sem-revisao
+  '7:16':
+    texto: Em sua mão estamos nós e as nossas palavras, toda a sabedoria, o conhecimento das obras e a
+      instrução.
+    status: ia-sem-revisao
+  '7:22':
+    texto: Há nela um espírito de inteligência, santo, único, múltiplo, sutil, eloquente, ágil, imaculado,
+      claro, suave, amante do bem, agudo, que nada impede, benfazejo,
+    status: ia-sem-revisao
+  '7:23':
+    texto: humano, benigno, estável, certo, seguro, com todo o poder, que tudo vê e penetra todos os espíritos,
+      inteligível, puro, sutil.
+    status: ia-sem-revisao
+  '7:24':
+    texto: Pois a sabedoria é mais móvel que todos os movimentos e penetra em toda parte por causa da
+      sua pureza.
+    status: ia-sem-revisao
+  '7:25':
+    texto: 'Ela é vapor do poder de Deus e emanação pura da glória do Deus onipotente; por isso nada de
+      impuro cai sobre ela:'
+    status: ia-sem-revisao
+  '7:26':
+    texto: Ela é o resplendor da luz eterna, espelho sem mancha da majestade de Deus e imagem da sua bondade.
+    status: ia-sem-revisao
+  '7:27':
+    texto: Sendo uma só, tudo pode; permanecendo em si, tudo renova; e através das gerações passa para
+      as almas santas, constituindo amigos de Deus e profetas.
+    status: ia-sem-revisao
+  '7:28':
+    texto: Pois Deus não ama ninguém, a não ser quem habita com a sabedoria.
+    status: ia-sem-revisao
+  '7:29':
+    texto: Ela é mais bela do que o sol e do que toda a disposição das estrelas; comparada com a luz,
+      é achada superior.
+    status: ia-sem-revisao
+  '7:30':
+    texto: A esta, com efeito, sucede a noite; mas a sabedoria a malícia não vence.
+    status: ia-sem-revisao
+  '8:1':
+    texto: Ela se estende, portanto, de um extremo ao outro com força e dispõe tudo com suavidade.
+    status: ia-sem-revisao
+  '9:13':
+    texto: Pois que homem poderá conhecer o desígnio de Deus? Ou quem poderá pensar o que Deus quer?
+    status: ia-sem-revisao
+  '9:14':
+    texto: Os pensamentos dos mortais são tímidos, e incertas as nossas previsões;
+    status: ia-sem-revisao
+  '9:15':
+    texto: pois o corpo que se corrompe pesa sobre a alma, e a morada terrena oprime a mente que pensa
+      em muitas coisas.
+    status: ia-sem-revisao
+  '9:16':
+    texto: Com dificuldade avaliamos o que há na terra, e o que está à vista encontramos com trabalho;
+      o que está nos céus, quem o investigará?
+    status: ia-sem-revisao
+  '9:17':
+    texto: E o teu pensamento, quem o conhecerá, se tu não deres a sabedoria e não enviares das alturas
+      o teu Espírito Santo,
+    status: ia-sem-revisao
+  '9:18':
+    texto: para que se endireitem as veredas dos que estão na terra, e os homens aprendam o que te agrada?
+    status: ia-sem-revisao
+  '11:22':
+    texto: Pois ter grande poder sempre foi só teu; e quem resistirá à força do teu braço?
+    status: ia-sem-revisao
+  '11:23':
+    texto: Porque o orbe da terra é diante de ti como o peso mínimo da balança, como a gota de orvalho
+      matinal que desce sobre a terra.
+    status: ia-sem-revisao
+  '11:24':
+    texto: Mas tens compaixão de todos, porque tudo podes, e fechas os olhos aos pecados dos homens, para
+      que se arrependam.
+    status: ia-sem-revisao
+  '11:25':
+    texto: Pois amas tudo o que existe e nada odeias do que fizeste; com efeito, se odiasses algo, não
+      o terias formado nem feito.
+    status: ia-sem-revisao
+  '11:26':
+    texto: Como poderia subsistir algo, se tu não quisesses? Ou como se conservaria o que por ti não tivesse
+      sido chamado?
+    status: ia-sem-revisao
+  '12:1':
+    texto: Ó Senhor, como é bom e suave o teu espírito em todas as coisas!
+    status: ia-sem-revisao
+  '12:2':
+    texto: Por isso corriges por partes os que erram, e admoestas e falas àqueles que pecam, para que,
+      deixada a malícia, creiam em ti, Senhor.
+    status: ia-sem-revisao
+  '12:13':
+    texto: Pois não há outro deus além de ti, que cuides de todos, para mostrares que não julgas injustamente.
+    status: ia-sem-revisao
+  '12:16':
+    texto: Pois o teu poder é princípio da justiça, e, porque és o Senhor de todos, fazes que poupes a
+      todos.
+    status: ia-sem-revisao
+  '12:17':
+    texto: Mostras o teu poder diante dos que não creem que ele seja perfeito, e confundes a audácia dos
+      que o desconhecem.
+    status: ia-sem-revisao
+  '12:18':
+    texto: Tu, porém, dominador do poder, julgas com serenidade e nos governas com grande reverência;
+      pois está ao teu alcance poder quando quiseres.
+    status: ia-sem-revisao
+  '12:19':
+    texto: Com tais obras ensinaste ao teu povo que é preciso ser justo e humano, e deste aos teus filhos
+      boa esperança, porque, ao julgar, dás lugar ao arrependimento nos pecados.
+    status: ia-sem-revisao
+  '13:1':
+    texto: Vãos são todos os homens em quem não há o conhecimento de Deus; a partir dos bens visíveis,
+      não souberam compreender aquele que é, nem, atentando às obras, reconheceram quem era o artífice,
+    status: ia-sem-revisao
+  '13:2':
+    texto: mas julgaram deuses, governantes do orbe da terra, o fogo, ou o vento, ou o ar veloz, ou o
+      círculo das estrelas, ou a água impetuosa, ou o sol e a lua.
+    status: ia-sem-revisao
+  '13:3':
+    texto: Se, deleitados com a beleza deles, os julgaram deuses, saibam quanto o seu Senhor é mais belo
+      do que eles, pois o gerador da beleza os constituiu a todos.
+    status: ia-sem-revisao
+  '13:4':
+    texto: Ou, se admiraram o seu poder e as suas obras, compreendam, por meio deles, que quem os fez
+      é mais forte do que eles;
+    status: ia-sem-revisao
+  '13:5':
+    texto: pois pela grandeza da beleza e da criatura se pode, por analogia, contemplar o seu criador.
+    status: ia-sem-revisao
+  '13:6':
+    texto: Contudo, ainda é menor a queixa contra estes, pois talvez errem procurando Deus e querendo
+      encontrá-lo.
+    status: ia-sem-revisao
+  '13:7':
+    texto: Com efeito, ao viverem entre as suas obras, investigam e ficam persuadidos de que são boas
+      as coisas que veem.
+    status: ia-sem-revisao
+  '13:8':
+    texto: Mas também a estes não se deve perdoar.
+    status: ia-sem-revisao
+  '13:9':
+    texto: Pois, se puderam saber tanto que lhes foi possível avaliar o mundo, como não encontraram mais
+      facilmente o Senhor dele?
+    status: ia-sem-revisao
+  '18:6':
+    texto: Aquela noite foi previamente conhecida por nossos pais, para que, sabendo com certeza a quais
+      juramentos tinham dado crédito, ficassem mais tranquilos.
+    status: ia-sem-revisao
+  '18:7':
+    texto: Foi esperada pelo teu povo a salvação dos justos e a destruição dos injustos.
+    status: ia-sem-revisao
+  '18:8':
+    texto: Com efeito, como feriste os adversários, assim nos glorificaste, chamando-nos a ti.
+    status: ia-sem-revisao
+  '18:9':
+    texto: 'Em segredo ofereciam sacrifícios os piedosos filhos dos bons, e de comum acordo estabeleceram
+      a lei da justiça: que os justos receberiam igualmente os bens e os males, entoando já os louvores
+      dos pais.'
+    status: ia-sem-revisao
+  '18:14':
+    texto: Quando um silêncio tranquilo envolvia todas as coisas, e a noite estava na metade do seu curso,
+    status: ia-sem-revisao
+  '18:15':
+    texto: a tua palavra onipotente, do céu, dos tronos reais, como duro guerreiro, saltou no meio da
+      terra de extermínio,
+    status: ia-sem-revisao
+  '18:16':
+    texto: trazendo, como espada afiada, o teu decreto sem fingimento; e, de pé, encheu tudo de morte,
+      e tocava o céu estando sobre a terra.
+    status: ia-sem-revisao
+  '19:6':
+    texto: Pois toda criatura, desde o princípio, era de novo modelada na sua própria espécie, servindo
+      às tuas ordens, para que os teus filhos fossem guardados ilesos.
+    status: ia-sem-revisao
+  '19:7':
+    texto: Com efeito, a nuvem cobria de sombra o seu acampamento, e do que antes era água apareceu terra
+      seca, e no mar Vermelho um caminho sem obstáculo, e um campo verdejante do abismo profundo,
+    status: ia-sem-revisao
+  '19:8':
+    texto: por onde passou toda a nação protegida pela tua mão, vendo os teus prodígios e maravilhas.
+    status: ia-sem-revisao
+  '19:9':
+    texto: Pois, como cavalos, pastaram, e, como cordeiros, saltaram de alegria, glorificando-te, Senhor,
+      que os libertaste.
+    status: ia-sem-revisao

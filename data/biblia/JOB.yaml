@@ -1,0 +1,290 @@
+livro: JOB
+fonte: oshb
+versiculos:
+  '1:6':
+    texto: Certo dia, os filhos de Deus vieram apresentar-se diante do Senhor, e entre eles veio também
+      Satanás.
+    status: ia-sem-revisao
+  '1:7':
+    texto: 'O Senhor disse a Satanás: “De onde vens?” Satanás respondeu ao Senhor: “De percorrer a terra
+      e de andar por ela.”'
+    status: ia-sem-revisao
+  '1:8':
+    texto: 'O Senhor disse a Satanás: “Reparaste no meu servo Jó? Não há ninguém como ele na terra: homem
+      íntegro e reto, que teme a Deus e se afasta do mal.”'
+    status: ia-sem-revisao
+  '1:9':
+    texto: 'Satanás respondeu ao Senhor: “Acaso é de graça que Jó teme a Deus?'
+    status: ia-sem-revisao
+  '1:10':
+    texto: Não foste tu quem fez uma cerca em volta dele, da sua casa e de tudo o que ele tem? Abençoaste
+      a obra das suas mãos, e os seus rebanhos se expandem pela terra.
+    status: ia-sem-revisao
+  '1:11':
+    texto: 'Mas estende a tua mão e toca em tudo o que é dele: verás se não te amaldiçoa na tua face.”'
+    status: ia-sem-revisao
+  '1:12':
+    texto: 'O Senhor disse a Satanás: “Eis que tudo o que ele possui está em tuas mãos; somente contra
+      ele não estendas a tua mão.” E Satanás saiu da presença do Senhor.'
+    status: ia-sem-revisao
+  '1:13':
+    texto: Certo dia, os seus filhos e filhas comiam e bebiam vinho na casa do irmão primogênito.
+    status: ia-sem-revisao
+  '1:14':
+    texto: 'Veio um mensageiro a Jó e disse: “Os bois lavravam, e as jumentas pastavam ao lado deles,'
+    status: ia-sem-revisao
+  '1:15':
+    texto: quando os sabeus se lançaram sobre eles e os levaram, e passaram os servos ao fio da espada;
+      só eu escapei para te contar.”
+    status: ia-sem-revisao
+  '1:16':
+    texto: 'Enquanto este ainda falava, veio outro e disse: “Fogo de Deus caiu do céu, queimou as ovelhas
+      e os servos e os consumiu; só eu escapei para te contar.”'
+    status: ia-sem-revisao
+  '1:17':
+    texto: 'Enquanto este ainda falava, veio outro e disse: “Os caldeus formaram três bandos, lançaram-se
+      sobre os camelos e os levaram, e passaram os servos ao fio da espada; só eu escapei para te contar.”'
+    status: ia-sem-revisao
+  '1:18':
+    texto: 'Enquanto este ainda falava, veio outro e disse: “Os teus filhos e filhas comiam e bebiam vinho
+      na casa do irmão primogênito,'
+    status: ia-sem-revisao
+  '1:19':
+    texto: e eis que um grande vento veio do outro lado do deserto, atingiu os quatro cantos da casa,
+      e ela caiu sobre os jovens, que morreram; só eu escapei para te contar.”
+    status: ia-sem-revisao
+  '1:20':
+    texto: Jó levantou-se, rasgou o seu manto, rapou a cabeça, caiu por terra e se prostrou.
+    status: ia-sem-revisao
+  '1:21':
+    texto: 'Disse: “Nu saí do ventre de minha mãe, e nu voltarei para lá. O Senhor deu, o Senhor tirou;
+      bendito seja o nome do Senhor.”'
+    status: ia-sem-revisao
+  '1:22':
+    texto: Em tudo isso Jó não pecou nem atribuiu a Deus nada de insensato.
+    status: ia-sem-revisao
+  '3:1':
+    texto: Depois disso, Jó abriu a boca e amaldiçoou o seu dia.
+    status: ia-sem-revisao
+  '3:2':
+    texto: 'Jó tomou a palavra e disse:'
+    status: ia-sem-revisao
+  '3:3':
+    texto: '“Pereça o dia em que nasci e a noite que disse: ‘Foi concebido um homem!’'
+    status: ia-sem-revisao
+  '3:4':
+    texto: Aquele dia seja trevas; que Deus, do alto, não se preocupe com ele, nem sobre ele brilhe a
+      luz.
+    partes:
+    - Aquele dia seja trevas;
+    - que Deus, do alto, não se preocupe com ele, nem sobre ele brilhe a luz.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '3:11':
+    texto: Por que não morri desde o ventre? Por que não expirei ao sair das entranhas?
+    status: ia-sem-revisao
+  '3:12':
+    texto: Por que me acolheram os joelhos, e para que os seios, para que eu mamasse?
+    status: ia-sem-revisao
+  '3:13':
+    texto: Agora estaria deitado e tranquilo; dormiria, e então teria repouso
+    status: ia-sem-revisao
+  '3:14':
+    texto: com os reis e conselheiros da terra, que edificam para si ruínas,
+    status: ia-sem-revisao
+  '3:15':
+    texto: ou com os príncipes que têm ouro e enchem de prata as suas casas;
+    status: ia-sem-revisao
+  '3:16':
+    texto: ou, como um aborto escondido, eu não existiria, como as crianças que nunca viram a luz.
+    status: ia-sem-revisao
+  '3:17':
+    texto: Ali os ímpios cessam de agitar-se, e ali repousam os esgotados de forças.
+    status: ia-sem-revisao
+  '3:20':
+    texto: Por que se dá luz ao que sofre, e vida aos de alma amargurada,
+    status: ia-sem-revisao
+  '3:21':
+    texto: que esperam a morte, e ela não vem, e a procuram mais do que tesouros escondidos,
+    status: ia-sem-revisao
+  '3:22':
+    texto: que se alegram até exultar e se regozijam ao encontrar o sepulcro?
+    status: ia-sem-revisao
+  '3:23':
+    texto: Por que dar luz ao homem cujo caminho está oculto e a quem Deus cercou por todos os lados?
+    status: ia-sem-revisao
+  '7:1':
+    texto: Não é uma luta o tempo do homem sobre a terra? Os seus dias não são como os de um jornaleiro?
+    status: ia-sem-revisao
+  '7:2':
+    texto: Como o escravo suspira pela sombra, como o jornaleiro espera o seu salário,
+    status: ia-sem-revisao
+  '7:3':
+    texto: assim me couberam meses de vazio, e noites de fadiga me foram destinadas.
+    status: ia-sem-revisao
+  '7:4':
+    texto: 'Se me deito, digo: ‘Quando me levantarei?’ Mas a tarde se prolonga, e farto-me de agitação
+      até a aurora.'
+    status: ia-sem-revisao
+  '7:6':
+    texto: Os meus dias correram mais velozes que a naveta do tecelão e acabaram sem esperança.
+    status: ia-sem-revisao
+  '7:7':
+    texto: Lembra-te de que a minha vida é um sopro; os meus olhos não voltarão a ver o bem.
+    status: ia-sem-revisao
+  '9:1':
+    texto: 'Jó tomou a palavra e disse:'
+    status: ia-sem-revisao
+  '9:2':
+    texto: '“Na verdade, sei que é assim: como seria justo o homem diante de Deus?'
+    status: ia-sem-revisao
+  '9:3':
+    texto: Se quisesse discutir com ele, não lhe poderia responder uma vez em mil.
+    status: ia-sem-revisao
+  '9:4':
+    texto: Ele é sábio de coração e forte em poder; quem o enfrentou e saiu ileso?
+    status: ia-sem-revisao
+  '9:5':
+    texto: Ele remove montes sem que o saibam, e os revolve na sua ira;
+    status: ia-sem-revisao
+  '9:6':
+    texto: sacode a terra do seu lugar, e as suas colunas estremecem;
+    status: ia-sem-revisao
+  '9:7':
+    texto: manda ao sol, e ele não nasce, e põe selo sobre as estrelas;
+    status: ia-sem-revisao
+  '9:8':
+    texto: só ele estende os céus e pisa as costas do mar;
+    status: ia-sem-revisao
+  '9:9':
+    texto: faz a Ursa, o Órion, as Plêiades e as câmaras do sul;
+    status: ia-sem-revisao
+  '9:10':
+    texto: faz coisas grandes, insondáveis, e maravilhas sem número.
+    status: ia-sem-revisao
+  '9:11':
+    texto: Se passa por mim, não o vejo; se se vai, não o percebo.
+    status: ia-sem-revisao
+  '9:12':
+    texto: 'Se arrebata, quem o fará devolver? Quem lhe dirá: ‘Que fazes?’'
+    status: ia-sem-revisao
+  '9:14':
+    texto: Quanto menos eu lhe responderia, escolhendo palavras para com ele!
+    status: ia-sem-revisao
+  '9:15':
+    texto: Mesmo que eu tivesse razão, não lhe responderia; ao meu juiz pediria misericórdia.
+    status: ia-sem-revisao
+  '9:16':
+    texto: Se o invocasse e ele me respondesse, eu não creria que escutou a minha voz.
+    status: ia-sem-revisao
+  '19:21':
+    texto: Tende piedade de mim, tende piedade, vós, meus amigos, pois a mão de Deus me tocou!
+    status: ia-sem-revisao
+  '19:22':
+    texto: Por que me perseguis como Deus e não vos saciais da minha carne?
+    status: ia-sem-revisao
+  '19:23':
+    texto: Quem me dera que as minhas palavras fossem escritas, que fossem gravadas num livro,
+    status: ia-sem-revisao
+  '19:24':
+    texto: com estilete de ferro e chumbo, para sempre esculpidas na rocha!
+    status: ia-sem-revisao
+  '19:25':
+    texto: 'Eu sei: o meu redentor vive, e por último sobre o pó se levantará.'
+    status: ia-sem-revisao
+  '19:26':
+    texto: Depois que esta minha pele for destruída, ainda da minha carne verei a Deus.
+    status: ia-sem-revisao
+  '19:27':
+    texto: Eu mesmo o contemplarei para mim; os meus olhos o verão, e não um estranho. Os meus rins se
+      consomem dentro de mim.
+    status: ia-sem-revisao
+  '38:1':
+    texto: 'O Senhor respondeu a Jó do meio da tempestade e disse:'
+    status: ia-sem-revisao
+  '38:8':
+    texto: Quem fechou o mar com portas quando irrompia, saindo do seio materno,
+    status: ia-sem-revisao
+  '38:9':
+    texto: quando pus as nuvens por veste e a névoa por faixas?
+    status: ia-sem-revisao
+  '38:10':
+    texto: Quando lhe impus o meu limite e coloquei trincos e portas,
+    status: ia-sem-revisao
+  '38:11':
+    texto: 'e disse: ‘Até aqui virás e não passarás; aqui parará a soberba das tuas ondas’?'
+    status: ia-sem-revisao
+  '38:12':
+    texto: Alguma vez, nos teus dias, deste ordem à manhã ou mostraste à aurora o seu lugar,
+    status: ia-sem-revisao
+  '38:13':
+    texto: para que agarrasse as extremidades da terra e dela fossem sacudidos os ímpios,
+    status: ia-sem-revisao
+  '38:14':
+    texto: e ela se transformasse como argila sob o selo, e tudo se apresentasse como uma veste?
+    status: ia-sem-revisao
+  '38:15':
+    texto: Aos ímpios é negada a sua luz, e o braço erguido é quebrado.
+    status: ia-sem-revisao
+  '38:16':
+    texto: Chegaste até as fontes do mar ou andaste pelo fundo do abismo?
+    status: ia-sem-revisao
+  '38:17':
+    texto: Foram-te reveladas as portas da morte? Viste as portas da sombra da morte?
+    status: ia-sem-revisao
+  '38:18':
+    texto: Examinaste a largura da terra? Conta-me, se sabes tudo isso.
+    status: ia-sem-revisao
+  '38:19':
+    texto: Qual é o caminho para a morada da luz? E as trevas, onde é o seu lugar,
+    status: ia-sem-revisao
+  '38:20':
+    texto: para que as leves ao seu território e discirnas as veredas da sua casa?
+    status: ia-sem-revisao
+  '38:21':
+    texto: Tu o sabes, pois então já eras nascido, e o número dos teus dias é grande!
+    status: ia-sem-revisao
+  '40:3':
+    texto: 'Jó respondeu ao Senhor e disse:'
+    status: ia-sem-revisao
+  '40:4':
+    texto: '“Eis que sou pequeno: que te responderei? Ponho a mão sobre a minha boca.'
+    status: ia-sem-revisao
+  '42:1':
+    texto: 'Jó respondeu ao Senhor e disse:'
+    status: ia-sem-revisao
+  '42:2':
+    texto: “Sei que tudo podes e que nenhum propósito teu pode ser impedido.
+    status: ia-sem-revisao
+  '42:3':
+    texto: ‘Quem é este que obscurece o conselho sem conhecimento?’ Sim, falei do que não entendia, de
+      coisas maravilhosas demais para mim, que não conheço.
+    status: ia-sem-revisao
+  '42:5':
+    texto: Eu te conhecia só de ouvir falar, mas agora os meus olhos te veem.
+    status: ia-sem-revisao
+  '42:6':
+    texto: Por isso me rejeito e me arrependo, sobre o pó e a cinza.”
+    status: ia-sem-revisao
+    observacao: O verbo “rejeitar” não traz objeto no hebraico; pode ser “rejeito o que disse”.
+  '42:12':
+    texto: 'O Senhor abençoou o fim de Jó mais do que o seu começo: teve catorze mil ovelhas, seis mil
+      camelos, mil juntas de bois e mil jumentas.'
+    status: ia-sem-revisao
+  '42:13':
+    texto: Teve também sete filhos e três filhas.
+    status: ia-sem-revisao
+  '42:14':
+    texto: À primeira chamou Jemima; à segunda, Quésia; e à terceira, Querém-Hapuque.
+    status: ia-sem-revisao
+  '42:15':
+    texto: Em toda a terra não se acharam mulheres tão belas como as filhas de Jó; e o pai lhes deu herança
+      no meio dos irmãos.
+    status: ia-sem-revisao
+  '42:16':
+    texto: Depois disso, Jó viveu cento e quarenta anos e viu os seus filhos e os filhos dos seus filhos,
+      até a quarta geração.
+    status: ia-sem-revisao
+  '42:17':
+    texto: Jó morreu velho e saciado de dias.
+    status: ia-sem-revisao
