@@ -1,7 +1,8 @@
 """HTML (XHTML válido) compartilhado pelo PDF e pelo EPUB.
 
-Todo o texto aqui é de interface: títulos, rótulos e explicações de uso.
-Nenhum texto espiritual é gerado; o único texto corrido vem de conteudo/ (humano e licenciado).
+O texto aqui é de interface (títulos, rótulos e explicações de uso), mais duas fontes de texto corrido:
+as leituras, traduzidas por IA a partir do original (data/biblia/, sem revisão humana, avisado na abertura),
+e os comentários de conteudo/ (humanos e licenciados). Nenhum texto espiritual é gerado.
 """
 
 from __future__ import annotations
@@ -13,6 +14,7 @@ from markdown_it import MarkdownIt
 
 from ..content import LICENSE_LABELS
 from ..liturgy.model import Color
+from ..reading_text import reading_verses
 from .calendar_image import FILL
 from .model import BookDay, BookYear
 
@@ -31,6 +33,16 @@ SOURCES = [
      "https://www.cnbb.org.br/wp-content/uploads/2021/10/56-Celebrar-e-Familia-NSraAparecida.pdf",
      "referências das leituras da solenidade de Nossa Senhora Aparecida"),
 ]
+TRANSLATION_BASES = [
+    ("SBL Greek New Testament (SBLGNT), © Society of Biblical Literature e Logos Bible Software", "CC BY 4.0",
+     "https://sblgnt.com/", "texto-base do Novo Testamento; o grego não é publicado e a tradução é nova"),
+    ("Open Scriptures Hebrew Bible (OSHB), Códice de Leningrado", "texto em domínio público; lemas e morfologia CC BY 4.0",
+     "https://github.com/openscriptures/morphhb", "texto-base do Antigo Testamento"),
+    ("Vulgata Clementina (eBible.org)", "domínio público", "https://ebible.org/latVUC/",
+     "texto-base dos livros deuterocanônicos"),
+    ("Novum Testamentum Graece (Nestle, 1904)", "domínio público",
+     "https://github.com/biblicalhumanities/Nestle1904", "somente Rm 16,25-27"),
+]
 NORMS = [
     "Normas Universais sobre o Ano Litúrgico e o Calendário (Paulo VI, Mysterii Paschalis, 1969)",
     "Decreto De celebratione Baptismatis Domini (Sagrada Congregação para os Sacramentos e o Culto Divino, 1977)",
@@ -39,6 +51,7 @@ NORMS = [
     "Responsum ad dubia de calendario liturgico pro anno 2022 (Congregação para o Culto Divino e a Disciplina "
     "dos Sacramentos, 2020)",
 ]
+WEEKDAY_ABBR = ["seg", "ter", "qua", "qui", "sex", "sáb", "dom"]
 FONTS = [("EB Garamond", "SIL Open Font License 1.1"), ("Source Sans 3", "SIL Open Font License 1.1")]
 
 
@@ -57,6 +70,20 @@ def qr_svg(url: str) -> str:
 
 def color_chip(color: Color) -> str:
     return f'<span class="chip chip-{color.name.lower()}" style="background:{FILL[color]}"></span>'
+
+
+def reading_text(label: str, ref: str | None) -> str:
+    """Texto de uma leitura: versículos numerados, em ordem. Vazio se não há referência ou tradução."""
+    verses = reading_verses(ref) if ref else []
+    if not verses:
+        return ""
+    chapter = verses[0].chapter
+    body = []
+    for v in verses:
+        num = v.label if v.chapter == chapter else f"{v.chapter},{v.label}"
+        body.append(f'<sup class="v">{e(num)}</sup>{e(v.text)}')
+    return (f'<div class="leitura-texto"><h3>{e(label)} · {e(ref)}</h3>'
+            f'<p>{" ".join(body)}</p></div>')
 
 
 def day_section(bd: BookDay, anchor: bool = True) -> str:
@@ -90,6 +117,9 @@ def day_section(bd: BookDay, anchor: bool = True) -> str:
                  'Consulte os links oficiais.</td></tr>')
     h.append("</tbody></table>")
 
+    for r in bd.reading_list():
+        h.append(reading_text(r.label, r.ref))
+
     searches = [s for s in (bd.psalm_search, bd.gospel_search) if s]
     if searches:
         h.append('<div class="buscas">')
@@ -120,6 +150,23 @@ def day_section(bd: BookDay, anchor: bool = True) -> str:
     return "\n".join(h)
 
 
+def toc_page(book: BookYear, href) -> str:
+    """Sumário com todos os dias, por mês. ``href(bd)`` dá o destino do link de cada dia.
+
+    No PDF, o CSS acrescenta o número da página (``target-counter``); no EPUB o link basta."""
+    out = ['<section class="texto toc" id="sumario"><h1>Sumário</h1>',
+           '<p class="toc-dica">Procure o mês e o dia que deseja; cada dia começa em uma página nova.</p>']
+    for label, days in book.months():
+        out.append(f'<h2>{e(label)}</h2><ul>')
+        for bd in days:
+            d = bd.date
+            out.append(f'<li><a href="{e(href(bd))}"><span class="toc-data">{WEEKDAY_ABBR[d.weekday()]} {d.day:02d}</span>'
+                       f'<span class="toc-nome">{e(bd.day.name)}</span></a></li>')
+        out.append("</ul>")
+    out.append("</section>")
+    return "\n".join(out)
+
+
 def links_list(book: BookYear) -> str:
     rows = []
     labels = {"liturgia-diaria": "Leituras do dia", "comentario": "Comentário", "biblia": "Bíblia",
@@ -143,8 +190,14 @@ def how_to(book: BookYear) -> str:
     return f"""<section class="texto" id="como-usar">
 <h1>Como usar este livro</h1>
 <p>Cada dia do ano litúrgico tem uma página com a data, o nome do dia, o tempo, a cor litúrgica e as
-<strong>referências</strong> das leituras da Missa. O texto bíblico não está impresso: abra a sua Bíblia
-ou um dos sites oficiais abaixo.</p>
+<strong>referências</strong> das leituras da Missa, seguidas do texto de cada leitura.</p>
+<h2>Sobre o texto das leituras</h2>
+<p>O texto das leituras é uma <strong>tradução feita por inteligência artificial</strong>, sem revisão humana,
+sob responsabilidade e edição do mantenedor do projeto. Parte dos originais: o grego do Novo Testamento
+(SBL Greek New Testament), o hebraico e o aramaico do Antigo Testamento (Open Scriptures Hebrew Bible) e, nos
+livros deuterocanônicos, o latim da Vulgata Clementina. Não é a tradução usada na liturgia, e onde o
+original difere da Nova Vulgata (base do Lecionário) o texto segue o original. Para a proclamação litúrgica,
+use a Bíblia ou o lecionário aprovado; os sites oficiais abaixo trazem as leituras do dia.</p>
 <p>Os QR codes abrem uma <strong>busca no YouTube</strong> pelo salmo responsorial e pelo evangelho do dia.
 A busca usa só a referência e o nome do dia; os resultados são de terceiros e mudam com o tempo.
 O endereço de cada busca também vem escrito.</p>
@@ -183,14 +236,19 @@ def credits_page(book: BookYear) -> str:
     sources = "\n".join(f"<li>{e(n)} ({e(lic)}): {e(use)}. <a href=\"{e(u)}\">{e(u)}</a></li>"
                         for n, lic, u, use in SOURCES)
     fonts = "\n".join(f"<li>{e(n)} — {e(lic)}</li>" for n, lic in FONTS)
+    bases = "\n".join(f"<li>{e(n)} ({e(lic)}): {e(use)}. <a href=\"{e(u)}\">{e(u)}</a></li>"
+                      for n, lic, u, use in TRANSLATION_BASES)
     norms = "\n".join(f"<li>{e(n)}</li>" for n in NORMS)
     people = sorted({(c.author, c.license) for c in book.contributors()})
     authors = ("<ul>" + "\n".join(f"<li>{e(a)} — {e(LICENSE_LABELS[lic])}</li>" for a, lic in people) + "</ul>"
                if people else "<p>Nenhum texto de colaboradores neste ano.</p>")
     return f"""<section class="texto" id="creditos">
 <h1>Créditos e licenças</h1>
-<p>Este livro traz <strong>referências bíblicas</strong> e <strong>links</strong>. Não reproduz o texto das
-leituras, dos salmos nem de comentários de terceiros.</p>
+<p>Este livro traz <strong>referências bíblicas</strong>, o <strong>texto das leituras</strong> em tradução
+própria por inteligência artificial, sem revisão humana, e <strong>links</strong>. Não reproduz o texto das
+leituras, dos salmos nem de comentários de terceiros em traduções com direitos.</p>
+<h2>Textos-base da tradução</h2>
+<ul>{bases}</ul>
 <h2>Dados</h2>
 <ul>{sources}</ul>
 <h2>Normas do calendário</h2>

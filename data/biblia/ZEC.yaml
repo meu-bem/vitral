@@ -1,0 +1,102 @@
+livro: ZEC
+fonte: oshb
+versiculos:
+  '2:5':
+    texto: 'Levantei os olhos e vi: eis um homem com um cordel de medir na mão.'
+    status: ia-sem-revisao
+  '2:6':
+    texto: 'Perguntei: “Para onde vais?” Ele me disse: “Medir Jerusalém, para ver qual é a sua largura
+      e qual é o seu comprimento.”'
+    status: ia-sem-revisao
+  '2:7':
+    texto: Eis que o anjo que falava comigo saiu, e outro anjo saiu ao seu encontro.
+    status: ia-sem-revisao
+  '2:8':
+    texto: 'Disse-lhe: “Corre, fala àquele jovem: ‘Jerusalém será habitada como cidades sem muros, por
+      causa da multidão de homens e de animais no seu meio.'
+    status: ia-sem-revisao
+  '2:9':
+    texto: E eu serei para ela — oráculo do Senhor — uma muralha de fogo ao redor e serei a glória no
+      meio dela.’”
+    status: ia-sem-revisao
+  '2:14':
+    texto: Alegra-te e exulta, filha de Sião, porque eis que venho e habitarei no teu meio — oráculo do
+      Senhor.
+    status: ia-sem-revisao
+  '2:15':
+    texto: Muitas nações se unirão ao Senhor naquele dia e serão para mim um povo; habitarei no teu meio,
+      e saberás que o Senhor dos Exércitos me enviou a ti.
+    partes:
+    - Muitas nações se unirão ao Senhor naquele dia e serão para mim um povo;
+    - habitarei no teu meio, e saberás que o Senhor dos Exércitos me enviou a ti.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '2:16':
+    texto: O Senhor tomará Judá como sua herança na terra santa e escolherá ainda Jerusalém.
+    status: ia-sem-revisao
+  '2:17':
+    texto: Silêncio, toda carne, diante do Senhor, porque ele despertou da sua santa morada!
+    status: ia-sem-revisao
+  '8:1':
+    texto: 'Veio a palavra do Senhor dos Exércitos, dizendo:'
+    status: ia-sem-revisao
+  '8:2':
+    texto: 'Assim diz o Senhor dos Exércitos: Tenho um grande ciúme de Sião, tenho por ela um grande furor.'
+    status: ia-sem-revisao
+  '8:3':
+    texto: 'Assim diz o Senhor: Voltei a Sião e habitarei no meio de Jerusalém; Jerusalém será chamada
+      Cidade Fiel, e o monte do Senhor dos Exércitos, Monte Santo.'
+    status: ia-sem-revisao
+  '8:4':
+    texto: 'Assim diz o Senhor dos Exércitos: Ainda se sentarão velhos e velhas nas praças de Jerusalém,
+      cada um com o seu bastão na mão, por causa da sua idade avançada.'
+    status: ia-sem-revisao
+  '8:5':
+    texto: E as praças da cidade se encherão de meninos e meninas que brincam nas suas praças.
+    status: ia-sem-revisao
+  '8:6':
+    texto: 'Assim diz o Senhor dos Exércitos: Se isso parecer impossível aos olhos do resto deste povo
+      naqueles dias, será também impossível aos meus olhos? — oráculo do Senhor dos Exércitos.'
+    status: ia-sem-revisao
+  '8:7':
+    texto: 'Assim diz o Senhor dos Exércitos: Eis que salvo o meu povo da terra do oriente e da terra
+      do poente.'
+    status: ia-sem-revisao
+  '8:8':
+    texto: Trá-los-ei, e habitarão no meio de Jerusalém; serão o meu povo, e eu serei o seu Deus, em verdade
+      e em justiça.
+    status: ia-sem-revisao
+  '8:20':
+    texto: 'Assim diz o Senhor dos Exércitos: Ainda virão povos e habitantes de muitas cidades.'
+    status: ia-sem-revisao
+  '8:21':
+    texto: 'Os habitantes de uma cidade irão a outra, dizendo: “Vamos, vamos suplicar o favor do Senhor
+      e buscar o Senhor dos Exércitos; também eu irei.”'
+    status: ia-sem-revisao
+  '8:22':
+    texto: Virão povos numerosos e nações poderosas buscar o Senhor dos Exércitos em Jerusalém e suplicar
+      o favor do Senhor.
+    status: ia-sem-revisao
+  '8:23':
+    texto: 'Assim diz o Senhor dos Exércitos: Naqueles dias, dez homens de todas as línguas das nações
+      agarrarão a barra do manto de um judeu, dizendo: “Iremos convosco, porque ouvimos que Deus está
+      convosco.”'
+    status: ia-sem-revisao
+  '9:9':
+    texto: 'Exulta muito, filha de Sião, grita de alegria, filha de Jerusalém: eis que o teu rei vem a
+      ti, justo e vitorioso, humilde, montado num jumento, num jumentinho, filho de jumenta.'
+    status: ia-sem-revisao
+    observacao: '“Vitorioso” (nosha‘): também pode ser “salvo”.'
+  '9:10':
+    texto: Eliminarei os carros de Efraim e os cavalos de Jerusalém; o arco de guerra será eliminado.
+      Ele anunciará a paz às nações, e o seu domínio irá de mar a mar e do Rio até as extremidades da
+      terra.
+    status: ia-sem-revisao
+  '12:10':
+    texto: Derramarei sobre a casa de Davi e sobre os habitantes de Jerusalém um espírito de graça e de
+      súplica; olharão para mim, a quem traspassaram, e farão luto por ele como se faz luto por um filho
+      único, e chorarão amargamente por ele como se chora por um primogênito.
+    status: ia-sem-revisao
+  '12:11':
+    texto: Naquele dia será grande o luto em Jerusalém, como o luto de Hadad-Rimon na planície de Meguido.
+    status: ia-sem-revisao

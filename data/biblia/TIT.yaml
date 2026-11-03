@@ -1,0 +1,170 @@
+livro: TIT
+fonte: sblgnt
+versiculos:
+  '1:1':
+    texto: Paulo, servo de Deus e apóstolo de Jesus Cristo, segundo a fé dos escolhidos de Deus e o conhecimento
+      da verdade que está de acordo com a piedade,
+    status: ia-sem-revisao
+  '1:2':
+    texto: Na esperança da vida eterna, que o Deus que não mente prometeu antes dos tempos eternos,
+    status: ia-sem-revisao
+  '1:3':
+    texto: E manifestou, em seus próprios tempos, a sua palavra na pregação que me foi confiada, por ordem
+      de nosso Salvador, Deus,
+    status: ia-sem-revisao
+  '1:4':
+    texto: 'A Tito, verdadeiro filho segundo a fé comum: graça e paz da parte de Deus Pai e de Cristo
+      Jesus, nosso Salvador.'
+    status: ia-sem-revisao
+  '1:5':
+    texto: 'Por esta razão te deixei em Creta: para que corrijas o que falta e estabeleças presbíteros
+      em cada cidade, como eu te ordenei,'
+    status: ia-sem-revisao
+  '1:6':
+    texto: Se alguém é irrepreensível, marido de uma só mulher, tendo filhos fiéis, não acusados de dissolução
+      nem insubmissos.
+    status: ia-sem-revisao
+  '1:7':
+    texto: 'Pois é preciso que o bispo seja irrepreensível, como administrador de Deus: não arrogante,
+      não irascível, não dado ao vinho, não violento, não ávido de lucro torpe,'
+    status: ia-sem-revisao
+  '1:8':
+    texto: Mas hospitaleiro, amigo do bem, sensato, justo, santo, senhor de si,
+    status: ia-sem-revisao
+  '1:9':
+    texto: Apegado à palavra fiel conforme o ensinamento, para que seja capaz tanto de exortar na sã doutrina
+      como de refutar os que a contradizem.
+    status: ia-sem-revisao
+  '1:10':
+    texto: Pois há muitos insubmissos, faladores vazios e enganadores, sobretudo os da circuncisão,
+    status: ia-sem-revisao
+  '1:11':
+    texto: Aos quais é preciso fechar a boca, pois subvertem casas inteiras, ensinando o que não se deve,
+      por causa de um lucro torpe.
+    status: ia-sem-revisao
+  '1:12':
+    texto: 'Um deles, um profeta deles mesmos, disse: “Os cretenses são sempre mentirosos, feras malvadas,
+      ventres preguiçosos.”'
+    status: ia-sem-revisao
+  '1:13':
+    texto: Esse testemunho é verdadeiro. Por isso, repreende-os com severidade, para que sejam sãos na
+      fé,
+    status: ia-sem-revisao
+  '1:14':
+    texto: Sem dar atenção a fábulas judaicas e a mandamentos de homens que se afastam da verdade.
+    status: ia-sem-revisao
+  '1:15':
+    texto: Tudo é puro para os puros; mas para os contaminados e descrentes nada é puro, pois até a sua
+      mente e a sua consciência estão contaminadas.
+    status: ia-sem-revisao
+  '1:16':
+    texto: Professam conhecer a Deus, mas o negam com as obras, sendo abomináveis, desobedientes e reprovados
+      para toda obra boa.
+    status: ia-sem-revisao
+  '2:1':
+    texto: 'Tu, porém, fala o que convém à sã doutrina:'
+    status: ia-sem-revisao
+  '2:2':
+    texto: Que os anciãos sejam sóbrios, respeitáveis, sensatos, sãos na fé, no amor e na perseverança.
+    status: ia-sem-revisao
+  '2:3':
+    texto: As anciãs, do mesmo modo, sejam reverentes no comportamento, não caluniadoras nem escravizadas
+      a muito vinho, mestras do bem,
+    status: ia-sem-revisao
+  '2:4':
+    texto: Para que eduquem as jovens a amarem os maridos, a amarem os filhos,
+    status: ia-sem-revisao
+  '2:5':
+    texto: A serem sensatas, castas, boas donas de casa, submissas aos próprios maridos, para que a palavra
+      de Deus não seja blasfemada.
+    status: ia-sem-revisao
+  '2:6':
+    texto: Exorta do mesmo modo os mais jovens a serem sensatos,
+    status: ia-sem-revisao
+  '2:7':
+    texto: Em tudo apresentando-te a ti mesmo como exemplo de boas obras; no ensino, integridade e seriedade,
+    status: ia-sem-revisao
+  '2:8':
+    texto: Palavra sã e irrepreensível, para que o adversário fique envergonhado, não tendo nada de mau
+      a dizer a nosso respeito.
+    status: ia-sem-revisao
+  '2:9':
+    texto: Os escravos, que se submetam em tudo aos seus próprios senhores, sejam agradáveis, não contradizentes,
+    status: ia-sem-revisao
+  '2:10':
+    texto: Não desviando nada, mas mostrando toda boa fidelidade, para que em tudo adornem o ensinamento
+      de nosso Salvador, Deus.
+    status: ia-sem-revisao
+  '2:11':
+    texto: Pois a graça de Deus apareceu, trazendo salvação a todos os homens,
+    status: ia-sem-revisao
+  '2:12':
+    texto: Educando-nos para que, renunciando à impiedade e aos desejos mundanos, vivamos neste tempo
+      presente com sensatez, justiça e piedade,
+    status: ia-sem-revisao
+  '2:13':
+    texto: Aguardando a bem-aventurada esperança e a manifestação da glória do grande Deus e Salvador
+      nosso, Jesus Cristo,
+    status: ia-sem-revisao
+  '2:14':
+    texto: Que se entregou por nós, para nos resgatar de toda iniquidade e purificar para si um povo seu,
+      zeloso de boas obras.
+    status: ia-sem-revisao
+  '2:15':
+    texto: Fala essas coisas, exorta e repreende com toda autoridade; que ninguém te despreze.
+    status: ia-sem-revisao
+  '3:1':
+    texto: Lembra-lhes que se submetam aos governantes e às autoridades, que sejam obedientes, que estejam
+      prontos para toda obra boa,
+    status: ia-sem-revisao
+  '3:2':
+    texto: Que não blasfemem de ninguém, que sejam pacíficos, bondosos, mostrando toda mansidão para com
+      todos os homens.
+    status: ia-sem-revisao
+  '3:3':
+    texto: Pois também nós éramos outrora insensatos, desobedientes, extraviados, escravos de desejos
+      e prazeres diversos, vivendo em malícia e inveja, detestáveis, odiando-nos uns aos outros.
+    status: ia-sem-revisao
+  '3:4':
+    texto: Mas quando a bondade e o amor pelos homens de nosso Salvador, Deus, se manifestaram,
+    status: ia-sem-revisao
+  '3:5':
+    texto: Não por obras de justiça que nós tivéssemos praticado, mas segundo a sua misericórdia, ele
+      nos salvou, mediante o banho do novo nascimento e da renovação do Espírito Santo,
+    status: ia-sem-revisao
+  '3:6':
+    texto: Que ele derramou sobre nós abundantemente, por meio de Jesus Cristo, nosso Salvador,
+    status: ia-sem-revisao
+  '3:7':
+    texto: Para que, justificados pela graça daquele, nos tornássemos herdeiros, segundo a esperança da
+      vida eterna.
+    status: ia-sem-revisao
+  '3:8':
+    texto: Fiel é a palavra, e quero que afirmes com firmeza estas coisas, para que os que creram em Deus
+      se preocupem em dedicar-se a boas obras. Estas coisas são boas e úteis aos homens.
+    status: ia-sem-revisao
+  '3:9':
+    texto: Evita, porém, as questões tolas, as genealogias, as discussões e as contendas sobre a lei,
+      pois são inúteis e vãs.
+    status: ia-sem-revisao
+  '3:10':
+    texto: Ao homem sectário, depois de uma primeira e de uma segunda advertência, afasta-o,
+    status: ia-sem-revisao
+  '3:11':
+    texto: Sabendo que tal homem está pervertido e peca, condenado por si mesmo.
+    status: ia-sem-revisao
+  '3:12':
+    texto: Quando eu enviar Artemas ou Tíquico a ti, apressa-te em vir ter comigo em Nicópolis, pois ali
+      decidi passar o inverno.
+    status: ia-sem-revisao
+  '3:13':
+    texto: Envia com diligência Zenas, o jurista, e Apolo, para que nada lhes falte.
+    status: ia-sem-revisao
+  '3:14':
+    texto: Aprendam também os nossos a dedicar-se a boas obras para as necessidades urgentes, para que
+      não sejam infrutíferos.
+    status: ia-sem-revisao
+  '3:15':
+    texto: Saúdam-te todos os que estão comigo. Saúda os que nos amam na fé. A graça esteja com todos
+      vós.
+    status: ia-sem-revisao

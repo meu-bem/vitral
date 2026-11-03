@@ -1,0 +1,661 @@
+livro: 1KI
+fonte: oshb
+versiculos:
+  '2:1':
+    texto: 'Aproximaram-se os dias da morte de Davi, e ele deu esta ordem a Salomão, seu filho:'
+    status: ia-sem-revisao
+  '2:2':
+    texto: “Eu vou pelo caminho de toda a terra; sê forte e sê homem.
+    status: ia-sem-revisao
+  '2:3':
+    texto: Guarda as ordens do Senhor, teu Deus, andando nos seus caminhos e observando os seus estatutos,
+      mandamentos, juízos e testemunhos, conforme está escrito na lei de Moisés, para que tenhas sucesso
+      em tudo o que fizeres e para onde quer que te voltes,
+    status: ia-sem-revisao
+  '2:4':
+    texto: 'a fim de que o Senhor cumpra a palavra que me disse: ‘Se os teus filhos guardarem o seu caminho,
+      andando diante de mim com fidelidade, de todo o seu coração e de toda a sua alma, nunca te faltará
+      quem se assente no trono de Israel.’'
+    status: ia-sem-revisao
+  '2:10':
+    texto: Davi adormeceu com os seus pais e foi sepultado na Cidade de Davi.
+    status: ia-sem-revisao
+  '2:11':
+    texto: 'O tempo que Davi reinou sobre Israel foi de quarenta anos: reinou sete anos em Hebron e trinta
+      e três em Jerusalém.'
+    status: ia-sem-revisao
+  '2:12':
+    texto: Salomão sentou-se no trono de Davi, seu pai, e o seu reino se consolidou muito.
+    status: ia-sem-revisao
+  '3:4':
+    texto: O rei foi a Gabaon para ali oferecer sacrifícios, pois era o principal lugar alto; Salomão
+      ofereceu mil holocaustos sobre aquele altar.
+    status: ia-sem-revisao
+  '3:5':
+    texto: 'Em Gabaon, o Senhor apareceu a Salomão em sonho durante a noite. Deus disse: “Pede o que queres
+      que eu te dê.”'
+    status: ia-sem-revisao
+  '3:6':
+    texto: 'Salomão respondeu: “Tu usaste de grande misericórdia para com o teu servo Davi, meu pai, porque
+      ele andou diante de ti com fidelidade, justiça e retidão de coração; guardaste-lhe esta grande misericórdia
+      e deste-lhe um filho que se senta no seu trono, como hoje se vê.'
+    status: ia-sem-revisao
+  '3:7':
+    texto: Agora, Senhor, meu Deus, fizeste reinar o teu servo em lugar de Davi, meu pai; e eu sou um
+      jovem pequeno, que não sabe como proceder.
+    status: ia-sem-revisao
+  '3:8':
+    texto: O teu servo está no meio do teu povo, que escolheste, um povo numeroso, que não se pode contar
+      nem calcular, de tão grande.
+    status: ia-sem-revisao
+  '3:9':
+    texto: Dá, pois, ao teu servo um coração que escute, para julgar o teu povo e discernir entre o bem
+      e o mal; pois quem poderia julgar este teu povo tão numeroso?”
+    status: ia-sem-revisao
+  '3:10':
+    texto: Agradou ao Senhor que Salomão tivesse pedido isto.
+    status: ia-sem-revisao
+  '3:11':
+    texto: 'Deus disse-lhe: “Porque pediste isto e não pediste para ti uma vida longa, nem riquezas, nem
+      a morte dos teus inimigos, mas pediste para ti inteligência para discernir o que é justo,'
+    status: ia-sem-revisao
+  '3:12':
+    texto: 'eis que faço segundo as tuas palavras: dou-te um coração sábio e inteligente, tal que antes
+      de ti não houve igual, nem depois de ti surgirá outro como tu.'
+    status: ia-sem-revisao
+  '3:13':
+    texto: 'E também o que não pediste eu te dou: riquezas e glória, de modo que não haverá entre os reis
+      alguém como tu, em todos os teus dias.'
+    status: ia-sem-revisao
+  '8:1':
+    texto: Então Salomão reuniu em Jerusalém, junto ao rei Salomão, os anciãos de Israel, todos os chefes
+      das tribos e os cabeças das casas paternas dos filhos de Israel, para fazer subir a arca da aliança
+      do Senhor da Cidade de Davi, que é Sião.
+    status: ia-sem-revisao
+  '8:2':
+    texto: Reuniram-se junto ao rei Salomão todos os homens de Israel, na festa, no mês de Etanim, que
+      é o sétimo mês.
+    status: ia-sem-revisao
+  '8:3':
+    texto: Vieram todos os anciãos de Israel, e os sacerdotes levantaram a arca.
+    status: ia-sem-revisao
+  '8:4':
+    texto: Fizeram subir a arca do Senhor, a tenda do encontro e todos os objetos sagrados que estavam
+      na tenda; os sacerdotes e os levitas os fizeram subir.
+    status: ia-sem-revisao
+  '8:5':
+    texto: O rei Salomão e toda a comunidade de Israel, reunida junto dele diante da arca, sacrificavam
+      ovelhas e bois em tal quantidade que não se podiam contar nem calcular.
+    status: ia-sem-revisao
+  '8:6':
+    texto: Os sacerdotes levaram a arca da aliança do Senhor ao seu lugar, no santuário interior do templo,
+      no Santo dos Santos, debaixo das asas dos querubins.
+    status: ia-sem-revisao
+  '8:7':
+    texto: Pois os querubins estendiam as asas sobre o lugar da arca e cobriam a arca e as suas varas,
+      por cima.
+    status: ia-sem-revisao
+  '8:9':
+    texto: Na arca não havia senão as duas tábuas de pedra, que Moisés ali depositara no Horeb, quando
+      o Senhor fez aliança com os filhos de Israel, na sua saída da terra do Egito.
+    status: ia-sem-revisao
+  '8:10':
+    texto: Quando os sacerdotes saíram do santuário, a nuvem encheu o templo do Senhor.
+    status: ia-sem-revisao
+  '8:11':
+    texto: Os sacerdotes não puderam permanecer para o serviço, por causa da nuvem, pois a glória do Senhor
+      enchia o templo do Senhor.
+    status: ia-sem-revisao
+  '8:12':
+    texto: 'Então Salomão disse: “O Senhor declarou que habitaria na escuridão.'
+    status: ia-sem-revisao
+  '8:13':
+    texto: Construí, de fato, uma casa para ser a tua morada, um lugar para a tua habitação para sempre.”
+    status: ia-sem-revisao
+  '8:22':
+    texto: Salomão pôs-se de pé diante do altar do Senhor, na presença de toda a assembleia de Israel,
+      e estendeu as mãos para o céu.
+    status: ia-sem-revisao
+  '8:23':
+    texto: 'Disse: “Senhor, Deus de Israel, não há Deus semelhante a ti, nem em cima, no céu, nem embaixo,
+      na terra; tu guardas a aliança e a misericórdia para com os teus servos que andam diante de ti de
+      todo o coração.'
+    status: ia-sem-revisao
+  '8:27':
+    texto: Mas será verdade que Deus habita na terra? Eis que o céu e o céu dos céus não te podem conter,
+      quanto menos este templo que construí!
+    status: ia-sem-revisao
+  '8:28':
+    texto: Volta-te, Senhor, meu Deus, para a oração do teu servo e para a sua súplica; escuta o clamor
+      e a oração que o teu servo hoje faz diante de ti,
+    status: ia-sem-revisao
+  '8:29':
+    texto: 'para que os teus olhos estejam abertos, noite e dia, sobre este templo, sobre o lugar de que
+      disseste: ‘O meu nome estará ali’, e escutes a oração que o teu servo faz neste lugar.'
+    status: ia-sem-revisao
+  '8:30':
+    texto: Escuta a súplica do teu servo e do teu povo Israel, quando rezarem neste lugar; escuta tu,
+      do lugar da tua morada, no céu; escuta e perdoa.
+    status: ia-sem-revisao
+  '8:41':
+    texto: Também o estrangeiro, que não pertence ao teu povo Israel, mas vem de uma terra distante por
+      causa do teu nome
+    status: ia-sem-revisao
+  '8:42':
+    texto: — pois ouvirão falar do teu grande nome, da tua mão forte e do teu braço estendido —, quando
+      vier rezar neste templo,
+    status: ia-sem-revisao
+  '8:43':
+    texto: escuta tu, do céu, lugar da tua morada, e faze tudo o que o estrangeiro te pedir, para que
+      todos os povos da terra conheçam o teu nome, te temam como o teu povo Israel e saibam que o teu
+      nome é invocado sobre este templo que construí.
+    status: ia-sem-revisao
+  '10:1':
+    texto: A rainha de Sabá ouviu falar da fama de Salomão, ligada ao nome do Senhor, e veio pô-lo à prova
+      com enigmas.
+    status: ia-sem-revisao
+  '10:2':
+    texto: 'Chegou a Jerusalém com uma comitiva muito grande: camelos carregados de perfumes, de muito
+      ouro e de pedras preciosas; veio a Salomão e lhe falou de tudo o que tinha no coração.'
+    status: ia-sem-revisao
+  '10:3':
+    texto: Salomão respondeu a todas as suas perguntas; não houve nada que o rei não soubesse explicar-lhe.
+    status: ia-sem-revisao
+  '10:4':
+    texto: A rainha de Sabá viu toda a sabedoria de Salomão, o palácio que ele construíra,
+    status: ia-sem-revisao
+  '10:5':
+    texto: a comida da sua mesa, a morada dos seus servos, a ordem dos seus ministros, as suas vestes,
+      os seus copeiros e os holocaustos que ele oferecia no templo do Senhor; e ficou fora de si.
+    status: ia-sem-revisao
+  '10:6':
+    texto: 'Disse ao rei: “Era verdade o que ouvi na minha terra a respeito das tuas palavras e da tua
+      sabedoria.'
+    status: ia-sem-revisao
+  '10:7':
+    texto: 'Eu não acreditava no que diziam, até que vim e os meus olhos viram; e eis que não me contaram
+      nem a metade: superaste em sabedoria e em riqueza a fama que ouvi.'
+    status: ia-sem-revisao
+  '10:8':
+    texto: Felizes os teus homens, felizes estes teus servos, que estão sempre diante de ti e ouvem a
+      tua sabedoria!
+    status: ia-sem-revisao
+  '10:9':
+    texto: Bendito seja o Senhor, teu Deus, que se agradou de ti e te pôs no trono de Israel! Por amor
+      eterno do Senhor a Israel, ele te fez rei para exerceres o direito e a justiça.”
+    status: ia-sem-revisao
+  '10:10':
+    texto: Deu ao rei cento e vinte talentos de ouro, muitos perfumes e pedras preciosas; nunca mais veio
+      tanta quantidade de perfumes como a que a rainha de Sabá deu ao rei Salomão.
+    status: ia-sem-revisao
+  '11:4':
+    texto: Na velhice de Salomão, as suas mulheres desviaram o seu coração para outros deuses, e o seu
+      coração não foi inteiramente do Senhor, seu Deus, como o coração de Davi, seu pai.
+    status: ia-sem-revisao
+  '11:5':
+    texto: Salomão seguiu Astarte, deusa dos sidônios, e Milcom, abominação dos amonitas.
+    status: ia-sem-revisao
+  '11:6':
+    texto: Salomão fez o que era mau aos olhos do Senhor e não seguiu plenamente o Senhor, como Davi,
+      seu pai.
+    status: ia-sem-revisao
+  '11:7':
+    texto: Então Salomão construiu um lugar alto para Camos, abominação de Moab, no monte que está diante
+      de Jerusalém, e para Moloc, abominação dos filhos de Amon.
+    status: ia-sem-revisao
+  '11:8':
+    texto: Fez o mesmo para todas as suas mulheres estrangeiras, que queimavam incenso e ofereciam sacrifícios
+      aos seus deuses.
+    status: ia-sem-revisao
+  '11:9':
+    texto: O Senhor irritou-se contra Salomão, porque o seu coração se desviara do Senhor, Deus de Israel,
+      que lhe aparecera duas vezes
+    status: ia-sem-revisao
+  '11:10':
+    texto: e lhe ordenara a respeito disso que não seguisse outros deuses; mas ele não guardou o que o
+      Senhor lhe ordenara.
+    status: ia-sem-revisao
+  '11:11':
+    texto: 'O Senhor disse a Salomão: “Porque assim agiste e não guardaste a minha aliança e os meus estatutos,
+      que te ordenei, certamente rasgarei de ti o reino e o darei a um dos teus servos.'
+    status: ia-sem-revisao
+  '11:12':
+    texto: Contudo, por amor de Davi, teu pai, não o farei nos teus dias; da mão do teu filho o rasgarei.
+    status: ia-sem-revisao
+  '11:13':
+    texto: 'Mas não rasgarei todo o reino: darei uma tribo ao teu filho, por amor de Davi, meu servo,
+      e por amor de Jerusalém, que escolhi.”'
+    status: ia-sem-revisao
+  '11:29':
+    texto: Naquele tempo, Jeroboão saiu de Jerusalém, e o profeta Aías, de Silo, encontrou-o no caminho;
+      ele estava coberto com um manto novo, e os dois estavam sozinhos no campo.
+    status: ia-sem-revisao
+  '11:30':
+    texto: Aías tomou o manto novo que trazia e o rasgou em doze pedaços.
+    status: ia-sem-revisao
+  '11:31':
+    texto: 'Disse a Jeroboão: “Toma para ti dez pedaços, pois assim diz o Senhor, Deus de Israel: Eis
+      que vou rasgar o reino da mão de Salomão e te darei dez tribos.'
+    status: ia-sem-revisao
+  '11:32':
+    texto: Uma tribo ficará para ele, por amor de Davi, meu servo, e por amor de Jerusalém, a cidade que
+      escolhi entre todas as tribos de Israel.
+    status: ia-sem-revisao
+  '12:19':
+    texto: Israel rebelou-se contra a casa de Davi até o dia de hoje.
+    status: ia-sem-revisao
+  '12:26':
+    texto: 'Jeroboão disse em seu coração: “Agora o reino voltará à casa de Davi.'
+    status: ia-sem-revisao
+  '12:27':
+    texto: Se este povo subir para oferecer sacrifícios no templo do Senhor, em Jerusalém, o coração deste
+      povo voltará ao seu senhor, Roboão, rei de Judá; matar-me-ão e voltarão a Roboão, rei de Judá.”
+    status: ia-sem-revisao
+  '12:28':
+    texto: 'Depois de se aconselhar, o rei fez dois bezerros de ouro e disse ao povo: “Basta de subirdes
+      a Jerusalém! Eis, Israel, os teus deuses, que te fizeram subir da terra do Egito.”'
+    status: ia-sem-revisao
+  '12:29':
+    texto: Pôs um em Betel e o outro em Dã.
+    status: ia-sem-revisao
+  '12:30':
+    texto: Isso tornou-se ocasião de pecado; o povo ia até Dã para estar diante de um deles.
+    status: ia-sem-revisao
+  '12:31':
+    texto: Fez também santuários nos lugares altos e instituiu sacerdotes tirados de todo o povo, que
+      não eram dos filhos de Levi.
+    status: ia-sem-revisao
+  '12:32':
+    texto: Jeroboão instituiu uma festa no oitavo mês, no dia quinze do mês, como a festa que havia em
+      Judá, e subiu ao altar; fez assim em Betel, sacrificando aos bezerros que fizera, e estabeleceu
+      em Betel os sacerdotes dos lugares altos que fizera.
+    status: ia-sem-revisao
+  '13:33':
+    texto: Depois deste acontecimento, Jeroboão não se converteu do seu mau caminho, mas continuou a instituir
+      sacerdotes dos lugares altos tirados do povo; quem quisesse, ele o consagrava, e tornava-se sacerdote
+      dos lugares altos.
+    status: ia-sem-revisao
+  '13:34':
+    texto: Isso tornou-se pecado para a casa de Jeroboão, causa da sua ruína e da sua destruição da face
+      da terra.
+    status: ia-sem-revisao
+  '17:1':
+    texto: 'Elias, o tisbita, dos moradores de Galaad, disse a Acab: “Pela vida do Senhor, Deus de Israel,
+      diante do qual estou, nestes anos não haverá orvalho nem chuva, senão pela minha palavra.”'
+    status: ia-sem-revisao
+  '17:2':
+    texto: 'A palavra do Senhor foi dirigida a ele:'
+    status: ia-sem-revisao
+  '17:3':
+    texto: “Vai-te daqui, volta-te para o oriente e esconde-te junto à torrente de Carit, que está diante
+      do Jordão.
+    status: ia-sem-revisao
+  '17:4':
+    texto: Beberás da torrente, e ordenei aos corvos que te sustentem ali.”
+    status: ia-sem-revisao
+  '17:5':
+    texto: 'Ele foi e fez conforme a palavra do Senhor: foi e habitou junto à torrente de Carit, que está
+      diante do Jordão.'
+    status: ia-sem-revisao
+  '17:6':
+    texto: Os corvos traziam-lhe pão e carne de manhã e pão e carne à tarde, e ele bebia da torrente.
+    status: ia-sem-revisao
+  '17:7':
+    texto: Passado algum tempo, a torrente secou, porque não havia chuva na terra.
+    status: ia-sem-revisao
+  '17:8':
+    texto: 'A palavra do Senhor foi dirigida a ele:'
+    status: ia-sem-revisao
+  '17:9':
+    texto: “Levanta-te, vai a Sarepta, que pertence a Sidônia, e habita ali; eis que ordenei ali a uma
+      viúva que te sustente.”
+    status: ia-sem-revisao
+  '17:10':
+    texto: 'Levantou-se e foi a Sarepta. Chegando à porta da cidade, eis que uma viúva estava ali apanhando
+      lenha. Chamou-a e disse: “Traze-me, peço-te, um pouco de água num vaso para eu beber.”'
+    status: ia-sem-revisao
+  '17:11':
+    texto: 'Quando ela ia buscá-la, chamou-a e disse: “Traze-me também um pedaço de pão na tua mão.”'
+    status: ia-sem-revisao
+  '17:12':
+    texto: 'Ela respondeu: “Pela vida do Senhor, teu Deus, não tenho pão cozido; só tenho um punhado de
+      farinha na vasilha e um pouco de azeite na jarra. Eis que estou apanhando dois gravetos; vou preparar
+      isso para mim e para o meu filho, comeremos e depois morreremos.”'
+    status: ia-sem-revisao
+  '17:13':
+    texto: 'Elias disse-lhe: “Não temas; vai e faze como disseste; mas primeiro prepara para mim, com
+      isso, um pequeno pão e traze-mo; depois farás para ti e para o teu filho.'
+    status: ia-sem-revisao
+  '17:14':
+    texto: 'Pois assim diz o Senhor, Deus de Israel: A vasilha de farinha não se acabará, e a jarra de
+      azeite não faltará, até o dia em que o Senhor fizer chover sobre a terra.”'
+    status: ia-sem-revisao
+  '17:15':
+    texto: Ela foi e fez conforme a palavra de Elias; e comeram ela, ele e a sua casa, durante muitos
+      dias.
+    status: ia-sem-revisao
+  '17:16':
+    texto: A vasilha de farinha não se acabou, e a jarra de azeite não faltou, segundo a palavra que o
+      Senhor dissera por meio de Elias.
+    status: ia-sem-revisao
+  '17:17':
+    texto: Depois destes acontecimentos, adoeceu o filho da mulher, dona da casa, e a sua doença foi tão
+      grave que ele deixou de respirar.
+    status: ia-sem-revisao
+  '17:18':
+    texto: 'Ela disse a Elias: “Que há entre mim e ti, homem de Deus? Vieste a mim para lembrar a minha
+      culpa e fazer morrer o meu filho?”'
+    status: ia-sem-revisao
+  '17:19':
+    texto: 'Ele disse-lhe: “Dá-me o teu filho.” Tomou-o do seu colo, levou-o ao quarto de cima, onde habitava,
+      e o deitou na sua cama.'
+    status: ia-sem-revisao
+  '17:20':
+    texto: 'Invocou o Senhor e disse: “Senhor, meu Deus, também sobre a viúva em cuja casa estou hospedado
+      fizeste cair o mal, fazendo morrer o seu filho?”'
+    status: ia-sem-revisao
+  '17:21':
+    texto: 'Estendeu-se três vezes sobre o menino, invocou o Senhor e disse: “Senhor, meu Deus, faze voltar
+      a alma deste menino ao seu corpo.”'
+    status: ia-sem-revisao
+  '17:22':
+    texto: O Senhor ouviu a voz de Elias; a alma do menino voltou ao seu corpo, e ele reviveu.
+    status: ia-sem-revisao
+  '17:23':
+    texto: 'Elias tomou o menino, desceu do quarto de cima para a casa e o entregou à sua mãe. Elias disse:
+      “Vê, o teu filho está vivo.”'
+    status: ia-sem-revisao
+  '17:24':
+    texto: 'A mulher disse a Elias: “Agora sei que és homem de Deus e que a palavra do Senhor na tua boca
+      é verdadeira.”'
+    status: ia-sem-revisao
+  '18:20':
+    texto: Acab mandou chamar todos os filhos de Israel e reuniu os profetas no monte Carmelo.
+    status: ia-sem-revisao
+  '18:21':
+    texto: 'Elias aproximou-se de todo o povo e disse: “Até quando coxeareis dos dois lados? Se o Senhor
+      é Deus, segui-o; se é Baal, segui-o.” O povo não lhe respondeu palavra.'
+    status: ia-sem-revisao
+  '18:22':
+    texto: 'Elias disse ao povo: “Só eu fiquei como profeta do Senhor, e os profetas de Baal são quatrocentos
+      e cinquenta.'
+    status: ia-sem-revisao
+  '18:23':
+    texto: Deem-nos dois novilhos; escolham eles um novilho, cortem-no em pedaços e ponham-no sobre a
+      lenha, sem lhe pôr fogo; eu prepararei o outro novilho e o porei sobre a lenha, sem lhe pôr fogo.
+    status: ia-sem-revisao
+  '18:24':
+    texto: 'Invocai o nome do vosso deus, e eu invocarei o nome do Senhor; o deus que responder pelo fogo,
+      esse é Deus.” Todo o povo respondeu: “Está bem.”'
+    status: ia-sem-revisao
+  '18:25':
+    texto: 'Elias disse aos profetas de Baal: “Escolhei um novilho e preparai-o primeiro, pois sois muitos;
+      invocai o nome do vosso deus, mas não ponhais fogo.”'
+    status: ia-sem-revisao
+  '18:26':
+    texto: 'Tomaram o novilho que lhes foi dado, prepararam-no e invocaram o nome de Baal, da manhã até
+      o meio-dia, dizendo: “Baal, responde-nos!” Mas não havia voz nem resposta; e dançavam, coxeando,
+      junto ao altar que tinham feito.'
+    status: ia-sem-revisao
+  '18:27':
+    texto: 'Ao meio-dia, Elias começou a zombar deles e disse: “Gritai em voz alta, pois ele é deus! Talvez
+      esteja absorto, ou ocupado, ou de viagem; ou talvez esteja dormindo e precise acordar.”'
+    status: ia-sem-revisao
+  '18:28':
+    texto: Gritaram em voz alta e, segundo o seu costume, feriram-se com espadas e lanças, até escorrer
+      sangue sobre eles.
+    status: ia-sem-revisao
+  '18:29':
+    texto: Passado o meio-dia, entraram em transe até a hora da oferta da tarde; mas não houve voz, nem
+      resposta, nem atenção.
+    status: ia-sem-revisao
+  '18:30':
+    texto: 'Elias disse a todo o povo: “Aproximai-vos de mim.” Todo o povo se aproximou dele. Reparou
+      o altar do Senhor, que estava destruído.'
+    status: ia-sem-revisao
+  '18:31':
+    texto: 'Elias tomou doze pedras, segundo o número das tribos dos filhos de Jacó, a quem a palavra
+      do Senhor fora dirigida: “Israel será o teu nome.”'
+    status: ia-sem-revisao
+  '18:32':
+    texto: Com as pedras edificou um altar em nome do Senhor; fez em volta do altar um fosso do tamanho
+      de duas medidas de semente.
+    status: ia-sem-revisao
+  '18:33':
+    texto: Dispôs a lenha, cortou o novilho em pedaços e o pôs sobre a lenha.
+    status: ia-sem-revisao
+  '18:34':
+    texto: 'Disse: “Enchei quatro cântaros de água e derramai-os sobre o holocausto e sobre a lenha.”
+      Depois disse: “Fazei-o de novo”, e fizeram-no de novo. Disse: “Fazei-o pela terceira vez”, e fizeram-no
+      pela terceira vez.'
+    status: ia-sem-revisao
+  '18:35':
+    texto: A água correu ao redor do altar, e também o fosso ficou cheio de água.
+    status: ia-sem-revisao
+  '18:36':
+    texto: 'À hora da oferta da tarde, o profeta Elias aproximou-se e disse: “Senhor, Deus de Abraão,
+      de Isaac e de Israel, que hoje se saiba que tu és Deus em Israel e que eu sou o teu servo e que
+      fiz todas estas coisas por tua palavra.'
+    status: ia-sem-revisao
+  '18:37':
+    texto: Responde-me, Senhor, responde-me, para que este povo saiba que tu, Senhor, és Deus e que tu
+      converteste o coração deles.”
+    status: ia-sem-revisao
+  '18:38':
+    texto: Caiu o fogo do Senhor e consumiu o holocausto, a lenha, as pedras e a terra, e lambeu a água
+      que estava no fosso.
+    status: ia-sem-revisao
+  '18:39':
+    texto: 'Todo o povo viu, caiu com o rosto em terra e disse: “O Senhor é Deus! O Senhor é Deus!”'
+    status: ia-sem-revisao
+  '18:41':
+    texto: 'Elias disse a Acab: “Sobe, come e bebe, pois há ruído de abundante chuva.”'
+    status: ia-sem-revisao
+  '18:42':
+    texto: Acab subiu para comer e beber, e Elias subiu ao cimo do Carmelo, inclinou-se para a terra e
+      pôs o rosto entre os joelhos.
+    status: ia-sem-revisao
+  '18:43':
+    texto: 'Disse ao seu servo: “Sobe e olha na direção do mar.” Ele subiu, olhou e disse: “Não há nada.”
+      Elias disse: “Volta sete vezes.”'
+    status: ia-sem-revisao
+  '18:44':
+    texto: 'Na sétima vez, o servo disse: “Eis uma pequena nuvem, como a palma de uma mão de homem, que
+      sobe do mar.” Elias disse: “Sobe e dize a Acab: ‘Atrela o carro e desce, para que a chuva não te
+      detenha.’”'
+    status: ia-sem-revisao
+  '18:45':
+    texto: Em pouco tempo o céu escureceu com nuvens e vento, e caiu uma grande chuva. Acab montou no
+      carro e foi a Jezrael.
+    status: ia-sem-revisao
+  '18:46':
+    texto: A mão do Senhor esteve sobre Elias, que cingiu os rins e correu diante de Acab até a entrada
+      de Jezrael.
+    status: ia-sem-revisao
+  '19:4':
+    texto: 'Ele mesmo andou um dia de caminho pelo deserto, chegou e sentou-se debaixo de uma giesta;
+      pediu para si a morte, dizendo: “Já basta, Senhor; toma a minha vida, pois não sou melhor do que
+      meus pais.”'
+    status: ia-sem-revisao
+  '19:5':
+    texto: 'Deitou-se e adormeceu debaixo da giesta; e eis que um anjo o tocou e lhe disse: “Levanta-te
+      e come.”'
+    status: ia-sem-revisao
+  '19:6':
+    texto: Olhou e viu, à sua cabeceira, um pão assado sobre pedras quentes e uma jarra de água. Comeu
+      e bebeu e voltou a deitar-se.
+    status: ia-sem-revisao
+  '19:7':
+    texto: 'O anjo do Senhor veio pela segunda vez, tocou-o e disse: “Levanta-te e come, porque o caminho
+      é longo demais para ti.”'
+    status: ia-sem-revisao
+  '19:8':
+    texto: Levantou-se, comeu e bebeu, e com a força daquela comida caminhou quarenta dias e quarenta
+      noites até o Horeb, o monte de Deus.
+    status: ia-sem-revisao
+  '19:9':
+    texto: 'Ali entrou numa gruta e passou a noite. E eis que a palavra do Senhor lhe foi dirigida e lhe
+      disse: “Que fazes aqui, Elias?”'
+    partes:
+    - Ali entrou numa gruta e passou a noite.
+    - 'E eis que a palavra do Senhor lhe foi dirigida e lhe disse: “Que fazes aqui, Elias?”'
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '19:11':
+    texto: 'Disse-lhe: “Sai e põe-te de pé no monte, diante do Senhor.” E eis que o Senhor passava: um
+      vento forte e impetuoso fendia os montes e quebrava os rochedos diante do Senhor, mas o Senhor não
+      estava no vento; depois do vento, um terremoto, mas o Senhor não estava no terremoto.'
+    status: ia-sem-revisao
+  '19:12':
+    texto: Depois do terremoto, um fogo, mas o Senhor não estava no fogo; depois do fogo, o som de um
+      silêncio sutil.
+    status: ia-sem-revisao
+    observacao: O hebraico traz “voz de silêncio sutil”; a Vulgata, “sopro de brisa leve”.
+  '19:13':
+    texto: 'Ao ouvir isso, Elias cobriu o rosto com o manto, saiu e parou à entrada da gruta. E eis que
+      uma voz lhe disse: “Que fazes aqui, Elias?”'
+    partes:
+    - Ao ouvir isso, Elias cobriu o rosto com o manto, saiu e parou à entrada da gruta.
+    - 'E eis que uma voz lhe disse: “Que fazes aqui, Elias?”'
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '19:14':
+    texto: 'Ele respondeu: “Tenho sido muito zeloso pelo Senhor, Deus dos exércitos, porque os filhos
+      de Israel abandonaram a tua aliança, derrubaram os teus altares e mataram à espada os teus profetas.
+      Fiquei só eu, e procuram tirar-me a vida.”'
+    status: ia-sem-revisao
+  '19:15':
+    texto: 'O Senhor disse-lhe: “Vai, volta pelo teu caminho para o deserto de Damasco; ao chegares, ungirás
+      Hazael como rei da Síria.'
+    status: ia-sem-revisao
+  '19:16':
+    texto: Ungirás Jeú, filho de Namsi, rei de Israel, e Eliseu, filho de Safat, de Abel-Meolá, ungirás
+      profeta em teu lugar.
+    partes:
+    - Ungirás Jeú, filho de Namsi, rei de Israel,
+    - e Eliseu, filho de Safat, de Abel-Meolá, ungirás profeta em teu lugar.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '19:19':
+    texto: Elias partiu dali e encontrou Eliseu, filho de Safat, que lavrava com doze juntas de bois diante
+      dele, e ele estava com a décima segunda. Elias passou junto dele e lançou sobre ele o seu manto.
+    status: ia-sem-revisao
+  '19:20':
+    texto: 'Eliseu deixou os bois, correu atrás de Elias e disse: “Deixa-me beijar meu pai e minha mãe,
+      e então te seguirei.” Elias respondeu: “Vai, volta; pois que te fiz eu?”'
+    status: ia-sem-revisao
+  '19:21':
+    texto: Eliseu voltou, tomou a junta de bois e a sacrificou; com a madeira dos arados cozeu a carne
+      e a deu ao povo, que comeu. Depois levantou-se, seguiu Elias e passou a servi-lo.
+    status: ia-sem-revisao
+  '21:1':
+    texto: Depois destes acontecimentos, Nabot, de Jezrael, tinha uma vinha em Jezrael, junto ao palácio
+      de Acab, rei de Samaria.
+    status: ia-sem-revisao
+  '21:2':
+    texto: 'Acab disse a Nabot: “Dá-me a tua vinha, para que seja a minha horta, pois está perto da minha
+      casa; em troca dar-te-ei uma vinha melhor ou, se preferires, o seu valor em dinheiro.”'
+    status: ia-sem-revisao
+  '21:3':
+    texto: 'Nabot respondeu a Acab: “O Senhor me livre de te dar a herança dos meus pais!”'
+    status: ia-sem-revisao
+  '21:4':
+    texto: 'Acab entrou em sua casa abatido e irritado, por causa da palavra que Nabot, de Jezrael, lhe
+      dissera: “Não te darei a herança dos meus pais.” Deitou-se na cama, virou o rosto para a parede
+      e não quis comer.'
+    status: ia-sem-revisao
+  '21:5':
+    texto: 'Sua mulher Jezabel veio e lhe disse: “Por que está o teu espírito tão abatido que não comes?”'
+    status: ia-sem-revisao
+  '21:6':
+    texto: 'Ele respondeu-lhe: “Falei a Nabot, de Jezrael, e disse-lhe: ‘Dá-me a tua vinha por dinheiro
+      ou, se preferires, dar-te-ei outra vinha em troca.’ Mas ele disse: ‘Não te darei a minha vinha.’”'
+    status: ia-sem-revisao
+  '21:7':
+    texto: 'Jezabel, sua mulher, disse-lhe: “Não és tu quem exerce o poder real sobre Israel? Levanta-te,
+      come e alegra o teu coração; eu te darei a vinha de Nabot, de Jezrael.”'
+    status: ia-sem-revisao
+  '21:8':
+    texto: Escreveu cartas em nome de Acab, selou-as com o seu selo e as enviou aos anciãos e aos nobres
+      que habitavam na cidade, com Nabot.
+    status: ia-sem-revisao
+  '21:9':
+    texto: 'Escreveu nas cartas: “Proclamai um jejum e fazei sentar Nabot à frente do povo;'
+    status: ia-sem-revisao
+  '21:10':
+    texto: 'fazei sentar diante dele dois homens perversos, que o acusem: ‘Blasfemaste contra Deus e contra
+      o rei.’ Depois levai-o para fora e apedrejai-o, para que morra.”'
+    status: ia-sem-revisao
+  '21:11':
+    texto: Os homens da sua cidade, os anciãos e os nobres que habitavam na cidade, fizeram como Jezabel
+      lhes mandara, conforme estava escrito nas cartas que ela lhes enviara.
+    status: ia-sem-revisao
+  '21:12':
+    texto: Proclamaram um jejum e fizeram sentar Nabot à frente do povo.
+    status: ia-sem-revisao
+  '21:13':
+    texto: 'Vieram os dois homens perversos, sentaram-se diante dele e acusaram Nabot diante do povo:
+      “Nabot blasfemou contra Deus e contra o rei.” Levaram-no para fora da cidade e o apedrejaram, e
+      ele morreu.'
+    status: ia-sem-revisao
+  '21:14':
+    texto: 'Mandaram dizer a Jezabel: “Nabot foi apedrejado e morreu.”'
+    status: ia-sem-revisao
+  '21:15':
+    texto: 'Quando Jezabel ouviu que Nabot fora apedrejado e morrera, disse a Acab: “Levanta-te, toma
+      posse da vinha de Nabot, de Jezrael, que se recusou a dar-te por dinheiro, pois Nabot já não vive;
+      morreu.”'
+    status: ia-sem-revisao
+  '21:16':
+    texto: Quando Acab ouviu que Nabot tinha morrido, levantou-se e desceu à vinha de Nabot, de Jezrael,
+      para tomar posse dela.
+    status: ia-sem-revisao
+  '21:17':
+    texto: 'A palavra do Senhor foi dirigida a Elias, o tisbita:'
+    status: ia-sem-revisao
+  '21:18':
+    texto: “Levanta-te, desce ao encontro de Acab, rei de Israel, que está em Samaria; eis que ele está
+      na vinha de Nabot, aonde desceu para tomar posse dela.
+    status: ia-sem-revisao
+  '21:19':
+    texto: 'Dir-lhe-ás: ‘Assim diz o Senhor: Mataste e ainda tomas posse?’ E acrescentarás: ‘Assim diz
+      o Senhor: No lugar onde os cães lamberam o sangue de Nabot, os cães lamberão também o teu sangue.’”'
+    status: ia-sem-revisao
+  '21:20':
+    texto: 'Acab disse a Elias: “Encontraste-me, ó meu inimigo?” Ele respondeu: “Encontrei, porque te
+      vendeste para fazer o que é mau aos olhos do Senhor.'
+    status: ia-sem-revisao
+  '21:21':
+    texto: Eis que trarei desgraça sobre ti, varrer-te-ei e exterminarei de Acab todo varão, escravo ou
+      livre, em Israel.
+    status: ia-sem-revisao
+  '21:22':
+    texto: Farei a tua casa como a casa de Jeroboão, filho de Nabat, e como a casa de Baasa, filho de
+      Aías, por causa da ira que provocaste e do pecado a que levaste Israel.
+    status: ia-sem-revisao
+  '21:23':
+    texto: 'Também contra Jezabel o Senhor falou: ‘Os cães comerão Jezabel junto ao muro de Jezrael.’'
+    status: ia-sem-revisao
+  '21:24':
+    texto: Quem de Acab morrer na cidade, os cães o comerão; e quem morrer no campo, as aves do céu o
+      comerão.”
+    status: ia-sem-revisao
+  '21:25':
+    texto: De fato, ninguém foi como Acab, que se vendeu para fazer o que é mau aos olhos do Senhor, incitado
+      por Jezabel, sua mulher.
+    status: ia-sem-revisao
+  '21:26':
+    texto: Cometeu abominações, seguindo os ídolos, exatamente como faziam os amorreus, que o Senhor expulsou
+      diante dos filhos de Israel.
+    status: ia-sem-revisao
+  '21:27':
+    texto: Quando Acab ouviu estas palavras, rasgou as suas vestes, vestiu um pano de saco sobre o corpo,
+      jejuou, dormiu com o saco e andava abatido.
+    status: ia-sem-revisao
+  '21:28':
+    texto: 'A palavra do Senhor foi dirigida a Elias, o tisbita:'
+    status: ia-sem-revisao
+  '21:29':
+    texto: “Viste como Acab se humilhou diante de mim? Porque se humilhou diante de mim, não trarei a
+      desgraça nos seus dias; nos dias do seu filho trarei a desgraça sobre a sua casa.”
+    status: ia-sem-revisao

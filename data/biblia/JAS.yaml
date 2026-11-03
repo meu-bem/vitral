@@ -1,0 +1,386 @@
+livro: JAS
+fonte: sblgnt
+versiculos:
+  '1:1':
+    texto: 'Tiago, servo de Deus e do Senhor Jesus Cristo, às doze tribos na dispersão: saudações.'
+    status: ia-sem-revisao
+  '1:2':
+    texto: Considerai como toda alegria, meus irmãos, quando cairdes em provações diversas,
+    status: ia-sem-revisao
+  '1:3':
+    texto: Sabendo que a prova da vossa fé produz perseverança.
+    status: ia-sem-revisao
+  '1:4':
+    texto: E a perseverança tenha uma obra perfeita, para que sejais perfeitos e íntegros, sem faltar
+      em nada.
+    status: ia-sem-revisao
+  '1:5':
+    texto: Se alguém de vós carece de sabedoria, peça-a a Deus, que dá a todos generosamente e sem recriminar,
+      e ela lhe será dada.
+    status: ia-sem-revisao
+  '1:6':
+    texto: Mas peça com fé, sem duvidar em nada; pois quem duvida é semelhante à onda do mar, agitada
+      e levada pelo vento.
+    status: ia-sem-revisao
+  '1:7':
+    texto: Que não pense aquele homem que receberá alguma coisa do Senhor,
+    status: ia-sem-revisao
+  '1:8':
+    texto: Homem de ânimo dividido, instável em todos os seus caminhos.
+    status: ia-sem-revisao
+  '1:9':
+    texto: Glorie-se o irmão humilde na sua elevação,
+    status: ia-sem-revisao
+  '1:10':
+    texto: E o rico na sua humilhação, porque passará como a flor da erva.
+    status: ia-sem-revisao
+  '1:11':
+    texto: Pois o sol nasceu com seu calor ardente e secou a erva; a sua flor caiu e a beleza do seu aspecto
+      pereceu. Assim também o rico murchará em seus empreendimentos.
+    status: ia-sem-revisao
+  '1:12':
+    texto: Bem-aventurado o homem que suporta a provação, pois, depois de provado, receberá a coroa da
+      vida, que o Senhor prometeu aos que o amam.
+    status: ia-sem-revisao
+  '1:13':
+    texto: 'Ninguém, ao ser tentado, diga: “Sou tentado por Deus”; pois Deus não pode ser tentado pelo
+      mal, e ele mesmo a ninguém tenta.'
+    status: ia-sem-revisao
+  '1:14':
+    texto: Cada um, porém, é tentado pela própria concupiscência, que o atrai e o seduz.
+    status: ia-sem-revisao
+  '1:15':
+    texto: Em seguida, a concupiscência, tendo concebido, dá à luz o pecado; e o pecado, uma vez consumado,
+      gera a morte.
+    status: ia-sem-revisao
+  '1:16':
+    texto: Não vos enganeis, meus amados irmãos.
+    status: ia-sem-revisao
+  '1:17':
+    texto: Toda dádiva boa e todo dom perfeito vêm do alto, descendo do Pai das luzes, no qual não há
+      variação nem sombra de mudança.
+    status: ia-sem-revisao
+  '1:18':
+    texto: Por sua vontade ele nos gerou pela palavra da verdade, para sermos como que as primícias das
+      suas criaturas.
+    status: ia-sem-revisao
+  '1:19':
+    texto: 'Sabei, meus amados irmãos: todo homem seja pronto para ouvir, lento para falar, lento para
+      a ira,'
+    status: ia-sem-revisao
+  '1:20':
+    texto: Pois a ira do homem não produz a justiça de Deus.
+    status: ia-sem-revisao
+  '1:21':
+    texto: Por isso, abandonando toda impureza e todo excesso de malícia, recebei com mansidão a palavra
+      plantada em vós, que pode salvar as vossas almas.
+    partes:
+    - Por isso, abandonando toda impureza e todo excesso de malícia,
+    - recebei com mansidão a palavra plantada em vós, que pode salvar as vossas almas.
+    status: ia-sem-revisao
+  '1:22':
+    texto: Tornai-vos praticantes da palavra e não apenas ouvintes, enganando-vos a vós mesmos.
+    status: ia-sem-revisao
+  '1:23':
+    texto: Pois se alguém é ouvinte da palavra e não praticante, esse é semelhante a um homem que contempla
+      num espelho o seu rosto natural,
+    status: ia-sem-revisao
+  '1:24':
+    texto: Pois contemplou-se, foi-se embora e logo esqueceu como era.
+    status: ia-sem-revisao
+  '1:25':
+    texto: Mas aquele que se inclina sobre a lei perfeita, a da liberdade, e nela persevera, não se tornando
+      ouvinte esquecido, mas praticante da obra, esse será bem-aventurado no seu agir.
+    status: ia-sem-revisao
+  '1:26':
+    texto: Se alguém julga ser religioso, mas não refreia a língua e engana o próprio coração, vã é a
+      religião dele.
+    status: ia-sem-revisao
+  '1:27':
+    texto: 'A religião pura e imaculada diante de Deus Pai é esta: visitar órfãos e viúvas na sua tribulação,
+      e guardar-se sem mancha do mundo.'
+    status: ia-sem-revisao
+  '2:1':
+    texto: Meus irmãos, não tenhais a fé em nosso Senhor Jesus Cristo glorioso com acepção de pessoas.
+    status: ia-sem-revisao
+  '2:2':
+    texto: Pois se entrar na vossa assembleia um homem com anel de ouro, em veste esplêndida, e entrar
+      também um pobre em veste suja,
+    status: ia-sem-revisao
+  '2:3':
+    texto: 'E olhardes para o que veste a roupa esplêndida e disserdes: “Tu, senta-te aqui, em bom lugar”,
+      e ao pobre disserdes: “Tu, fica de pé” ou “senta-te ali, abaixo do meu estrado”,'
+    status: ia-sem-revisao
+  '2:4':
+    texto: Não fizestes distinção entre vós e vos tornastes juízes de maus pensamentos?
+    status: ia-sem-revisao
+  '2:5':
+    texto: 'Ouvi, meus amados irmãos: não escolheu Deus os pobres aos olhos do mundo para serem ricos
+      na fé e herdeiros do Reino que prometeu aos que o amam?'
+    status: ia-sem-revisao
+  '2:6':
+    texto: Vós, porém, desonrastes o pobre. Não são os ricos que vos oprimem, e eles mesmos vos arrastam
+      aos tribunais?
+    status: ia-sem-revisao
+  '2:7':
+    texto: Não são eles que blasfemam o belo nome que foi invocado sobre vós?
+    status: ia-sem-revisao
+  '2:8':
+    texto: 'Se, de fato, cumpris a lei régia segundo a Escritura: “Amarás o teu próximo como a ti mesmo”,
+      fazeis bem;'
+    status: ia-sem-revisao
+  '2:9':
+    texto: Mas se fazeis acepção de pessoas, cometeis pecado, sendo condenados pela lei como transgressores.
+    status: ia-sem-revisao
+  '2:10':
+    texto: Pois quem observar toda a lei, mas tropeçar em um só ponto, tornou-se culpado de todos.
+    status: ia-sem-revisao
+  '2:11':
+    texto: 'Pois aquele que disse: “Não cometerás adultério” disse também: “Não matarás.” Se não cometes
+      adultério, mas matas, tornaste-te transgressor da lei.'
+    status: ia-sem-revisao
+  '2:12':
+    texto: Assim falai e assim agi, como quem há de ser julgado pela lei da liberdade.
+    status: ia-sem-revisao
+  '2:13':
+    texto: Pois o julgamento será sem misericórdia para quem não praticou misericórdia; a misericórdia
+      triunfa sobre o julgamento.
+    status: ia-sem-revisao
+  '2:14':
+    texto: Que proveito há, meus irmãos, se alguém diz ter fé, mas não tem obras? Poderá a fé salvá-lo?
+    status: ia-sem-revisao
+  '2:15':
+    texto: Se um irmão ou uma irmã estiverem nus e carentes do alimento de cada dia,
+    status: ia-sem-revisao
+  '2:16':
+    texto: 'E alguém de vós lhes disser: “Ide em paz, aquecei-vos e saciai-vos”, mas não lhes derdes o
+      necessário para o corpo, que proveito há?'
+    status: ia-sem-revisao
+  '2:17':
+    texto: Assim também a fé, se não tiver obras, está morta em si mesma.
+    status: ia-sem-revisao
+  '2:18':
+    texto: 'Mas dirá alguém: “Tu tens fé, e eu tenho obras. Mostra-me a tua fé sem as obras, e eu te mostrarei
+      a minha fé pelas minhas obras.”'
+    status: ia-sem-revisao
+  '2:19':
+    texto: Tu crês que há um só Deus? Fazes bem; também os demônios creem e estremecem.
+    status: ia-sem-revisao
+  '2:20':
+    texto: Queres saber, ó homem vazio, que a fé sem as obras é estéril?
+    status: ia-sem-revisao
+  '2:21':
+    texto: Abraão, nosso pai, não foi justificado pelas obras, ao oferecer seu filho Isaac sobre o altar?
+    status: ia-sem-revisao
+  '2:22':
+    texto: Vês que a fé cooperava com as suas obras e que pelas obras a fé foi levada à perfeição,
+    status: ia-sem-revisao
+  '2:23':
+    texto: 'E cumpriu-se a Escritura que diz: “Abraão creu em Deus, e isso lhe foi atribuído como justiça”,
+      e foi chamado amigo de Deus.'
+    status: ia-sem-revisao
+  '2:24':
+    texto: Vedes que o homem é justificado pelas obras, e não somente pela fé.
+    status: ia-sem-revisao
+  '2:25':
+    texto: Do mesmo modo, também Raab, a prostituta, não foi justificada pelas obras, ao receber os mensageiros
+      e fazê-los sair por outro caminho?
+    status: ia-sem-revisao
+  '2:26':
+    texto: Pois, assim como o corpo sem o espírito está morto, assim também a fé sem obras está morta.
+    status: ia-sem-revisao
+  '3:1':
+    texto: Não vos torneis muitos mestres, meus irmãos, sabendo que receberemos um julgamento mais severo;
+    status: ia-sem-revisao
+  '3:2':
+    texto: Pois todos tropeçamos em muitas coisas. Se alguém não tropeça no falar, esse é um homem perfeito,
+      capaz de refrear também todo o corpo.
+    status: ia-sem-revisao
+  '3:3':
+    texto: Se pomos freios na boca dos cavalos para que nos obedeçam, conduzimos também todo o seu corpo.
+    status: ia-sem-revisao
+  '3:4':
+    texto: 'Vede também os navios: embora tão grandes e impelidos por ventos fortes, são conduzidos por
+      um pequeníssimo leme para onde quer o impulso do timoneiro.'
+    status: ia-sem-revisao
+  '3:5':
+    texto: Assim também a língua é um pequeno membro e se gaba de grandes coisas. Vede que pequeno fogo
+      incendeia que grande floresta!
+    status: ia-sem-revisao
+  '3:6':
+    texto: Também a língua é fogo; a língua se estabelece entre os nossos membros como o mundo da injustiça,
+      ela que contamina todo o corpo, incendeia a roda da existência e é incendiada pela geena.
+    status: ia-sem-revisao
+  '3:7':
+    texto: Pois toda espécie de feras e de aves, de répteis e de animais marinhos é domada e foi domada
+      pela espécie humana;
+    status: ia-sem-revisao
+  '3:8':
+    texto: 'Mas a língua, nenhum dos homens pode domá-la: mal inquieto, cheia de veneno mortífero.'
+    status: ia-sem-revisao
+  '3:9':
+    texto: Com ela bendizemos o Senhor e Pai, e com ela amaldiçoamos os homens, feitos à semelhança de
+      Deus;
+    status: ia-sem-revisao
+  '3:10':
+    texto: Da mesma boca saem bênção e maldição. Não convém, meus irmãos, que isso aconteça assim.
+    status: ia-sem-revisao
+  '3:11':
+    texto: Acaso a fonte jorra da mesma abertura o doce e o amargo?
+    status: ia-sem-revisao
+  '3:12':
+    texto: Pode, meus irmãos, uma figueira produzir azeitonas, ou uma videira, figos? Nem a água salgada
+      pode produzir água doce.
+    status: ia-sem-revisao
+  '3:13':
+    texto: Quem é sábio e entendido entre vós? Mostre, por meio do bom comportamento, as suas obras com
+      a mansidão da sabedoria.
+    status: ia-sem-revisao
+  '3:14':
+    texto: Mas se tendes no coração zelo amargo e rivalidade, não vos glorieis nem mintais contra a verdade.
+    status: ia-sem-revisao
+  '3:15':
+    texto: Essa sabedoria não é a que desce do alto, mas é terrena, natural, demoníaca;
+    status: ia-sem-revisao
+  '3:16':
+    texto: Pois onde há zelo e rivalidade, aí há desordem e toda obra má.
+    status: ia-sem-revisao
+  '3:17':
+    texto: A sabedoria do alto é, primeiro, pura; depois, pacífica, amável, dócil, cheia de misericórdia
+      e de bons frutos, sem parcialidade, sem hipocrisia.
+    status: ia-sem-revisao
+  '3:18':
+    texto: O fruto da justiça é semeado na paz por aqueles que promovem a paz.
+    status: ia-sem-revisao
+  '4:1':
+    texto: 'De onde vêm as guerras e de onde as brigas entre vós? Não vêm daqui: dos vossos prazeres,
+      que combatem nos vossos membros?'
+    status: ia-sem-revisao
+  '4:2':
+    texto: Desejais e não tendes; matais e invejais, e não podeis alcançar; brigais e guerreais. Não tendes,
+      porque não pedis;
+    status: ia-sem-revisao
+  '4:3':
+    texto: Pedis e não recebeis, porque pedis mal, para gastar nos vossos prazeres.
+    status: ia-sem-revisao
+  '4:4':
+    texto: Adúlteras! Não sabeis que a amizade do mundo é inimizade contra Deus? Quem, portanto, quiser
+      ser amigo do mundo constitui-se inimigo de Deus.
+    status: ia-sem-revisao
+  '4:5':
+    texto: 'Ou pensais que a Escritura diz em vão: “Até à inveja deseja o espírito que ele fez habitar
+      em nós”?'
+    status: ia-sem-revisao
+  '4:6':
+    texto: 'Mas ele dá maior graça; por isso diz: “Deus resiste aos soberbos, mas dá graça aos humildes.”'
+    status: ia-sem-revisao
+  '4:7':
+    texto: Submetei-vos, pois, a Deus; resisti ao diabo, e ele fugirá de vós;
+    status: ia-sem-revisao
+  '4:8':
+    texto: Aproximai-vos de Deus, e ele se aproximará de vós. Purificai as mãos, pecadores, e santificai
+      os corações, homens de ânimo dividido.
+    status: ia-sem-revisao
+  '4:9':
+    texto: Afligi-vos, lamentai e chorai; o vosso riso converta-se em luto e a alegria em tristeza;
+    status: ia-sem-revisao
+  '4:10':
+    texto: Humilhai-vos diante do Senhor, e ele vos exaltará.
+    status: ia-sem-revisao
+  '4:11':
+    texto: Não faleis mal uns dos outros, irmãos. Quem fala mal de um irmão ou julga o seu irmão fala
+      mal da lei e julga a lei; mas se julgas a lei, não és cumpridor da lei, e sim juiz.
+    status: ia-sem-revisao
+  '4:12':
+    texto: Um só é o legislador e juiz, aquele que pode salvar e perder; mas tu, quem és, que julgas o
+      próximo?
+    status: ia-sem-revisao
+  '4:13':
+    texto: 'Vamos agora, vós que dizeis: “Hoje ou amanhã iremos a tal cidade, passaremos lá um ano, negociaremos
+      e lucraremos”;'
+    status: ia-sem-revisao
+  '4:14':
+    texto: Vós, que não sabeis o que será a vossa vida amanhã — pois sois uma neblina que aparece por
+      um pouco e depois desaparece —
+    status: ia-sem-revisao
+  '4:15':
+    texto: 'Em vez de dizerdes: “Se o Senhor quiser, viveremos e faremos isto ou aquilo.”'
+    status: ia-sem-revisao
+  '4:16':
+    texto: Agora, porém, vos gloriais nas vossas presunções; toda glória como essa é má.
+    status: ia-sem-revisao
+  '4:17':
+    texto: Portanto, quem sabe fazer o bem e não o faz, isso lhe é pecado.
+    status: ia-sem-revisao
+  '5:1':
+    texto: Vamos agora, ricos, chorai aos gritos pelas desgraças que vos sobrevêm.
+    status: ia-sem-revisao
+  '5:2':
+    texto: A vossa riqueza apodreceu, e as vossas roupas ficaram roídas pelas traças;
+    status: ia-sem-revisao
+  '5:3':
+    texto: O vosso ouro e a vossa prata enferrujaram, e a sua ferrugem será testemunho contra vós e devorará
+      a vossa carne. Como fogo, acumulastes tesouros nos últimos dias.
+    status: ia-sem-revisao
+  '5:4':
+    texto: Eis que o salário dos trabalhadores que ceifaram os vossos campos, e que foi retido por vós,
+      clama; e os gritos dos ceifeiros chegaram aos ouvidos do Senhor dos Exércitos.
+    status: ia-sem-revisao
+  '5:5':
+    texto: Vivestes no luxo sobre a terra e na devassidão; fartastes os vossos corações no dia da matança.
+    status: ia-sem-revisao
+  '5:6':
+    texto: Condenastes, matastes o justo. Ele não vos resiste?
+    status: ia-sem-revisao
+  '5:7':
+    texto: 'Tende, pois, paciência, irmãos, até a vinda do Senhor. Vede: o agricultor espera o precioso
+      fruto da terra, tendo paciência com ele até receber a chuva temporã e a tardia.'
+    status: ia-sem-revisao
+  '5:8':
+    texto: Tende também vós paciência, fortalecei os vossos corações, porque a vinda do Senhor está próxima.
+    status: ia-sem-revisao
+  '5:9':
+    texto: Não vos queixeis, irmãos, uns contra os outros, para não serdes julgados; eis que o juiz está
+      de pé diante das portas.
+    status: ia-sem-revisao
+  '5:10':
+    texto: Tomai, irmãos, como exemplo de sofrimento e de paciência os profetas, que falaram em nome do
+      Senhor.
+    status: ia-sem-revisao
+  '5:11':
+    texto: Eis que proclamamos bem-aventurados os que perseveraram. Ouvistes falar da perseverança de
+      Jó e vistes o desfecho do Senhor, pois o Senhor é cheio de compaixão e misericordioso.
+    status: ia-sem-revisao
+  '5:12':
+    texto: Antes de tudo, meus irmãos, não jureis, nem pelo céu, nem pela terra, nem qualquer outro juramento;
+      seja o vosso “Sim” sim e o vosso “Não” não, para não cairdes em julgamento.
+    status: ia-sem-revisao
+  '5:13':
+    texto: Alguém entre vós sofre? Ore. Alguém está alegre? Cante louvores.
+    status: ia-sem-revisao
+  '5:14':
+    texto: Alguém entre vós está doente? Chame os presbíteros da igreja, e orem sobre ele, ungindo-o com
+      óleo em nome do Senhor;
+    status: ia-sem-revisao
+  '5:15':
+    texto: E a oração da fé salvará o enfermo, e o Senhor o levantará; e se tiver cometido pecados, ser-lhe-ão
+      perdoados.
+    status: ia-sem-revisao
+  '5:16':
+    texto: Confessai, pois, uns aos outros os pecados e orai uns pelos outros, para serdes curados. Muito
+      pode a súplica do justo em ação.
+    status: ia-sem-revisao
+  '5:17':
+    texto: Elias era um homem de natureza semelhante à nossa, e orou com insistência para que não chovesse,
+      e não choveu sobre a terra durante três anos e seis meses;
+    status: ia-sem-revisao
+  '5:18':
+    texto: E orou de novo, e o céu deu chuva e a terra produziu o seu fruto.
+    status: ia-sem-revisao
+  '5:19':
+    texto: Meus irmãos, se alguém entre vós se desviar da verdade e alguém o reconduzir,
+    status: ia-sem-revisao
+  '5:20':
+    texto: Saiba que quem reconduz um pecador do erro do seu caminho salvará a sua alma da morte e cobrirá
+      uma multidão de pecados.
+    status: ia-sem-revisao

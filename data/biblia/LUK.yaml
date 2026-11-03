@@ -1,0 +1,4037 @@
+livro: LUK
+fonte: sblgnt
+omitidos:
+  '17:36': 'O SBLGNT não traz este versículo (“Dois estarão no campo: um será levado e o outro deixado”);
+    a Nova Vulgata sim.'
+  '23:17': O SBLGNT não traz este versículo (“Ele tinha de soltar-lhes um preso por ocasião da festa”);
+    a Nova Vulgata sim.
+versiculos:
+  '1:1':
+    texto: Visto que muitos empreenderam compor uma narração dos fatos que se cumpriram entre nós,
+    status: ia-sem-revisao
+  '1:2':
+    texto: Conforme no-los transmitiram os que desde o princípio foram testemunhas oculares e servidores
+      da palavra,
+    status: ia-sem-revisao
+  '1:3':
+    texto: Pareceu-me bom também a mim, que investiguei tudo cuidadosamente desde o início, escrever-te
+      de modo ordenado, excelentíssimo Teófilo,
+    status: ia-sem-revisao
+  '1:4':
+    texto: Para que conheças a solidez das coisas em que foste instruído.
+    status: ia-sem-revisao
+  '1:5':
+    texto: Nos dias de Herodes, rei da Judeia, houve um sacerdote chamado Zacarias, da classe de Abias;
+      sua mulher era das filhas de Aarão, e o seu nome era Isabel.
+    status: ia-sem-revisao
+  '1:6':
+    texto: Ambos eram justos diante de Deus, andando irrepreensíveis em todos os mandamentos e preceitos
+      do Senhor.
+    status: ia-sem-revisao
+  '1:7':
+    texto: Não tinham filho, porque Isabel era estéril, e ambos já eram avançados em idade.
+    status: ia-sem-revisao
+  '1:8':
+    texto: Aconteceu que, quando ele exercia o sacerdócio diante de Deus, na ordem da sua classe,
+    status: ia-sem-revisao
+  '1:9':
+    texto: Segundo o costume do sacerdócio, coube-lhe por sorte entrar no santuário do Senhor para oferecer
+      o incenso;
+    status: ia-sem-revisao
+  '1:10':
+    texto: E toda a multidão do povo estava fora, orando, na hora do incenso.
+    status: ia-sem-revisao
+  '1:11':
+    texto: Apareceu-lhe um anjo do Senhor, de pé, à direita do altar do incenso.
+    status: ia-sem-revisao
+  '1:12':
+    texto: Zacarias, ao vê-lo, ficou perturbado, e o temor caiu sobre ele.
+    status: ia-sem-revisao
+  '1:13':
+    texto: 'O anjo lhe disse: “Não temas, Zacarias, porque a tua súplica foi ouvida; Isabel, tua mulher,
+      te dará um filho, e lhe darás o nome de João;'
+    status: ia-sem-revisao
+  '1:14':
+    texto: Terás alegria e júbilo, e muitos se alegrarão com o seu nascimento;
+    status: ia-sem-revisao
+  '1:15':
+    texto: Pois será grande diante do Senhor; não beberá vinho nem bebida fermentada e será cheio do Espírito
+      Santo desde o ventre de sua mãe;
+    status: ia-sem-revisao
+  '1:16':
+    texto: E fará voltar muitos dos filhos de Israel ao Senhor, seu Deus;
+    status: ia-sem-revisao
+  '1:17':
+    texto: E irá adiante dele com o espírito e o poder de Elias, para converter os corações dos pais aos
+      filhos e os desobedientes à sabedoria dos justos, a fim de preparar para o Senhor um povo bem disposto.”
+    status: ia-sem-revisao
+  '1:18':
+    texto: 'Zacarias disse ao anjo: “Como saberei isto? Pois sou velho, e a minha mulher é avançada em
+      idade.”'
+    status: ia-sem-revisao
+  '1:19':
+    texto: 'O anjo, respondendo, disse-lhe: “Eu sou Gabriel, que estou diante de Deus, e fui enviado para
+      falar contigo e te anunciar esta boa notícia;'
+    status: ia-sem-revisao
+  '1:20':
+    texto: E eis que ficarás mudo e sem poder falar até o dia em que isto acontecer, porque não creste
+      nas minhas palavras, que se cumprirão a seu tempo.”
+    status: ia-sem-revisao
+  '1:21':
+    texto: O povo esperava Zacarias e admirava-se de que demorasse no santuário.
+    status: ia-sem-revisao
+  '1:22':
+    texto: Ao sair, não podia falar-lhes, e perceberam que tivera uma visão no santuário; ele lhes fazia
+      sinais e continuava mudo.
+    status: ia-sem-revisao
+  '1:23':
+    texto: Quando se cumpriram os dias do seu serviço, voltou para casa.
+    status: ia-sem-revisao
+  '1:24':
+    texto: 'Depois desses dias, Isabel, sua mulher, concebeu e escondeu-se durante cinco meses, dizendo:'
+    status: ia-sem-revisao
+  '1:25':
+    texto: “Eis o que o Senhor fez por mim nos dias em que olhou para tirar a minha vergonha entre os
+      homens.”
+    status: ia-sem-revisao
+  '1:26':
+    texto: No sexto mês, o anjo Gabriel foi enviado por Deus a uma cidade da Galileia chamada Nazaré,
+    status: ia-sem-revisao
+  '1:27':
+    texto: A uma virgem prometida em casamento a um homem chamado José, da casa de Davi; e o nome da virgem
+      era Maria.
+    status: ia-sem-revisao
+  '1:28':
+    texto: 'Entrando onde ela estava, disse: “Alegra-te, agraciada; o Senhor está contigo.”'
+    status: ia-sem-revisao
+  '1:29':
+    texto: Ela ficou perturbada com a palavra e pensava que saudação seria essa.
+    status: ia-sem-revisao
+  '1:30':
+    texto: 'O anjo lhe disse: “Não temas, Maria, pois achaste graça diante de Deus;'
+    status: ia-sem-revisao
+  '1:31':
+    texto: E eis que conceberás no ventre e darás à luz um filho, e lhe darás o nome de Jesus.
+    status: ia-sem-revisao
+  '1:32':
+    texto: Ele será grande e será chamado Filho do Altíssimo, e o Senhor Deus lhe dará o trono de Davi,
+      seu pai;
+    status: ia-sem-revisao
+  '1:33':
+    texto: Reinará sobre a casa de Jacó para sempre, e o seu reino não terá fim.”
+    status: ia-sem-revisao
+  '1:34':
+    texto: 'Maria disse ao anjo: “Como acontecerá isto, se não conheço homem?”'
+    status: ia-sem-revisao
+  '1:35':
+    texto: 'O anjo, respondendo, disse-lhe: “O Espírito Santo virá sobre ti, e o poder do Altíssimo te
+      cobrirá com sua sombra; por isso o que há de nascer será chamado santo, Filho de Deus;'
+    status: ia-sem-revisao
+  '1:36':
+    texto: E eis que Isabel, tua parenta, também ela concebeu um filho na sua velhice, e este é o sexto
+      mês para aquela que era chamada estéril;
+    status: ia-sem-revisao
+  '1:37':
+    texto: Porque para Deus nenhuma palavra será impossível.”
+    status: ia-sem-revisao
+  '1:38':
+    texto: 'Maria disse: “Eis a serva do Senhor; faça-se em mim segundo a tua palavra.” E o anjo retirou-se
+      dela.'
+    status: ia-sem-revisao
+  '1:39':
+    texto: Naqueles dias, Maria levantou-se e foi depressa à região montanhosa, a uma cidade de Judá,
+    status: ia-sem-revisao
+  '1:40':
+    texto: E entrou na casa de Zacarias e saudou Isabel.
+    status: ia-sem-revisao
+  '1:41':
+    texto: Ao ouvir Isabel a saudação de Maria, a criança estremeceu no seu ventre, e Isabel ficou cheia
+      do Espírito Santo,
+    status: ia-sem-revisao
+  '1:42':
+    texto: 'E exclamou em alta voz: “Bendita és tu entre as mulheres, e bendito é o fruto do teu ventre!'
+    status: ia-sem-revisao
+  '1:43':
+    texto: E donde me vem isto, que a mãe do meu Senhor venha a mim?
+    status: ia-sem-revisao
+  '1:44':
+    texto: Pois, eis que, quando a voz da tua saudação chegou aos meus ouvidos, a criança estremeceu de
+      alegria no meu ventre.
+    status: ia-sem-revisao
+  '1:45':
+    texto: Bem-aventurada a que creu que se cumprirá o que lhe foi dito da parte do Senhor.”
+    status: ia-sem-revisao
+  '1:46':
+    texto: 'E Maria disse: “A minha alma engrandece o Senhor,'
+    status: ia-sem-revisao
+  '1:47':
+    texto: E o meu espírito exulta em Deus, meu Salvador;
+    status: ia-sem-revisao
+  '1:48':
+    texto: Porque olhou para a humildade da sua serva; pois eis que, de agora em diante, todas as gerações
+      me chamarão bem-aventurada;
+    status: ia-sem-revisao
+  '1:49':
+    texto: Porque o Poderoso fez grandes coisas por mim, e santo é o seu nome;
+    status: ia-sem-revisao
+  '1:50':
+    texto: E a sua misericórdia vai de geração em geração para os que o temem.
+    status: ia-sem-revisao
+  '1:51':
+    texto: Manifestou a força do seu braço, dispersou os soberbos de coração;
+    status: ia-sem-revisao
+  '1:52':
+    texto: Derrubou os poderosos dos tronos e exaltou os humildes;
+    status: ia-sem-revisao
+  '1:53':
+    texto: Aos famintos encheu de bens e aos ricos despediu de mãos vazias.
+    status: ia-sem-revisao
+  '1:54':
+    texto: Socorreu Israel, seu servo, lembrando-se da misericórdia,
+    status: ia-sem-revisao
+  '1:55':
+    texto: Como falou aos nossos pais, a Abraão e à sua descendência para sempre.”
+    status: ia-sem-revisao
+  '1:56':
+    texto: Maria ficou com ela cerca de três meses e voltou para a sua casa.
+    status: ia-sem-revisao
+  '1:57':
+    texto: Para Isabel completou-se o tempo de dar à luz, e teve um filho.
+    status: ia-sem-revisao
+  '1:58':
+    texto: Os vizinhos e parentes dela ouviram que o Senhor engrandecera a sua misericórdia para com ela,
+      e alegravam-se com ela.
+    status: ia-sem-revisao
+  '1:59':
+    texto: No oitavo dia, vieram circuncidar o menino e queriam dar-lhe o nome do pai, Zacarias.
+    status: ia-sem-revisao
+  1:60:
+    texto: 'A mãe, porém, respondendo, disse: “Não, mas será chamado João.”'
+    status: ia-sem-revisao
+  1:61:
+    texto: 'Disseram-lhe: “Ninguém há na tua parentela que tenha este nome.”'
+    status: ia-sem-revisao
+  1:62:
+    texto: E faziam sinais ao pai para saber como queria que fosse chamado.
+    status: ia-sem-revisao
+  1:63:
+    texto: 'Pedindo uma tabuinha, escreveu: “João é o seu nome.” E todos se admiraram.'
+    status: ia-sem-revisao
+  1:64:
+    texto: Imediatamente abriu-se a sua boca e soltou-se a sua língua, e falava, bendizendo a Deus.
+    status: ia-sem-revisao
+  1:65:
+    texto: Veio o temor sobre todos os que habitavam nas redondezas, e por toda a região montanhosa da
+      Judeia se comentavam todas estas coisas;
+    status: ia-sem-revisao
+  1:66:
+    texto: 'E todos os que as ouviam guardavam-nas no coração, dizendo: “Que será, então, este menino?”
+      Pois a mão do Senhor estava com ele.'
+    status: ia-sem-revisao
+  1:67:
+    texto: 'Zacarias, seu pai, ficou cheio do Espírito Santo e profetizou, dizendo:'
+    status: ia-sem-revisao
+  1:68:
+    texto: “Bendito seja o Senhor, Deus de Israel, porque visitou e realizou a redenção do seu povo,
+    status: ia-sem-revisao
+  1:69:
+    texto: E ergueu para nós uma força salvadora na casa de Davi, seu servo,
+    status: ia-sem-revisao
+  1:70:
+    texto: 'Como falou pela boca dos seus santos profetas desde a antiguidade:'
+    status: ia-sem-revisao
+  1:71:
+    texto: Salvação dos nossos inimigos e da mão de todos os que nos odeiam;
+    status: ia-sem-revisao
+  1:72:
+    texto: Para usar de misericórdia com os nossos pais e lembrar-se da sua santa aliança,
+    status: ia-sem-revisao
+  1:73:
+    texto: Do juramento que fez a Abraão, nosso pai, de nos conceder
+    status: ia-sem-revisao
+  1:74:
+    texto: Que, libertos da mão dos inimigos, o sirvamos sem temor
+    status: ia-sem-revisao
+  1:75:
+    texto: Em santidade e justiça diante dele, todos os nossos dias.
+    status: ia-sem-revisao
+  1:76:
+    texto: E tu, menino, serás chamado profeta do Altíssimo, pois irás adiante do Senhor para preparar
+      os seus caminhos,
+    status: ia-sem-revisao
+  1:77:
+    texto: Para dar ao seu povo o conhecimento da salvação, no perdão dos seus pecados,
+    status: ia-sem-revisao
+  1:78:
+    texto: Graças às entranhas de misericórdia do nosso Deus, com as quais nos visitará o astro que nasce
+      do alto,
+    status: ia-sem-revisao
+  1:79:
+    texto: Para iluminar os que estão sentados nas trevas e na sombra da morte, e dirigir os nossos passos
+      no caminho da paz.”
+    status: ia-sem-revisao
+  1:80:
+    texto: O menino crescia e se fortalecia no espírito, e esteve nos desertos até o dia da sua manifestação
+      a Israel.
+    status: ia-sem-revisao
+  '2:1':
+    texto: Naqueles dias, saiu um decreto de César Augusto para que se fizesse o recenseamento de todo
+      o mundo habitado;
+    status: ia-sem-revisao
+  '2:2':
+    texto: (Este primeiro recenseamento foi feito quando Quirino governava a Síria;)
+    status: ia-sem-revisao
+  '2:3':
+    texto: E todos iam registrar-se, cada um na sua cidade.
+    status: ia-sem-revisao
+  '2:4':
+    texto: Também José subiu da Galileia, da cidade de Nazaré, à Judeia, à cidade de Davi, chamada Belém,
+      por ser da casa e da família de Davi,
+    status: ia-sem-revisao
+  '2:5':
+    texto: Para se registrar com Maria, que lhe estava prometida em casamento e estava grávida.
+    status: ia-sem-revisao
+  '2:6':
+    texto: Enquanto estavam ali, completaram-se os dias de ela dar à luz,
+    status: ia-sem-revisao
+  '2:7':
+    texto: E deu à luz o seu filho primogênito, envolveu-o em faixas e o deitou numa manjedoura, porque
+      não havia lugar para eles na hospedaria.
+    status: ia-sem-revisao
+  '2:8':
+    texto: Havia naquela região pastores que viviam nos campos e guardavam à noite o seu rebanho.
+    status: ia-sem-revisao
+  '2:9':
+    texto: E um anjo do Senhor apareceu-lhes, e a glória do Senhor os envolveu em luz, e tiveram grande
+      temor;
+    status: ia-sem-revisao
+  '2:10':
+    texto: 'O anjo lhes disse: “Não temais, pois eis que vos anuncio uma grande alegria, que será para
+      todo o povo:'
+    status: ia-sem-revisao
+  '2:11':
+    texto: Hoje vos nasceu, na cidade de Davi, um salvador, que é Cristo, o Senhor;
+    status: ia-sem-revisao
+  '2:12':
+    texto: 'E este vos será o sinal: encontrareis um recém-nascido envolto em faixas e deitado numa manjedoura.”'
+    status: ia-sem-revisao
+  '2:13':
+    texto: 'De repente, juntou-se ao anjo uma multidão do exército celeste, louvando a Deus e dizendo:'
+    status: ia-sem-revisao
+  '2:14':
+    texto: “Glória a Deus nas alturas, e na terra paz entre os homens do seu agrado.”
+    status: ia-sem-revisao
+  '2:15':
+    texto: 'Quando os anjos se afastaram deles para o céu, os pastores diziam uns aos outros: “Vamos até
+      Belém e vejamos o que aconteceu, que o Senhor nos deu a conhecer.”'
+    status: ia-sem-revisao
+  '2:16':
+    texto: Foram depressa e encontraram Maria, José e o recém-nascido deitado na manjedoura;
+    status: ia-sem-revisao
+  '2:17':
+    texto: Ao verem, deram a conhecer o que lhes fora dito sobre aquele menino.
+    status: ia-sem-revisao
+  '2:18':
+    texto: Todos os que ouviram se admiraram do que os pastores lhes diziam;
+    status: ia-sem-revisao
+  '2:19':
+    texto: Maria guardava todas estas palavras, meditando-as no seu coração.
+    status: ia-sem-revisao
+  '2:20':
+    texto: Os pastores voltaram, glorificando e louvando a Deus por tudo o que tinham ouvido e visto,
+      conforme lhes fora dito.
+    status: ia-sem-revisao
+  '2:21':
+    texto: Quando se completaram os oito dias para o circuncidar, foi-lhe dado o nome de Jesus, o nome
+      indicado pelo anjo antes de ele ser concebido no ventre.
+    status: ia-sem-revisao
+  '2:22':
+    texto: Quando se completaram os dias da purificação deles, segundo a Lei de Moisés, levaram-no a Jerusalém
+      para o apresentar ao Senhor,
+    status: ia-sem-revisao
+  '2:23':
+    texto: 'Conforme está escrito na Lei do Senhor: “Todo macho que abre o ventre será chamado santo para
+      o Senhor”,'
+    status: ia-sem-revisao
+  '2:24':
+    texto: 'E para oferecer um sacrifício, conforme o que está dito na Lei do Senhor: um par de rolas
+      ou dois filhotes de pombas.'
+    status: ia-sem-revisao
+  '2:25':
+    texto: E eis que havia em Jerusalém um homem chamado Simeão; este homem era justo e piedoso, esperava
+      a consolação de Israel, e o Espírito Santo estava sobre ele;
+    status: ia-sem-revisao
+  '2:26':
+    texto: Fora-lhe revelado pelo Espírito Santo que não veria a morte antes de ver o Cristo do Senhor.
+    status: ia-sem-revisao
+  '2:27':
+    texto: Movido pelo Espírito, foi ao templo; e, quando os pais trouxeram o menino Jesus para cumprirem
+      a seu respeito o costume da Lei,
+    status: ia-sem-revisao
+  '2:28':
+    texto: 'Ele o tomou nos braços, bendisse a Deus e disse:'
+    status: ia-sem-revisao
+  '2:29':
+    texto: “Agora, Senhor, despedes em paz o teu servo, segundo a tua palavra;
+    status: ia-sem-revisao
+  '2:30':
+    texto: Porque os meus olhos viram a tua salvação,
+    status: ia-sem-revisao
+  '2:31':
+    texto: 'Que preparaste diante de todos os povos:'
+    status: ia-sem-revisao
+  '2:32':
+    texto: Luz para revelação aos gentios e glória do teu povo Israel.”
+    status: ia-sem-revisao
+  '2:33':
+    texto: O pai e a mãe dele estavam admirados com o que se dizia a seu respeito.
+    status: ia-sem-revisao
+  '2:34':
+    texto: 'Simeão os abençoou e disse a Maria, sua mãe: “Eis que este está posto para queda e elevação
+      de muitos em Israel e para sinal de contradição;'
+    status: ia-sem-revisao
+  '2:35':
+    texto: E a ti mesma uma espada traspassará a alma, para que se revelem os pensamentos de muitos corações.”
+    status: ia-sem-revisao
+  '2:36':
+    texto: Havia também Ana, profetisa, filha de Fanuel, da tribo de Aser (esta era de idade avançada,
+      tendo vivido sete anos com o marido, desde a sua virgindade,
+    status: ia-sem-revisao
+  '2:37':
+    texto: E era viúva até os oitenta e quatro anos), que não se afastava do templo, servindo a Deus noite
+      e dia com jejuns e orações.
+    status: ia-sem-revisao
+  '2:38':
+    texto: Naquela mesma hora, chegando, louvava a Deus e falava dele a todos os que esperavam a redenção
+      de Jerusalém.
+    status: ia-sem-revisao
+  '2:39':
+    texto: Quando cumpriram tudo segundo a Lei do Senhor, voltaram para a Galileia, para a sua cidade
+      de Nazaré.
+    status: ia-sem-revisao
+  '2:40':
+    texto: O menino crescia e se fortalecia, cheio de sabedoria, e a graça de Deus estava sobre ele.
+    status: ia-sem-revisao
+  '2:41':
+    texto: Os pais dele iam todos os anos a Jerusalém para a festa da Páscoa.
+    status: ia-sem-revisao
+  '2:42':
+    texto: Quando ele fez doze anos, subindo eles segundo o costume da festa,
+    status: ia-sem-revisao
+  '2:43':
+    texto: E terminados os dias, ao voltarem, o menino Jesus ficou em Jerusalém, e os pais não perceberam.
+    status: ia-sem-revisao
+  '2:44':
+    texto: Pensando que estivesse na caravana, andaram um dia de caminho e o procuravam entre os parentes
+      e conhecidos;
+    status: ia-sem-revisao
+  '2:45':
+    texto: Não o achando, voltaram a Jerusalém, procurando-o.
+    status: ia-sem-revisao
+  '2:46':
+    texto: Depois de três dias, encontraram-no no templo, sentado no meio dos mestres, ouvindo-os e interrogando-os;
+    status: ia-sem-revisao
+  '2:47':
+    texto: E todos os que o ouviam estavam atônitos com a sua inteligência e as suas respostas.
+    status: ia-sem-revisao
+  '2:48':
+    texto: 'Ao vê-lo, ficaram espantados, e sua mãe lhe disse: “Filho, por que fizeste assim conosco?
+      Eis que teu pai e eu te procurávamos, angustiados.”'
+    status: ia-sem-revisao
+  '2:49':
+    texto: 'Ele lhes disse: “Por que me procuráveis? Não sabíeis que devo estar nas coisas de meu Pai?”'
+    status: ia-sem-revisao
+  '2:50':
+    texto: Eles não compreenderam a palavra que lhes disse.
+    status: ia-sem-revisao
+  '2:51':
+    texto: Desceu com eles e foi a Nazaré, e lhes era submisso. Sua mãe guardava todas estas palavras
+      no seu coração.
+    status: ia-sem-revisao
+  '2:52':
+    texto: E Jesus crescia em sabedoria e em estatura e em graça diante de Deus e dos homens.
+    status: ia-sem-revisao
+  '3:1':
+    texto: No décimo quinto ano do governo do imperador Tibério, sendo Pôncio Pilatos governador da Judeia,
+      Herodes tetrarca da Galileia, seu irmão Filipe tetrarca da região da Itureia e Traconites, e Lisânias
+      tetrarca de Abilene,
+    status: ia-sem-revisao
+  '3:2':
+    texto: Sendo sumos sacerdotes Anás e Caifás, veio a palavra de Deus a João, filho de Zacarias, no
+      deserto.
+    status: ia-sem-revisao
+  '3:3':
+    texto: E ele percorreu toda a região do Jordão, proclamando um batismo de conversão para o perdão
+      dos pecados,
+    status: ia-sem-revisao
+  '3:4':
+    texto: 'Como está escrito no livro das palavras do profeta Isaías: “Voz de quem grita no deserto:
+      Preparai o caminho do Senhor, endireitai as suas trilhas;'
+    status: ia-sem-revisao
+  '3:5':
+    texto: Todo vale será aterrado, e todo monte e colina serão rebaixados; o que é tortuoso se tornará
+      reto, e os caminhos acidentados, planos;
+    status: ia-sem-revisao
+  '3:6':
+    texto: E toda carne verá a salvação de Deus.”
+    status: ia-sem-revisao
+  '3:7':
+    texto: 'Dizia, pois, às multidões que saíam para serem batizadas por ele: “Raça de víboras, quem vos
+      mostrou como fugir da ira que vem?'
+    status: ia-sem-revisao
+  '3:8':
+    texto: 'Produzi, pois, frutos dignos de conversão; e não comeceis a dizer dentro de vós: ‘Temos Abraão
+      por pai’; pois eu vos digo que Deus pode, destas pedras, suscitar filhos para Abraão.'
+    status: ia-sem-revisao
+  '3:9':
+    texto: O machado já está posto à raiz das árvores; toda árvore que não produz bom fruto é cortada
+      e lançada ao fogo.”
+    status: ia-sem-revisao
+  '3:10':
+    texto: 'As multidões o interrogavam, dizendo: “Que devemos fazer, então?”'
+    status: ia-sem-revisao
+  '3:11':
+    texto: 'Respondendo-lhes, dizia: “Quem tem duas túnicas reparta com quem não tem; e quem tem comida
+      faça o mesmo.”'
+    status: ia-sem-revisao
+  '3:12':
+    texto: 'Vieram também publicanos para serem batizados e lhe disseram: “Mestre, que devemos fazer?”'
+    status: ia-sem-revisao
+  '3:13':
+    texto: 'Ele lhes disse: “Não exijais nada além do que vos foi fixado.”'
+    status: ia-sem-revisao
+  '3:14':
+    texto: 'Também soldados o interrogavam, dizendo: “E nós, que devemos fazer?” Disse-lhes: “A ninguém
+      extorquais nem denuncieis falsamente, e contentai-vos com o vosso soldo.”'
+    status: ia-sem-revisao
+  '3:15':
+    texto: Estando o povo em expectativa e todos se perguntando em seus corações se João não seria o Cristo,
+    status: ia-sem-revisao
+  '3:16':
+    texto: 'João respondeu a todos, dizendo: “Eu vos batizo com água; mas vem aquele que é mais forte
+      do que eu, de quem não sou digno de desatar a correia das sandálias; ele vos batizará no Espírito
+      Santo e no fogo;'
+    status: ia-sem-revisao
+  '3:17':
+    texto: Tem a pá na mão para limpar a sua eira e recolher o trigo no seu celeiro, mas queimará a palha
+      em fogo inextinguível.”
+    status: ia-sem-revisao
+  '3:18':
+    texto: Com muitas outras exortações ainda, anunciava ao povo o evangelho;
+    status: ia-sem-revisao
+  '3:19':
+    texto: Mas Herodes, o tetrarca, repreendido por ele por causa de Herodíades, mulher de seu irmão,
+      e por todos os males que Herodes tinha feito,
+    status: ia-sem-revisao
+  '3:20':
+    texto: 'Acrescentou a todos ainda este: encerrou João no cárcere.'
+    status: ia-sem-revisao
+  '3:21':
+    texto: Aconteceu que, quando todo o povo estava sendo batizado, tendo Jesus também sido batizado e
+      estando em oração, o céu se abriu
+    status: ia-sem-revisao
+  '3:22':
+    texto: 'E o Espírito Santo desceu sobre ele em forma corporal, como uma pomba; e veio uma voz do céu:
+      “Tu és o meu Filho amado; em ti me comprazi.”'
+    status: ia-sem-revisao
+  '3:23':
+    texto: O próprio Jesus, ao começar, tinha cerca de trinta anos; era filho, como se pensava, de José,
+      filho de Eli,
+    status: ia-sem-revisao
+  '3:24':
+    texto: Filho de Matat, filho de Levi, filho de Melqui, filho de Janai, filho de José,
+    status: ia-sem-revisao
+  '3:25':
+    texto: Filho de Matatias, filho de Amós, filho de Naum, filho de Esli, filho de Nagai,
+    status: ia-sem-revisao
+  '3:26':
+    texto: Filho de Maat, filho de Matatias, filho de Semei, filho de Josec, filho de Joda,
+    status: ia-sem-revisao
+  '3:27':
+    texto: Filho de Joanã, filho de Resa, filho de Zorobabel, filho de Salatiel, filho de Neri,
+    status: ia-sem-revisao
+  '3:28':
+    texto: Filho de Melqui, filho de Adi, filho de Cosã, filho de Elmadã, filho de Er,
+    status: ia-sem-revisao
+  '3:29':
+    texto: Filho de Jesus, filho de Eliezer, filho de Jorim, filho de Matat, filho de Levi,
+    status: ia-sem-revisao
+  '3:30':
+    texto: Filho de Simeão, filho de Judá, filho de José, filho de Jonã, filho de Eliaquim,
+    status: ia-sem-revisao
+  '3:31':
+    texto: Filho de Melea, filho de Mená, filho de Matatá, filho de Natã, filho de Davi,
+    status: ia-sem-revisao
+  '3:32':
+    texto: Filho de Jessé, filho de Jobel, filho de Boaz, filho de Sala, filho de Naasson,
+    status: ia-sem-revisao
+  '3:33':
+    texto: Filho de Aminadab, filho de Admin, filho de Arni, filho de Esrom, filho de Farés, filho de
+      Judá,
+    status: ia-sem-revisao
+  '3:34':
+    texto: Filho de Jacó, filho de Isaac, filho de Abraão, filho de Taré, filho de Nacor,
+    status: ia-sem-revisao
+  '3:35':
+    texto: Filho de Seruc, filho de Ragau, filho de Faleg, filho de Éber, filho de Sala,
+    status: ia-sem-revisao
+  '3:36':
+    texto: Filho de Cainã, filho de Arfaxad, filho de Sem, filho de Noé, filho de Lamec,
+    status: ia-sem-revisao
+  '3:37':
+    texto: Filho de Matusalém, filho de Henoc, filho de Jared, filho de Maleleel, filho de Cainã,
+    status: ia-sem-revisao
+  '3:38':
+    texto: Filho de Enos, filho de Set, filho de Adão, filho de Deus.
+    status: ia-sem-revisao
+  '4:1':
+    texto: Jesus, cheio do Espírito Santo, voltou do Jordão e era conduzido pelo Espírito no deserto
+    status: ia-sem-revisao
+  '4:2':
+    texto: Durante quarenta dias, tentado pelo diabo. Nada comeu naqueles dias e, terminados eles, teve
+      fome.
+    status: ia-sem-revisao
+  '4:3':
+    texto: 'Disse-lhe o diabo: “Se és Filho de Deus, ordena a esta pedra que se torne pão.”'
+    status: ia-sem-revisao
+  '4:4':
+    texto: 'Jesus lhe respondeu: “Está escrito: ‘Nem só de pão viverá o homem.’”'
+    status: ia-sem-revisao
+  '4:5':
+    texto: Levando-o, mostrou-lhe todos os reinos do mundo num instante de tempo;
+    status: ia-sem-revisao
+  '4:6':
+    texto: 'E o diabo lhe disse: “Dar-te-ei todo este poder e a glória deles, porque me foi entregue e
+      a quem quero o dou;'
+    status: ia-sem-revisao
+  '4:7':
+    texto: Se, pois, te prostrares diante de mim, tudo será teu.”
+    status: ia-sem-revisao
+  '4:8':
+    texto: 'Jesus, respondendo, disse-lhe: “Está escrito: ‘Adorarás o Senhor, teu Deus, e só a ele servirás.’”'
+    status: ia-sem-revisao
+  '4:9':
+    texto: 'Levou-o a Jerusalém, pô-lo sobre o pináculo do templo e lhe disse: “Se és Filho de Deus, lança-te
+      daqui abaixo;'
+    status: ia-sem-revisao
+  '4:10':
+    texto: 'Pois está escrito: ‘Aos seus anjos dará ordens a teu respeito para que te guardem,'
+    status: ia-sem-revisao
+  '4:11':
+    texto: 'E: Eles te levarão nas mãos, para que não tropeces com o teu pé em pedra.’”'
+    status: ia-sem-revisao
+  '4:12':
+    texto: 'Jesus, respondendo, disse-lhe: “Foi dito: ‘Não porás à prova o Senhor, teu Deus.’”'
+    status: ia-sem-revisao
+  '4:13':
+    texto: Tendo esgotado toda tentação, o diabo afastou-se dele até um tempo oportuno.
+    status: ia-sem-revisao
+  '4:14':
+    texto: Jesus voltou para a Galileia no poder do Espírito, e a sua fama espalhou-se por toda a região.
+    status: ia-sem-revisao
+  '4:15':
+    texto: Ele ensinava nas sinagogas deles, sendo glorificado por todos.
+    status: ia-sem-revisao
+  '4:16':
+    texto: Foi a Nazaré, onde fora criado, e entrou, segundo o seu costume, no dia de sábado, na sinagoga
+      e levantou-se para ler.
+    status: ia-sem-revisao
+  '4:17':
+    texto: 'Foi-lhe entregue o livro do profeta Isaías e, desenrolando-o, achou o lugar onde estava escrito:'
+    status: ia-sem-revisao
+  '4:18':
+    texto: “O Espírito do Senhor está sobre mim, porque me ungiu para anunciar a boa notícia aos pobres;
+      enviou-me para proclamar a libertação aos cativos e a recuperação da vista aos cegos, para pôr em
+      liberdade os oprimidos,
+    status: ia-sem-revisao
+  '4:19':
+    texto: Para proclamar um ano de graça do Senhor.”
+    status: ia-sem-revisao
+  '4:20':
+    texto: Enrolando o livro, devolveu-o ao servo e sentou-se; e os olhos de todos na sinagoga estavam
+      fixos nele.
+    status: ia-sem-revisao
+  '4:21':
+    texto: 'Começou a dizer-lhes: “Hoje se cumpriu esta Escritura que acabais de ouvir.”'
+    status: ia-sem-revisao
+  '4:22':
+    texto: 'Todos davam testemunho dele e admiravam-se das palavras de graça que saíam da sua boca, e
+      diziam: “Não é este o filho de José?”'
+    status: ia-sem-revisao
+  '4:23':
+    texto: 'Disse-lhes: “Certamente me direis este provérbio: ‘Médico, cura-te a ti mesmo’; faze também
+      aqui, na tua pátria, tudo o que ouvimos que foi feito em Cafarnaum.”'
+    status: ia-sem-revisao
+  '4:24':
+    texto: 'E acrescentou: “Em verdade vos digo: nenhum profeta é bem recebido na sua pátria.'
+    status: ia-sem-revisao
+  '4:25':
+    texto: 'Digo-vos, na verdade: havia muitas viúvas em Israel nos dias de Elias, quando o céu se fechou
+      por três anos e seis meses, e houve grande fome sobre toda a terra,'
+    status: ia-sem-revisao
+  '4:26':
+    texto: E a nenhuma delas foi enviado Elias, a não ser a uma viúva de Sarepta, na região de Sidônia.
+    status: ia-sem-revisao
+  '4:27':
+    texto: E havia muitos leprosos em Israel no tempo do profeta Eliseu, e nenhum deles foi purificado,
+      a não ser Naamã, o sírio.”
+    status: ia-sem-revisao
+  '4:28':
+    texto: Todos na sinagoga, ouvindo isso, ficaram cheios de ira,
+    status: ia-sem-revisao
+  '4:29':
+    texto: E, levantando-se, expulsaram-no da cidade e o levaram até a beira do monte sobre o qual a sua
+      cidade estava construída, para o precipitarem;
+    status: ia-sem-revisao
+  '4:30':
+    texto: Ele, porém, passando pelo meio deles, seguiu o seu caminho.
+    status: ia-sem-revisao
+  '4:31':
+    texto: Desceu a Cafarnaum, cidade da Galileia, e ali os ensinava aos sábados;
+    status: ia-sem-revisao
+  '4:32':
+    texto: E ficavam admirados com o seu ensinamento, porque a sua palavra tinha autoridade.
+    status: ia-sem-revisao
+  '4:33':
+    texto: 'Na sinagoga havia um homem possuído por um espírito de demônio impuro, e ele gritou em alta
+      voz:'
+    status: ia-sem-revisao
+  '4:34':
+    texto: '“Ah! Que há entre nós e ti, Jesus Nazareno? Vieste para nos destruir? Sei quem és: o Santo
+      de Deus.”'
+    status: ia-sem-revisao
+  '4:35':
+    texto: 'Jesus o repreendeu, dizendo: “Cala-te e sai dele.” E o demônio, atirando-o no meio, saiu dele
+      sem lhe fazer mal algum.'
+    status: ia-sem-revisao
+  '4:36':
+    texto: 'Todos ficaram atônitos e diziam uns aos outros: “Que palavra é esta? Pois com autoridade e
+      poder ordena aos espíritos impuros, e eles saem.”'
+    status: ia-sem-revisao
+  '4:37':
+    texto: E a fama dele espalhava-se por todos os lugares da região.
+    status: ia-sem-revisao
+  '4:38':
+    texto: Levantando-se da sinagoga, entrou na casa de Simão. A sogra de Simão estava com febre alta,
+      e rogaram-lhe por ela.
+    status: ia-sem-revisao
+  '4:39':
+    texto: Inclinando-se sobre ela, repreendeu a febre, e esta a deixou; imediatamente ela se levantou
+      e os servia.
+    status: ia-sem-revisao
+  '4:40':
+    texto: Ao pôr do sol, todos os que tinham doentes de várias enfermidades levaram-nos a ele; e ele,
+      impondo as mãos sobre cada um deles, os curava.
+    status: ia-sem-revisao
+  '4:41':
+    texto: 'Dele saíam também demônios de muitos, gritando e dizendo: “Tu és o Filho de Deus.” Ele os
+      repreendia e não os deixava falar, porque sabiam que era o Cristo.'
+    status: ia-sem-revisao
+  '4:42':
+    texto: Quando amanheceu, saiu e foi para um lugar deserto; as multidões o procuravam e chegaram até
+      ele, e o retinham para que não os deixasse.
+    status: ia-sem-revisao
+  '4:43':
+    texto: 'Ele, porém, lhes disse: “Também às outras cidades devo anunciar o evangelho do reino de Deus,
+      porque para isso fui enviado.”'
+    status: ia-sem-revisao
+  '4:44':
+    texto: E pregava nas sinagogas da Judeia.
+    status: ia-sem-revisao
+  '5:1':
+    texto: Aconteceu que, apertando-se a multidão contra ele para ouvir a palavra de Deus, ele estava
+      de pé junto ao lago de Genesaré,
+    status: ia-sem-revisao
+  '5:2':
+    texto: E viu dois barcos junto ao lago; os pescadores, tendo descido deles, lavavam as redes.
+    status: ia-sem-revisao
+  '5:3':
+    texto: Entrando num dos barcos, que era de Simão, pediu-lhe que se afastasse um pouco da terra; e,
+      sentando-se, ensinava as multidões do barco.
+    status: ia-sem-revisao
+  '5:4':
+    texto: 'Quando terminou de falar, disse a Simão: “Faze-te ao largo e lançai as vossas redes para a
+      pesca.”'
+    status: ia-sem-revisao
+  '5:5':
+    texto: 'Simão, respondendo, disse: “Mestre, tendo trabalhado a noite inteira, nada apanhamos; mas,
+      por tua palavra, lançarei as redes.”'
+    status: ia-sem-revisao
+  '5:6':
+    texto: Fazendo isso, apanharam uma grande quantidade de peixes, e as suas redes se rompiam.
+    status: ia-sem-revisao
+  '5:7':
+    texto: Fizeram sinal aos companheiros do outro barco para que viessem ajudá-los; eles vieram e encheram
+      os dois barcos, a ponto de afundarem.
+    status: ia-sem-revisao
+  '5:8':
+    texto: 'Vendo isso, Simão Pedro prostrou-se aos joelhos de Jesus, dizendo: “Afasta-te de mim, Senhor,
+      porque sou um homem pecador.”'
+    status: ia-sem-revisao
+  '5:9':
+    texto: Pois o espanto tomara conta dele e de todos os que estavam com ele, por causa da pesca que
+      tinham feito,
+    status: ia-sem-revisao
+  '5:10':
+    texto: 'E igualmente de Tiago e João, filhos de Zebedeu, que eram sócios de Simão. Jesus disse a Simão:
+      “Não temas; de agora em diante serás pescador de homens.”'
+    status: ia-sem-revisao
+  '5:11':
+    texto: Conduzindo os barcos à terra, deixaram tudo e o seguiram.
+    status: ia-sem-revisao
+  '5:12':
+    texto: 'Estando ele numa das cidades, eis que um homem cheio de lepra, ao ver Jesus, caiu com o rosto
+      em terra e lhe suplicou: “Senhor, se queres, podes purificar-me.”'
+    status: ia-sem-revisao
+  '5:13':
+    texto: 'Estendendo a mão, tocou-o, dizendo: “Quero; sê purificado.” E logo a lepra o deixou.'
+    status: ia-sem-revisao
+  '5:14':
+    texto: 'E ordenou-lhe que a ninguém o dissesse: “Mas vai, mostra-te ao sacerdote e oferece, pela tua
+      purificação, como Moisés ordenou, em testemunho para eles.”'
+    status: ia-sem-revisao
+  '5:15':
+    texto: A fama dele espalhava-se cada vez mais, e grandes multidões se reuniam para ouvi-lo e serem
+      curadas das suas enfermidades;
+    status: ia-sem-revisao
+  '5:16':
+    texto: Ele, porém, retirava-se para lugares desertos e orava.
+    status: ia-sem-revisao
+  '5:17':
+    texto: Aconteceu, num desses dias, que ele estava ensinando, e estavam sentados fariseus e doutores
+      da Lei, vindos de todas as aldeias da Galileia, da Judeia e de Jerusalém; e o poder do Senhor estava
+      com ele para curar.
+    status: ia-sem-revisao
+  '5:18':
+    texto: E eis que uns homens, trazendo sobre um leito um homem paralítico, procuravam fazê-lo entrar
+      e pô-lo diante dele;
+    status: ia-sem-revisao
+  '5:19':
+    texto: E, não achando por onde introduzi-lo, por causa da multidão, subiram ao terraço e, pelas telhas,
+      desceram-no com o leito para o meio, diante de Jesus.
+    status: ia-sem-revisao
+  '5:20':
+    texto: 'Vendo a fé deles, disse: “Homem, os teus pecados te são perdoados.”'
+    status: ia-sem-revisao
+  '5:21':
+    texto: 'Os escribas e os fariseus começaram a raciocinar, dizendo: “Quem é este que diz blasfêmias?
+      Quem pode perdoar pecados, a não ser Deus somente?”'
+    status: ia-sem-revisao
+  '5:22':
+    texto: 'Jesus, percebendo os seus raciocínios, respondeu-lhes: “Que raciocinais em vossos corações?'
+    status: ia-sem-revisao
+  '5:23':
+    texto: 'Que é mais fácil: dizer ‘Os teus pecados te são perdoados’, ou dizer ‘Levanta-te e anda’?'
+    status: ia-sem-revisao
+  '5:24':
+    texto: 'Mas, para que saibais que o Filho do Homem tem autoridade na terra para perdoar pecados...”
+      — disse ao paralítico: “Eu te digo: levanta-te, toma o teu leito e vai para a tua casa.”'
+    status: ia-sem-revisao
+  '5:25':
+    texto: Imediatamente, levantando-se diante deles, tomando aquilo em que estava deitado, foi para sua
+      casa, glorificando a Deus.
+    status: ia-sem-revisao
+  '5:26':
+    texto: 'O espanto tomou conta de todos, e glorificavam a Deus, e, cheios de temor, diziam: “Hoje vimos
+      coisas extraordinárias.”'
+    status: ia-sem-revisao
+  '5:27':
+    texto: 'Depois disso, saiu e viu um publicano chamado Levi, sentado na coletoria, e lhe disse: “Segue-me.”'
+    status: ia-sem-revisao
+  '5:28':
+    texto: Ele, deixando tudo, levantou-se e o seguia.
+    status: ia-sem-revisao
+  '5:29':
+    texto: Levi ofereceu-lhe um grande banquete em sua casa; e havia uma grande multidão de publicanos
+      e de outros que estavam à mesa com eles.
+    status: ia-sem-revisao
+  '5:30':
+    texto: 'Os fariseus e os escribas deles murmuravam contra os discípulos dele, dizendo: “Por que comeis
+      e bebeis com publicanos e pecadores?”'
+    status: ia-sem-revisao
+  '5:31':
+    texto: 'Jesus, respondendo, disse-lhes: “Não são os sadios que precisam de médico, mas os doentes;'
+    status: ia-sem-revisao
+  '5:32':
+    texto: Não vim chamar justos, mas pecadores à conversão.”
+    status: ia-sem-revisao
+  '5:33':
+    texto: 'Eles lhe disseram: “Os discípulos de João jejuam frequentemente e fazem orações, e também
+      os dos fariseus; os teus, porém, comem e bebem.”'
+    status: ia-sem-revisao
+  '5:34':
+    texto: 'Jesus lhes disse: “Podeis fazer jejuar os convidados das núpcias enquanto o noivo está com
+      eles?'
+    status: ia-sem-revisao
+  '5:35':
+    texto: Mas virão dias em que o noivo lhes será tirado; então, naqueles dias, jejuarão.”
+    status: ia-sem-revisao
+  '5:36':
+    texto: 'Disse-lhes também uma parábola: “Ninguém rasga um remendo de um vestido novo para o pôr num
+      vestido velho; do contrário, rasgará o novo, e o remendo do novo não combinará com o velho.'
+    status: ia-sem-revisao
+  '5:37':
+    texto: Ninguém põe vinho novo em odres velhos; do contrário, o vinho novo romperá os odres, derramar-se-á,
+      e os odres se perderão;
+    status: ia-sem-revisao
+  '5:38':
+    texto: Mas vinho novo deve ser posto em odres novos.
+    status: ia-sem-revisao
+  '5:39':
+    texto: 'E ninguém, tendo bebido o velho, quer o novo, pois diz: ‘O velho é bom.’”'
+    status: ia-sem-revisao
+  '6:1':
+    texto: Aconteceu que, num sábado, ele passava pelas plantações, e os seus discípulos arrancavam e
+      comiam as espigas, esfregando-as nas mãos.
+    status: ia-sem-revisao
+  '6:2':
+    texto: 'Alguns dos fariseus disseram: “Por que fazeis o que não é permitido aos sábados?”'
+    status: ia-sem-revisao
+  '6:3':
+    texto: 'Jesus, respondendo-lhes, disse: “Nem isto lestes, o que fez Davi quando teve fome, ele e os
+      que estavam com ele?'
+    status: ia-sem-revisao
+  '6:4':
+    texto: Como entrou na casa de Deus, tomou os pães da oferenda, comeu e deu aos que estavam com ele,
+      pães que não é permitido comer senão aos sacerdotes?”
+    status: ia-sem-revisao
+  '6:5':
+    texto: 'E dizia-lhes: “O Filho do Homem é senhor do sábado.”'
+    status: ia-sem-revisao
+  '6:6':
+    texto: Aconteceu, em outro sábado, que ele entrou na sinagoga e ensinava; havia ali um homem cuja
+      mão direita estava atrofiada.
+    status: ia-sem-revisao
+  '6:7':
+    texto: Os escribas e os fariseus o observavam para ver se curaria no sábado, a fim de encontrarem
+      de que o acusar.
+    status: ia-sem-revisao
+  '6:8':
+    texto: 'Ele, porém, conhecia os pensamentos deles, e disse ao homem da mão atrofiada: “Levanta-te
+      e fica de pé no meio.” E ele, levantando-se, ficou de pé.'
+    status: ia-sem-revisao
+  '6:9':
+    texto: 'Jesus lhes disse: “Pergunto-vos: é permitido, no sábado, fazer o bem ou fazer o mal, salvar
+      uma vida ou destruí-la?”'
+    status: ia-sem-revisao
+  '6:10':
+    texto: 'E, olhando em volta para todos, disse-lhe: “Estende a tua mão.” Ele o fez, e a sua mão ficou
+      restabelecida.'
+    status: ia-sem-revisao
+  '6:11':
+    texto: Eles, porém, encheram-se de furor e discutiam entre si o que fariam a Jesus.
+    status: ia-sem-revisao
+  '6:12':
+    texto: Naqueles dias, ele saiu para o monte a fim de orar e passou a noite em oração a Deus.
+    status: ia-sem-revisao
+  '6:13':
+    texto: 'Quando amanheceu, chamou os seus discípulos e escolheu doze deles, aos quais deu o nome de
+      apóstolos:'
+    status: ia-sem-revisao
+  '6:14':
+    texto: Simão, a quem deu o nome de Pedro, e André, seu irmão, Tiago e João, Filipe e Bartolomeu,
+    status: ia-sem-revisao
+  '6:15':
+    texto: Mateus e Tomé, Tiago, filho de Alfeu, e Simão, chamado Zelota,
+    status: ia-sem-revisao
+  '6:16':
+    texto: Judas, filho de Tiago, e Judas Iscariotes, que se tornou traidor.
+    status: ia-sem-revisao
+  '6:17':
+    texto: Descendo com eles, parou num lugar plano; havia ali uma grande multidão dos seus discípulos
+      e uma grande multidão do povo de toda a Judeia, de Jerusalém e do litoral de Tiro e Sidônia,
+    status: ia-sem-revisao
+  '6:18':
+    texto: Os quais vieram para o ouvir e serem curados das suas doenças; e os atormentados por espíritos
+      impuros eram curados;
+    status: ia-sem-revisao
+  '6:19':
+    texto: E toda a multidão procurava tocá-lo, porque saía dele um poder que curava a todos.
+    status: ia-sem-revisao
+  '6:20':
+    texto: 'Levantando os olhos para os seus discípulos, dizia: “Bem-aventurados os pobres, porque vosso
+      é o reino de Deus.'
+    status: ia-sem-revisao
+  '6:21':
+    texto: Bem-aventurados os que agora têm fome, porque sereis saciados. Bem-aventurados os que agora
+      choram, porque rireis.
+    status: ia-sem-revisao
+  '6:22':
+    texto: Bem-aventurados sois quando os homens vos odiarem, quando vos excluírem, vos insultarem e rejeitarem
+      o vosso nome como mau, por causa do Filho do Homem;
+    status: ia-sem-revisao
+  '6:23':
+    texto: Alegrai-vos naquele dia e saltai de alegria, pois eis que grande é a vossa recompensa no céu;
+      pois da mesma forma os pais deles tratavam os profetas.
+    status: ia-sem-revisao
+  '6:24':
+    texto: Mas ai de vós, os ricos, porque já recebeis a vossa consolação.
+    status: ia-sem-revisao
+  '6:25':
+    texto: Ai de vós, os que agora estais fartos, porque tereis fome. Ai dos que agora rides, porque lamentareis
+      e chorareis.
+    status: ia-sem-revisao
+  '6:26':
+    texto: Ai quando todos os homens falarem bem de vós, pois da mesma forma os pais deles tratavam os
+      falsos profetas.
+    status: ia-sem-revisao
+  '6:27':
+    texto: 'Mas a vós, que ouvis, eu digo: amai os vossos inimigos, fazei o bem aos que vos odeiam,'
+    status: ia-sem-revisao
+  '6:28':
+    texto: Bendizei os que vos amaldiçoam, orai pelos que vos maltratam.
+    status: ia-sem-revisao
+  '6:29':
+    texto: A quem te bate numa face, oferece também a outra; e a quem te tira o manto, não negues também
+      a túnica.
+    status: ia-sem-revisao
+  '6:30':
+    texto: A todo o que te pedir, dá; e a quem tirar o que é teu, não o reclames.
+    status: ia-sem-revisao
+  '6:31':
+    texto: E, como quereis que os homens vos façam, fazei-lhes também do mesmo modo.
+    status: ia-sem-revisao
+  '6:32':
+    texto: Se amais os que vos amam, que mérito tendes? Pois também os pecadores amam os que os amam.
+    status: ia-sem-revisao
+  '6:33':
+    texto: E, se fazeis o bem aos que vos fazem o bem, que mérito tendes? Também os pecadores fazem o
+      mesmo.
+    status: ia-sem-revisao
+  '6:34':
+    texto: E, se emprestais àqueles de quem esperais receber, que mérito tendes? Também os pecadores emprestam
+      aos pecadores para receberem o equivalente.
+    status: ia-sem-revisao
+  '6:35':
+    texto: Antes, amai os vossos inimigos, fazei o bem e emprestai sem esperar nada em troca; e a vossa
+      recompensa será grande, e sereis filhos do Altíssimo, porque ele é bondoso para com os ingratos
+      e maus.
+    status: ia-sem-revisao
+  '6:36':
+    texto: Sede misericordiosos, como também o vosso Pai é misericordioso.
+    status: ia-sem-revisao
+  '6:37':
+    texto: Não julgueis, e não sereis julgados; não condeneis, e não sereis condenados; perdoai, e sereis
+      perdoados;
+    status: ia-sem-revisao
+  '6:38':
+    texto: 'Dai, e ser-vos-á dado: uma boa medida, cheia, sacudida, transbordante, será derramada no vosso
+      regaço; pois com a medida com que medirdes sereis medidos de volta.”'
+    status: ia-sem-revisao
+  '6:39':
+    texto: 'Disse-lhes também uma parábola: “Pode um cego guiar outro cego? Não cairão ambos num buraco?'
+    status: ia-sem-revisao
+  '6:40':
+    texto: O discípulo não está acima do mestre; mas todo discípulo bem formado será como o seu mestre.
+    status: ia-sem-revisao
+  '6:41':
+    texto: Por que olhas o cisco no olho do teu irmão e não percebes a trave no teu próprio olho?
+    status: ia-sem-revisao
+  '6:42':
+    texto: 'Como podes dizer ao teu irmão: ‘Irmão, deixa-me tirar o cisco do teu olho’, tu que não vês
+      a trave no teu olho? Hipócrita, tira primeiro a trave do teu olho, e então verás bem para tirar
+      o cisco do olho do teu irmão.'
+    status: ia-sem-revisao
+  '6:43':
+    texto: Pois não há árvore boa que dê fruto ruim, nem, por outro lado, árvore ruim que dê bom fruto.
+    status: ia-sem-revisao
+  '6:44':
+    texto: Cada árvore é conhecida pelo seu próprio fruto; pois não se colhem figos de espinheiros, nem
+      se vindimam uvas de sarças.
+    status: ia-sem-revisao
+  '6:45':
+    texto: O homem bom, do bom tesouro do seu coração, tira o bem; e o mau, do mau tesouro, tira o mal;
+      pois a sua boca fala da abundância do coração.
+    status: ia-sem-revisao
+  '6:46':
+    texto: Por que me chamais ‘Senhor, Senhor’ e não fazeis o que digo?
+    status: ia-sem-revisao
+  '6:47':
+    texto: 'Todo aquele que vem a mim, ouve as minhas palavras e as pratica, vou mostrar-vos a quem é
+      semelhante:'
+    status: ia-sem-revisao
+  '6:48':
+    texto: É semelhante a um homem que, ao construir uma casa, cavou, aprofundou e lançou o alicerce sobre
+      a rocha; vindo a enchente, o rio investiu contra aquela casa e não foi capaz de abalá-la, por estar
+      bem construída.
+    status: ia-sem-revisao
+  '6:49':
+    texto: Mas o que ouviu e não praticou é semelhante a um homem que construiu uma casa sobre a terra,
+      sem alicerce; o rio investiu contra ela, e logo ela desabou, e foi grande a ruína daquela casa.”
+    status: ia-sem-revisao
+  '7:1':
+    texto: Depois de terminar todas as suas palavras aos ouvidos do povo, entrou em Cafarnaum.
+    status: ia-sem-revisao
+  '7:2':
+    texto: O servo de um centurião, a quem este estimava muito, estava doente e prestes a morrer.
+    status: ia-sem-revisao
+  '7:3':
+    texto: Tendo ouvido falar de Jesus, enviou-lhe anciãos dos judeus, pedindo-lhe que viesse salvar o
+      seu servo.
+    status: ia-sem-revisao
+  '7:4':
+    texto: 'Eles, chegando a Jesus, rogavam-lhe com insistência, dizendo: “Ele merece que lhe faças isto,'
+    status: ia-sem-revisao
+  '7:5':
+    texto: Pois ama a nossa nação e foi ele quem nos construiu a sinagoga.”
+    status: ia-sem-revisao
+  '7:6':
+    texto: 'Jesus foi com eles. Já não estava longe da casa quando o centurião mandou amigos dizer-lhe:
+      “Senhor, não te incomodes, pois não sou digno de que entres debaixo do meu teto;'
+    status: ia-sem-revisao
+  '7:7':
+    texto: Por isso nem me julguei digno de ir ter contigo; mas dize uma palavra, e seja curado o meu
+      servo;
+    status: ia-sem-revisao
+  '7:8':
+    texto: 'Pois também eu sou um homem sujeito a autoridade, tenho soldados sob as minhas ordens e digo
+      a este: ‘Vai’, e ele vai; e a outro: ‘Vem’, e ele vem; e ao meu servo: ‘Faze isto’, e ele o faz.”'
+    status: ia-sem-revisao
+  '7:9':
+    texto: 'Jesus, ao ouvir isso, admirou-se dele e, voltando-se para a multidão que o seguia, disse:
+      “Digo-vos que nem em Israel encontrei tamanha fé.”'
+    status: ia-sem-revisao
+  '7:10':
+    texto: Os enviados, voltando para casa, encontraram o servo curado.
+    status: ia-sem-revisao
+  '7:11':
+    texto: Depois disso, Jesus foi a uma cidade chamada Naim, e iam com ele os seus discípulos e uma grande
+      multidão.
+    status: ia-sem-revisao
+  '7:12':
+    texto: Ao aproximar-se da porta da cidade, eis que levavam para fora um morto, filho único de sua
+      mãe, que era viúva; e uma multidão considerável da cidade estava com ela.
+    status: ia-sem-revisao
+  '7:13':
+    texto: 'Ao vê-la, o Senhor teve compaixão dela e lhe disse: “Não chores.”'
+    status: ia-sem-revisao
+  '7:14':
+    texto: 'Aproximando-se, tocou o esquife, e os que o carregavam pararam; e disse: “Jovem, eu te digo:
+      levanta-te.”'
+    status: ia-sem-revisao
+  '7:15':
+    texto: O morto sentou-se e começou a falar, e Jesus o entregou à sua mãe.
+    status: ia-sem-revisao
+  '7:16':
+    texto: 'O temor tomou conta de todos, e glorificavam a Deus, dizendo: “Um grande profeta surgiu entre
+      nós”, e: “Deus visitou o seu povo.”'
+    status: ia-sem-revisao
+  '7:17':
+    texto: E esta notícia a respeito dele espalhou-se por toda a Judeia e por toda a região em redor.
+    status: ia-sem-revisao
+  '7:18':
+    texto: Os discípulos de João lhe anunciaram todas essas coisas. João, chamando dois dos seus discípulos,
+    status: ia-sem-revisao
+  '7:19':
+    texto: 'Enviou-os ao Senhor para dizer: “És tu aquele que há de vir, ou devemos esperar outro?”'
+    status: ia-sem-revisao
+  '7:20':
+    texto: 'Chegando junto dele, os homens disseram: “João Batizador nos enviou a ti para perguntar: ‘És
+      tu aquele que há de vir, ou devemos esperar outro?’”'
+    status: ia-sem-revisao
+  '7:21':
+    texto: Naquela hora, curou muitos de doenças, flagelos e espíritos malignos, e concedeu a vista a
+      muitos cegos.
+    status: ia-sem-revisao
+  '7:22':
+    texto: 'Respondendo-lhes, disse: “Ide e anunciai a João o que vistes e ouvistes: cegos veem, coxos
+      andam, leprosos são purificados, surdos ouvem, mortos ressuscitam, aos pobres é anunciado o evangelho;'
+    status: ia-sem-revisao
+  '7:23':
+    texto: E bem-aventurado é aquele que não se escandalizar por minha causa.”
+    status: ia-sem-revisao
+  '7:24':
+    texto: 'Quando os mensageiros de João partiram, começou a falar às multidões sobre João: “Que fostes
+      ver no deserto? Um caniço agitado pelo vento?'
+    status: ia-sem-revisao
+  '7:25':
+    texto: Mas que fostes ver? Um homem vestido de roupas finas? Eis que os que usam roupas esplêndidas
+      e vivem no luxo estão nos palácios dos reis.
+    status: ia-sem-revisao
+  '7:26':
+    texto: Mas que fostes ver? Um profeta? Sim, digo-vos, e mais do que profeta.
+    status: ia-sem-revisao
+  '7:27':
+    texto: 'Este é aquele de quem está escrito: ‘Eis que envio o meu mensageiro diante de ti, que preparará
+      o teu caminho adiante de ti.’'
+    status: ia-sem-revisao
+  '7:28':
+    texto: 'Digo-vos: entre os nascidos de mulher, ninguém é maior do que João; contudo, o menor no reino
+      de Deus é maior do que ele.”'
+    status: ia-sem-revisao
+  '7:29':
+    texto: (Todo o povo que o ouviu, e os publicanos, reconheceram a justiça de Deus, tendo recebido o
+      batismo de João;
+    status: ia-sem-revisao
+  '7:30':
+    texto: Mas os fariseus e os doutores da Lei rejeitaram o plano de Deus a seu respeito, não tendo sido
+      batizados por ele.)
+    status: ia-sem-revisao
+  '7:31':
+    texto: “A quem, pois, compararei os homens desta geração, e a quem são semelhantes?
+    status: ia-sem-revisao
+  '7:32':
+    texto: 'São semelhantes a crianças sentadas na praça que gritam umas para as outras: ‘Tocamos flauta
+      para vós, e não dançastes; entoamos lamentações, e não chorastes.’'
+    status: ia-sem-revisao
+  '7:33':
+    texto: 'Pois veio João Batizador, que não comia pão nem bebia vinho, e dizeis: ‘Tem demônio.’'
+    status: ia-sem-revisao
+  '7:34':
+    texto: 'Veio o Filho do Homem, que come e bebe, e dizeis: ‘Eis um comilão e beberrão, amigo de publicanos
+      e pecadores.’'
+    status: ia-sem-revisao
+  '7:35':
+    texto: Mas a sabedoria foi justificada por todos os seus filhos.”
+    status: ia-sem-revisao
+  '7:36':
+    texto: Um dos fariseus convidou-o a comer com ele; entrando na casa do fariseu, pôs-se à mesa.
+    status: ia-sem-revisao
+  '7:37':
+    texto: E eis que uma mulher que era pecadora na cidade, sabendo que ele estava à mesa na casa do fariseu,
+      trouxe um frasco de alabastro com perfume
+    status: ia-sem-revisao
+  '7:38':
+    texto: E, colocando-se atrás, junto aos pés dele, chorando, começou a molhar-lhe os pés com as lágrimas,
+      enxugava-os com os cabelos da sua cabeça, beijava-lhe os pés e os ungia com o perfume.
+    status: ia-sem-revisao
+  '7:39':
+    texto: 'Vendo isso, o fariseu que o convidara disse consigo: “Se este fosse profeta, saberia quem
+      e que tipo de mulher é esta que o toca, pois é pecadora.”'
+    status: ia-sem-revisao
+  '7:40':
+    texto: 'Jesus, respondendo, disse-lhe: “Simão, tenho algo a dizer-te.” Ele disse: “Mestre, fala.”'
+    status: ia-sem-revisao
+  '7:41':
+    texto: '“Dois devedores tinham um credor: um devia quinhentos denários, e o outro, cinquenta.'
+    status: ia-sem-revisao
+  '7:42':
+    texto: Não tendo eles com que pagar, perdoou a ambos. Qual deles, pois, o amará mais?”
+    status: ia-sem-revisao
+  '7:43':
+    texto: 'Simão, respondendo, disse: “Suponho que aquele a quem perdoou mais.” Ele lhe disse: “Julgaste
+      retamente.”'
+    status: ia-sem-revisao
+  '7:44':
+    texto: 'Voltando-se para a mulher, disse a Simão: “Vês esta mulher? Entrei em tua casa, e não me deste
+      água para os pés; ela, porém, molhou-me os pés com lágrimas e os enxugou com os seus cabelos.'
+    status: ia-sem-revisao
+  '7:45':
+    texto: Não me deste um beijo; ela, porém, desde que entrei, não parou de beijar-me os pés.
+    status: ia-sem-revisao
+  '7:46':
+    texto: Não ungiste a minha cabeça com óleo; ela, porém, ungiu os meus pés com perfume.
+    status: ia-sem-revisao
+  '7:47':
+    texto: 'Por isso, eu te digo: os seus muitos pecados lhe são perdoados, porque amou muito; mas aquele
+      a quem pouco se perdoa, pouco ama.”'
+    status: ia-sem-revisao
+  '7:48':
+    texto: 'E disse-lhe: “Os teus pecados te são perdoados.”'
+    status: ia-sem-revisao
+  '7:49':
+    texto: 'Os que estavam à mesa começaram a dizer entre si: “Quem é este que até perdoa pecados?”'
+    status: ia-sem-revisao
+  '7:50':
+    texto: 'Ele disse à mulher: “A tua fé te salvou; vai em paz.”'
+    status: ia-sem-revisao
+  '8:1':
+    texto: Em seguida, ele percorria cidade por cidade e aldeia por aldeia, proclamando e anunciando o
+      evangelho do reino de Deus, e os Doze com ele,
+    status: ia-sem-revisao
+  '8:2':
+    texto: 'E algumas mulheres que tinham sido curadas de espíritos malignos e de enfermidades: Maria,
+      chamada Madalena, da qual haviam saído sete demônios,'
+    status: ia-sem-revisao
+  '8:3':
+    texto: Joana, mulher de Cuza, administrador de Herodes, Susana e muitas outras, que os serviam com
+      os seus bens.
+    status: ia-sem-revisao
+  '8:4':
+    texto: 'Reunindo-se uma grande multidão e vindo a ele gente de todas as cidades, falou por meio de
+      uma parábola:'
+    status: ia-sem-revisao
+  '8:5':
+    texto: “O semeador saiu a semear a sua semente. Ao semear, uma parte caiu à beira do caminho, foi
+      pisada, e as aves do céu a comeram.
+    status: ia-sem-revisao
+  '8:6':
+    texto: Outra caiu sobre a pedra e, ao brotar, secou, por falta de umidade.
+    status: ia-sem-revisao
+  '8:7':
+    texto: Outra caiu no meio dos espinhos, e os espinhos, crescendo com ela, a sufocaram.
+    status: ia-sem-revisao
+  '8:8':
+    texto: 'Outra caiu em terra boa e, ao brotar, produziu fruto cem por um.” Dizendo isto, exclamava:
+      “Quem tem ouvidos para ouvir, ouça.”'
+    status: ia-sem-revisao
+  '8:9':
+    texto: Os seus discípulos lhe perguntaram o que significava essa parábola.
+    status: ia-sem-revisao
+  '8:10':
+    texto: 'Ele disse: “A vós foi dado conhecer os mistérios do reino de Deus; aos outros, porém, em parábolas,
+      para que, vendo, não vejam e, ouvindo, não entendam.'
+    status: ia-sem-revisao
+  '8:11':
+    texto: 'Esta é a parábola: a semente é a palavra de Deus.'
+    status: ia-sem-revisao
+  '8:12':
+    texto: Os que estão à beira do caminho são os que ouviram; depois vem o diabo e tira a palavra do
+      seu coração, para que não creiam e se salvem.
+    status: ia-sem-revisao
+  '8:13':
+    texto: 'Os que estão sobre a pedra são os que, ao ouvirem, recebem a palavra com alegria; mas estes
+      não têm raiz: creem por um tempo e, no tempo da provação, desistem.'
+    status: ia-sem-revisao
+  '8:14':
+    texto: O que caiu entre os espinhos são os que ouviram, mas, ao seguirem o seu caminho, são sufocados
+      pelas preocupações, pela riqueza e pelos prazeres da vida e não chegam à maturidade.
+    status: ia-sem-revisao
+  '8:15':
+    texto: O que caiu em terra boa são os que, tendo ouvido a palavra com um coração bom e generoso, a
+      conservam e dão fruto com perseverança.”
+    status: ia-sem-revisao
+  '8:16':
+    texto: “Ninguém, acendendo uma lâmpada, a cobre com um vaso ou a põe debaixo da cama, mas a põe no
+      candeeiro, para que os que entram vejam a luz.
+    status: ia-sem-revisao
+  '8:17':
+    texto: Pois não há nada oculto que não venha a ser manifestado, nem escondido que não venha a ser
+      conhecido e a aparecer.
+    status: ia-sem-revisao
+  '8:18':
+    texto: Vede, pois, como ouvis; porque a quem tem será dado, e a quem não tem, até o que pensa ter
+      lhe será tirado.”
+    status: ia-sem-revisao
+  '8:19':
+    texto: Vieram até ele sua mãe e seus irmãos, mas não podiam chegar até ele por causa da multidão.
+    status: ia-sem-revisao
+  '8:20':
+    texto: 'Foi-lhe anunciado: “Tua mãe e teus irmãos estão do lado de fora e querem ver-te.”'
+    status: ia-sem-revisao
+  '8:21':
+    texto: 'Ele, respondendo, disse-lhes: “Minha mãe e meus irmãos são estes: os que ouvem a palavra de
+      Deus e a praticam.”'
+    status: ia-sem-revisao
+  '8:22':
+    texto: 'Num daqueles dias, ele subiu a um barco com os seus discípulos e lhes disse: “Passemos para
+      o outro lado do lago.” E partiram.'
+    status: ia-sem-revisao
+  '8:23':
+    texto: Enquanto navegavam, adormeceu. Desabou sobre o lago uma tempestade de vento, e o barco se enchia
+      de água, e corriam perigo.
+    status: ia-sem-revisao
+  '8:24':
+    texto: 'Aproximando-se, acordaram-no, dizendo: “Mestre, Mestre, estamos perecendo!” Ele, despertando,
+      repreendeu o vento e a agitação das águas, e cessaram, e fez-se calmaria.'
+    status: ia-sem-revisao
+  '8:25':
+    texto: 'E lhes disse: “Onde está a vossa fé?” Cheios de temor, admiraram-se e diziam uns aos outros:
+      “Quem é este, que até aos ventos e à água dá ordens, e lhe obedecem?”'
+    status: ia-sem-revisao
+  '8:26':
+    texto: Navegaram para a região dos gerasenos, que fica em frente à Galileia.
+    status: ia-sem-revisao
+  '8:27':
+    texto: Quando ele desembarcou, veio ao seu encontro, vindo da cidade, um homem possuído por demônios;
+      havia muito tempo não vestia roupa e não morava em casa, mas nos sepulcros.
+    status: ia-sem-revisao
+  '8:28':
+    texto: 'Ao ver Jesus, gritou, prostrou-se diante dele e disse em alta voz: “Que há entre mim e ti,
+      Jesus, Filho do Deus Altíssimo? Suplico-te: não me atormentes.”'
+    status: ia-sem-revisao
+  '8:29':
+    texto: Pois ordenava ao espírito impuro que saísse do homem. Muitas vezes o apoderara dele; era amarrado
+      com correntes e grilhões, vigiado, mas, rompendo as ataduras, era levado pelo demônio para lugares
+      desertos.
+    status: ia-sem-revisao
+  '8:30':
+    texto: 'Jesus lhe perguntou: “Qual é o teu nome?” Ele disse: “Legião”, porque muitos demônios tinham
+      entrado nele.'
+    status: ia-sem-revisao
+  '8:31':
+    texto: E suplicavam-lhe que não lhes ordenasse ir para o abismo.
+    status: ia-sem-revisao
+  '8:32':
+    texto: Havia ali, no monte, uma grande manada de porcos pastando; e suplicaram-lhe que lhes permitisse
+      entrar neles; e ele lhes permitiu.
+    status: ia-sem-revisao
+  '8:33':
+    texto: Saindo do homem, os demônios entraram nos porcos, e a manada precipitou-se pelo barranco no
+      lago e se afogou.
+    status: ia-sem-revisao
+  '8:34':
+    texto: Vendo o que acontecera, os que os apascentavam fugiram e deram a notícia na cidade e nos campos.
+    status: ia-sem-revisao
+  '8:35':
+    texto: As pessoas saíram para ver o que acontecera, foram a Jesus e encontraram o homem de quem tinham
+      saído os demônios, sentado aos pés de Jesus, vestido e em perfeito juízo; e tiveram medo.
+    status: ia-sem-revisao
+  '8:36':
+    texto: Os que tinham visto contaram-lhes como o endemoninhado fora salvo.
+    status: ia-sem-revisao
+  '8:37':
+    texto: Toda a multidão da região dos gerasenos lhe pediu que se afastasse deles, porque estavam tomados
+      de grande temor; ele, subindo ao barco, voltou.
+    status: ia-sem-revisao
+  '8:38':
+    texto: 'O homem de quem haviam saído os demônios pedia-lhe para ficar com ele; Jesus, porém, o despediu,
+      dizendo:'
+    status: ia-sem-revisao
+  '8:39':
+    texto: “Volta para a tua casa e conta tudo o que Deus fez por ti.” E ele foi por toda a cidade proclamando
+      tudo o que Jesus fizera por ele.
+    status: ia-sem-revisao
+  '8:40':
+    texto: Quando Jesus voltou, a multidão o acolheu, pois todos o esperavam.
+    status: ia-sem-revisao
+  '8:41':
+    texto: E eis que veio um homem chamado Jairo, que era chefe da sinagoga; e, prostrando-se aos pés
+      de Jesus, suplicava-lhe que fosse à sua casa,
+    status: ia-sem-revisao
+  '8:42':
+    texto: Porque tinha uma filha única, de uns doze anos, que estava à morte. Enquanto ia, as multidões
+      o apertavam.
+    status: ia-sem-revisao
+  '8:43':
+    texto: Uma mulher que tinha um fluxo de sangue havia doze anos, e que gastara com médicos todos os
+      seus bens, sem que ninguém a pudesse curar,
+    status: ia-sem-revisao
+  '8:44':
+    texto: Aproximou-se por trás e tocou a orla do seu manto, e imediatamente estancou o fluxo do seu
+      sangue.
+    status: ia-sem-revisao
+  '8:45':
+    texto: 'Jesus disse: “Quem me tocou?” Negando todos, Pedro disse: “Mestre, as multidões te apertam
+      e te comprimem.”'
+    status: ia-sem-revisao
+  '8:46':
+    texto: 'Jesus disse: “Alguém me tocou, pois senti que um poder saiu de mim.”'
+    status: ia-sem-revisao
+  '8:47':
+    texto: A mulher, vendo que não passara despercebida, veio tremendo e, prostrando-se diante dele, declarou
+      diante de todo o povo por que motivo o tocara e como fora curada imediatamente.
+    status: ia-sem-revisao
+  '8:48':
+    texto: 'Ele lhe disse: “Filha, a tua fé te salvou; vai em paz.”'
+    status: ia-sem-revisao
+  '8:49':
+    texto: 'Ainda ele falava, veio alguém da casa do chefe da sinagoga, dizendo: “A tua filha morreu;
+      não incomodes mais o Mestre.”'
+    status: ia-sem-revisao
+  '8:50':
+    texto: 'Jesus, ouvindo, respondeu-lhe: “Não temas; crê somente, e ela será salva.”'
+    status: ia-sem-revisao
+  '8:51':
+    texto: Chegando à casa, não permitiu que ninguém entrasse com ele, a não ser Pedro, João e Tiago,
+      e o pai e a mãe da menina.
+    status: ia-sem-revisao
+  '8:52':
+    texto: 'Todos choravam e batiam no peito por ela. Ele disse: “Não choreis; ela não morreu, mas dorme.”'
+    status: ia-sem-revisao
+  '8:53':
+    texto: E riam-se dele, sabendo que ela morrera.
+    status: ia-sem-revisao
+  '8:54':
+    texto: 'Ele, tomando-a pela mão, chamou, dizendo: “Menina, levanta-te.”'
+    status: ia-sem-revisao
+  '8:55':
+    texto: O espírito dela voltou, e ela se levantou imediatamente, e ele mandou que lhe dessem de comer.
+    status: ia-sem-revisao
+  '8:56':
+    texto: Os pais dela ficaram fora de si; ele, porém, ordenou-lhes que a ninguém contassem o que acontecera.
+    status: ia-sem-revisao
+  '9:1':
+    texto: Reunindo os Doze, deu-lhes poder e autoridade sobre todos os demônios e para curar doenças,
+    status: ia-sem-revisao
+  '9:2':
+    texto: E enviou-os a proclamar o reino de Deus e a curar os doentes,
+    status: ia-sem-revisao
+  '9:3':
+    texto: 'Disse-lhes: “Nada leveis para o caminho: nem bastão, nem bolsa, nem pão, nem dinheiro, nem
+      tenhais duas túnicas.'
+    status: ia-sem-revisao
+  '9:4':
+    texto: Em qualquer casa em que entrardes, ficai ali e dali partireis.
+    status: ia-sem-revisao
+  '9:5':
+    texto: E, onde não vos receberem, saindo daquela cidade, sacudi o pó dos vossos pés, como testemunho
+      contra eles.”
+    status: ia-sem-revisao
+  '9:6':
+    texto: Saindo, percorriam as aldeias, anunciando o evangelho e curando por toda parte.
+    status: ia-sem-revisao
+  '9:7':
+    texto: Herodes, o tetrarca, ouviu falar de tudo o que acontecia e ficou perplexo, porque alguns diziam
+      que João ressuscitara dentre os mortos,
+    status: ia-sem-revisao
+  '9:8':
+    texto: Outros, que Elias tinha aparecido, e outros, que um dos antigos profetas ressuscitara.
+    status: ia-sem-revisao
+  '9:9':
+    texto: 'Herodes disse: “A João eu decapitei; quem é, então, este de quem ouço tais coisas?” E procurava
+      vê-lo.'
+    status: ia-sem-revisao
+  '9:10':
+    texto: Os apóstolos, ao voltarem, contaram-lhe tudo o que tinham feito. Ele os tomou consigo e retirou-se
+      à parte para uma cidade chamada Betsaida.
+    status: ia-sem-revisao
+  '9:11':
+    texto: As multidões, sabendo disso, seguiram-no. Ele as acolheu, falava-lhes do reino de Deus e curava
+      os que precisavam de cura.
+    partes:
+    - As multidões, sabendo disso, seguiram-no.
+    - Ele as acolheu, falava-lhes do reino de Deus e curava os que precisavam de cura.
+    status: ia-sem-revisao
+  '9:12':
+    texto: 'O dia começava a declinar; os Doze, aproximando-se, disseram-lhe: “Despede a multidão, para
+      que, indo às aldeias e campos ao redor, encontrem pousada e alimento, pois aqui estamos num lugar
+      deserto.”'
+    status: ia-sem-revisao
+  '9:13':
+    texto: 'Ele lhes disse: “Dai-lhes vós de comer.” Eles disseram: “Não temos mais que cinco pães e dois
+      peixes, a menos que vamos nós comprar alimento para todo este povo.”'
+    status: ia-sem-revisao
+  '9:14':
+    texto: 'Eram cerca de cinco mil homens. Ele disse aos seus discípulos: “Fazei-os sentar em grupos
+      de cerca de cinquenta.”'
+    status: ia-sem-revisao
+  '9:15':
+    texto: Assim fizeram e fizeram sentar a todos.
+    status: ia-sem-revisao
+  '9:16':
+    texto: Tomando os cinco pães e os dois peixes, olhou para o céu, abençoou-os, partiu-os e os dava
+      aos discípulos para distribuírem à multidão.
+    status: ia-sem-revisao
+  '9:17':
+    texto: 'Todos comeram e ficaram saciados, e recolheram o que sobrou: doze cestos de pedaços.'
+    status: ia-sem-revisao
+  '9:18':
+    texto: 'Aconteceu que, estando ele a orar a sós, os discípulos estavam com ele, e ele lhes perguntou:
+      “Quem dizem as multidões que eu sou?”'
+    status: ia-sem-revisao
+  '9:19':
+    texto: 'Eles responderam: “João Batizador; outros, Elias; outros, que um dos antigos profetas ressuscitou.”'
+    status: ia-sem-revisao
+  '9:20':
+    texto: 'Disse-lhes: “E vós, quem dizeis que eu sou?” Pedro, respondendo, disse: “O Cristo de Deus.”'
+    status: ia-sem-revisao
+  '9:21':
+    texto: Ele, advertindo-os, ordenou que a ninguém dissessem isso,
+    status: ia-sem-revisao
+  '9:22':
+    texto: 'Dizendo: “É necessário que o Filho do Homem sofra muito, seja rejeitado pelos anciãos, chefes
+      dos sacerdotes e escribas, seja morto e ressuscite ao terceiro dia.”'
+    status: ia-sem-revisao
+  '9:23':
+    texto: 'Dizia a todos: “Se alguém quer vir após mim, renuncie a si mesmo, tome a sua cruz cada dia
+      e siga-me.'
+    status: ia-sem-revisao
+  '9:24':
+    texto: Pois quem quiser salvar a sua vida a perderá; mas quem perder a sua vida por causa de mim,
+      esse a salvará.
+    status: ia-sem-revisao
+  '9:25':
+    texto: Que aproveita ao homem ganhar o mundo inteiro e perder-se ou arruinar-se a si mesmo?
+    status: ia-sem-revisao
+  '9:26':
+    texto: Pois quem se envergonhar de mim e das minhas palavras, dele o Filho do Homem se envergonhará,
+      quando vier na sua glória, na do Pai e na dos santos anjos.
+    status: ia-sem-revisao
+  '9:27':
+    texto: 'Digo-vos, na verdade: há alguns dos que aqui estão que não provarão a morte até que vejam
+      o reino de Deus.”'
+    status: ia-sem-revisao
+  '9:28':
+    texto: Cerca de oito dias depois dessas palavras, tomou consigo Pedro, João e Tiago e subiu ao monte
+      para orar.
+    partes:
+    - Cerca de oito dias depois dessas palavras,
+    - tomou consigo Pedro, João e Tiago e subiu ao monte para orar.
+    status: ia-sem-revisao
+  '9:29':
+    texto: Enquanto orava, o aspecto do seu rosto mudou, e a sua veste ficou branca, resplandecente.
+    status: ia-sem-revisao
+  '9:30':
+    texto: 'E eis que dois homens conversavam com ele: eram Moisés e Elias,'
+    status: ia-sem-revisao
+  '9:31':
+    texto: Que, aparecendo em glória, falavam da partida dele, que ia cumprir em Jerusalém.
+    status: ia-sem-revisao
+  '9:32':
+    texto: Pedro e os que estavam com ele estavam pesados de sono; despertando, viram a glória dele e
+      os dois homens que estavam com ele.
+    status: ia-sem-revisao
+  '9:33':
+    texto: 'Quando estes se afastavam dele, Pedro disse a Jesus: “Mestre, é bom estarmos aqui; façamos
+      três tendas: uma para ti, uma para Moisés e uma para Elias”, sem saber o que dizia.'
+    status: ia-sem-revisao
+  '9:34':
+    texto: Enquanto ele falava, veio uma nuvem que os cobriu com sua sombra; e tiveram medo ao entrarem
+      na nuvem.
+    status: ia-sem-revisao
+  '9:35':
+    texto: 'E veio uma voz da nuvem, que dizia: “Este é o meu Filho, o escolhido; ouvi-o.”'
+    status: ia-sem-revisao
+  '9:36':
+    texto: Ao soar a voz, Jesus foi encontrado sozinho. Eles calaram-se e, naqueles dias, a ninguém contaram
+      nada do que tinham visto.
+    status: ia-sem-revisao
+  '9:37':
+    texto: No dia seguinte, ao descerem do monte, foi ao seu encontro uma grande multidão.
+    status: ia-sem-revisao
+  '9:38':
+    texto: 'E eis que um homem da multidão gritou: “Mestre, peço-te que olhes para o meu filho, pois é
+      o meu único;'
+    status: ia-sem-revisao
+  '9:39':
+    texto: Eis que um espírito o toma, e de repente ele grita; sacode-o com espuma e só a custo o deixa,
+      deixando-o machucado;
+    status: ia-sem-revisao
+  '9:40':
+    texto: Pedi aos teus discípulos que o expulsassem, e não puderam.”
+    status: ia-sem-revisao
+  '9:41':
+    texto: 'Jesus, respondendo, disse: “Ó geração incrédula e perversa, até quando estarei convosco e
+      vos suportarei? Traze aqui o teu filho.”'
+    status: ia-sem-revisao
+  '9:42':
+    texto: Quando ele ainda se aproximava, o demônio o derrubou e o convulsionou; Jesus repreendeu o espírito
+      impuro, curou o menino e o entregou ao pai.
+    status: ia-sem-revisao
+  '9:43':
+    texto: 'Todos ficaram admirados com a grandeza de Deus. Enquanto todos se maravilhavam com tudo o
+      que fazia, disse aos seus discípulos:'
+    partes:
+    - Todos ficaram admirados com a grandeza de Deus.
+    - 'Enquanto todos se maravilhavam com tudo o que fazia, disse aos seus discípulos:'
+    status: ia-sem-revisao
+  '9:44':
+    texto: '“Guardai vós estas palavras nos ouvidos: o Filho do Homem vai ser entregue nas mãos dos homens.”'
+    status: ia-sem-revisao
+  '9:45':
+    texto: Eles, porém, não entendiam essa palavra, e lhes ficava velada para que não a percebessem, e
+      tinham medo de interrogá-lo sobre essa palavra.
+    status: ia-sem-revisao
+  '9:46':
+    texto: 'Surgiu entre eles uma discussão: quem dentre eles seria o maior.'
+    status: ia-sem-revisao
+  '9:47':
+    texto: Jesus, conhecendo o pensamento do coração deles, tomou uma criança, colocou-a junto de si
+    status: ia-sem-revisao
+  '9:48':
+    texto: 'E lhes disse: “Quem receber esta criança em meu nome, a mim recebe; e quem me receber, recebe
+      aquele que me enviou; pois o menor entre todos vós, esse é grande.”'
+    status: ia-sem-revisao
+  '9:49':
+    texto: 'João, respondendo, disse: “Mestre, vimos alguém que expulsava demônios em teu nome, e o impedimos,
+      porque não nos segue.”'
+    status: ia-sem-revisao
+  '9:50':
+    texto: 'Jesus lhe disse: “Não o impeçais; pois quem não é contra vós é a vosso favor.”'
+    status: ia-sem-revisao
+  '9:51':
+    texto: Aconteceu que, ao completarem-se os dias da sua elevação, ele decidiu firmemente ir a Jerusalém,
+    status: ia-sem-revisao
+  '9:52':
+    texto: E enviou mensageiros à sua frente. Eles foram e entraram numa aldeia de samaritanos, para lhe
+      preparar hospedagem;
+    status: ia-sem-revisao
+  '9:53':
+    texto: Mas não o receberam, porque ele ia em direção a Jerusalém.
+    status: ia-sem-revisao
+  '9:54':
+    texto: 'Vendo isso, os discípulos Tiago e João disseram: “Senhor, queres que mandemos descer fogo
+      do céu para os consumir?”'
+    status: ia-sem-revisao
+  '9:55':
+    texto: Ele, voltando-se, repreendeu-os.
+    status: ia-sem-revisao
+  '9:56':
+    texto: E foram para outra aldeia.
+    status: ia-sem-revisao
+  '9:57':
+    texto: 'Enquanto caminhavam, alguém lhe disse: “Seguir-te-ei aonde quer que fores.”'
+    status: ia-sem-revisao
+  '9:58':
+    texto: 'Jesus lhe disse: “As raposas têm tocas e as aves do céu, ninhos, mas o Filho do Homem não
+      tem onde reclinar a cabeça.”'
+    status: ia-sem-revisao
+  '9:59':
+    texto: 'Disse a outro: “Segue-me.” Este disse: “Senhor, permite-me ir primeiro enterrar o meu pai.”'
+    status: ia-sem-revisao
+  9:60:
+    texto: 'Disse-lhe: “Deixa os mortos enterrarem os seus mortos; tu, porém, vai e anuncia o reino de
+      Deus.”'
+    status: ia-sem-revisao
+  9:61:
+    texto: 'Outro disse também: “Seguir-te-ei, Senhor; mas permite-me primeiro despedir-me dos de minha
+      casa.”'
+    status: ia-sem-revisao
+  9:62:
+    texto: 'Jesus disse: “Ninguém que põe a mão no arado e olha para trás é apto para o reino de Deus.”'
+    status: ia-sem-revisao
+  '10:1':
+    texto: Depois disso, o Senhor designou outros setenta e dois e os enviou de dois em dois, à sua frente,
+      a toda cidade e lugar aonde ele próprio ia.
+    status: ia-sem-revisao
+  '10:2':
+    texto: 'Dizia-lhes: “A messe é grande, mas os trabalhadores são poucos; pedi, pois, ao senhor da messe
+      que envie trabalhadores para a sua messe.'
+    status: ia-sem-revisao
+  '10:3':
+    texto: Ide; eis que vos envio como cordeiros no meio de lobos.
+    status: ia-sem-revisao
+  '10:4':
+    texto: Não leveis bolsa, nem sacola, nem sandálias, e a ninguém saudeis pelo caminho.
+    status: ia-sem-revisao
+  '10:5':
+    texto: 'Em qualquer casa em que entrardes, dizei primeiro: ‘Paz a esta casa.’'
+    status: ia-sem-revisao
+  '10:6':
+    texto: Se ali houver um filho da paz, a vossa paz repousará sobre ele; se não, voltará para vós.
+    status: ia-sem-revisao
+  '10:7':
+    texto: Ficai nessa mesma casa, comendo e bebendo do que tiverem, pois o trabalhador é digno do seu
+      salário. Não passeis de casa em casa.
+    status: ia-sem-revisao
+  '10:8':
+    texto: Em qualquer cidade em que entrardes e vos receberem, comei o que vos for servido,
+    status: ia-sem-revisao
+  '10:9':
+    texto: 'Curai os doentes que nela houver e dizei-lhes: ‘Aproximou-se de vós o reino de Deus.’'
+    status: ia-sem-revisao
+  '10:10':
+    texto: 'Mas em qualquer cidade em que entrardes e não vos receberem, saindo para as suas praças, dizei:'
+    status: ia-sem-revisao
+  '10:11':
+    texto: '‘Até o pó da vossa cidade que se pegou aos nossos pés sacudimos contra vós; sabei, porém,
+      isto: o reino de Deus se aproximou.’'
+    status: ia-sem-revisao
+  '10:12':
+    texto: Digo-vos que, naquele dia, será mais tolerável para Sodoma do que para aquela cidade.
+    status: ia-sem-revisao
+  '10:13':
+    texto: Ai de ti, Corazim! Ai de ti, Betsaida! Pois, se em Tiro e Sidônia tivessem acontecido os milagres
+      que aconteceram em vós, há muito tempo, sentadas em saco e cinza, teriam se convertido.
+    status: ia-sem-revisao
+  '10:14':
+    texto: Contudo, no juízo, será mais tolerável para Tiro e Sidônia do que para vós.
+    status: ia-sem-revisao
+  '10:15':
+    texto: E tu, Cafarnaum, acaso serás exaltada até o céu? Serás precipitada até o Hades.
+    status: ia-sem-revisao
+  '10:16':
+    texto: Quem vos ouve, a mim ouve; e quem vos rejeita, a mim rejeita; e quem me rejeita, rejeita aquele
+      que me enviou.”
+    status: ia-sem-revisao
+  '10:17':
+    texto: 'Os setenta e dois voltaram com alegria, dizendo: “Senhor, até os demônios se nos submetem
+      em teu nome.”'
+    status: ia-sem-revisao
+  '10:18':
+    texto: 'Ele lhes disse: “Eu via Satanás cair do céu como um relâmpago.'
+    status: ia-sem-revisao
+  '10:19':
+    texto: Eis que vos dei autoridade para pisar serpentes e escorpiões e todo o poder do inimigo, e nada
+      vos fará mal.
+    status: ia-sem-revisao
+  '10:20':
+    texto: Contudo, não vos alegreis porque os espíritos se vos submetem; alegrai-vos, antes, porque os
+      vossos nomes estão escritos nos céus.”
+    status: ia-sem-revisao
+  '10:21':
+    texto: 'Naquela mesma hora, exultou no Espírito Santo e disse: “Eu te louvo, Pai, Senhor do céu e
+      da terra, porque escondeste estas coisas aos sábios e entendidos e as revelaste aos pequeninos;
+      sim, Pai, porque assim foi do teu agrado.'
+    status: ia-sem-revisao
+  '10:22':
+    texto: Tudo me foi entregue por meu Pai; e ninguém sabe quem é o Filho senão o Pai, nem quem é o Pai
+      senão o Filho e aquele a quem o Filho quiser revelá-lo.”
+    status: ia-sem-revisao
+  '10:23':
+    texto: 'Voltando-se para os discípulos, disse-lhes em particular: “Bem-aventurados os olhos que veem
+      o que vedes.'
+    status: ia-sem-revisao
+  '10:24':
+    texto: Pois eu vos digo que muitos profetas e reis quiseram ver o que vedes e não viram, e ouvir o
+      que ouvis e não ouviram.”
+    status: ia-sem-revisao
+  '10:25':
+    texto: 'E eis que um doutor da Lei se levantou para o pôr à prova, dizendo: “Mestre, que devo fazer
+      para herdar a vida eterna?”'
+    status: ia-sem-revisao
+  '10:26':
+    texto: 'Ele lhe disse: “Que está escrito na Lei? Como lês?”'
+    status: ia-sem-revisao
+  '10:27':
+    texto: 'Ele, respondendo, disse: “‘Amarás o Senhor, teu Deus, de todo o teu coração, de toda a tua
+      alma, de toda a tua força e de todo o teu entendimento’, e ‘o teu próximo como a ti mesmo’.”'
+    status: ia-sem-revisao
+  '10:28':
+    texto: 'Disse-lhe: “Respondeste corretamente; faze isso e viverás.”'
+    status: ia-sem-revisao
+  '10:29':
+    texto: 'Ele, querendo justificar-se, disse a Jesus: “E quem é o meu próximo?”'
+    status: ia-sem-revisao
+  '10:30':
+    texto: 'Jesus, tomando a palavra, disse: “Um homem descia de Jerusalém para Jericó e caiu nas mãos
+      de assaltantes, que, depois de o despojarem e o espancarem, foram-se embora, deixando-o meio morto.'
+    status: ia-sem-revisao
+  '10:31':
+    texto: Por acaso, um sacerdote descia por aquele caminho e, vendo-o, passou do outro lado;
+    status: ia-sem-revisao
+  '10:32':
+    texto: Do mesmo modo, um levita, chegando ao lugar e vendo-o, passou do outro lado.
+    status: ia-sem-revisao
+  '10:33':
+    texto: Um samaritano, que viajava, chegou perto dele e, vendo-o, teve compaixão;
+    status: ia-sem-revisao
+  '10:34':
+    texto: Aproximou-se, enfaixou-lhe as feridas, derramando óleo e vinho, e, colocando-o sobre a sua
+      própria montaria, levou-o a uma hospedaria e cuidou dele.
+    status: ia-sem-revisao
+  '10:35':
+    texto: 'No dia seguinte, tirou dois denários, deu-os ao hospedeiro e disse: ‘Cuida dele, e o que gastares
+      a mais eu te pagarei quando voltar.’'
+    status: ia-sem-revisao
+  '10:36':
+    texto: Qual destes três te parece ter sido o próximo do que caiu nas mãos dos assaltantes?”
+    status: ia-sem-revisao
+  '10:37':
+    texto: 'Ele disse: “O que usou de misericórdia para com ele.” Jesus lhe disse: “Vai e faze tu também
+      o mesmo.”'
+    status: ia-sem-revisao
+  '10:38':
+    texto: Enquanto caminhavam, ele entrou numa aldeia, e uma mulher chamada Marta o recebeu.
+    status: ia-sem-revisao
+  '10:39':
+    texto: Ela tinha uma irmã chamada Maria, que, sentada aos pés do Senhor, ouvia a sua palavra.
+    status: ia-sem-revisao
+  '10:40':
+    texto: 'Marta, porém, estava ocupada com muito serviço; aproximando-se, disse: “Senhor, não te importa
+      que minha irmã me deixe sozinha a servir? Dize-lhe, pois, que me ajude.”'
+    status: ia-sem-revisao
+  '10:41':
+    texto: 'O Senhor, respondendo-lhe, disse: “Marta, Marta, andas preocupada e agitada com muitas coisas,'
+    status: ia-sem-revisao
+  '10:42':
+    texto: Mas de poucas coisas há necessidade, ou melhor, de uma só; Maria escolheu a boa parte, que
+      não lhe será tirada.”
+    status: ia-sem-revisao
+  '11:1':
+    texto: 'Aconteceu que, estando ele a orar em certo lugar, quando terminou, um dos seus discípulos
+      lhe disse: “Senhor, ensina-nos a orar, como também João ensinou os seus discípulos.”'
+    status: ia-sem-revisao
+  '11:2':
+    texto: 'Disse-lhes: “Quando orardes, dizei: ‘Pai, santificado seja o teu nome; venha o teu reino;'
+    status: ia-sem-revisao
+  '11:3':
+    texto: O pão nosso de cada dia dá-nos todos os dias;
+    status: ia-sem-revisao
+  '11:4':
+    texto: E perdoa-nos os nossos pecados, pois também nós perdoamos a todo o que nos deve; e não nos
+      conduzas à tentação.’”
+    status: ia-sem-revisao
+  '11:5':
+    texto: 'Disse-lhes ainda: “Quem de vós, tendo um amigo, irá a ele à meia-noite e lhe dirá: ‘Amigo,
+      empresta-me três pães,'
+    status: ia-sem-revisao
+  '11:6':
+    texto: Porque um amigo meu chegou de viagem à minha casa e não tenho o que lhe oferecer’;
+    status: ia-sem-revisao
+  '11:7':
+    texto: 'E ele, de dentro, responderá: ‘Não me incomodes; a porta já está fechada, e meus filhos estão
+      comigo na cama; não posso levantar-me para te dar’?'
+    status: ia-sem-revisao
+  '11:8':
+    texto: 'Digo-vos: ainda que não se levante para lhe dar por ser seu amigo, por causa da sua insistência
+      se levantará e lhe dará tudo o que precisar.'
+    status: ia-sem-revisao
+  '11:9':
+    texto: 'E eu vos digo: pedi, e vos será dado; buscai, e achareis; batei, e vos será aberto;'
+    status: ia-sem-revisao
+  '11:10':
+    texto: Pois todo o que pede recebe, e o que busca acha, e a quem bate será aberto.
+    status: ia-sem-revisao
+  '11:11':
+    texto: Qual de vós, sendo pai, se o filho lhe pedir peixe, em vez do peixe lhe dará uma serpente?
+    status: ia-sem-revisao
+  '11:12':
+    texto: Ou, se pedir um ovo, lhe dará um escorpião?
+    status: ia-sem-revisao
+  '11:13':
+    texto: Se, pois, vós, sendo maus, sabeis dar boas dádivas aos vossos filhos, quanto mais o Pai do
+      céu dará o Espírito Santo aos que lho pedem!”
+    status: ia-sem-revisao
+  '11:14':
+    texto: Ele expulsava um demônio mudo; quando o demônio saiu, o mudo falou. E as multidões se admiraram;
+    status: ia-sem-revisao
+  '11:15':
+    texto: 'Mas alguns deles disseram: “É por Beelzebul, príncipe dos demônios, que expulsa os demônios”;'
+    status: ia-sem-revisao
+  '11:16':
+    texto: Outros, para o pôr à prova, lhe pediam um sinal do céu.
+    status: ia-sem-revisao
+  '11:17':
+    texto: 'Ele, conhecendo os pensamentos deles, disse-lhes: “Todo reino dividido contra si mesmo fica
+      desolado, e casa cai sobre casa.'
+    status: ia-sem-revisao
+  '11:18':
+    texto: Se também Satanás está dividido contra si mesmo, como subsistirá o seu reino? Pois dizeis que
+      eu expulso os demônios por Beelzebul.
+    status: ia-sem-revisao
+  '11:19':
+    texto: Se eu expulso os demônios por Beelzebul, por quem os expulsam os vossos filhos? Por isso eles
+      mesmos serão os vossos juízes.
+    status: ia-sem-revisao
+  '11:20':
+    texto: Mas, se é pelo dedo de Deus que eu expulso os demônios, então o reino de Deus chegou até vós.
+    status: ia-sem-revisao
+  '11:21':
+    texto: Quando o forte, bem armado, guarda o seu palácio, seus bens estão em paz;
+    status: ia-sem-revisao
+  '11:22':
+    texto: Mas, quando um mais forte do que ele o ataca e o vence, tira-lhe a armadura em que confiava
+      e reparte os seus despojos.
+    status: ia-sem-revisao
+  '11:23':
+    texto: Quem não está comigo está contra mim, e quem não ajunta comigo dispersa.
+    status: ia-sem-revisao
+  '11:24':
+    texto: 'Quando o espírito impuro sai do homem, anda por lugares áridos procurando repouso e, não o
+      achando, diz: ‘Voltarei para a minha casa, de onde saí’;'
+    status: ia-sem-revisao
+  '11:25':
+    texto: E, chegando, encontra-a varrida e arrumada.
+    status: ia-sem-revisao
+  '11:26':
+    texto: Então vai e toma consigo outros sete espíritos piores do que ele, e entram e habitam ali; e
+      o último estado daquele homem fica pior do que o primeiro.”
+    status: ia-sem-revisao
+  '11:27':
+    texto: 'Enquanto ele dizia isso, uma mulher da multidão, levantando a voz, disse-lhe: “Feliz o ventre
+      que te carregou e os seios que te amamentaram!”'
+    status: ia-sem-revisao
+  '11:28':
+    texto: 'Ele, porém, disse: “Antes, felizes os que ouvem a palavra de Deus e a guardam.”'
+    status: ia-sem-revisao
+  '11:29':
+    texto: 'Reunindo-se as multidões, começou a dizer: “Esta geração é uma geração má; procura um sinal,
+      e nenhum sinal lhe será dado, a não ser o sinal de Jonas.'
+    status: ia-sem-revisao
+  '11:30':
+    texto: Pois, como Jonas foi sinal para os ninivitas, assim será também o Filho do Homem para esta
+      geração.
+    status: ia-sem-revisao
+  '11:31':
+    texto: A rainha do Sul se levantará no juízo com os homens desta geração e os condenará; porque veio
+      dos confins da terra para ouvir a sabedoria de Salomão, e eis que aqui está algo maior do que Salomão.
+    status: ia-sem-revisao
+  '11:32':
+    texto: Os ninivitas se levantarão no juízo com esta geração e a condenarão; porque se converteram
+      à pregação de Jonas, e eis que aqui está algo maior do que Jonas.
+    status: ia-sem-revisao
+  '11:33':
+    texto: Ninguém, acendendo uma lâmpada, a põe em lugar escondido nem debaixo do alqueire, mas sobre
+      o candeeiro, para que os que entram vejam a luz.
+    status: ia-sem-revisao
+  '11:34':
+    texto: A lâmpada do corpo é o teu olho. Quando o teu olho é sadio, também todo o teu corpo é luminoso;
+      mas, quando é mau, também o teu corpo é tenebroso.
+    status: ia-sem-revisao
+  '11:35':
+    texto: Cuida, pois, que a luz que há em ti não seja treva.
+    status: ia-sem-revisao
+  '11:36':
+    texto: Se, pois, todo o teu corpo é luminoso, sem nenhuma parte tenebrosa, será todo luminoso, como
+      quando a lâmpada te ilumina com o seu clarão.”
+    status: ia-sem-revisao
+  '11:37':
+    texto: Enquanto ele falava, um fariseu o convidou para almoçar em sua casa; entrando, pôs-se à mesa.
+    status: ia-sem-revisao
+  '11:38':
+    texto: O fariseu, vendo isso, admirou-se de que ele não se lavasse antes do almoço.
+    status: ia-sem-revisao
+  '11:39':
+    texto: 'O Senhor lhe disse: “Vós, fariseus, limpais o exterior do copo e do prato, mas o vosso interior
+      está cheio de rapina e de maldade.'
+    status: ia-sem-revisao
+  '11:40':
+    texto: Insensatos! Aquele que fez o exterior não fez também o interior?
+    status: ia-sem-revisao
+  '11:41':
+    texto: Dai antes, em esmola, o que está dentro, e eis que tudo será puro para vós.
+    status: ia-sem-revisao
+  '11:42':
+    texto: Mas ai de vós, fariseus, que pagais o dízimo da hortelã, da arruda e de toda hortaliça, e desprezais
+      a justiça e o amor de Deus! Era isto que convinha praticar, sem omitir aquilo.
+    status: ia-sem-revisao
+  '11:43':
+    texto: Ai de vós, fariseus, que amais o primeiro lugar nas sinagogas e as saudações nas praças.
+    status: ia-sem-revisao
+  '11:44':
+    texto: Ai de vós, que sois como sepulcros ocultos, sobre os quais os homens andam sem o saber.”
+    status: ia-sem-revisao
+  '11:45':
+    texto: 'Um dos doutores da Lei, respondendo, disse-lhe: “Mestre, falando assim, ofendes também a nós.”'
+    status: ia-sem-revisao
+  '11:46':
+    texto: 'Ele disse: “Ai também de vós, doutores da Lei, que carregais os homens com fardos pesados
+      e vós mesmos nem com um dedo tocais nos fardos!'
+    status: ia-sem-revisao
+  '11:47':
+    texto: Ai de vós, que edificais os sepulcros dos profetas, e foram os vossos pais que os mataram!
+    status: ia-sem-revisao
+  '11:48':
+    texto: Assim sois testemunhas e aprovais as obras dos vossos pais, pois eles os mataram, e vós edificais.
+    status: ia-sem-revisao
+  '11:49':
+    texto: 'Por isso a sabedoria de Deus também disse: ‘Enviar-lhes-ei profetas e apóstolos, e a alguns
+      deles matarão e perseguirão,'
+    status: ia-sem-revisao
+  '11:50':
+    texto: Para que se peçam contas desta geração do sangue de todos os profetas derramado desde a fundação
+      do mundo,
+    status: ia-sem-revisao
+  '11:51':
+    texto: 'Desde o sangue de Abel até o sangue de Zacarias, que foi morto entre o altar e o santuário.’
+      Sim, eu vos digo: serão pedidas contas desta geração.'
+    status: ia-sem-revisao
+  '11:52':
+    texto: Ai de vós, doutores da Lei, porque tirastes a chave do conhecimento; vós mesmos não entrastes
+      e impedistes os que entravam.”
+    status: ia-sem-revisao
+  '11:53':
+    texto: Quando ele saiu dali, os escribas e os fariseus começaram a pressioná-lo terrivelmente e a
+      interrogá-lo sobre muitas coisas,
+    status: ia-sem-revisao
+  '11:54':
+    texto: Armando-lhe ciladas para apanhar alguma palavra da sua boca.
+    status: ia-sem-revisao
+  '12:1':
+    texto: 'Nesse meio tempo, reunindo-se milhares da multidão, a ponto de se pisarem uns aos outros,
+      começou a dizer primeiro aos seus discípulos: “Guardai-vos do fermento dos fariseus, que é a hipocrisia.'
+    status: ia-sem-revisao
+  '12:2':
+    texto: Nada há encoberto que não venha a ser revelado, nem oculto que não venha a ser conhecido.
+    status: ia-sem-revisao
+  '12:3':
+    texto: Por isso, tudo o que dissestes nas trevas será ouvido à luz, e o que falastes ao ouvido nos
+      quartos será proclamado sobre os telhados.
+    status: ia-sem-revisao
+  '12:4':
+    texto: 'Digo-vos, a vós, meus amigos: não temais os que matam o corpo e depois disso nada mais podem
+      fazer.'
+    status: ia-sem-revisao
+  '12:5':
+    texto: 'Mostrar-vos-ei a quem deveis temer: temei aquele que, depois de matar, tem autoridade para
+      lançar na geena; sim, eu vos digo, a esse temei.'
+    status: ia-sem-revisao
+  '12:6':
+    texto: Não se vendem cinco pardais por duas moedinhas? E nenhum deles está esquecido diante de Deus.
+    status: ia-sem-revisao
+  '12:7':
+    texto: Mas até os cabelos da vossa cabeça estão todos contados. Não temais; valeis mais do que muitos
+      pardais.
+    status: ia-sem-revisao
+  '12:8':
+    texto: 'Digo-vos: todo aquele que me reconhecer diante dos homens, também o Filho do Homem o reconhecerá
+      diante dos anjos de Deus;'
+    status: ia-sem-revisao
+  '12:9':
+    texto: Mas quem me negar diante dos homens será negado diante dos anjos de Deus.
+    status: ia-sem-revisao
+  '12:10':
+    texto: E todo aquele que disser uma palavra contra o Filho do Homem será perdoado; mas quem blasfemar
+      contra o Espírito Santo não será perdoado.
+    status: ia-sem-revisao
+  '12:11':
+    texto: Quando vos levarem às sinagogas, aos magistrados e às autoridades, não vos preocupeis com o
+      modo como vos defendereis ou com o que direis;
+    status: ia-sem-revisao
+  '12:12':
+    texto: Pois o Espírito Santo vos ensinará, naquela mesma hora, o que deveis dizer.”
+    status: ia-sem-revisao
+  '12:13':
+    texto: 'Alguém da multidão lhe disse: “Mestre, dize ao meu irmão que divida comigo a herança.”'
+    status: ia-sem-revisao
+  '12:14':
+    texto: 'Ele lhe disse: “Homem, quem me constituiu juiz ou repartidor entre vós?”'
+    status: ia-sem-revisao
+  '12:15':
+    texto: 'E disse-lhes: “Olhai e guardai-vos de toda ganância, porque a vida de alguém não consiste
+      na abundância dos bens que possui.”'
+    status: ia-sem-revisao
+  '12:16':
+    texto: 'Contou-lhes uma parábola, dizendo: “A terra de um homem rico deu muito fruto.'
+    status: ia-sem-revisao
+  '12:17':
+    texto: 'Ele raciocinava consigo, dizendo: ‘Que farei, pois não tenho onde guardar os meus frutos?’'
+    status: ia-sem-revisao
+  '12:18':
+    texto: 'E disse: ‘Farei isto: derrubarei os meus celeiros e construirei maiores, e ali guardarei todo
+      o meu trigo e os meus bens,'
+    status: ia-sem-revisao
+  '12:19':
+    texto: 'E direi à minha alma: Alma, tens muitos bens guardados para muitos anos; descansa, come, bebe,
+      regala-te.’'
+    status: ia-sem-revisao
+  '12:20':
+    texto: 'Mas Deus lhe disse: ‘Insensato! Esta noite pedirão a tua alma; e o que preparaste, para quem
+      será?’'
+    status: ia-sem-revisao
+  '12:21':
+    texto: Assim acontece com quem acumula tesouros para si e não é rico para Deus.”
+    status: ia-sem-revisao
+  '12:22':
+    texto: 'Disse aos seus discípulos: “Por isso vos digo: não vos preocupeis com a vida, quanto ao que
+      comereis, nem com o corpo, quanto ao que vestireis.'
+    status: ia-sem-revisao
+  '12:23':
+    texto: Pois a vida vale mais do que o alimento, e o corpo, mais do que a roupa.
+    status: ia-sem-revisao
+  '12:24':
+    texto: 'Observai os corvos: não semeiam nem colhem, não têm despensa nem celeiro, e Deus os alimenta;
+      quanto mais valeis vós do que as aves!'
+    status: ia-sem-revisao
+  '12:25':
+    texto: Quem de vós, preocupando-se, pode acrescentar um côvado à sua estatura?
+    status: ia-sem-revisao
+  '12:26':
+    texto: Se nem sequer o mínimo podeis, por que vos preocupais com o resto?
+    status: ia-sem-revisao
+  '12:27':
+    texto: 'Observai os lírios, como crescem: não trabalham nem fiam; e eu vos digo que nem Salomão, em
+      toda a sua glória, se vestiu como um deles.'
+    status: ia-sem-revisao
+  '12:28':
+    texto: Se Deus assim veste a erva que hoje está no campo e amanhã é lançada ao forno, quanto mais
+      a vós, homens de pouca fé!
+    status: ia-sem-revisao
+  '12:29':
+    texto: Não procureis vós o que comer e o que beber, e não vos inquieteis;
+    status: ia-sem-revisao
+  '12:30':
+    texto: Pois todas essas coisas as nações do mundo procuram; o vosso Pai sabe que precisais delas.
+    status: ia-sem-revisao
+  '12:31':
+    texto: Procurai antes o seu reino, e essas coisas vos serão acrescentadas.
+    status: ia-sem-revisao
+  '12:32':
+    texto: Não temas, pequeno rebanho, porque foi do agrado do vosso Pai dar-vos o reino.
+    status: ia-sem-revisao
+  '12:33':
+    texto: Vendei os vossos bens e dai esmola; fazei para vós bolsas que não envelhecem, um tesouro inesgotável
+      nos céus, onde o ladrão não chega nem a traça destrói;
+    status: ia-sem-revisao
+  '12:34':
+    texto: Pois onde está o vosso tesouro, ali estará também o vosso coração.
+    status: ia-sem-revisao
+  '12:35':
+    texto: Estejam cingidos os vossos rins e acesas as vossas lâmpadas,
+    status: ia-sem-revisao
+  '12:36':
+    texto: E sede semelhantes a homens que esperam o seu senhor, quando voltar das bodas, para que, quando
+      chegar e bater, logo lhe abram.
+    status: ia-sem-revisao
+  '12:37':
+    texto: 'Bem-aventurados aqueles servos que o senhor, ao chegar, encontrar vigiando; em verdade vos
+      digo: cingir-se-á, fá-los-á reclinar-se à mesa e, passando, os servirá.'
+    status: ia-sem-revisao
+  '12:38':
+    texto: Quer venha na segunda, quer na terceira vigília, e os encontre assim, bem-aventurados são aqueles.
+    status: ia-sem-revisao
+  '12:39':
+    texto: 'Sabei isto: se o dono da casa soubesse a que hora viria o ladrão, não deixaria arrombar a
+      sua casa.'
+    status: ia-sem-revisao
+  '12:40':
+    texto: Estai também vós preparados, porque o Filho do Homem virá na hora em que não pensais.”
+    status: ia-sem-revisao
+  '12:41':
+    texto: 'Pedro disse: “Senhor, dizes esta parábola para nós ou também para todos?”'
+    status: ia-sem-revisao
+  '12:42':
+    texto: 'O Senhor disse: “Quem é, pois, o administrador fiel e prudente, que o senhor porá à frente
+      dos seus servidores para lhes dar a ração a seu tempo?'
+    status: ia-sem-revisao
+  '12:43':
+    texto: Bem-aventurado aquele servo que o seu senhor, ao chegar, encontrar fazendo assim;
+    status: ia-sem-revisao
+  '12:44':
+    texto: Em verdade vos digo que o porá sobre todos os seus bens.
+    status: ia-sem-revisao
+  '12:45':
+    texto: 'Mas, se aquele servo disser em seu coração: ‘O meu senhor demora a vir’, e começar a bater
+      nos criados e nas criadas, a comer, a beber e a embriagar-se,'
+    status: ia-sem-revisao
+  '12:46':
+    texto: Virá o senhor daquele servo num dia em que ele não espera e numa hora que ele não sabe, e o
+      separará em dois e lhe dará o lugar com os infiéis.
+    status: ia-sem-revisao
+  '12:47':
+    texto: Aquele servo que conheceu a vontade do seu senhor e não se preparou nem agiu segundo a vontade
+      dele será açoitado muitas vezes;
+    status: ia-sem-revisao
+  '12:48':
+    texto: Mas o que não a conheceu e fez coisas dignas de açoites será açoitado poucas vezes. A todo
+      aquele a quem muito foi dado, muito será exigido; e a quem muito foi confiado, mais ainda se pedirá.”
+    status: ia-sem-revisao
+  '12:49':
+    texto: “Vim lançar fogo sobre a terra; e que mais quero, se já está aceso?
+    status: ia-sem-revisao
+  '12:50':
+    texto: Tenho um batismo com que ser batizado, e como me angustio até que se cumpra!
+    status: ia-sem-revisao
+  '12:51':
+    texto: Pensais que vim trazer paz à terra? Não, digo-vos, mas divisão.
+    status: ia-sem-revisao
+  '12:52':
+    texto: 'Pois, de agora em diante, cinco numa só casa estarão divididos: três contra dois e dois contra
+      três;'
+    status: ia-sem-revisao
+  '12:53':
+    texto: Dividir-se-ão pai contra filho e filho contra pai, mãe contra filha e filha contra mãe, sogra
+      contra a nora e nora contra a sogra.”
+    status: ia-sem-revisao
+  '12:54':
+    texto: 'Dizia também às multidões: “Quando vedes uma nuvem subir do poente, logo dizeis: ‘Vem chuva’,
+      e assim acontece;'
+    status: ia-sem-revisao
+  '12:55':
+    texto: 'E, quando sopra o vento sul, dizeis: ‘Fará calor’, e acontece.'
+    status: ia-sem-revisao
+  '12:56':
+    texto: Hipócritas! Sabeis interpretar o aspecto da terra e do céu; como não sabeis interpretar este
+      tempo?
+    status: ia-sem-revisao
+  '12:57':
+    texto: Por que também por vós mesmos não julgais o que é justo?
+    status: ia-sem-revisao
+  '12:58':
+    texto: Pois, quando vais com o teu adversário ao magistrado, procura no caminho livrar-te dele, para
+      que não te arraste ao juiz, e o juiz te entregue ao oficial de justiça, e o oficial te lance na
+      prisão.
+    status: ia-sem-revisao
+  '12:59':
+    texto: 'Digo-te: não sairás de lá até que pagues o último centavo.”'
+    status: ia-sem-revisao
+  '13:1':
+    texto: Naquele mesmo tempo, estavam presentes alguns que lhe contavam a respeito dos galileus cujo
+      sangue Pilatos misturara com o de seus sacrifícios.
+    status: ia-sem-revisao
+  '13:2':
+    texto: 'Ele, respondendo, disse-lhes: “Pensais que esses galileus eram mais pecadores do que todos
+      os galileus, por terem sofrido isso?'
+    status: ia-sem-revisao
+  '13:3':
+    texto: Não, digo-vos; mas, se não vos converterdes, todos igualmente perecereis.
+    status: ia-sem-revisao
+  '13:4':
+    texto: Ou aqueles dezoito sobre os quais caiu a torre em Siloé e os matou, pensais que foram mais
+      culpados do que todos os homens que habitam em Jerusalém?
+    status: ia-sem-revisao
+  '13:5':
+    texto: Não, digo-vos; mas, se não vos converterdes, todos do mesmo modo perecereis.”
+    status: ia-sem-revisao
+  '13:6':
+    texto: 'Contou esta parábola: “Um homem tinha uma figueira plantada na sua vinha, e foi procurar fruto
+      nela e não achou.'
+    status: ia-sem-revisao
+  '13:7':
+    texto: 'Disse então ao vinhateiro: ‘Há três anos venho procurar fruto nesta figueira e não acho; corta-a;
+      para que ocupa ainda a terra?’'
+    status: ia-sem-revisao
+  '13:8':
+    texto: 'Ele, respondendo, lhe disse: ‘Senhor, deixa-a ainda este ano, até que eu cave ao redor dela
+      e lhe ponha esterco;'
+    status: ia-sem-revisao
+  '13:9':
+    texto: Se der fruto daqui em diante, bem; se não, cortá-la-ás.’”
+    status: ia-sem-revisao
+  '13:10':
+    texto: Ele ensinava numa das sinagogas num sábado.
+    status: ia-sem-revisao
+  '13:11':
+    texto: E eis que havia uma mulher que tinha um espírito de enfermidade havia dezoito anos; andava
+      encurvada e não podia endireitar-se de modo algum.
+    status: ia-sem-revisao
+  '13:12':
+    texto: 'Vendo-a, Jesus chamou-a e disse-lhe: “Mulher, estás livre da tua enfermidade.”'
+    status: ia-sem-revisao
+  '13:13':
+    texto: E impôs-lhe as mãos; imediatamente ela se endireitou e glorificava a Deus.
+    status: ia-sem-revisao
+  '13:14':
+    texto: 'O chefe da sinagoga, indignado porque Jesus curara no sábado, dizia à multidão: “Há seis dias
+      em que se deve trabalhar; vinde, pois, nesses dias para serdes curados, e não no dia de sábado.”'
+    status: ia-sem-revisao
+  '13:15':
+    texto: 'O Senhor lhe respondeu: “Hipócritas! Cada um de vós, no sábado, não desata da manjedoura o
+      seu boi ou o seu jumento e o leva a beber?'
+    status: ia-sem-revisao
+  '13:16':
+    texto: E esta, que é filha de Abraão e que Satanás prendeu durante dezoito anos, não devia ser libertada
+      desta prisão no dia de sábado?”
+    status: ia-sem-revisao
+  '13:17':
+    texto: Enquanto ele dizia isso, todos os seus adversários ficaram envergonhados, e toda a multidão
+      se alegrava com todas as coisas gloriosas que ele fazia.
+    status: ia-sem-revisao
+  '13:18':
+    texto: 'Dizia, pois: “A que é semelhante o reino de Deus, e a que o compararei?'
+    status: ia-sem-revisao
+  '13:19':
+    texto: É semelhante a um grão de mostarda que um homem tomou e lançou na sua horta; cresceu, tornou-se
+      árvore, e as aves do céu fizeram ninho nos seus ramos.”
+    status: ia-sem-revisao
+  '13:20':
+    texto: 'E disse de novo: “A que compararei o reino de Deus?'
+    status: ia-sem-revisao
+  '13:21':
+    texto: É semelhante ao fermento que uma mulher tomou e escondeu em três medidas de farinha, até que
+      tudo ficou fermentado.”
+    status: ia-sem-revisao
+  '13:22':
+    texto: Percorria cidades e aldeias, ensinando e caminhando para Jerusalém.
+    status: ia-sem-revisao
+  '13:23':
+    texto: 'Alguém lhe disse: “Senhor, são poucos os que se salvam?” Ele lhes disse:'
+    status: ia-sem-revisao
+  '13:24':
+    texto: “Esforçai-vos por entrar pela porta estreita, porque muitos, digo-vos, procurarão entrar e
+      não conseguirão,
+    status: ia-sem-revisao
+  '13:25':
+    texto: 'Depois que o dono da casa se levantar e fechar a porta, e começardes a ficar do lado de fora
+      e a bater à porta, dizendo: ‘Senhor, abre-nos’, ele responderá: ‘Não sei de onde sois.’'
+    status: ia-sem-revisao
+  '13:26':
+    texto: 'Então começareis a dizer: ‘Comemos e bebemos diante de ti, e ensinaste nas nossas praças.’'
+    status: ia-sem-revisao
+  '13:27':
+    texto: 'Mas ele dirá: ‘Não sei de onde sois; afastai-vos de mim, todos vós, que praticais a injustiça.’'
+    status: ia-sem-revisao
+  '13:28':
+    texto: Ali haverá choro e ranger de dentes, quando virdes Abraão, Isaac, Jacó e todos os profetas
+      no reino de Deus, e vós sendo lançados fora.
+    status: ia-sem-revisao
+  '13:29':
+    texto: E virão do oriente e do ocidente, do norte e do sul, e se reclinarão à mesa no reino de Deus.
+    status: ia-sem-revisao
+  '13:30':
+    texto: E eis que há últimos que serão primeiros, e há primeiros que serão últimos.”
+    status: ia-sem-revisao
+  '13:31':
+    texto: 'Naquela mesma hora, aproximaram-se alguns fariseus, dizendo-lhe: “Sai e vai embora daqui,
+      porque Herodes quer matar-te.”'
+    status: ia-sem-revisao
+  '13:32':
+    texto: 'Ele lhes disse: “Ide dizer a essa raposa: ‘Eis que expulso demônios e realizo curas hoje e
+      amanhã, e no terceiro dia terminarei.’'
+    status: ia-sem-revisao
+  '13:33':
+    texto: Mas devo seguir o meu caminho hoje, amanhã e depois, porque não convém que um profeta morra
+      fora de Jerusalém.”
+    status: ia-sem-revisao
+  '13:34':
+    texto: “Jerusalém, Jerusalém, que matas os profetas e apedrejas os que te foram enviados! Quantas
+      vezes quis reunir os teus filhos, como a galinha reúne a sua ninhada debaixo das asas, e não quisestes!
+    status: ia-sem-revisao
+  '13:35':
+    texto: 'Eis que a vossa casa vos é deixada. Digo-vos que não me vereis até que venha o tempo em que
+      digais: ‘Bendito o que vem em nome do Senhor.’”'
+    status: ia-sem-revisao
+  '14:1':
+    texto: Aconteceu que, tendo entrado num sábado na casa de um dos chefes dos fariseus para comer, eles
+      o observavam.
+    status: ia-sem-revisao
+  '14:2':
+    texto: E eis que diante dele estava um homem hidrópico.
+    status: ia-sem-revisao
+  '14:3':
+    texto: 'Jesus, tomando a palavra, disse aos doutores da Lei e aos fariseus: “É permitido curar no
+      sábado ou não?”'
+    status: ia-sem-revisao
+  '14:4':
+    texto: Eles calaram-se. Então, tomando-o, curou-o e o despediu.
+    status: ia-sem-revisao
+  '14:5':
+    texto: 'E disse-lhes: “Quem de vós, se o seu filho ou o seu boi cair num poço, não o tira logo, em
+      dia de sábado?”'
+    status: ia-sem-revisao
+  '14:6':
+    texto: E não puderam replicar a isso.
+    status: ia-sem-revisao
+  '14:7':
+    texto: 'Observando como os convidados escolhiam os primeiros lugares, contou-lhes uma parábola, dizendo:'
+    status: ia-sem-revisao
+  '14:8':
+    texto: “Quando fores convidado por alguém para um casamento, não te ponhas no primeiro lugar, para
+      que não aconteça que haja um convidado mais digno do que tu
+    status: ia-sem-revisao
+  '14:9':
+    texto: 'E, vindo aquele que convidou a ti e a ele, te diga: ‘Dá o lugar a este’, e então, envergonhado,
+      tenhas de ocupar o último lugar.'
+    status: ia-sem-revisao
+  '14:10':
+    texto: 'Mas, quando fores convidado, vai e senta-te no último lugar, para que, quando vier o que te
+      convidou, te diga: ‘Amigo, sobe para mais perto’; então terás honra diante de todos os que estiverem
+      à mesa contigo.'
+    status: ia-sem-revisao
+  '14:11':
+    texto: Pois todo aquele que se exalta será humilhado, e o que se humilha será exaltado.”
+    status: ia-sem-revisao
+  '14:12':
+    texto: 'Dizia também ao que o convidara: “Quando deres um almoço ou um jantar, não chames os teus
+      amigos, nem os teus irmãos, nem os teus parentes, nem vizinhos ricos, para que também eles não te
+      convidem e isso te seja retribuído.'
+    status: ia-sem-revisao
+  '14:13':
+    texto: Mas, quando deres um banquete, convida pobres, aleijados, coxos, cegos;
+    status: ia-sem-revisao
+  '14:14':
+    texto: E serás bem-aventurado, porque não têm como retribuir-te; pois te será retribuído na ressurreição
+      dos justos.”
+    status: ia-sem-revisao
+  '14:15':
+    texto: 'Ouvindo isso, um dos que estavam à mesa lhe disse: “Bem-aventurado quem comer pão no reino
+      de Deus.”'
+    status: ia-sem-revisao
+  '14:16':
+    texto: 'Ele lhe disse: “Um homem preparava um grande banquete e convidou muitos,'
+    status: ia-sem-revisao
+  '14:17':
+    texto: 'E, na hora do banquete, enviou o seu servo para dizer aos convidados: ‘Vinde, pois já está
+      tudo pronto.’'
+    status: ia-sem-revisao
+  '14:18':
+    texto: 'E todos, um a um, começaram a pedir dispensa. O primeiro lhe disse: ‘Comprei um campo e preciso
+      ir vê-lo; peço-te, tem-me por dispensado.’'
+    status: ia-sem-revisao
+  '14:19':
+    texto: 'Outro disse: ‘Comprei cinco juntas de bois e vou experimentá-las; peço-te, tem-me por dispensado.’'
+    status: ia-sem-revisao
+  '14:20':
+    texto: 'Outro disse: ‘Casei-me e por isso não posso ir.’'
+    status: ia-sem-revisao
+  '14:21':
+    texto: 'O servo, voltando, contou isso ao seu senhor. Então o dono da casa, irado, disse ao seu servo:
+      ‘Sai depressa pelas praças e ruas da cidade e traze aqui os pobres, os aleijados, os cegos e os
+      coxos.’'
+    status: ia-sem-revisao
+  '14:22':
+    texto: 'O servo disse: ‘Senhor, foi feito o que ordenaste, e ainda há lugar.’'
+    status: ia-sem-revisao
+  '14:23':
+    texto: 'O senhor disse ao servo: ‘Sai pelos caminhos e cercas e obriga-os a entrar, para que a minha
+      casa se encha;'
+    status: ia-sem-revisao
+  '14:24':
+    texto: Pois eu vos digo que nenhum daqueles homens que foram convidados provará o meu banquete.’”
+    status: ia-sem-revisao
+  '14:25':
+    texto: 'Grandes multidões iam com ele, e, voltando-se, disse-lhes:'
+    status: ia-sem-revisao
+  '14:26':
+    texto: “Se alguém vem a mim e não odeia seu pai, sua mãe, sua mulher, seus filhos, seus irmãos e suas
+      irmãs, e até a sua própria vida, não pode ser meu discípulo.
+    status: ia-sem-revisao
+  '14:27':
+    texto: Quem não carrega a sua cruz e vem após mim não pode ser meu discípulo.
+    status: ia-sem-revisao
+  '14:28':
+    texto: Pois qual de vós, querendo construir uma torre, não se senta primeiro para calcular a despesa,
+      se tem com que terminá-la?
+    status: ia-sem-revisao
+  '14:29':
+    texto: Para que não suceda que, tendo posto o alicerce e não podendo acabar, todos os que o veem comecem
+      a zombar dele,
+    status: ia-sem-revisao
+  '14:30':
+    texto: 'Dizendo: ‘Este homem começou a construir e não pôde terminar.’'
+    status: ia-sem-revisao
+  '14:31':
+    texto: Ou qual rei, ao sair para guerrear contra outro rei, não se senta primeiro para deliberar se
+      com dez mil homens poderá enfrentar o que vem contra ele com vinte mil?
+    status: ia-sem-revisao
+  '14:32':
+    texto: Se não, enquanto o outro ainda está longe, envia uma delegação e pede condições de paz.
+    status: ia-sem-revisao
+  '14:33':
+    texto: Assim, pois, qualquer de vós que não renunciar a tudo o que possui não pode ser meu discípulo.
+    status: ia-sem-revisao
+  '14:34':
+    texto: Bom é o sal; mas, se até o sal perder o sabor, com que será temperado?
+    status: ia-sem-revisao
+  '14:35':
+    texto: Não serve nem para a terra nem para o esterco; lançam-no fora. Quem tem ouvidos para ouvir,
+      ouça.”
+    status: ia-sem-revisao
+  '15:1':
+    texto: Aproximavam-se dele todos os publicanos e pecadores para o ouvir.
+    status: ia-sem-revisao
+  '15:2':
+    texto: 'E os fariseus e os escribas murmuravam, dizendo: “Este acolhe pecadores e come com eles.”'
+    status: ia-sem-revisao
+  '15:3':
+    texto: 'Ele lhes contou esta parábola, dizendo:'
+    status: ia-sem-revisao
+  '15:4':
+    texto: “Qual de vós, tendo cem ovelhas e perdendo uma delas, não deixa as noventa e nove no deserto
+      e vai atrás da que se perdeu até encontrá-la?
+    status: ia-sem-revisao
+  '15:5':
+    texto: E, quando a encontra, põe-na sobre os ombros, alegre,
+    status: ia-sem-revisao
+  '15:6':
+    texto: 'E, chegando a casa, reúne os amigos e vizinhos, dizendo-lhes: ‘Alegrai-vos comigo, porque
+      encontrei a minha ovelha perdida.’'
+    status: ia-sem-revisao
+  '15:7':
+    texto: Digo-vos que assim haverá mais alegria no céu por um só pecador que se converte do que por
+      noventa e nove justos que não precisam de conversão.
+    status: ia-sem-revisao
+  '15:8':
+    texto: Ou qual mulher, tendo dez dracmas, se perder uma dracma, não acende uma lâmpada, varre a casa
+      e procura com cuidado até encontrá-la?
+    status: ia-sem-revisao
+  '15:9':
+    texto: 'E, quando a encontra, reúne as amigas e vizinhas, dizendo: ‘Alegrai-vos comigo, porque encontrei
+      a dracma que perdera.’'
+    status: ia-sem-revisao
+  '15:10':
+    texto: Assim, digo-vos, há alegria diante dos anjos de Deus por um só pecador que se converte.”
+    status: ia-sem-revisao
+  '15:11':
+    texto: 'Disse ainda: “Um homem tinha dois filhos.'
+    status: ia-sem-revisao
+  '15:12':
+    texto: 'O mais novo disse ao pai: ‘Pai, dá-me a parte da herança que me cabe.’ E ele repartiu entre
+      eles os bens.'
+    status: ia-sem-revisao
+  '15:13':
+    texto: Poucos dias depois, o filho mais novo, juntando tudo, partiu para uma terra distante e ali
+      dissipou os seus bens, vivendo dissolutamente.
+    status: ia-sem-revisao
+  '15:14':
+    texto: Depois de gastar tudo, sobreveio àquela terra uma grande fome, e ele começou a passar necessidade.
+    status: ia-sem-revisao
+  '15:15':
+    texto: Foi, então, e ligou-se a um dos cidadãos daquela terra, que o mandou para os seus campos apascentar
+      porcos;
+    status: ia-sem-revisao
+  '15:16':
+    texto: E desejava encher o estômago com as alfarrobas que os porcos comiam, e ninguém lhe dava nada.
+    status: ia-sem-revisao
+  '15:17':
+    texto: 'Caindo em si, disse: ‘Quantos empregados de meu pai têm pão em abundância, e eu aqui morro
+      de fome!'
+    status: ia-sem-revisao
+  '15:18':
+    texto: 'Levantar-me-ei, irei ter com meu pai e lhe direi: Pai, pequei contra o céu e diante de ti;'
+    status: ia-sem-revisao
+  '15:19':
+    texto: Já não sou digno de ser chamado teu filho; trata-me como a um dos teus empregados.’
+    status: ia-sem-revisao
+  '15:20':
+    texto: Levantando-se, foi ter com seu pai. Ainda estava longe, quando seu pai o viu, teve compaixão,
+      correu, lançou-se-lhe ao pescoço e o beijou.
+    status: ia-sem-revisao
+  '15:21':
+    texto: 'O filho lhe disse: ‘Pai, pequei contra o céu e diante de ti; já não sou digno de ser chamado
+      teu filho.’'
+    status: ia-sem-revisao
+  '15:22':
+    texto: 'O pai, porém, disse aos seus servos: ‘Depressa, trazei a melhor veste e vesti-lha, e dai-lhe
+      um anel para a mão e sandálias para os pés;'
+    status: ia-sem-revisao
+  '15:23':
+    texto: Trazei o novilho cevado, matai-o, comamos e festejemos,
+    status: ia-sem-revisao
+  '15:24':
+    texto: Porque este meu filho estava morto e voltou a viver, estava perdido e foi encontrado.’ E começaram
+      a festejar.
+    status: ia-sem-revisao
+  '15:25':
+    texto: O filho mais velho estava no campo; ao voltar, ao aproximar-se da casa, ouviu música e danças,
+    status: ia-sem-revisao
+  '15:26':
+    texto: E, chamando um dos servos, perguntou o que era aquilo.
+    status: ia-sem-revisao
+  '15:27':
+    texto: 'Ele lhe disse: ‘Teu irmão voltou, e teu pai matou o novilho cevado, porque o recuperou são
+      e salvo.’'
+    status: ia-sem-revisao
+  '15:28':
+    texto: Ele irou-se e não queria entrar. O pai, saindo, rogava-lhe.
+    status: ia-sem-revisao
+  '15:29':
+    texto: 'Ele, respondendo, disse ao pai: ‘Eis que há tantos anos te sirvo e nunca transgredi um mandamento
+      teu, e nunca me deste um cabrito para festejar com os meus amigos;'
+    status: ia-sem-revisao
+  '15:30':
+    texto: Mas, quando veio este teu filho, que devorou os teus bens com prostitutas, mataste para ele
+      o novilho cevado.’
+    status: ia-sem-revisao
+  '15:31':
+    texto: 'Ele lhe disse: ‘Filho, tu estás sempre comigo, e tudo o que é meu é teu;'
+    status: ia-sem-revisao
+  '15:32':
+    texto: Mas era preciso festejar e alegrar-se, porque este teu irmão estava morto e voltou a viver,
+      estava perdido e foi encontrado.’”
+    status: ia-sem-revisao
+  '16:1':
+    texto: 'Dizia também aos discípulos: “Havia um homem rico que tinha um administrador, e este foi acusado
+      diante dele de dissipar os seus bens.'
+    status: ia-sem-revisao
+  '16:2':
+    texto: 'Chamando-o, disse-lhe: ‘Que é isto que ouço de ti? Presta contas da tua administração, pois
+      já não podes administrar.’'
+    status: ia-sem-revisao
+  '16:3':
+    texto: 'O administrador disse consigo: ‘Que farei, já que o meu senhor me tira a administração? Cavar
+      não tenho força; mendigar, tenho vergonha;'
+    status: ia-sem-revisao
+  '16:4':
+    texto: Já sei o que farei, para que, quando for afastado da administração, me recebam em suas casas.’
+    status: ia-sem-revisao
+  '16:5':
+    texto: 'E, chamando cada um dos devedores do seu senhor, disse ao primeiro: ‘Quanto deves ao meu senhor?’'
+    status: ia-sem-revisao
+  '16:6':
+    texto: 'Ele disse: ‘Cem barris de azeite.’ Disse-lhe: ‘Toma o teu recibo, senta-te depressa e escreve
+      cinquenta.’'
+    status: ia-sem-revisao
+  '16:7':
+    texto: 'Depois disse a outro: ‘E tu, quanto deves?’ Ele disse: ‘Cem medidas de trigo.’ Disse-lhe:
+      ‘Toma o teu recibo e escreve oitenta.’'
+    status: ia-sem-revisao
+  '16:8':
+    texto: O senhor elogiou o administrador desonesto, porque agira com prudência; pois os filhos deste
+      mundo são mais prudentes com os da sua geração do que os filhos da luz.
+    status: ia-sem-revisao
+  '16:9':
+    texto: 'E eu vos digo: fazei amigos para vós com o dinheiro da injustiça, para que, quando ele faltar,
+      vos recebam nas moradas eternas.'
+    status: ia-sem-revisao
+  '16:10':
+    texto: Quem é fiel no pouco é fiel também no muito, e quem é injusto no pouco é injusto também no
+      muito.
+    status: ia-sem-revisao
+  '16:11':
+    texto: Se, pois, não fostes fiéis no dinheiro injusto, quem vos confiará o verdadeiro?
+    status: ia-sem-revisao
+  '16:12':
+    texto: E, se não fostes fiéis no alheio, quem vos dará o que é vosso?
+    status: ia-sem-revisao
+  '16:13':
+    texto: Nenhum servo pode servir a dois senhores; pois ou odiará um e amará o outro, ou se apegará
+      a um e desprezará o outro. Não podeis servir a Deus e a Mamon.”
+    status: ia-sem-revisao
+  '16:14':
+    texto: Os fariseus, que eram amigos do dinheiro, ouviam tudo isso e zombavam dele.
+    status: ia-sem-revisao
+  '16:15':
+    texto: 'Ele lhes disse: “Vós sois os que vos justificais diante dos homens, mas Deus conhece os vossos
+      corações; pois o que é elevado entre os homens é abominação diante de Deus.'
+    status: ia-sem-revisao
+  '16:16':
+    texto: A Lei e os Profetas vão até João; desde então, anuncia-se o evangelho do reino de Deus, e todos
+      usam de violência para entrar nele.
+    status: ia-sem-revisao
+  '16:17':
+    texto: É mais fácil passarem o céu e a terra do que cair um só traço da Lei.
+    status: ia-sem-revisao
+  '16:18':
+    texto: Todo aquele que repudia a sua mulher e se casa com outra comete adultério, e quem se casa com
+      a mulher repudiada pelo marido comete adultério.
+    status: ia-sem-revisao
+  '16:19':
+    texto: Havia um homem rico que se vestia de púrpura e de linho fino e se banqueteava esplendidamente
+      todos os dias.
+    status: ia-sem-revisao
+  '16:20':
+    texto: Um pobre chamado Lázaro jazia à sua porta, coberto de feridas,
+    status: ia-sem-revisao
+  '16:21':
+    texto: Desejando saciar-se com o que caía da mesa do rico; até os cães vinham lamber-lhe as feridas.
+    status: ia-sem-revisao
+  '16:22':
+    texto: Aconteceu que o pobre morreu e foi levado pelos anjos para o seio de Abraão; morreu também
+      o rico e foi sepultado.
+    status: ia-sem-revisao
+  '16:23':
+    texto: No Hades, levantando os olhos, em tormentos, viu de longe Abraão e Lázaro no seu seio.
+    status: ia-sem-revisao
+  '16:24':
+    texto: 'Gritando, disse: ‘Pai Abraão, tem compaixão de mim e envia Lázaro para que molhe a ponta do
+      dedo na água e me refresque a língua, porque estou atormentado nesta chama.’'
+    status: ia-sem-revisao
+  '16:25':
+    texto: 'Abraão disse: ‘Filho, lembra-te de que recebeste os teus bens em vida, e Lázaro igualmente
+      os males; agora ele é consolado aqui, e tu és atormentado.'
+    status: ia-sem-revisao
+  '16:26':
+    texto: E, além de tudo isso, entre nós e vós há um grande abismo, de modo que os que querem passar
+      daqui para vós não podem, nem de lá passar para nós.’
+    status: ia-sem-revisao
+  '16:27':
+    texto: 'Ele disse: ‘Peço-te, então, pai, que o envies à casa de meu pai,'
+    status: ia-sem-revisao
+  '16:28':
+    texto: Pois tenho cinco irmãos, para que lhes dê testemunho, a fim de que não venham também eles a
+      este lugar de tormento.’
+    status: ia-sem-revisao
+  '16:29':
+    texto: 'Abraão disse: ‘Têm Moisés e os Profetas; ouçam-nos.’'
+    status: ia-sem-revisao
+  '16:30':
+    texto: 'Ele disse: ‘Não, pai Abraão; mas, se alguém dentre os mortos for ter com eles, converter-se-ão.’'
+    status: ia-sem-revisao
+  '16:31':
+    texto: 'Disse-lhe: ‘Se não ouvem Moisés e os Profetas, tampouco se deixarão persuadir, ainda que alguém
+      ressuscite dentre os mortos.’”'
+    status: ia-sem-revisao
+  '17:1':
+    texto: 'Disse aos seus discípulos: “É impossível que não venham escândalos, mas ai daquele por quem
+      vêm!'
+    status: ia-sem-revisao
+  '17:2':
+    texto: Melhor lhe seria que lhe pendurassem ao pescoço uma pedra de moinho e o lançassem ao mar do
+      que escandalizar um destes pequeninos.
+    status: ia-sem-revisao
+  '17:3':
+    texto: Cuidai de vós mesmos. Se o teu irmão pecar, repreende-o; e, se se arrepender, perdoa-lhe.
+    status: ia-sem-revisao
+  '17:4':
+    texto: 'E, se pecar contra ti sete vezes ao dia e sete vezes voltar a ti, dizendo: ‘Arrependo-me’,
+      perdoar-lhe-ás.”'
+    status: ia-sem-revisao
+  '17:5':
+    texto: 'Os apóstolos disseram ao Senhor: “Aumenta-nos a fé.”'
+    status: ia-sem-revisao
+  '17:6':
+    texto: 'O Senhor disse: “Se tivésseis fé como um grão de mostarda, diríeis a esta amoreira: ‘Arranca-te
+      e planta-te no mar’, e ela vos obedeceria.”'
+    status: ia-sem-revisao
+  '17:7':
+    texto: '“Quem de vós, tendo um servo que lavra ou apascenta, lhe dirá, quando ele voltar do campo:
+      ‘Vem logo e senta-te à mesa’?'
+    status: ia-sem-revisao
+  '17:8':
+    texto: 'Não lhe dirá antes: ‘Prepara-me o jantar, cinge-te e serve-me até que eu coma e beba; depois
+      comerás e beberás tu’?'
+    status: ia-sem-revisao
+  '17:9':
+    texto: Acaso agradece ao servo por ter feito o que lhe foi mandado?
+    status: ia-sem-revisao
+  '17:10':
+    texto: 'Assim também vós, quando tiverdes feito tudo o que vos foi mandado, dizei: ‘Somos servos inúteis;
+      fizemos o que devíamos fazer.’”'
+    status: ia-sem-revisao
+  '17:11':
+    texto: Aconteceu que, a caminho de Jerusalém, ele passava pelo meio da Samaria e da Galileia.
+    status: ia-sem-revisao
+  '17:12':
+    texto: Ao entrar numa aldeia, vieram-lhe ao encontro dez homens leprosos, que pararam a distância,
+    status: ia-sem-revisao
+  '17:13':
+    texto: 'E levantaram a voz, dizendo: “Jesus, Mestre, tem compaixão de nós.”'
+    status: ia-sem-revisao
+  '17:14':
+    texto: 'Vendo-os, disse-lhes: “Ide mostrar-vos aos sacerdotes.” E aconteceu que, enquanto iam, ficaram
+      purificados.'
+    status: ia-sem-revisao
+  '17:15':
+    texto: Um deles, vendo que estava curado, voltou, glorificando a Deus em alta voz,
+    status: ia-sem-revisao
+  '17:16':
+    texto: E caiu com o rosto em terra aos pés de Jesus, agradecendo-lhe; e este era samaritano.
+    status: ia-sem-revisao
+  '17:17':
+    texto: 'Jesus, respondendo, disse: “Não foram dez os purificados? E os nove, onde estão?'
+    status: ia-sem-revisao
+  '17:18':
+    texto: Não se achou quem voltasse para dar glória a Deus, a não ser este estrangeiro?”
+    status: ia-sem-revisao
+  '17:19':
+    texto: 'E disse-lhe: “Levanta-te e vai; a tua fé te salvou.”'
+    status: ia-sem-revisao
+  '17:20':
+    texto: 'Interrogado pelos fariseus sobre quando viria o reino de Deus, respondeu-lhes: “O reino de
+      Deus não vem de modo visível,'
+    status: ia-sem-revisao
+  '17:21':
+    texto: 'Nem dirão: ‘Eis aqui’ ou: ‘Ali’; pois eis que o reino de Deus está no meio de vós.”'
+    status: ia-sem-revisao
+  '17:22':
+    texto: 'Disse aos discípulos: “Virão dias em que desejareis ver um dos dias do Filho do Homem e não
+      o vereis.'
+    status: ia-sem-revisao
+  '17:23':
+    texto: 'Dir-vos-ão: ‘Ei-lo ali’, ‘Ei-lo aqui’; não vades nem os sigais.'
+    status: ia-sem-revisao
+  '17:24':
+    texto: Pois, como o relâmpago, ao faiscar, ilumina de um extremo a outro do céu, assim será o Filho
+      do Homem no seu dia.
+    status: ia-sem-revisao
+  '17:25':
+    texto: Antes, porém, é necessário que ele sofra muito e seja rejeitado por esta geração.
+    status: ia-sem-revisao
+  '17:26':
+    texto: 'Como aconteceu nos dias de Noé, assim será nos dias do Filho do Homem:'
+    status: ia-sem-revisao
+  '17:27':
+    texto: Comiam, bebiam, casavam-se e davam-se em casamento, até o dia em que Noé entrou na arca; veio
+      o dilúvio e destruiu a todos.
+    status: ia-sem-revisao
+  '17:28':
+    texto: 'Do mesmo modo, como aconteceu nos dias de Ló: comiam, bebiam, compravam, vendiam, plantavam,
+      construíam;'
+    status: ia-sem-revisao
+  '17:29':
+    texto: Mas, no dia em que Ló saiu de Sodoma, choveu do céu fogo e enxofre e destruiu a todos.
+    status: ia-sem-revisao
+  '17:30':
+    texto: Assim será no dia em que o Filho do Homem se revelar.
+    status: ia-sem-revisao
+  '17:31':
+    texto: Naquele dia, quem estiver no terraço, tendo os seus pertences em casa, não desça para pegá-los;
+      e quem estiver no campo igualmente não volte atrás.
+    status: ia-sem-revisao
+  '17:32':
+    texto: Lembrai-vos da mulher de Ló.
+    status: ia-sem-revisao
+  '17:33':
+    texto: Quem procurar preservar a sua vida a perderá, e quem a perder a conservará.
+    status: ia-sem-revisao
+  '17:34':
+    texto: 'Digo-vos: naquela noite estarão dois numa cama; um será levado e o outro deixado;'
+    status: ia-sem-revisao
+  '17:35':
+    texto: Duas estarão moendo juntas; uma será levada e a outra deixada.”
+    status: ia-sem-revisao
+  '17:37':
+    texto: 'Eles, respondendo, lhe disseram: “Onde, Senhor?” Ele lhes disse: “Onde estiver o corpo, ali
+      também se reunirão os abutres.”'
+    status: ia-sem-revisao
+  '18:1':
+    texto: Contou-lhes uma parábola sobre a necessidade de orar sempre, sem desanimar,
+    status: ia-sem-revisao
+  '18:2':
+    texto: 'Dizendo: “Havia numa cidade um juiz que não temia a Deus nem respeitava homem algum.'
+    status: ia-sem-revisao
+  '18:3':
+    texto: 'Havia naquela cidade uma viúva que vinha a ele, dizendo: ‘Faze-me justiça contra o meu adversário.’'
+    status: ia-sem-revisao
+  '18:4':
+    texto: 'Durante algum tempo ele não quis; depois disse consigo: ‘Ainda que eu não tema a Deus nem
+      respeite homem algum,'
+    status: ia-sem-revisao
+  '18:5':
+    texto: Como esta viúva me importuna, far-lhe-ei justiça, para que, vindo sempre, não acabe me esgotando.’”
+    status: ia-sem-revisao
+  '18:6':
+    texto: 'O Senhor disse: “Ouvi o que diz o juiz injusto.'
+    status: ia-sem-revisao
+  '18:7':
+    texto: E Deus não fará justiça aos seus escolhidos, que clamam a ele dia e noite, e se mostrará lento
+      para com eles?
+    status: ia-sem-revisao
+  '18:8':
+    texto: Digo-vos que lhes fará justiça sem demora. Contudo, quando vier o Filho do Homem, achará fé
+      sobre a terra?”
+    status: ia-sem-revisao
+  '18:9':
+    texto: 'Disse também esta parábola a alguns que confiavam em si mesmos por serem justos e desprezavam
+      os outros:'
+    status: ia-sem-revisao
+  '18:10':
+    texto: '“Dois homens subiram ao templo para orar: um era fariseu, e o outro, publicano.'
+    status: ia-sem-revisao
+  '18:11':
+    texto: 'O fariseu, de pé, orava assim consigo: ‘Ó Deus, eu te agradeço porque não sou como os demais
+      homens, ladrões, injustos, adúlteros, nem como este publicano;'
+    status: ia-sem-revisao
+  '18:12':
+    texto: Jejuo duas vezes por semana, pago o dízimo de tudo o que ganho.’
+    status: ia-sem-revisao
+  '18:13':
+    texto: 'O publicano, de longe, não queria sequer levantar os olhos ao céu, mas batia no peito, dizendo:
+      ‘Ó Deus, tem piedade de mim, pecador.’'
+    status: ia-sem-revisao
+  '18:14':
+    texto: 'Digo-vos: este desceu justificado para casa, e não aquele; porque todo aquele que se exalta
+      será humilhado, e o que se humilha será exaltado.”'
+    status: ia-sem-revisao
+  '18:15':
+    texto: Traziam-lhe também os bebês para que os tocasse; os discípulos, vendo, repreendiam-nos.
+    status: ia-sem-revisao
+  '18:16':
+    texto: 'Jesus, porém, chamou-os, dizendo: “Deixai vir a mim as crianças e não as impeçais; pois dos
+      que são como elas é o reino de Deus.'
+    status: ia-sem-revisao
+  '18:17':
+    texto: 'Em verdade vos digo: quem não receber o reino de Deus como uma criança de modo algum entrará
+      nele.”'
+    status: ia-sem-revisao
+  '18:18':
+    texto: 'Um chefe o interrogou, dizendo: “Bom Mestre, que devo fazer para herdar a vida eterna?”'
+    status: ia-sem-revisao
+  '18:19':
+    texto: 'Jesus lhe disse: “Por que me chamas bom? Ninguém é bom, a não ser um só: Deus.'
+    status: ia-sem-revisao
+  '18:20':
+    texto: 'Conheces os mandamentos: ‘Não cometerás adultério, não matarás, não furtarás, não darás falso
+      testemunho, honra teu pai e tua mãe.’”'
+    status: ia-sem-revisao
+  '18:21':
+    texto: 'Ele disse: “Tudo isso eu guardei desde a juventude.”'
+    status: ia-sem-revisao
+  '18:22':
+    texto: 'Ouvindo isso, Jesus lhe disse: “Ainda te falta uma coisa: vende tudo o que tens e distribui
+      aos pobres, e terás um tesouro nos céus; depois vem e segue-me.”'
+    status: ia-sem-revisao
+  '18:23':
+    texto: Ouvindo isso, ele ficou muito triste, pois era muito rico.
+    status: ia-sem-revisao
+  '18:24':
+    texto: 'Vendo-o, Jesus disse: “Com que dificuldade entram no reino de Deus os que têm riquezas!'
+    status: ia-sem-revisao
+  '18:25':
+    texto: Pois é mais fácil um camelo passar pelo buraco de uma agulha do que um rico entrar no reino
+      de Deus.”
+    status: ia-sem-revisao
+  '18:26':
+    texto: 'Os que ouviram disseram: “E quem pode ser salvo?”'
+    status: ia-sem-revisao
+  '18:27':
+    texto: 'Ele disse: “O que é impossível para os homens é possível para Deus.”'
+    status: ia-sem-revisao
+  '18:28':
+    texto: 'Pedro disse: “Eis que nós deixamos o que era nosso e te seguimos.”'
+    status: ia-sem-revisao
+  '18:29':
+    texto: 'Ele lhes disse: “Em verdade vos digo: não há ninguém que tenha deixado casa, mulher, irmãos,
+      pais ou filhos por causa do reino de Deus,'
+    status: ia-sem-revisao
+  '18:30':
+    texto: Que não receba muito mais neste tempo e, no mundo que vem, a vida eterna.”
+    status: ia-sem-revisao
+  '18:31':
+    texto: 'Tomando consigo os Doze, disse-lhes: “Eis que subimos a Jerusalém, e se cumprirá tudo o que
+      foi escrito pelos profetas sobre o Filho do Homem;'
+    status: ia-sem-revisao
+  '18:32':
+    texto: Pois será entregue aos gentios, será escarnecido, insultado e cuspido,
+    status: ia-sem-revisao
+  '18:33':
+    texto: E, depois de o açoitarem, o matarão, e ao terceiro dia ressuscitará.”
+    status: ia-sem-revisao
+  '18:34':
+    texto: Eles não entenderam nada disso; esta palavra lhes ficava oculta, e não percebiam o que se dizia.
+    status: ia-sem-revisao
+  '18:35':
+    texto: Aconteceu que, ao aproximar-se ele de Jericó, um cego estava sentado à beira do caminho, mendigando.
+    status: ia-sem-revisao
+  '18:36':
+    texto: Ouvindo a multidão passar, perguntou o que era aquilo.
+    status: ia-sem-revisao
+  '18:37':
+    texto: Anunciaram-lhe que Jesus, o Nazareno, passava.
+    status: ia-sem-revisao
+  '18:38':
+    texto: 'Ele gritou, dizendo: “Jesus, Filho de Davi, tem compaixão de mim!”'
+    status: ia-sem-revisao
+  '18:39':
+    texto: 'Os que iam à frente o repreendiam para que se calasse; ele, porém, gritava ainda mais: “Filho
+      de Davi, tem compaixão de mim!”'
+    status: ia-sem-revisao
+  '18:40':
+    texto: 'Jesus, parando, mandou que lho trouxessem. Quando ele se aproximou, perguntou-lhe:'
+    status: ia-sem-revisao
+  '18:41':
+    texto: '“Que queres que eu te faça?” Ele disse: “Senhor, que eu veja.”'
+    status: ia-sem-revisao
+  '18:42':
+    texto: 'Jesus lhe disse: “Vê; a tua fé te salvou.”'
+    status: ia-sem-revisao
+  '18:43':
+    texto: Imediatamente ele viu e o seguia, glorificando a Deus. Todo o povo, vendo isso, deu louvor
+      a Deus.
+    status: ia-sem-revisao
+  '19:1':
+    texto: Entrando em Jericó, ia atravessando a cidade.
+    status: ia-sem-revisao
+  '19:2':
+    texto: E eis que um homem chamado Zaqueu, chefe dos publicanos e rico,
+    status: ia-sem-revisao
+  '19:3':
+    texto: Procurava ver quem era Jesus, mas não conseguia, por causa da multidão, porque era de pequena
+      estatura.
+    status: ia-sem-revisao
+  '19:4':
+    texto: Correndo adiante, subiu a um sicômoro para vê-lo, porque ele ia passar por ali.
+    status: ia-sem-revisao
+  '19:5':
+    texto: 'Quando Jesus chegou ao lugar, levantando os olhos, disse-lhe: “Zaqueu, desce depressa, pois
+      hoje devo ficar em tua casa.”'
+    status: ia-sem-revisao
+  '19:6':
+    texto: Ele desceu depressa e o recebeu com alegria.
+    status: ia-sem-revisao
+  '19:7':
+    texto: 'Vendo isso, todos murmuravam, dizendo: “Foi hospedar-se na casa de um pecador.”'
+    status: ia-sem-revisao
+  '19:8':
+    texto: 'Zaqueu, de pé, disse ao Senhor: “Eis que dou aos pobres, Senhor, a metade dos meus bens; e,
+      se defraudei alguém em algo, restituo quatro vezes mais.”'
+    status: ia-sem-revisao
+  '19:9':
+    texto: 'Jesus lhe disse: “Hoje houve salvação para esta casa, porque também ele é filho de Abraão;'
+    status: ia-sem-revisao
+  '19:10':
+    texto: Pois o Filho do Homem veio buscar e salvar o que estava perdido.”
+    status: ia-sem-revisao
+  '19:11':
+    texto: Ao ouvirem eles isso, ele acrescentou uma parábola, porque estava perto de Jerusalém e eles
+      pensavam que o reino de Deus ia manifestar-se imediatamente.
+    status: ia-sem-revisao
+  '19:12':
+    texto: 'Disse, pois: “Um homem de nobre família partiu para uma terra distante, a fim de receber para
+      si um reino e voltar.'
+    status: ia-sem-revisao
+  '19:13':
+    texto: 'Chamando dez servos seus, deu-lhes dez minas e lhes disse: ‘Negociai até que eu volte.’'
+    status: ia-sem-revisao
+  '19:14':
+    texto: 'Os seus concidadãos, porém, o odiavam e enviaram atrás dele uma delegação, dizendo: ‘Não queremos
+      que este reine sobre nós.’'
+    status: ia-sem-revisao
+  '19:15':
+    texto: Aconteceu que, ao voltar, tendo recebido o reino, mandou chamar aqueles servos a quem dera
+      o dinheiro, para saber quanto tinham ganho negociando.
+    status: ia-sem-revisao
+  '19:16':
+    texto: 'Apresentou-se o primeiro, dizendo: ‘Senhor, a tua mina rendeu dez minas.’'
+    status: ia-sem-revisao
+  '19:17':
+    texto: 'Ele lhe disse: ‘Muito bem, servo bom; porque foste fiel no pouco, tem autoridade sobre dez
+      cidades.’'
+    status: ia-sem-revisao
+  '19:18':
+    texto: 'Veio o segundo, dizendo: ‘A tua mina, Senhor, rendeu cinco minas.’'
+    status: ia-sem-revisao
+  '19:19':
+    texto: 'Disse também a este: ‘Tu também, sê governador de cinco cidades.’'
+    status: ia-sem-revisao
+  '19:20':
+    texto: 'Veio o outro, dizendo: ‘Senhor, aqui está a tua mina, que tive guardada num lenço;'
+    status: ia-sem-revisao
+  '19:21':
+    texto: 'Pois tive medo de ti, porque és um homem severo: levantas o que não puseste e colhes o que
+      não semeaste.’'
+    status: ia-sem-revisao
+  '19:22':
+    texto: 'Disse-lhe: ‘Pela tua própria boca te julgo, servo mau. Sabias que sou um homem severo, que
+      levanto o que não pus e colho o que não semeei?'
+    status: ia-sem-revisao
+  '19:23':
+    texto: Por que, então, não deste o meu dinheiro ao banco? E eu, ao voltar, o teria cobrado com juros.’
+    status: ia-sem-revisao
+  '19:24':
+    texto: 'E disse aos presentes: ‘Tirai-lhe a mina e dai-a ao que tem as dez minas’ —'
+    status: ia-sem-revisao
+  '19:25':
+    texto: 'Disseram-lhe: ‘Senhor, ele já tem dez minas’ —'
+    status: ia-sem-revisao
+  '19:26':
+    texto: ‘Digo-vos que a todo o que tem será dado, mas ao que não tem, até o que tem lhe será tirado.
+    status: ia-sem-revisao
+  '19:27':
+    texto: Quanto a estes meus inimigos, que não queriam que eu reinasse sobre eles, trazei-os aqui e
+      matai-os diante de mim.’”
+    status: ia-sem-revisao
+  '19:28':
+    texto: Dito isto, ia adiante, subindo para Jerusalém.
+    status: ia-sem-revisao
+  '19:29':
+    texto: Quando se aproximou de Betfagé e Betânia, junto ao monte chamado das Oliveiras, enviou dois
+      dos discípulos
+    status: ia-sem-revisao
+  '19:30':
+    texto: 'Dizendo: “Ide à aldeia em frente; ao entrardes nela, encontrareis um jumentinho amarrado,
+      no qual nunca ninguém se sentou; desamarrai-o e trazei-o.'
+    status: ia-sem-revisao
+  '19:31':
+    texto: 'E, se alguém vos perguntar: ‘Por que o desamarrais?’, direis assim: ‘O Senhor precisa dele.’”'
+    status: ia-sem-revisao
+  '19:32':
+    texto: Os enviados foram e encontraram como lhes dissera.
+    status: ia-sem-revisao
+  '19:33':
+    texto: 'Enquanto desamarravam o jumentinho, os seus donos lhes disseram: “Por que desamarrais o jumentinho?”'
+    status: ia-sem-revisao
+  '19:34':
+    texto: 'Eles disseram: “O Senhor precisa dele.”'
+    status: ia-sem-revisao
+  '19:35':
+    texto: Levaram-no a Jesus e, lançando sobre o jumentinho os seus mantos, fizeram Jesus montar.
+    status: ia-sem-revisao
+  '19:36':
+    texto: Enquanto ele avançava, estendiam os seus mantos pelo caminho.
+    status: ia-sem-revisao
+  '19:37':
+    texto: Já perto da descida do monte das Oliveiras, toda a multidão dos discípulos, alegre, começou
+      a louvar a Deus em alta voz por todos os milagres que tinham visto,
+    status: ia-sem-revisao
+  '19:38':
+    texto: 'Dizendo: “Bendito o que vem, o rei, em nome do Senhor! No céu, paz, e glória nas alturas!”'
+    status: ia-sem-revisao
+  '19:39':
+    texto: 'Alguns fariseus da multidão lhe disseram: “Mestre, repreende os teus discípulos.”'
+    status: ia-sem-revisao
+  '19:40':
+    texto: 'Ele, respondendo, disse: “Digo-vos que, se estes se calarem, as pedras gritarão.”'
+    status: ia-sem-revisao
+  '19:41':
+    texto: Quando se aproximou, vendo a cidade, chorou sobre ela,
+    status: ia-sem-revisao
+  '19:42':
+    texto: 'Dizendo: “Se também tu tivesses conhecido, neste dia, o que traz a paz... Mas agora está escondido
+      aos teus olhos.'
+    status: ia-sem-revisao
+  '19:43':
+    texto: Pois virão dias sobre ti em que os teus inimigos te cercarão de trincheiras, te rodearão e
+      te apertarão de todos os lados,
+    status: ia-sem-revisao
+  '19:44':
+    texto: E te arrasarão, a ti e aos teus filhos dentro de ti, e não deixarão em ti pedra sobre pedra,
+      porque não reconheceste o tempo da tua visita.”
+    status: ia-sem-revisao
+  '19:45':
+    texto: Entrando no templo, começou a expulsar os que vendiam,
+    status: ia-sem-revisao
+  '19:46':
+    texto: 'Dizendo-lhes: “Está escrito: ‘A minha casa será casa de oração’, mas vós a fizestes covil
+      de ladrões.”'
+    status: ia-sem-revisao
+  '19:47':
+    texto: Ensinava cada dia no templo; os chefes dos sacerdotes, os escribas e os principais do povo
+      procuravam fazê-lo perecer,
+    status: ia-sem-revisao
+  '19:48':
+    texto: Mas não achavam o que fazer, porque todo o povo, ao ouvi-lo, ficava suspenso dele.
+    status: ia-sem-revisao
+  '20:1':
+    texto: Aconteceu que, num daqueles dias, enquanto ele ensinava o povo no templo e anunciava o evangelho,
+      apresentaram-se os chefes dos sacerdotes e os escribas com os anciãos
+    status: ia-sem-revisao
+  '20:2':
+    texto: 'E lhe disseram: “Dize-nos com que autoridade fazes estas coisas, ou quem é que te deu esta
+      autoridade.”'
+    status: ia-sem-revisao
+  '20:3':
+    texto: 'Respondendo, disse-lhes: “Também eu vos farei uma pergunta; dizei-me:'
+    status: ia-sem-revisao
+  '20:4':
+    texto: O batismo de João era do céu ou dos homens?”
+    status: ia-sem-revisao
+  '20:5':
+    texto: 'Eles raciocinaram entre si, dizendo: “Se dissermos: ‘Do céu’, dirá: ‘Por que não crestes nele?’'
+    status: ia-sem-revisao
+  '20:6':
+    texto: 'Mas, se dissermos: ‘Dos homens’, todo o povo nos apedrejará, pois está convencido de que João
+      era profeta.”'
+    status: ia-sem-revisao
+  '20:7':
+    texto: E responderam que não sabiam de onde era.
+    status: ia-sem-revisao
+  '20:8':
+    texto: 'Jesus lhes disse: “Nem eu vos digo com que autoridade faço estas coisas.”'
+    status: ia-sem-revisao
+  '20:9':
+    texto: 'Começou a dizer ao povo esta parábola: “Um homem plantou uma vinha, arrendou-a a vinhateiros
+      e ausentou-se por muito tempo.'
+    status: ia-sem-revisao
+  '20:10':
+    texto: No tempo oportuno, enviou um servo aos vinhateiros, para que lhe dessem do fruto da vinha;
+      mas os vinhateiros, depois de o espancarem, mandaram-no embora de mãos vazias.
+    status: ia-sem-revisao
+  '20:11':
+    texto: Tornou a enviar outro servo; também a este espancaram, desonraram e mandaram embora de mãos
+      vazias.
+    status: ia-sem-revisao
+  '20:12':
+    texto: Tornou a enviar um terceiro; também a este feriram e expulsaram.
+    status: ia-sem-revisao
+  '20:13':
+    texto: 'Disse então o dono da vinha: ‘Que farei? Enviarei o meu filho amado; talvez a este respeitem.’'
+    status: ia-sem-revisao
+  '20:14':
+    texto: 'Os vinhateiros, vendo-o, raciocinaram entre si, dizendo: ‘Este é o herdeiro; matemo-lo, para
+      que a herança seja nossa.’'
+    status: ia-sem-revisao
+  '20:15':
+    texto: E, lançando-o fora da vinha, mataram-no. Que lhes fará, pois, o dono da vinha?
+    status: ia-sem-revisao
+  '20:16':
+    texto: 'Virá, destruirá estes vinhateiros e dará a vinha a outros.” Ouvindo isso, disseram: “Que isso
+      não aconteça!”'
+    status: ia-sem-revisao
+  '20:17':
+    texto: 'Ele, fixando neles o olhar, disse: “Que significa, então, o que está escrito: ‘A pedra que
+      os construtores rejeitaram tornou-se pedra angular’?'
+    status: ia-sem-revisao
+  '20:18':
+    texto: Todo aquele que cair sobre essa pedra ficará despedaçado; e aquele sobre quem ela cair será
+      esmagado.”
+    status: ia-sem-revisao
+  '20:19':
+    texto: Os escribas e os chefes dos sacerdotes procuraram lançar mão dele naquela mesma hora, mas temeram
+      o povo; pois perceberam que dissera esta parábola contra eles.
+    status: ia-sem-revisao
+  '20:20':
+    texto: Observando-o, enviaram espiões que se fingiam justos, para o apanharem em alguma palavra, a
+      fim de o entregarem à jurisdição e à autoridade do governador.
+    status: ia-sem-revisao
+  '20:21':
+    texto: 'Interrogaram-no, dizendo: “Mestre, sabemos que falas e ensinas com retidão e não fazes acepção
+      de pessoas, mas ensinas com verdade o caminho de Deus:'
+    status: ia-sem-revisao
+  '20:22':
+    texto: É permitido a nós pagar tributo a César ou não?”
+    status: ia-sem-revisao
+  '20:23':
+    texto: 'Percebendo a astúcia deles, disse-lhes:'
+    status: ia-sem-revisao
+  '20:24':
+    texto: '“Mostrai-me um denário; de quem tem a imagem e a inscrição?” Eles disseram: “De César.”'
+    status: ia-sem-revisao
+  '20:25':
+    texto: 'Ele lhes disse: “Dai, pois, a César o que é de César e a Deus o que é de Deus.”'
+    status: ia-sem-revisao
+  '20:26':
+    texto: Não conseguiram apanhá-lo em palavra alguma diante do povo e, admirados com a sua resposta,
+      calaram-se.
+    status: ia-sem-revisao
+  '20:27':
+    texto: Aproximaram-se alguns saduceus, que negam haver ressurreição, e o interrogaram,
+    status: ia-sem-revisao
+  '20:28':
+    texto: 'Dizendo: “Mestre, Moisés nos deixou escrito que, se o irmão de alguém morrer tendo mulher
+      e sem filhos, o irmão dele tome a mulher e dê descendência ao seu irmão.'
+    status: ia-sem-revisao
+  '20:29':
+    texto: Havia, pois, sete irmãos; o primeiro tomou mulher e morreu sem filhos;
+    status: ia-sem-revisao
+  '20:30':
+    texto: E o segundo
+    status: ia-sem-revisao
+  '20:31':
+    texto: E o terceiro a tomaram, e igualmente os sete; não deixaram filhos e morreram;
+    status: ia-sem-revisao
+  '20:32':
+    texto: Por último, morreu também a mulher.
+    status: ia-sem-revisao
+  '20:33':
+    texto: Na ressurreição, pois, de qual deles ela será mulher? Pois os sete a tiveram por mulher.”
+    status: ia-sem-revisao
+  '20:34':
+    texto: 'Jesus lhes disse: “Os filhos deste mundo casam-se e dão-se em casamento;'
+    status: ia-sem-revisao
+  '20:35':
+    texto: Mas os que forem julgados dignos de alcançar o outro mundo e a ressurreição dos mortos nem
+      se casam nem se dão em casamento;
+    status: ia-sem-revisao
+  '20:36':
+    texto: Pois já não podem morrer, porque são como os anjos e são filhos de Deus, sendo filhos da ressurreição.
+    status: ia-sem-revisao
+  '20:37':
+    texto: Que os mortos ressuscitam, o próprio Moisés o indicou na passagem da sarça, quando chama o
+      Senhor ‘Deus de Abraão, Deus de Isaque e Deus de Jacó’;
+    status: ia-sem-revisao
+  '20:38':
+    texto: Deus não é Deus de mortos, mas de vivos, pois todos vivem para ele.”
+    status: ia-sem-revisao
+  '20:39':
+    texto: 'Alguns escribas, respondendo, disseram: “Mestre, falaste bem.”'
+    status: ia-sem-revisao
+  '20:40':
+    texto: Pois já não ousavam interrogá-lo sobre coisa alguma.
+    status: ia-sem-revisao
+  '20:41':
+    texto: 'Ele lhes disse: “Como dizem que o Cristo é filho de Davi?'
+    status: ia-sem-revisao
+  '20:42':
+    texto: 'O próprio Davi diz no livro dos Salmos: ‘Disse o Senhor ao meu Senhor: Senta-te à minha direita'
+    status: ia-sem-revisao
+  '20:43':
+    texto: Até que eu ponha os teus inimigos como estrado dos teus pés.’
+    status: ia-sem-revisao
+  '20:44':
+    texto: Davi, pois, o chama Senhor; como é ele seu filho?”
+    status: ia-sem-revisao
+  '20:45':
+    texto: 'Ouvindo-o todo o povo, disse aos discípulos:'
+    status: ia-sem-revisao
+  '20:46':
+    texto: “Guardai-vos dos escribas, que gostam de andar com vestes longas, amam as saudações nas praças,
+      os primeiros assentos nas sinagogas e os primeiros lugares nos banquetes,
+    status: ia-sem-revisao
+  '20:47':
+    texto: Que devoram as casas das viúvas e, por pretexto, fazem longas orações; esses receberão julgamento
+      mais severo.”
+    status: ia-sem-revisao
+  '21:1':
+    texto: Levantando os olhos, viu os ricos que lançavam as suas ofertas no cofre do tesouro.
+    status: ia-sem-revisao
+  '21:2':
+    texto: Viu também uma viúva pobre que lançava ali duas moedinhas,
+    status: ia-sem-revisao
+  '21:3':
+    texto: 'E disse: “Em verdade vos digo que esta viúva pobre lançou mais do que todos;'
+    status: ia-sem-revisao
+  '21:4':
+    texto: Pois todos estes lançaram nas ofertas do que lhes sobrava, mas esta, da sua penúria, lançou
+      tudo o que tinha para viver.”
+    status: ia-sem-revisao
+  '21:5':
+    texto: 'Falando alguns do templo, que estava ornado de belas pedras e ofertas votivas, ele disse:'
+    status: ia-sem-revisao
+  '21:6':
+    texto: '“Isto que contemplais: virão dias em que não ficará pedra sobre pedra que não seja derrubada.”'
+    status: ia-sem-revisao
+  '21:7':
+    texto: 'Perguntaram-lhe: “Mestre, quando será isso, e qual será o sinal de que isso está para acontecer?”'
+    status: ia-sem-revisao
+  '21:8':
+    texto: 'Ele disse: “Cuidado para não serdes enganados; pois muitos virão em meu nome, dizendo: ‘Eu
+      sou’ e: ‘O tempo está próximo’; não vades atrás deles.'
+    status: ia-sem-revisao
+  '21:9':
+    texto: Quando ouvirdes falar de guerras e revoluções, não vos assusteis; é necessário que isso aconteça
+      primeiro, mas o fim não virá logo.”
+    status: ia-sem-revisao
+  '21:10':
+    texto: 'Então lhes dizia: “Levantar-se-á nação contra nação e reino contra reino,'
+    status: ia-sem-revisao
+  '21:11':
+    texto: Haverá grandes terremotos, em vários lugares fomes e pestes, e haverá coisas terríveis e grandes
+      sinais do céu.
+    status: ia-sem-revisao
+  '21:12':
+    texto: Antes de tudo isso, lançarão as mãos sobre vós e vos perseguirão, entregando-vos às sinagogas
+      e aos cárceres, levando-vos diante de reis e governadores por causa do meu nome;
+    status: ia-sem-revisao
+  '21:13':
+    texto: Isso vos servirá de testemunho.
+    status: ia-sem-revisao
+  '21:14':
+    texto: Propondo, pois, em vossos corações, não preparar de antemão a defesa,
+    status: ia-sem-revisao
+  '21:15':
+    texto: Porque eu vos darei boca e sabedoria a que nenhum dos vossos adversários poderá resistir ou
+      contradizer.
+    status: ia-sem-revisao
+  '21:16':
+    texto: Sereis entregues até por pais, irmãos, parentes e amigos, e matarão alguns de vós;
+    status: ia-sem-revisao
+  '21:17':
+    texto: E sereis odiados por todos por causa do meu nome.
+    status: ia-sem-revisao
+  '21:18':
+    texto: Mas nem um cabelo da vossa cabeça se perderá.
+    status: ia-sem-revisao
+  '21:19':
+    texto: É pela vossa perseverança que ganhareis a vossa vida.
+    status: ia-sem-revisao
+  '21:20':
+    texto: Quando virdes Jerusalém cercada de exércitos, sabei então que a sua desolação está próxima.
+    status: ia-sem-revisao
+  '21:21':
+    texto: Então os que estiverem na Judeia fujam para os montes, os que estiverem no meio dela saiam,
+      e os que estiverem nos campos não entrem nela,
+    status: ia-sem-revisao
+  '21:22':
+    texto: Porque estes são dias de vingança, para que se cumpra tudo o que está escrito.
+    status: ia-sem-revisao
+  '21:23':
+    texto: Ai das que estiverem grávidas e das que amamentarem naqueles dias! Pois haverá grande angústia
+      sobre a terra e ira contra este povo;
+    status: ia-sem-revisao
+  '21:24':
+    texto: Cairão ao fio da espada e serão levados cativos para todas as nações, e Jerusalém será pisada
+      pelos gentios, até que se completem os tempos dos gentios.
+    status: ia-sem-revisao
+  '21:25':
+    texto: Haverá sinais no sol, na lua e nas estrelas, e na terra angústia das nações, perplexas com
+      o bramido do mar e das ondas,
+    status: ia-sem-revisao
+  '21:26':
+    texto: Desfalecendo os homens de medo e de expectativa do que sobrevirá ao mundo; pois as potências
+      dos céus serão abaladas.
+    status: ia-sem-revisao
+  '21:27':
+    texto: Então verão o Filho do Homem vindo numa nuvem com poder e grande glória.
+    status: ia-sem-revisao
+  '21:28':
+    texto: Quando estas coisas começarem a acontecer, erguei-vos e levantai a cabeça, porque a vossa libertação
+      está próxima.”
+    status: ia-sem-revisao
+  '21:29':
+    texto: 'E contou-lhes uma parábola: “Olhai a figueira e todas as árvores;'
+    status: ia-sem-revisao
+  '21:30':
+    texto: Quando já brotam, vendo-o, sabeis por vós mesmos que o verão já está perto.
+    status: ia-sem-revisao
+  '21:31':
+    texto: Assim também vós, quando virdes acontecer estas coisas, sabei que o reino de Deus está próximo.
+    status: ia-sem-revisao
+  '21:32':
+    texto: 'Em verdade vos digo: não passará esta geração até que tudo aconteça.'
+    status: ia-sem-revisao
+  '21:33':
+    texto: O céu e a terra passarão, mas as minhas palavras não passarão.
+    status: ia-sem-revisao
+  '21:34':
+    texto: Cuidai de vós mesmos, para que os vossos corações não fiquem pesados pela devassidão, pela
+      embriaguez e pelas preocupações da vida, e aquele dia não venha de repente sobre vós
+    status: ia-sem-revisao
+  '21:35':
+    texto: Como uma armadilha; pois virá sobre todos os que habitam sobre a face de toda a terra.
+    status: ia-sem-revisao
+  '21:36':
+    texto: Vigiai, pois, em todo o tempo, orando para que tenhais força de escapar de tudo isso que vai
+      acontecer e de estar de pé diante do Filho do Homem.”
+    status: ia-sem-revisao
+  '21:37':
+    texto: Durante o dia ensinava no templo, e à noite saía e pernoitava no monte chamado das Oliveiras;
+    status: ia-sem-revisao
+  '21:38':
+    texto: E todo o povo madrugava para ir ter com ele no templo, para o ouvir.
+    status: ia-sem-revisao
+  '22:1':
+    texto: Aproximava-se a festa dos Ázimos, chamada Páscoa.
+    status: ia-sem-revisao
+  '22:2':
+    texto: E os chefes dos sacerdotes e os escribas procuravam como o fariam morrer, pois temiam o povo.
+    status: ia-sem-revisao
+  '22:3':
+    texto: Satanás entrou em Judas, chamado Iscariotes, que era do número dos Doze;
+    status: ia-sem-revisao
+  '22:4':
+    texto: E ele foi e conversou com os chefes dos sacerdotes e os capitães sobre como o entregaria a
+      eles.
+    status: ia-sem-revisao
+  '22:5':
+    texto: Eles se alegraram e combinaram dar-lhe dinheiro.
+    status: ia-sem-revisao
+  '22:6':
+    texto: Ele concordou e procurava uma ocasião para o entregar a eles longe da multidão.
+    status: ia-sem-revisao
+  '22:7':
+    texto: Chegou o dia dos Ázimos, em que era preciso sacrificar a Páscoa;
+    status: ia-sem-revisao
+  '22:8':
+    texto: 'E enviou Pedro e João, dizendo: “Ide preparar-nos a Páscoa, para que a comamos.”'
+    status: ia-sem-revisao
+  '22:9':
+    texto: 'Eles lhe disseram: “Onde queres que a preparemos?”'
+    status: ia-sem-revisao
+  '22:10':
+    texto: 'Ele lhes disse: “Eis que, ao entrardes na cidade, virá ao vosso encontro um homem carregando
+      um cântaro de água; segui-o até a casa em que ele entrar.'
+    status: ia-sem-revisao
+  '22:11':
+    texto: 'E direis ao dono da casa: ‘O Mestre te diz: Onde está a sala em que comerei a Páscoa com os
+      meus discípulos?’'
+    status: ia-sem-revisao
+  '22:12':
+    texto: Ele vos mostrará um grande cenáculo mobiliado; preparai ali.”
+    status: ia-sem-revisao
+  '22:13':
+    texto: Eles foram e encontraram como lhes dissera, e prepararam a Páscoa.
+    status: ia-sem-revisao
+  '22:14':
+    texto: Quando chegou a hora, pôs-se à mesa, e os apóstolos com ele.
+    status: ia-sem-revisao
+  '22:15':
+    texto: 'Disse-lhes: “Desejei ardentemente comer convosco esta Páscoa, antes de sofrer;'
+    status: ia-sem-revisao
+  '22:16':
+    texto: Pois vos digo que não a comerei mais até que se cumpra no reino de Deus.”
+    status: ia-sem-revisao
+  '22:17':
+    texto: 'Tomando um cálice e dando graças, disse: “Tomai isto e reparti-o entre vós;'
+    status: ia-sem-revisao
+  '22:18':
+    texto: Pois vos digo que não beberei mais do fruto da videira até que venha o reino de Deus.”
+    status: ia-sem-revisao
+  '22:19':
+    texto: 'Tomando um pão e dando graças, partiu-o e deu-lho, dizendo: “Isto é o meu corpo, que é dado
+      por vós; fazei isto em memória de mim.”'
+    status: ia-sem-revisao
+    observacao: 'No SBLGNT, o final deste versículo (“que é dado por vós...”) e o v. 20 estão entre colchetes
+      (texto longo): alguns manuscritos os omitem. A Nova Vulgata os inclui.'
+  '22:20':
+    texto: 'Do mesmo modo, tomou o cálice depois da ceia, dizendo: “Este cálice é a nova aliança no meu
+      sangue, que é derramado por vós.”'
+    status: ia-sem-revisao
+  '22:21':
+    texto: “Contudo, eis que a mão do que me entrega está comigo sobre a mesa;
+    status: ia-sem-revisao
+  '22:22':
+    texto: Pois o Filho do Homem vai, segundo o que foi determinado, mas ai daquele homem por quem é entregue!”
+    status: ia-sem-revisao
+  '22:23':
+    texto: Eles começaram a discutir entre si quem dentre eles seria o que ia fazer isso.
+    status: ia-sem-revisao
+  '22:24':
+    texto: Houve também entre eles uma disputa sobre quem deles parecia ser o maior.
+    status: ia-sem-revisao
+  '22:25':
+    texto: 'Ele lhes disse: “Os reis das nações as dominam, e os que exercem autoridade sobre elas são
+      chamados benfeitores.'
+    status: ia-sem-revisao
+  '22:26':
+    texto: Entre vós não será assim; mas o maior entre vós seja como o mais novo, e o que governa, como
+      o que serve.
+    status: ia-sem-revisao
+  '22:27':
+    texto: 'Pois qual é maior: o que está à mesa ou o que serve? Não é o que está à mesa? Eu, porém, estou
+      no meio de vós como quem serve.'
+    status: ia-sem-revisao
+  '22:28':
+    texto: Vós sois os que permanecestes comigo nas minhas provações;
+    status: ia-sem-revisao
+  '22:29':
+    texto: E eu disponho para vós, como meu Pai dispôs para mim, um reino,
+    status: ia-sem-revisao
+  '22:30':
+    texto: Para que comais e bebais à minha mesa no meu reino e vos assenteis sobre tronos, julgando as
+      doze tribos de Israel.”
+    status: ia-sem-revisao
+  '22:31':
+    texto: “Simão, Simão, eis que Satanás pediu para vos peneirar como trigo;
+    status: ia-sem-revisao
+  '22:32':
+    texto: Eu, porém, rezei por ti, para que a tua fé não desfaleça; e tu, quando te converteres, fortalece
+      os teus irmãos.”
+    status: ia-sem-revisao
+  '22:33':
+    texto: 'Ele lhe disse: “Senhor, estou pronto a ir contigo à prisão e à morte.”'
+    status: ia-sem-revisao
+  '22:34':
+    texto: 'Jesus disse: “Digo-te, Pedro, hoje o galo não cantará até que três vezes negues me conhecer.”'
+    status: ia-sem-revisao
+  '22:35':
+    texto: 'E disse-lhes: “Quando vos enviei sem bolsa, sem sacola e sem sandálias, faltou-vos alguma
+      coisa?” Eles disseram: “Nada.”'
+    status: ia-sem-revisao
+  '22:36':
+    texto: 'Disse-lhes: “Mas agora, quem tem bolsa, tome-a, e igualmente a sacola; e quem não tem, venda
+      o seu manto e compre uma espada.'
+    status: ia-sem-revisao
+  '22:37':
+    texto: 'Pois vos digo que é preciso que se cumpra em mim isto que está escrito: ‘E foi contado entre
+      os iníquos’; pois o que me diz respeito está chegando ao fim.”'
+    status: ia-sem-revisao
+  '22:38':
+    texto: 'Eles disseram: “Senhor, eis aqui duas espadas.” Ele lhes disse: “Basta.”'
+    status: ia-sem-revisao
+  '22:39':
+    texto: Saindo, foi, segundo o costume, para o monte das Oliveiras; e os discípulos o seguiram.
+    status: ia-sem-revisao
+  '22:40':
+    texto: 'Chegando ao lugar, disse-lhes: “Orai para não entrardes em tentação.”'
+    status: ia-sem-revisao
+  '22:41':
+    texto: Ele afastou-se deles a uma distância de um tiro de pedra e, pondo-se de joelhos, orava,
+    status: ia-sem-revisao
+  '22:42':
+    texto: 'Dizendo: “Pai, se queres, afasta de mim este cálice; contudo, não se faça a minha vontade,
+      mas a tua.”'
+    status: ia-sem-revisao
+  '22:43':
+    texto: Apareceu-lhe um anjo do céu, que o fortalecia.
+    status: ia-sem-revisao
+    observacao: Os versículos 43-44 estão entre colchetes no SBLGNT; alguns manuscritos os omitem. A Nova
+      Vulgata os inclui.
+  '22:44':
+    texto: Em agonia, orava com mais intensidade; e o seu suor tornou-se como gotas de sangue que caíam
+      por terra.
+    status: ia-sem-revisao
+  '22:45':
+    texto: Levantando-se da oração, foi ter com os discípulos e os encontrou dormindo, de tristeza,
+    status: ia-sem-revisao
+  '22:46':
+    texto: 'E lhes disse: “Por que dormis? Levantai-vos e orai, para não entrardes em tentação.”'
+    status: ia-sem-revisao
+  '22:47':
+    texto: Ainda ele falava, eis uma multidão, e à frente deles ia o chamado Judas, um dos Doze, que se
+      aproximou de Jesus para o beijar.
+    status: ia-sem-revisao
+  '22:48':
+    texto: 'Jesus lhe disse: “Judas, com um beijo entregas o Filho do Homem?”'
+    status: ia-sem-revisao
+  '22:49':
+    texto: 'Vendo o que ia acontecer, os que estavam com ele disseram: “Senhor, feriremos com a espada?”'
+    status: ia-sem-revisao
+  '22:50':
+    texto: E um deles feriu o servo do sumo sacerdote e lhe cortou a orelha direita.
+    status: ia-sem-revisao
+  '22:51':
+    texto: 'Jesus, respondendo, disse: “Deixai, basta!” E, tocando-lhe a orelha, curou-o.'
+    status: ia-sem-revisao
+  '22:52':
+    texto: 'Jesus disse aos chefes dos sacerdotes, aos capitães do templo e aos anciãos que tinham vindo
+      contra ele: “Como a um ladrão saístes, com espadas e paus?'
+    status: ia-sem-revisao
+  '22:53':
+    texto: Estando eu todos os dias convosco no templo, não estendestes as mãos contra mim; mas esta é
+      a vossa hora e o poder das trevas.”
+    status: ia-sem-revisao
+  '22:54':
+    texto: Prendendo-o, levaram-no e o introduziram na casa do sumo sacerdote; Pedro seguia de longe.
+    status: ia-sem-revisao
+  '22:55':
+    texto: Tendo acendido um fogo no meio do pátio e estando sentados juntos, Pedro sentou-se no meio
+      deles.
+    status: ia-sem-revisao
+  '22:56':
+    texto: 'Uma criada, vendo-o sentado junto à luz e fixando nele o olhar, disse: “Este também estava
+      com ele.”'
+    status: ia-sem-revisao
+  '22:57':
+    texto: 'Ele negou, dizendo: “Não o conheço, mulher.”'
+    status: ia-sem-revisao
+  '22:58':
+    texto: 'Pouco depois, outro, vendo-o, disse: “Tu também és um deles.” Pedro disse: “Homem, não sou.”'
+    status: ia-sem-revisao
+  '22:59':
+    texto: 'Passada cerca de uma hora, outro afirmava com insistência: “Na verdade, este também estava
+      com ele, pois é galileu.”'
+    status: ia-sem-revisao
+  22:60:
+    texto: 'Pedro disse: “Homem, não sei o que dizes.” E logo, enquanto ainda falava, o galo cantou.'
+    status: ia-sem-revisao
+  22:61:
+    texto: 'O Senhor, voltando-se, olhou para Pedro, e Pedro lembrou-se da palavra do Senhor, que lhe
+      dissera: “Antes que o galo cante hoje, três vezes me negarás.”'
+    status: ia-sem-revisao
+  22:62:
+    texto: E, saindo para fora, chorou amargamente.
+    status: ia-sem-revisao
+  22:63:
+    texto: Os homens que o guardavam zombavam dele, espancando-o,
+    status: ia-sem-revisao
+  22:64:
+    texto: 'E, cobrindo-lhe o rosto, perguntavam-lhe: “Profetiza: quem foi que te bateu?”'
+    status: ia-sem-revisao
+  22:65:
+    texto: E diziam contra ele muitas outras blasfêmias.
+    status: ia-sem-revisao
+  22:66:
+    texto: Quando amanheceu, reuniu-se o conselho dos anciãos do povo, chefes dos sacerdotes e escribas,
+      e o levaram ao seu Sinédrio,
+    status: ia-sem-revisao
+  22:67:
+    texto: 'Dizendo: “Se tu és o Cristo, dize-nos.” Ele lhes disse: “Se eu vos disser, não crereis;'
+    status: ia-sem-revisao
+  22:68:
+    texto: E, se eu vos perguntar, não respondereis.
+    status: ia-sem-revisao
+  22:69:
+    texto: Mas, de agora em diante, o Filho do Homem estará sentado à direita do poder de Deus.”
+    status: ia-sem-revisao
+  22:70:
+    texto: 'Todos disseram: “Então tu és o Filho de Deus?” Ele lhes disse: “Vós o dizeis: eu sou.”'
+    status: ia-sem-revisao
+  22:71:
+    texto: 'Eles disseram: “Que necessidade temos ainda de testemunho? Pois nós mesmos o ouvimos da sua
+      boca.”'
+    status: ia-sem-revisao
+  '23:1':
+    texto: Levantando-se toda a assembleia deles, levaram-no a Pilatos.
+    status: ia-sem-revisao
+  '23:2':
+    texto: 'Começaram a acusá-lo, dizendo: “Encontramos este homem subvertendo a nossa nação, impedindo
+      de pagar tributos a César e dizendo ser ele mesmo Cristo, rei.”'
+    status: ia-sem-revisao
+  '23:3':
+    texto: 'Pilatos o interrogou: “Tu és o rei dos judeus?” Ele, respondendo-lhe, disse: “Tu o dizes.”'
+    status: ia-sem-revisao
+  '23:4':
+    texto: 'Pilatos disse aos chefes dos sacerdotes e às multidões: “Não encontro culpa alguma neste homem.”'
+    status: ia-sem-revisao
+  '23:5':
+    texto: 'Eles insistiam, dizendo: “Ele agita o povo, ensinando por toda a Judeia, começando pela Galileia
+      até aqui.”'
+    status: ia-sem-revisao
+  '23:6':
+    texto: Pilatos, ouvindo isso, perguntou se o homem era galileu,
+    status: ia-sem-revisao
+  '23:7':
+    texto: E, sabendo que estava sob a jurisdição de Herodes, enviou-o a Herodes, que também estava em
+      Jerusalém naqueles dias.
+    status: ia-sem-revisao
+  '23:8':
+    texto: Herodes, ao ver Jesus, alegrou-se muito; pois havia muito tempo queria vê-lo, por ouvir falar
+      dele, e esperava ver algum sinal feito por ele.
+    status: ia-sem-revisao
+  '23:9':
+    texto: Interrogava-o com muitas palavras, mas ele nada lhe respondeu.
+    status: ia-sem-revisao
+  '23:10':
+    texto: Estavam presentes os chefes dos sacerdotes e os escribas, acusando-o com veemência.
+    status: ia-sem-revisao
+  '23:11':
+    texto: Herodes, com os seus soldados, depois de o tratar com desprezo e zombar dele, vestiu-o com
+      uma roupa vistosa e o enviou de volta a Pilatos.
+    status: ia-sem-revisao
+  '23:12':
+    texto: Naquele mesmo dia, Herodes e Pilatos tornaram-se amigos um do outro; pois antes eram inimigos
+      entre si.
+    status: ia-sem-revisao
+  '23:13':
+    texto: Pilatos, convocando os chefes dos sacerdotes, os magistrados e o povo,
+    status: ia-sem-revisao
+  '23:14':
+    texto: 'Disse-lhes: “Trouxestes-me este homem como alguém que desvia o povo; e eis que, havendo-o
+      interrogado diante de vós, não encontrei neste homem culpa alguma das que o acusais;'
+    status: ia-sem-revisao
+  '23:15':
+    texto: Nem Herodes, pois nos devolveu o homem; e eis que nada digno de morte foi feito por ele;
+    status: ia-sem-revisao
+  '23:16':
+    texto: Castigando-o, portanto, o soltarei.”
+    status: ia-sem-revisao
+  '23:18':
+    texto: 'Todos juntos gritaram: “Elimina este e solta-nos Barrabás!”'
+    status: ia-sem-revisao
+  '23:19':
+    texto: Este fora lançado na prisão por uma revolta ocorrida na cidade e por homicídio.
+    status: ia-sem-revisao
+  '23:20':
+    texto: Pilatos falou-lhes de novo, querendo soltar Jesus.
+    status: ia-sem-revisao
+  '23:21':
+    texto: 'Eles gritavam: “Crucifica, crucifica-o!”'
+    status: ia-sem-revisao
+  '23:22':
+    texto: 'Pela terceira vez disse-lhes: “Que mal fez este? Não encontrei nele culpa alguma digna de
+      morte; castigando-o, portanto, o soltarei.”'
+    status: ia-sem-revisao
+  '23:23':
+    texto: Eles insistiam com grandes gritos, pedindo que fosse crucificado, e os seus gritos prevaleceram.
+    status: ia-sem-revisao
+  '23:24':
+    texto: Pilatos decidiu que se fizesse o que eles pediam;
+    status: ia-sem-revisao
+  '23:25':
+    texto: Soltou o que fora lançado na prisão por revolta e homicídio, que eles pediam, e entregou Jesus
+      à vontade deles.
+    status: ia-sem-revisao
+  '23:26':
+    texto: Quando o levavam, tomaram um certo Simão de Cirene, que vinha do campo, e puseram-lhe a cruz
+      para a levar atrás de Jesus.
+    status: ia-sem-revisao
+  '23:27':
+    texto: Seguia-o grande multidão do povo e de mulheres que batiam no peito e se lamentavam por ele.
+    status: ia-sem-revisao
+  '23:28':
+    texto: 'Voltando-se para elas, Jesus disse: “Filhas de Jerusalém, não choreis por mim; chorai antes
+      por vós mesmas e por vossos filhos,'
+    status: ia-sem-revisao
+  '23:29':
+    texto: 'Pois eis que virão dias em que dirão: ‘Felizes as estéreis, os ventres que não geraram e os
+      seios que não amamentaram.’'
+    status: ia-sem-revisao
+  '23:30':
+    texto: 'Então começarão a dizer aos montes: ‘Caí sobre nós’, e às colinas: ‘Cobri-nos.’'
+    status: ia-sem-revisao
+  '23:31':
+    texto: Pois, se fazem isto à árvore verde, que será da seca?”
+    status: ia-sem-revisao
+  '23:32':
+    texto: Eram levados com ele também outros dois malfeitores, para serem executados.
+    status: ia-sem-revisao
+  '23:33':
+    texto: Quando chegaram ao lugar chamado Caveira, ali o crucificaram, e os malfeitores, um à direita
+      e outro à esquerda.
+    status: ia-sem-revisao
+  '23:34':
+    texto: 'Jesus dizia: “Pai, perdoa-lhes, porque não sabem o que fazem.” Repartindo as suas vestes,
+      lançaram sortes.'
+    status: ia-sem-revisao
+    observacao: 'A primeira frase deste versículo (“Jesus dizia: Pai, perdoa-lhes...”) está entre colchetes
+      no SBLGNT; alguns manuscritos a omitem. A Nova Vulgata a inclui.'
+  '23:35':
+    texto: 'O povo estava ali, observando. Os chefes zombavam dele, dizendo: “Salvou os outros; salve-se
+      a si mesmo, se este é o Cristo de Deus, o escolhido.”'
+    status: ia-sem-revisao
+  '23:36':
+    texto: Também os soldados zombavam dele, aproximando-se e oferecendo-lhe vinagre,
+    status: ia-sem-revisao
+  '23:37':
+    texto: 'E dizendo: “Se és o rei dos judeus, salva-te a ti mesmo.”'
+    status: ia-sem-revisao
+  '23:38':
+    texto: 'Havia também uma inscrição sobre ele: “Este é o Rei dos Judeus.”'
+    status: ia-sem-revisao
+  '23:39':
+    texto: 'Um dos malfeitores crucificados o insultava, dizendo: “Não és tu o Cristo? Salva-te a ti mesmo
+      e a nós.”'
+    status: ia-sem-revisao
+  '23:40':
+    texto: 'O outro, repreendendo-o, disse: “Nem tu temes a Deus, estando na mesma condenação?'
+    status: ia-sem-revisao
+  '23:41':
+    texto: Nós, com justiça, pois recebemos o que merecem os nossos atos; este, porém, nada fez de mal.”
+    status: ia-sem-revisao
+  '23:42':
+    texto: 'E dizia: “Jesus, lembra-te de mim quando vieres no teu reino.”'
+    status: ia-sem-revisao
+  '23:43':
+    texto: 'Ele lhe disse: “Em verdade te digo: hoje estarás comigo no paraíso.”'
+    status: ia-sem-revisao
+  '23:44':
+    texto: Era já cerca da hora sexta, e houve trevas sobre toda a terra até a hora nona,
+    status: ia-sem-revisao
+  '23:45':
+    texto: Por ter faltado o sol; e o véu do santuário rasgou-se pelo meio.
+    status: ia-sem-revisao
+  '23:46':
+    texto: 'Jesus, clamando em alta voz, disse: “Pai, nas tuas mãos entrego o meu espírito.” Dito isto,
+      expirou.'
+    status: ia-sem-revisao
+  '23:47':
+    texto: 'O centurião, vendo o que acontecera, glorificava a Deus, dizendo: “Verdadeiramente este homem
+      era justo.”'
+    status: ia-sem-revisao
+  '23:48':
+    texto: E todas as multidões que tinham acorrido a este espetáculo, vendo o que acontecera, voltavam
+      batendo no peito.
+    status: ia-sem-revisao
+  '23:49':
+    texto: Estavam ali, a distância, todos os seus conhecidos e as mulheres que o seguiam desde a Galileia,
+      vendo essas coisas.
+    status: ia-sem-revisao
+  '23:50':
+    texto: E eis que um homem chamado José, membro do Conselho, homem bom e justo —
+    status: ia-sem-revisao
+  '23:51':
+    texto: Que não tinha concordado com a decisão e a ação deles — de Arimateia, cidade dos judeus, que
+      esperava o reino de Deus,
+    status: ia-sem-revisao
+  '23:52':
+    texto: Foi a Pilatos e pediu o corpo de Jesus,
+    status: ia-sem-revisao
+  '23:53':
+    texto: E, descendo-o, envolveu-o num lençol e o pôs num sepulcro talhado na rocha, onde ninguém ainda
+      fora colocado.
+    status: ia-sem-revisao
+  '23:54':
+    texto: Era o dia da Preparação, e o sábado começava a luzir.
+    status: ia-sem-revisao
+  '23:55':
+    texto: As mulheres que tinham vindo com ele da Galileia, seguindo-o, viram o sepulcro e como o seu
+      corpo foi posto;
+    status: ia-sem-revisao
+  '23:56':
+    texto: Voltando, prepararam aromas e perfumes. E, no sábado, repousaram, segundo o mandamento,
+    status: ia-sem-revisao
+  '24:1':
+    texto: No primeiro dia da semana, de madrugada bem cedo, foram ao sepulcro, levando os aromas que
+      tinham preparado.
+    status: ia-sem-revisao
+  '24:2':
+    texto: Encontraram a pedra removida do sepulcro,
+    status: ia-sem-revisao
+  '24:3':
+    texto: E, entrando, não encontraram o corpo.
+    status: ia-sem-revisao
+  '24:4':
+    texto: Enquanto estavam perplexas com isso, eis que dois homens se apresentaram diante delas, em vestes
+      resplandecentes.
+    status: ia-sem-revisao
+  '24:5':
+    texto: 'Tomadas de temor e baixando o rosto para o chão, eles lhes disseram: “Por que procurais entre
+      os mortos aquele que vive?'
+    status: ia-sem-revisao
+  '24:6':
+    texto: Não está aqui, mas ressuscitou. Lembrai-vos de como vos falou quando ainda estava na Galileia,
+    status: ia-sem-revisao
+  '24:7':
+    texto: Dizendo que era necessário que o Filho do Homem fosse entregue nas mãos de homens pecadores,
+      fosse crucificado e ao terceiro dia ressuscitasse.”
+    status: ia-sem-revisao
+  '24:8':
+    texto: E elas se lembraram das palavras dele,
+    status: ia-sem-revisao
+  '24:9':
+    texto: E, voltando do sepulcro, anunciaram tudo isso aos Onze e a todos os outros.
+    status: ia-sem-revisao
+  '24:10':
+    texto: Eram Maria Madalena, Joana, Maria, mãe de Tiago, e as outras que estavam com elas; elas diziam
+      isso aos apóstolos.
+    status: ia-sem-revisao
+  '24:11':
+    texto: Essas palavras lhes pareceram um delírio, e não acreditaram nelas.
+    status: ia-sem-revisao
+  '24:12':
+    texto: Pedro, porém, levantando-se, correu ao sepulcro; inclinando-se, viu somente os lençóis; e foi
+      embora, admirado consigo mesmo do que acontecera.
+    status: ia-sem-revisao
+    observacao: O versículo está entre colchetes no SBLGNT; alguns manuscritos o omitem. A Nova Vulgata
+      o inclui.
+  '24:13':
+    texto: E eis que dois deles, naquele mesmo dia, iam a uma aldeia chamada Emaús, distante sessenta
+      estádios de Jerusalém,
+    status: ia-sem-revisao
+  '24:14':
+    texto: E conversavam entre si sobre todas essas coisas que tinham acontecido.
+    status: ia-sem-revisao
+  '24:15':
+    texto: Enquanto conversavam e discutiam, o próprio Jesus se aproximou e caminhava com eles;
+    status: ia-sem-revisao
+  '24:16':
+    texto: Mas os olhos deles estavam impedidos de o reconhecer.
+    status: ia-sem-revisao
+  '24:17':
+    texto: 'Ele lhes disse: “Que palavras são essas que trocais entre vós enquanto caminhais?” Eles pararam,
+      com o semblante triste.'
+    status: ia-sem-revisao
+  '24:18':
+    texto: 'Um deles, chamado Cléofas, respondeu-lhe: “Tu és o único forasteiro em Jerusalém que não sabe
+      o que nela aconteceu nestes dias?”'
+    status: ia-sem-revisao
+  '24:19':
+    texto: 'Ele lhes disse: “Que coisas?” Eles lhe disseram: “O que se refere a Jesus, o Nazareno, que
+      foi um profeta poderoso em obras e palavras diante de Deus e de todo o povo,'
+    status: ia-sem-revisao
+  '24:20':
+    texto: E como os chefes dos sacerdotes e os nossos magistrados o entregaram para ser condenado à morte
+      e o crucificaram.
+    status: ia-sem-revisao
+  '24:21':
+    texto: Nós esperávamos que fosse ele quem iria libertar Israel; mas, com tudo isso, já é o terceiro
+      dia desde que isso aconteceu.
+    status: ia-sem-revisao
+  '24:22':
+    texto: 'Algumas mulheres do nosso grupo também nos deixaram perplexos: foram de madrugada ao sepulcro'
+    status: ia-sem-revisao
+  '24:23':
+    texto: E, não achando o seu corpo, voltaram dizendo que tinham tido uma visão de anjos, que dizem
+      que ele vive.
+    status: ia-sem-revisao
+  '24:24':
+    texto: Alguns dos que estavam conosco foram ao sepulcro e acharam tudo como as mulheres disseram;
+      a ele, porém, não viram.”
+    status: ia-sem-revisao
+  '24:25':
+    texto: 'Ele lhes disse: “Ó insensatos e lentos de coração para crer em tudo o que os profetas falaram!'
+    status: ia-sem-revisao
+  '24:26':
+    texto: Não era necessário que o Cristo sofresse isso e entrasse na sua glória?”
+    status: ia-sem-revisao
+  '24:27':
+    texto: E, começando por Moisés e por todos os profetas, explicou-lhes em todas as Escrituras o que
+      a ele se referia.
+    status: ia-sem-revisao
+  '24:28':
+    texto: Aproximaram-se da aldeia para onde iam, e ele fez como se fosse mais adiante.
+    status: ia-sem-revisao
+  '24:29':
+    texto: 'Eles o instaram, dizendo: “Fica conosco, pois já é tarde, e o dia já declinou.” E ele entrou
+      para ficar com eles.'
+    status: ia-sem-revisao
+  '24:30':
+    texto: Aconteceu que, estando à mesa com eles, tomou o pão, abençoou-o, partiu-o e o dava a eles;
+    status: ia-sem-revisao
+  '24:31':
+    texto: Abriram-se-lhes os olhos e o reconheceram; e ele desapareceu da vista deles.
+    status: ia-sem-revisao
+  '24:32':
+    texto: 'Disseram um ao outro: “Não ardia o nosso coração dentro de nós, quando ele nos falava pelo
+      caminho, quando nos explicava as Escrituras?”'
+    status: ia-sem-revisao
+  '24:33':
+    texto: E, levantando-se na mesma hora, voltaram a Jerusalém e encontraram reunidos os Onze e os que
+      estavam com eles,
+    status: ia-sem-revisao
+  '24:34':
+    texto: 'Que diziam: “O Senhor ressuscitou de fato e apareceu a Simão.”'
+    status: ia-sem-revisao
+  '24:35':
+    texto: E eles contaram o que acontecera no caminho e como o reconheceram ao partir o pão.
+    status: ia-sem-revisao
+  '24:36':
+    texto: Enquanto falavam dessas coisas, o próprio Jesus apresentou-se no meio deles.
+    status: ia-sem-revisao
+  '24:37':
+    texto: Assustados e cheios de medo, pensavam ver um espírito.
+    status: ia-sem-revisao
+  '24:38':
+    texto: 'Ele lhes disse: “Por que estais perturbados, e por que surgem dúvidas em vosso coração?'
+    status: ia-sem-revisao
+  '24:39':
+    texto: 'Vede as minhas mãos e os meus pés: sou eu mesmo; tocai-me e vede, pois um espírito não tem
+      carne e ossos, como vedes que eu tenho.”'
+    status: ia-sem-revisao
+  '24:40':
+    texto: E, dizendo isso, mostrou-lhes as mãos e os pés.
+    status: ia-sem-revisao
+    observacao: O versículo está entre colchetes no SBLGNT; alguns manuscritos o omitem. A Nova Vulgata
+      o inclui.
+  '24:41':
+    texto: 'Como ainda não acreditavam, de alegria, e se admiravam, disse-lhes: “Tendes aqui algo de comer?”'
+    status: ia-sem-revisao
+  '24:42':
+    texto: Deram-lhe um pedaço de peixe assado;
+    status: ia-sem-revisao
+  '24:43':
+    texto: E, tomando-o, comeu diante deles.
+    status: ia-sem-revisao
+  '24:44':
+    texto: 'Disse-lhes: “São estas as minhas palavras que vos disse quando ainda estava convosco: era
+      necessário que se cumprisse tudo o que está escrito sobre mim na Lei de Moisés, nos Profetas e nos
+      Salmos.”'
+    status: ia-sem-revisao
+  '24:45':
+    texto: Então abriu-lhes a mente para compreenderem as Escrituras,
+    status: ia-sem-revisao
+  '24:46':
+    texto: 'E lhes disse: “Assim está escrito: o Cristo sofrerá e ressuscitará dentre os mortos ao terceiro
+      dia,'
+    status: ia-sem-revisao
+  '24:47':
+    texto: E em seu nome será proclamada a conversão para o perdão dos pecados a todas as nações, começando
+      por Jerusalém.
+    status: ia-sem-revisao
+  '24:48':
+    texto: Vós sois testemunhas dessas coisas.
+    status: ia-sem-revisao
+  '24:49':
+    texto: E eis que envio sobre vós a promessa de meu Pai; permanecei, vós, na cidade até serdes revestidos
+      da força do alto.”
+    status: ia-sem-revisao
+  '24:50':
+    texto: Levou-os para fora, até Betânia, e, erguendo as mãos, abençoou-os.
+    status: ia-sem-revisao
+  '24:51':
+    texto: Enquanto os abençoava, afastou-se deles e era elevado ao céu.
+    status: ia-sem-revisao
+    observacao: As palavras “e era elevado ao céu” estão entre colchetes no SBLGNT; alguns manuscritos
+      as omitem. A Nova Vulgata as inclui.
+  '24:52':
+    texto: Eles, depois de se prostrarem diante dele, voltaram a Jerusalém com grande alegria,
+    status: ia-sem-revisao
+    observacao: As palavras “depois de se prostrarem diante dele” estão entre colchetes no SBLGNT; alguns
+      manuscritos as omitem. A Nova Vulgata as inclui.
+  '24:53':
+    texto: E estavam sempre no templo, bendizendo a Deus.
+    status: ia-sem-revisao

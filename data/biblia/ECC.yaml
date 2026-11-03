@@ -1,0 +1,124 @@
+livro: ECC
+fonte: oshb
+versiculos:
+  '1:2':
+    texto: 'Vaidade das vaidades, diz Coélet, vaidade das vaidades: tudo é vaidade.'
+    status: ia-sem-revisao
+  '1:3':
+    texto: Que proveito tem o homem de todo o trabalho com que se afadiga debaixo do sol?
+    status: ia-sem-revisao
+  '1:4':
+    texto: Uma geração vai, outra geração vem, mas a terra permanece para sempre.
+    status: ia-sem-revisao
+  '1:5':
+    texto: O sol nasce, o sol se põe e anseia por voltar ao seu lugar, onde nasce de novo.
+    status: ia-sem-revisao
+  '1:6':
+    texto: Vai para o sul e gira para o norte; girando, girando vai o vento, e sobre os seus giros o vento
+      retorna.
+    status: ia-sem-revisao
+  '1:7':
+    texto: Todos os rios correm para o mar, e o mar não se enche; ao lugar de onde os rios saem, para
+      lá voltam a correr.
+    status: ia-sem-revisao
+  '1:8':
+    texto: Todas as coisas são cansativas; ninguém pode descrevê-las; o olho não se farta de ver, nem
+      o ouvido se enche de ouvir.
+    status: ia-sem-revisao
+  '1:9':
+    texto: O que foi é o que será, e o que se fez é o que se fará; não há nada de novo debaixo do sol.
+    status: ia-sem-revisao
+  '1:10':
+    texto: 'Há alguma coisa de que se possa dizer: “Olha, isto é novo”? Já existiu nos séculos que nos
+      precederam.'
+    status: ia-sem-revisao
+  '1:11':
+    texto: Não há lembrança dos antigos, e dos que virão depois também não haverá lembrança entre os que
+      virão por último.
+    status: ia-sem-revisao
+  '2:21':
+    texto: Há um homem que trabalhou com sabedoria, conhecimento e habilidade, e deixa a sua parte a quem
+      não trabalhou nela. Também isso é vaidade e grande mal.
+    status: ia-sem-revisao
+  '2:22':
+    texto: Pois que fica ao homem de todo o seu trabalho e da preocupação do seu coração, com que se afadiga
+      debaixo do sol?
+    status: ia-sem-revisao
+  '2:23':
+    texto: Todos os seus dias são dores, e a sua ocupação, aflição; nem de noite o seu coração repousa.
+      Também isso é vaidade.
+    status: ia-sem-revisao
+  '3:1':
+    texto: 'Para tudo há um tempo, e um momento para cada coisa debaixo do céu:'
+    status: ia-sem-revisao
+  '3:2':
+    texto: tempo de nascer e tempo de morrer; tempo de plantar e tempo de arrancar o plantado;
+    status: ia-sem-revisao
+  '3:3':
+    texto: tempo de matar e tempo de curar; tempo de demolir e tempo de construir;
+    status: ia-sem-revisao
+  '3:4':
+    texto: tempo de chorar e tempo de rir; tempo de lamentar e tempo de dançar;
+    status: ia-sem-revisao
+  '3:5':
+    texto: tempo de lançar pedras e tempo de ajuntar pedras; tempo de abraçar e tempo de se afastar do
+      abraço;
+    status: ia-sem-revisao
+  '3:6':
+    texto: tempo de buscar e tempo de perder; tempo de guardar e tempo de lançar fora;
+    status: ia-sem-revisao
+  '3:7':
+    texto: tempo de rasgar e tempo de costurar; tempo de calar e tempo de falar;
+    status: ia-sem-revisao
+  '3:8':
+    texto: tempo de amar e tempo de odiar; tempo de guerra e tempo de paz.
+    status: ia-sem-revisao
+  '3:9':
+    texto: Que proveito tem quem trabalha naquilo em que se afadiga?
+    status: ia-sem-revisao
+  '3:10':
+    texto: Vi a ocupação que Deus deu aos filhos de Adão, para nela se ocuparem.
+    status: ia-sem-revisao
+  '3:11':
+    texto: Tudo fez belo no seu tempo; também pôs a eternidade no coração deles, sem que o homem possa
+      descobrir a obra que Deus fez, do princípio ao fim.
+    status: ia-sem-revisao
+  '11:9':
+    texto: Alegra-te, jovem, na tua juventude, e que o teu coração te faça bem nos dias da tua mocidade;
+      anda pelos caminhos do teu coração e conforme o que os teus olhos veem; mas sabe que, por todas
+      essas coisas, Deus te chamará a juízo.
+    status: ia-sem-revisao
+  '11:10':
+    texto: Afasta a irritação do teu coração e remove o mal da tua carne, porque a infância e a aurora
+      da vida são vaidade.
+    status: ia-sem-revisao
+  '12:1':
+    texto: 'Lembra-te do teu Criador nos dias da tua juventude, antes que venham os dias maus e cheguem
+      os anos em que dirás: “Não tenho prazer neles”;'
+    status: ia-sem-revisao
+  '12:2':
+    texto: antes que se escureçam o sol, a luz, a lua e as estrelas, e voltem as nuvens depois da chuva;
+    status: ia-sem-revisao
+  '12:3':
+    texto: no dia em que tremerem os guardas da casa e se curvarem os homens fortes, e cessarem as moedoras
+      por serem poucas, e se escurecerem os que olham pelas janelas;
+    status: ia-sem-revisao
+  '12:4':
+    texto: e se fecharem as portas para a rua, enquanto diminui o som da moenda, e a pessoa se levantar
+      ao canto da ave, e se calarem todas as filhas do canto;
+    status: ia-sem-revisao
+  '12:5':
+    texto: também terão medo do que está no alto, e haverá terrores no caminho; florescerá a amendoeira,
+      o gafanhoto será pesado, e a alcaparra falhará, porque o homem vai à sua casa eterna e os carpideiros
+      rondam pela rua;
+    status: ia-sem-revisao
+  '12:6':
+    texto: antes que se rompa o cordão de prata e se quebre a taça de ouro, e o cântaro se despedace junto
+      à fonte, e a roda se quebre no poço,
+    status: ia-sem-revisao
+  '12:7':
+    texto: e o pó volte à terra, como era, e o espírito volte a Deus, que o deu.
+    status: ia-sem-revisao
+  '12:8':
+    texto: 'Vaidade das vaidades, diz Coélet: tudo é vaidade.'
+    status: ia-sem-revisao

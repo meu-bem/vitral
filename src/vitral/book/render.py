@@ -16,7 +16,7 @@ from html import escape
 from pathlib import Path
 
 from .calendar_image import calendar_png, calendar_svg
-from .html import calendar_page, credits_page, day_section, how_to, title_page
+from .html import calendar_page, credits_page, day_section, how_to, title_page, toc_page
 from .model import BookYear
 
 LIVRO_DIR = Path(__file__).resolve().parents[3] / "livro"
@@ -44,7 +44,8 @@ def _head(book: BookYear, css_href: str, extra: str = "") -> str:
 
 # ------------------------------------------------------------------ PDF
 def book_html(book: BookYear) -> str:
-    parts = [title_page(book), how_to(book), calendar_page(book, calendar_svg(book))]
+    parts = [title_page(book), toc_page(book, lambda bd: f"#d{bd.date.isoformat()}"), how_to(book),
+             calendar_page(book, calendar_svg(book))]
     for label, days in book.months():
         parts.append(f'<section class="mes"><h1 class="mes-titulo">{escape(label)}</h1></section>')
         parts += [day_section(bd) for bd in days]
@@ -111,6 +112,8 @@ def epub_files(book: BookYear) -> dict[str, bytes]:
         chapters.append((name, title, props))
 
     add("rosto.xhtml", "Rosto", title_page(book))
+    day_file = {bd.date: f"mes-{i:02d}.xhtml" for i, (_, days) in enumerate(book.months(), start=1) for bd in days}
+    add("sumario.xhtml", "Sumário", toc_page(book, lambda bd: f"{day_file[bd.date]}#d{bd.date.isoformat()}"))
     add("como-usar.xhtml", "Como usar este livro", how_to(book))
     add("calendario.xhtml", "Calendário do ano",
         calendar_page(book, '<img src="calendario.png" alt="Grade do ano litúrgico com a cor de cada dia"/>'))

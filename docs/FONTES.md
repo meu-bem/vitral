@@ -120,6 +120,41 @@ possa ser refeita sem internet. O build não lê nada disto: só os importadores
 
 - Abreviações dos livros e a forma dos salmos ("Sl 50(51)", "Sl 115(116B)", "Sl 146(147A)", "Sl 113A(114)") seguem a convenção usada nos lecionários brasileiros. **Rt, Jt, Lm, Ab, Jd** seguem o mesmo padrão (marcadas em `src/vitral/bible.py`).
 
+## Fontes da tradução das passagens
+
+A tradução é feita por IA a partir destes textos (decisão do mantenedor, 2026-10-29). Nenhum deles é
+publicado no livro; só o português. Cópias, licenças e commits fixados em `data/fontes/<id>/ORIGEM.md`.
+
+### `sblgnt`: SBL Greek New Testament
+
+- Projeto: <https://github.com/LogosBible/SBLGNT>, commit `d7f35adca9ec410e1d1499c63b4dd989d76c8d4d`; **CC BY 4.0**
+  (página <https://sblgnt.com/license/> conferida em 2026-10-29).
+- Base do Novo Testamento. A atribuição à SBL e à Logos vai na página de créditos; alterações são indicadas.
+- Não contatamos a SBL. Os termos antigos de licença impressa (relatório anual, edição diglota) não
+  constam da página atual; o Vitral não publica o grego, só o português.
+
+### `nestle1904`: Novum Testamentum Graece (Nestle, 1904), trecho avulso
+
+- Uso: somente Rm 16,25-27, ausente do SBLGNT. Texto de 1904, domínio público; edição digital em
+  <https://github.com/biblicalhumanities/Nestle1904> (commit `713f28a3b7d4d66132f5aa809fa223fe79762e5d`).
+- Cópia local: `data/fontes/nestle1904/` (`ORIGEM.md` e as três linhas gregas).
+
+### `oshb`: Open Scriptures Hebrew Bible
+
+- Projeto: <https://github.com/openscriptures/morphhb>, commit `3d15126fb1ef74867fc1434be1942e837932691f`.
+  Texto do Códice de Leningrado em domínio público; lemas e morfologia **CC BY 4.0**.
+- Base do Antigo Testamento protocanônico. Versificação hebraica, igual à do Vitral ("org").
+- Não usar a distribuição WLC do Groves Center (CC BY-NC-ND).
+
+### `clementina`: Vulgata Clementina (eBible.org)
+
+- Domínio público. Usada para conferir a tradução e como apoio nos deuterocanônicos.
+- **Pendência:** o grego dos deuterocanônicos (Swete 1887-94, domínio público) só existe em OCR do
+  Internet Archive com o texto grego ilegível (testado em 2026-10-29). As versões digitais prontas
+  (Rahlfs/CCAT, CC BY-NC-SA; Swete no GitHub, GPL-3.0) têm licença incompatível com a do projeto.
+  Enquanto não houver grego livre, os deuterocanônicos partem da Clementina, que difere do grego e da
+  Nova Vulgata (a base do Lecionário) em alguns trechos. Cada versículo traz a `fonte` usada.
+
 ## Relatórios de cruzamento
 
 - `docs/relatorios/santos-divergencias.md`: próprio dos santos, romcal × LitCal × calendário tâmil.

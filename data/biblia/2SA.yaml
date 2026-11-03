@@ -1,0 +1,489 @@
+livro: 2SA
+fonte: oshb
+versiculos:
+  '1:1':
+    texto: Depois da morte de Saul, Davi voltou de ter ferido os amalecitas e ficou em Siceleg dois dias.
+    status: ia-sem-revisao
+  '1:2':
+    texto: No terceiro dia, eis que chegou do acampamento, da parte de Saul, um homem com as vestes rasgadas
+      e terra sobre a cabeça. Ao chegar a Davi, caiu por terra e se prostrou.
+    status: ia-sem-revisao
+  '1:3':
+    texto: 'Davi lhe perguntou: “De onde vens?” Ele respondeu: “Escapei do acampamento de Israel.”'
+    status: ia-sem-revisao
+  '1:4':
+    texto: 'Davi lhe disse: “Que aconteceu? Conta-me, por favor.” Ele respondeu: “O povo fugiu da batalha,
+      e também muitos do povo caíram e morreram; e também Saul e Jônatas, seu filho, morreram.”'
+    status: ia-sem-revisao
+  '1:11':
+    texto: Davi agarrou as suas vestes e as rasgou, e o mesmo fizeram todos os homens que estavam com
+      ele.
+    status: ia-sem-revisao
+  '1:12':
+    texto: Lamentaram-se, choraram e jejuaram até a tarde por Saul, por Jônatas, seu filho, pelo povo
+      do Senhor e pela casa de Israel, porque tinham caído à espada.
+    status: ia-sem-revisao
+  '1:19':
+    texto: O esplendor de Israel jaz traspassado sobre as tuas alturas! Como caíram os valentes!
+    status: ia-sem-revisao
+  '1:23':
+    texto: Saul e Jônatas, amados e queridos em vida, nem na morte se separaram; mais ligeiros que águias,
+      mais fortes que leões.
+    status: ia-sem-revisao
+  '1:24':
+    texto: Filhas de Israel, chorai por Saul, que vos vestia de escarlate com delícias, que punha enfeites
+      de ouro sobre as vossas vestes.
+    status: ia-sem-revisao
+  '1:25':
+    texto: Como caíram os valentes no meio da batalha! Jônatas jaz traspassado sobre as tuas alturas.
+    status: ia-sem-revisao
+  '1:26':
+    texto: Aflijo-me por ti, meu irmão Jônatas; eras para mim muito amável; o teu amor por mim era mais
+      maravilhoso que o amor das mulheres.
+    status: ia-sem-revisao
+  '1:27':
+    texto: Como caíram os valentes, e pereceram as armas de guerra!
+    status: ia-sem-revisao
+  '5:1':
+    texto: 'Todas as tribos de Israel foram a Davi, em Hebron, e disseram: “Eis que somos osso teu e carne
+      tua.'
+    status: ia-sem-revisao
+  '5:2':
+    texto: 'Já antes, quando Saul era rei sobre nós, eras tu quem fazia sair e entrar Israel. E o Senhor
+      te disse: ‘Tu apascentarás o meu povo, Israel, e tu serás chefe sobre Israel.’”'
+    status: ia-sem-revisao
+  '5:3':
+    texto: Todos os anciãos de Israel foram ao rei, em Hebron, e o rei Davi fez com eles uma aliança em
+      Hebron, diante do Senhor; e ungiram Davi rei sobre Israel.
+    status: ia-sem-revisao
+  '5:4':
+    texto: Davi tinha trinta anos quando começou a reinar; reinou quarenta anos.
+    status: ia-sem-revisao
+  '5:5':
+    texto: Em Hebron reinou sobre Judá sete anos e seis meses, e em Jerusalém reinou trinta e três anos
+      sobre todo o Israel e Judá.
+    status: ia-sem-revisao
+  '5:6':
+    texto: 'O rei e os seus homens foram a Jerusalém contra os jebuseus, habitantes da terra, que disseram
+      a Davi: “Não entrarás aqui, a menos que tires os cegos e os coxos”, pensando: “Davi não entrará
+      aqui.”'
+    status: ia-sem-revisao
+  '5:7':
+    texto: Davi tomou a fortaleza de Sião, que é a Cidade de Davi.
+    status: ia-sem-revisao
+  '5:10':
+    texto: Davi ia crescendo cada vez mais, e o Senhor, Deus dos Exércitos, estava com ele.
+    status: ia-sem-revisao
+  '6:12':
+    texto: 'Foi anunciado ao rei Davi: “O Senhor abençoou a casa de Obed-Edom e tudo o que lhe pertence
+      por causa da arca de Deus.” Davi foi e fez subir a arca de Deus da casa de Obed-Edom para a Cidade
+      de Davi, com alegria.'
+    partes:
+    - 'Foi anunciado ao rei Davi: “O Senhor abençoou a casa de Obed-Edom e tudo o que lhe pertence por
+      causa da arca de Deus.”'
+    - Davi foi e fez subir a arca de Deus da casa de Obed-Edom para a Cidade de Davi, com alegria.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '6:13':
+    texto: Quando os que levavam a arca do Senhor tinham dado seis passos, ele sacrificou um touro e um
+      novilho gordo.
+    status: ia-sem-revisao
+  '6:14':
+    texto: Davi dançava com todas as forças diante do Senhor, cingido com um efod de linho.
+    status: ia-sem-revisao
+  '6:15':
+    texto: Davi e toda a casa de Israel faziam subir a arca do Senhor com aclamações e ao som da trombeta.
+    status: ia-sem-revisao
+  '6:17':
+    texto: Introduziram a arca do Senhor e a colocaram no seu lugar, no meio da tenda que Davi lhe armara;
+      e Davi ofereceu holocaustos e sacrifícios de comunhão diante do Senhor.
+    status: ia-sem-revisao
+  '6:18':
+    texto: Quando Davi acabou de oferecer os holocaustos e os sacrifícios de comunhão, abençoou o povo
+      em nome do Senhor dos Exércitos.
+    status: ia-sem-revisao
+  '6:19':
+    texto: Distribuiu a todo o povo, a toda a multidão de Israel, desde o homem até a mulher, a cada um
+      um pão, uma porção e um bolo de passas; e todo o povo voltou, cada um para a sua casa.
+    status: ia-sem-revisao
+  '7:1':
+    texto: Quando o rei se estabeleceu em sua casa, e o Senhor lhe deu repouso de todos os seus inimigos
+      ao redor,
+    status: ia-sem-revisao
+  '7:2':
+    texto: 'o rei disse ao profeta Natã: “Vê: eu moro numa casa de cedro, e a arca de Deus mora sob uma
+      tenda.”'
+    status: ia-sem-revisao
+  '7:3':
+    texto: 'Natã respondeu ao rei: “Vai, faze tudo o que está no teu coração, pois o Senhor está contigo.”'
+    status: ia-sem-revisao
+  '7:4':
+    texto: 'Naquela noite, a palavra do Senhor foi dirigida a Natã:'
+    status: ia-sem-revisao
+  '7:5':
+    texto: '“Vai e dize ao meu servo Davi: Assim diz o Senhor: Serás tu quem me edificará uma casa para
+      eu habitar?'
+    partes:
+    - '“Vai e dize ao meu servo Davi: Assim diz o Senhor:'
+    - Serás tu quem me edificará uma casa para eu habitar?
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '7:6':
+    texto: Pois não habitei em casa alguma desde o dia em que fiz subir do Egito os filhos de Israel até
+      hoje, mas andei errante numa tenda e num tabernáculo.
+    status: ia-sem-revisao
+  '7:7':
+    texto: 'Em todos os lugares por onde andei com todos os filhos de Israel, falei eu alguma palavra
+      a uma das tribos de Israel, a quem ordenei apascentar o meu povo Israel, dizendo: ‘Por que não me
+      edificastes uma casa de cedro?’'
+    status: ia-sem-revisao
+  '7:8':
+    texto: 'Agora, pois, dirás ao meu servo Davi: Assim diz o Senhor dos Exércitos: Eu te tomei da pastagem,
+      de detrás das ovelhas, para seres chefe sobre o meu povo, sobre Israel.'
+    partes:
+    - 'Agora, pois, dirás ao meu servo Davi: Assim diz o Senhor dos Exércitos: Eu te tomei da pastagem,
+      de detrás das ovelhas,'
+    - para seres chefe sobre o meu povo, sobre Israel.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '7:9':
+    texto: Estive contigo por onde quer que andaste, eliminei todos os teus inimigos diante de ti e fiz
+      para ti um nome grande, como o nome dos grandes da terra.
+    status: ia-sem-revisao
+  '7:10':
+    texto: Darei um lugar ao meu povo Israel e o plantarei, para que habite no seu lugar e não seja mais
+      perturbado, e os filhos da iniquidade não o oprimam mais, como antes,
+    status: ia-sem-revisao
+  '7:11':
+    texto: desde o dia em que estabeleci juízes sobre o meu povo Israel. Dei-te repouso de todos os teus
+      inimigos. O Senhor te anuncia que o Senhor te fará uma casa.
+    status: ia-sem-revisao
+  '7:12':
+    texto: Quando se cumprirem os teus dias e dormires com os teus pais, farei levantar depois de ti um
+      descendente teu, saído das tuas entranhas, e firmarei o seu reino.
+    status: ia-sem-revisao
+  '7:13':
+    texto: Ele edificará uma casa ao meu nome, e firmarei para sempre o trono do seu reino.
+    status: ia-sem-revisao
+  '7:14':
+    texto: Eu serei para ele pai, e ele será para mim filho. Quando ele cometer iniquidade, castigá-lo-ei
+      com vara de homens e com golpes de filhos de homens.
+    partes:
+    - Eu serei para ele pai, e ele será para mim filho.
+    - Quando ele cometer iniquidade, castigá-lo-ei com vara de homens e com golpes de filhos de homens.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '7:15':
+    texto: Mas a minha misericórdia não se afastará dele, como a retirei de Saul, que removi de diante
+      de ti.
+    status: ia-sem-revisao
+  '7:16':
+    texto: A tua casa e o teu reino permanecerão seguros para sempre diante de ti; o teu trono será firme
+      para sempre.”
+    status: ia-sem-revisao
+  '7:17':
+    texto: Natã falou a Davi conforme todas essas palavras e toda essa visão.
+    status: ia-sem-revisao
+  '7:18':
+    texto: 'O rei Davi entrou, sentou-se diante do Senhor e disse: “Quem sou eu, Senhor Deus, e que é
+      a minha casa, para me teres trazido até aqui?'
+    status: ia-sem-revisao
+  '7:19':
+    texto: E isto ainda te pareceu pouco, Senhor Deus! Falaste também da casa do teu servo para um futuro
+      distante. E esta é a lei do homem, Senhor Deus?
+    status: ia-sem-revisao
+  '7:24':
+    texto: Estabeleceste para ti o teu povo Israel como teu povo para sempre; e tu, Senhor, tornaste-te
+      o seu Deus.
+    status: ia-sem-revisao
+  '7:25':
+    texto: Agora, Senhor Deus, a palavra que disseste a respeito do teu servo e da sua casa, confirma-a
+      para sempre e faze como falaste.
+    status: ia-sem-revisao
+  '7:26':
+    texto: 'Seja engrandecido o teu nome para sempre, e diga-se: ‘O Senhor dos Exércitos é Deus sobre
+      Israel’; e a casa do teu servo Davi seja firme diante de ti.'
+    status: ia-sem-revisao
+  '7:27':
+    texto: 'Pois tu, Senhor dos Exércitos, Deus de Israel, revelaste ao ouvido do teu servo: ‘Edificar-te-ei
+      uma casa.’ Por isso o teu servo teve a ousadia de te dirigir esta oração.'
+    status: ia-sem-revisao
+  '7:28':
+    texto: Agora, Senhor Deus, tu és Deus, as tuas palavras são verdade, e prometeste ao teu servo este
+      bem.
+    status: ia-sem-revisao
+  '7:29':
+    texto: Agora, digna-te abençoar a casa do teu servo, para que permaneça para sempre diante de ti;
+      pois tu, Senhor Deus, o disseste, e com a tua bênção será abençoada para sempre a casa do teu servo.”
+    status: ia-sem-revisao
+  '11:1':
+    texto: No retorno do ano, no tempo em que os reis saem para a guerra, Davi enviou Joab, com seus servos
+      e todo o Israel; devastaram os amonitas e sitiaram Rabá. Davi, porém, ficou em Jerusalém.
+    status: ia-sem-revisao
+    observacao: 'O texto-base traz “mensageiros” (malʼakim); seguiu-se a leitura tradicional e as versões:
+      “reis”.'
+  '11:2':
+    texto: Ao entardecer, Davi levantou-se do leito e passeava pelo terraço da casa do rei; do terraço
+      viu uma mulher que se banhava, e a mulher era muito formosa.
+    status: ia-sem-revisao
+  '11:3':
+    texto: 'Davi mandou informar-se sobre a mulher, e disseram: “Não é esta Betsabeia, filha de Eliam,
+      mulher de Urias, o hitita?”'
+    status: ia-sem-revisao
+  '11:4':
+    texto: Davi enviou mensageiros e a tomou; ela veio a ele, e ele se deitou com ela, que acabara de
+      se purificar da sua impureza. Depois ela voltou para casa.
+    status: ia-sem-revisao
+  '11:5':
+    texto: 'A mulher concebeu, mandou avisar Davi e disse: “Estou grávida.”'
+    status: ia-sem-revisao
+  '11:6':
+    texto: 'Davi mandou dizer a Joab: “Envia-me Urias, o hitita.” Joab enviou Urias a Davi.'
+    status: ia-sem-revisao
+  '11:7':
+    texto: Urias foi a ele, e Davi perguntou por Joab, pelo povo e pela guerra.
+    status: ia-sem-revisao
+  '11:8':
+    texto: 'Davi disse a Urias: “Desce à tua casa e lava os teus pés.” Urias saiu da casa do rei, e foi
+      enviado atrás dele um presente do rei.'
+    status: ia-sem-revisao
+  '11:9':
+    texto: Urias deitou-se à porta da casa do rei, com todos os servos do seu senhor, e não desceu à sua
+      casa.
+    status: ia-sem-revisao
+  '11:10':
+    texto: 'Informaram a Davi: “Urias não desceu à sua casa.” Davi disse a Urias: “Não vens de viagem?
+      Por que não desceste à tua casa?”'
+    status: ia-sem-revisao
+  '11:13':
+    texto: Davi o convidou, e ele comeu e bebeu diante dele, e Davi o embriagou; à tarde ele saiu para
+      se deitar no seu leito com os servos do seu senhor, e não desceu à sua casa.
+    status: ia-sem-revisao
+  '11:14':
+    texto: De manhã, Davi escreveu uma carta a Joab e a enviou pela mão de Urias.
+    status: ia-sem-revisao
+  '11:15':
+    texto: 'Escreveu na carta: “Colocai Urias na frente, onde o combate for mais forte, e retirai-vos
+      de trás dele, para que seja ferido e morra.”'
+    status: ia-sem-revisao
+  '11:16':
+    texto: Quando Joab sitiava a cidade, pôs Urias no lugar em que sabia haver homens valentes.
+    status: ia-sem-revisao
+  '11:17':
+    texto: Os homens da cidade saíram e atacaram Joab; caíram alguns do povo, dos servos de Davi, e morreu
+      também Urias, o hitita.
+    status: ia-sem-revisao
+  '12:1':
+    texto: 'O Senhor enviou Natã a Davi. Ele foi até ele e lhe disse: “Havia dois homens numa cidade:
+      um rico e outro pobre.'
+    status: ia-sem-revisao
+  '12:2':
+    texto: O rico tinha ovelhas e bois em grande número,
+    status: ia-sem-revisao
+  '12:3':
+    texto: mas o pobre não tinha nada, a não ser uma só cordeirinha, que comprara e criara; ela cresceu
+      com ele e com os seus filhos, comendo do seu pão, bebendo do seu copo e dormindo no seu colo; era
+      para ele como uma filha.
+    status: ia-sem-revisao
+  '12:4':
+    texto: Chegou um viajante à casa do rico, e este poupou-se de tomar das suas ovelhas e dos seus bois
+      para preparar ao hóspede que lhe viera; tomou a cordeirinha do pobre e a preparou para o homem que
+      viera a ele.”
+    status: ia-sem-revisao
+  '12:5':
+    texto: 'A ira de Davi inflamou-se muito contra aquele homem, e ele disse a Natã: “Pela vida do Senhor,
+      quem fez isso merece a morte!'
+    status: ia-sem-revisao
+  '12:6':
+    texto: Pagará a cordeira quatro vezes mais, por ter feito tal coisa e por não ter tido compaixão.”
+    status: ia-sem-revisao
+  '12:7':
+    texto: 'Natã disse a Davi: “Tu és esse homem! Assim diz o Senhor, Deus de Israel: ‘Eu te ungi rei
+      sobre Israel e te livrei da mão de Saul.'
+    status: ia-sem-revisao
+  '12:8':
+    texto: Dei-te a casa do teu senhor e as mulheres do teu senhor no teu seio; dei-te a casa de Israel
+      e de Judá; e, se isso fosse pouco, eu te acrescentaria outro tanto e mais.
+    status: ia-sem-revisao
+  '12:9':
+    texto: Por que desprezaste a palavra do Senhor, fazendo o que é mau aos meus olhos? Feriste à espada
+      Urias, o hitita, tomaste a sua mulher por tua mulher e o mataste com a espada dos amonitas.
+    status: ia-sem-revisao
+  '12:10':
+    texto: Agora, a espada nunca se afastará da tua casa, porque me desprezaste e tomaste a mulher de
+      Urias, o hitita, para ser tua mulher.’
+    status: ia-sem-revisao
+  '12:11':
+    texto: 'Assim diz o Senhor: ‘Eis que suscitarei contra ti o mal da tua própria casa; tomarei diante
+      dos teus olhos as tuas mulheres e as darei ao teu próximo, que se deitará com elas à vista deste
+      sol.'
+    status: ia-sem-revisao
+  '12:12':
+    texto: Pois tu agiste às escondidas, mas eu farei isto diante de todo o Israel e diante do sol.’”
+    status: ia-sem-revisao
+  '12:13':
+    texto: 'Davi disse a Natã: “Pequei contra o Senhor.” Natã disse a Davi: “O Senhor também removeu o
+      teu pecado: não morrerás.'
+    status: ia-sem-revisao
+  '12:14':
+    texto: Mas, como com esta ação desprezaste os inimigos do Senhor, também o filho que te nasceu certamente
+      morrerá.”
+    status: ia-sem-revisao
+    observacao: O texto-base traz “os inimigos do Senhor”; a tradição entende “desprezaste o Senhor”.
+  '12:15':
+    texto: Natã foi para casa. O Senhor feriu a criança que a mulher de Urias dera a Davi, e ela adoeceu
+      gravemente.
+    status: ia-sem-revisao
+  '12:16':
+    texto: Davi suplicou a Deus pelo menino; jejuou, e, quando entrava, passava a noite deitado por terra.
+    status: ia-sem-revisao
+  '12:17':
+    texto: Os anciãos da sua casa insistiram com ele para que se levantasse do chão, mas ele não quis
+      e não comeu pão com eles.
+    status: ia-sem-revisao
+  '15:13':
+    texto: 'Veio um mensageiro a Davi, dizendo: “O coração dos homens de Israel está com Absalão.”'
+    status: ia-sem-revisao
+  '15:14':
+    texto: 'Davi disse a todos os seus servos que estavam com ele em Jerusalém: “Levantai-vos e fujamos,
+      pois não haverá escapatória para nós diante de Absalão. Apressai-vos a partir, para que ele não
+      se apresse, nos alcance, lance sobre nós o mal e fira a cidade ao fio da espada.”'
+    status: ia-sem-revisao
+  '15:30':
+    texto: Davi subia a encosta das Oliveiras, subindo e chorando, com a cabeça coberta e andando descalço;
+      e todo o povo que estava com ele cobriu cada um a sua cabeça e subia chorando.
+    status: ia-sem-revisao
+  '16:5':
+    texto: Quando o rei Davi chegou a Baurim, eis que dali saiu um homem da família da casa de Saul, chamado
+      Semei, filho de Gera; saía amaldiçoando.
+    status: ia-sem-revisao
+  '16:6':
+    texto: Atirava pedras contra Davi e contra todos os servos do rei Davi, enquanto todo o povo e todos
+      os valentes estavam à sua direita e à sua esquerda.
+    status: ia-sem-revisao
+  '16:7':
+    texto: 'Assim dizia Semei ao amaldiçoar: “Sai, sai, homem de sangue, homem de Belial!'
+    status: ia-sem-revisao
+  '16:8':
+    texto: O Senhor fez recair sobre ti todo o sangue da casa de Saul, em lugar de quem reinaste; o Senhor
+      entregou o reino na mão de Absalão, teu filho, e eis-te na tua desgraça, porque és um homem de sangue.”
+    status: ia-sem-revisao
+  '16:9':
+    texto: 'Abisai, filho de Sárvia, disse ao rei: “Por que este cão morto amaldiçoa o rei, meu senhor?
+      Deixa-me ir e cortar-lhe a cabeça.”'
+    status: ia-sem-revisao
+  '16:10':
+    texto: 'O rei respondeu: “Que tenho eu convosco, filhos de Sárvia? Se ele amaldiçoa, é porque o Senhor
+      lhe disse: ‘Amaldiçoa Davi.’ Quem então dirá: ‘Por que fazes assim?’”'
+    status: ia-sem-revisao
+  '16:11':
+    texto: 'Davi disse a Abisai e a todos os seus servos: “Eis que meu filho, saído das minhas entranhas,
+      procura a minha vida; quanto mais agora este benjaminita! Deixai-o amaldiçoar, pois o Senhor lho
+      disse.'
+    status: ia-sem-revisao
+  '16:12':
+    texto: Talvez o Senhor olhe para a minha aflição, e o Senhor me retribua com o bem esta maldição de
+      hoje.”
+    status: ia-sem-revisao
+    observacao: 'O hebraico escrito (ketiv) traz “a minha iniquidade”; seguiu-se a leitura tradicional
+      (qere): “a minha aflição”.'
+  '16:13':
+    texto: Davi e os seus homens seguiam o caminho, e Semei ia pela encosta do monte, paralelamente a
+      ele, amaldiçoando enquanto caminhava, atirando pedras contra ele e levantando poeira.
+    status: ia-sem-revisao
+  '18:9':
+    texto: Absalão deparou com os servos de Davi. Absalão estava montado num mulo, e o mulo entrou sob
+      a ramagem de um grande carvalho; a sua cabeça ficou presa no carvalho, e ele ficou suspenso entre
+      o céu e a terra, enquanto o mulo que estava debaixo dele passou adiante.
+    status: ia-sem-revisao
+  '18:10':
+    texto: 'Um homem viu isso e avisou Joab: “Vi Absalão pendurado num carvalho.”'
+    status: ia-sem-revisao
+  '18:14':
+    texto: 'Joab disse: “Não perderei tempo assim diante de ti.” Tomou três dardos na mão e os cravou
+      no coração de Absalão, ainda vivo no meio do carvalho.'
+    partes:
+    - 'Joab disse: “Não perderei tempo assim diante de ti.”'
+    - Tomou três dardos na mão e os cravou no coração de Absalão, ainda vivo no meio do carvalho.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '18:24':
+    texto: Davi estava sentado entre as duas portas. O vigia subiu ao telhado da porta, sobre a muralha,
+      levantou os olhos, olhou, e eis um homem que corria sozinho.
+    status: ia-sem-revisao
+  '18:25':
+    texto: 'O vigia gritou e avisou o rei. O rei disse: “Se está sozinho, traz boas notícias na boca.”
+      E ele vinha avançando, aproximando-se.'
+    partes:
+    - 'O vigia gritou e avisou o rei. O rei disse: “Se está sozinho, traz boas notícias na boca.”'
+    - E ele vinha avançando, aproximando-se.
+    status: ia-sem-revisao
+    observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
+  '18:30':
+    texto: 'O rei disse: “Põe-te de lado e fica aqui.” Ele pôs-se de lado e ficou.'
+    status: ia-sem-revisao
+  '18:31':
+    texto: 'Eis que chegou o cuchita e disse: “Receba boa notícia o rei, meu senhor: o Senhor te fez hoje
+      justiça, livrando-te da mão de todos os que se levantaram contra ti.”'
+    status: ia-sem-revisao
+  '18:32':
+    texto: 'O rei disse ao cuchita: “Está bem o jovem Absalão?” O cuchita respondeu: “Que aconteça ao
+      jovem o que acontece aos inimigos do rei, meu senhor, e a todos os que se levantaram contra ti para
+      o mal!”'
+    status: ia-sem-revisao
+  '19:1':
+    texto: 'O rei estremeceu, subiu ao quarto sobre a porta e chorou; dizia, ao andar: “Meu filho Absalão!
+      Meu filho, meu filho Absalão! Quem me dera morrer em teu lugar, Absalão, meu filho, meu filho!”'
+    status: ia-sem-revisao
+  '19:2':
+    texto: 'Foi dito a Joab: “Eis que o rei chora e lamenta Absalão.”'
+    status: ia-sem-revisao
+  '19:3':
+    texto: 'A vitória daquele dia converteu-se em luto para todo o povo, porque nesse dia o povo ouviu
+      dizer: “O rei está aflito por causa do seu filho.”'
+    status: ia-sem-revisao
+  '19:4':
+    texto: Naquele dia o povo entrava na cidade furtivamente, como entra furtivamente um povo envergonhado
+      ao fugir da batalha.
+    status: ia-sem-revisao
+  '24:2':
+    texto: 'O rei disse a Joab, chefe do exército que estava com ele: “Percorre todas as tribos de Israel,
+      de Dã a Bersabeia, e recenseai o povo, para que eu saiba o número do povo.”'
+    status: ia-sem-revisao
+  '24:9':
+    texto: 'Joab entregou ao rei o resultado do recenseamento do povo: em Israel havia oitocentos mil
+      homens válidos, que empunhavam a espada, e em Judá, quinhentos mil homens.'
+    status: ia-sem-revisao
+  '24:10':
+    texto: 'O coração de Davi o feriu depois de ter recenseado o povo. Davi disse ao Senhor: “Pequei gravemente
+      no que fiz. Agora, Senhor, perdoa, peço-te, a culpa do teu servo, pois agi com muita insensatez.”'
+    status: ia-sem-revisao
+  '24:11':
+    texto: 'Davi levantou-se de manhã, e a palavra do Senhor foi dirigida ao profeta Gad, vidente de Davi:'
+    status: ia-sem-revisao
+  '24:12':
+    texto: '“Vai e dize a Davi: Assim diz o Senhor: Três coisas te proponho; escolhe uma delas, e eu a
+      farei contigo.”'
+    status: ia-sem-revisao
+  '24:13':
+    texto: 'Gad foi a Davi e lhe anunciou, dizendo: “Virão sobre ti sete anos de fome na tua terra? Ou
+      fugirás três meses diante dos teus inimigos, que te perseguirão? Ou haverá três dias de peste na
+      tua terra? Agora decide e vê que resposta darei àquele que me enviou.”'
+    status: ia-sem-revisao
+  '24:14':
+    texto: 'Davi disse a Gad: “Estou muito angustiado. Caiamos, por favor, na mão do Senhor, pois são
+      grandes as suas misericórdias; mas na mão dos homens não caia eu.”'
+    status: ia-sem-revisao
+  '24:15':
+    texto: O Senhor mandou a peste sobre Israel, da manhã até o tempo marcado, e morreram do povo, desde
+      Dã até Bersabeia, setenta mil homens.
+    status: ia-sem-revisao
+  '24:16':
+    texto: 'O anjo estendeu a mão sobre Jerusalém para destruí-la, mas o Senhor arrependeu-se do mal e
+      disse ao anjo que destruía o povo: “Basta! Retira agora a tua mão.” O anjo do Senhor estava junto
+      à eira de Areuna, o jebuseu.'
+    status: ia-sem-revisao
+  '24:17':
+    texto: 'Davi disse ao Senhor, ao ver o anjo que feria o povo: “Eis que fui eu quem pecou, fui eu quem
+      agiu mal; mas estas ovelhas, que fizeram? Caia a tua mão sobre mim e sobre a casa de meu pai.”'
+    status: ia-sem-revisao

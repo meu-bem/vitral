@@ -1,0 +1,341 @@
+livro: COL
+fonte: sblgnt
+versiculos:
+  '1:1':
+    texto: Paulo, apóstolo de Cristo Jesus por vontade de Deus, e o irmão Timóteo,
+    status: ia-sem-revisao
+  '1:2':
+    texto: 'Aos santos e fiéis irmãos em Cristo que estão em Colossos: graça e paz a vós da parte de Deus,
+      nosso Pai.'
+    status: ia-sem-revisao
+  '1:3':
+    texto: Damos graças a Deus, Pai de nosso Senhor Jesus Cristo, orando sempre por vós,
+    status: ia-sem-revisao
+  '1:4':
+    texto: Desde que ouvimos falar da vossa fé em Cristo Jesus e do amor que tendes para com todos os
+      santos,
+    status: ia-sem-revisao
+  '1:5':
+    texto: Por causa da esperança que vos está reservada nos céus, da qual já ouvistes falar na palavra
+      da verdade do Evangelho
+    status: ia-sem-revisao
+  '1:6':
+    texto: Que chegou até vós, como também em todo o mundo está dando fruto e crescendo, como entre vós,
+      desde o dia em que ouvistes e conhecestes a graça de Deus na verdade;
+    status: ia-sem-revisao
+  '1:7':
+    texto: Como aprendestes de Epafras, nosso amado companheiro de serviço, que é por nós fiel ministro
+      de Cristo,
+    status: ia-sem-revisao
+  '1:8':
+    texto: Que também nos manifestou o vosso amor no Espírito.
+    status: ia-sem-revisao
+  '1:9':
+    texto: Por isso também nós, desde o dia em que o ouvimos, não cessamos de orar por vós e de pedir
+      que sejais plenamente cheios do conhecimento da sua vontade, com toda sabedoria e inteligência espiritual,
+    status: ia-sem-revisao
+  '1:10':
+    texto: Para andardes de modo digno do Senhor, agradando-lhe em tudo, dando fruto em toda boa obra
+      e crescendo no conhecimento de Deus,
+    status: ia-sem-revisao
+  '1:11':
+    texto: Fortalecidos com toda força, segundo o poder da sua glória, para toda perseverança e longanimidade,
+      com alegria,
+    status: ia-sem-revisao
+  '1:12':
+    texto: Dando graças ao Pai, que vos tornou capazes de participar da herança dos santos na luz,
+    status: ia-sem-revisao
+  '1:13':
+    texto: Que nos libertou do poder das trevas e nos transferiu para o reino do Filho do seu amor,
+    status: ia-sem-revisao
+  '1:14':
+    texto: Em quem temos a redenção, o perdão dos pecados.
+    status: ia-sem-revisao
+  '1:15':
+    texto: Ele é imagem do Deus invisível, primogênito de toda criatura,
+    status: ia-sem-revisao
+  '1:16':
+    texto: Porque nele foram criadas todas as coisas, nos céus e na terra, as visíveis e as invisíveis,
+      sejam tronos, sejam soberanias, sejam principados, sejam autoridades; tudo foi criado por meio dele
+      e para ele.
+    status: ia-sem-revisao
+  '1:17':
+    texto: Ele é antes de todas as coisas e tudo nele subsiste.
+    status: ia-sem-revisao
+  '1:18':
+    texto: Ele é a cabeça do corpo, da Igreja; ele é o princípio, o primogênito dentre os mortos, para
+      ter em tudo o primeiro lugar,
+    status: ia-sem-revisao
+  '1:19':
+    texto: Pois nele aprouve a toda a plenitude habitar,
+    status: ia-sem-revisao
+  '1:20':
+    texto: E por ele reconciliar consigo todas as coisas, pacificando, pelo sangue da sua cruz, [por ele]
+      tanto as que estão na terra como as que estão nos céus.
+    status: ia-sem-revisao
+  '1:21':
+    texto: E vós, que outrora éreis estranhos e inimigos no pensamento, pelas vossas obras más —
+    status: ia-sem-revisao
+  '1:22':
+    texto: Agora, porém, fostes reconciliados no corpo da sua carne, pela morte — para vos apresentar
+      santos, imaculados e irrepreensíveis diante dele,
+    status: ia-sem-revisao
+  '1:23':
+    texto: Se é que permaneceis na fé, fundados e firmes, sem vos afastardes da esperança do Evangelho
+      que ouvistes, que foi proclamado a toda criatura debaixo do céu, e do qual eu, Paulo, me tornei
+      ministro.
+    status: ia-sem-revisao
+  '1:24':
+    texto: Agora me alegro nos sofrimentos por vós, e completo na minha carne o que falta às tribulações
+      de Cristo, pelo seu corpo, que é a Igreja,
+    status: ia-sem-revisao
+  '1:25':
+    texto: Da qual me tornei ministro, segundo a dispensação de Deus que me foi confiada para convosco,
+      a fim de levar à plenitude a palavra de Deus,
+    status: ia-sem-revisao
+  '1:26':
+    texto: O mistério escondido desde os séculos e gerações — agora, porém, manifestado aos seus santos,
+    status: ia-sem-revisao
+  '1:27':
+    texto: 'A quem Deus quis dar a conhecer qual é a riqueza da glória deste mistério entre as nações:
+      Cristo em vós, a esperança da glória.'
+    status: ia-sem-revisao
+  '1:28':
+    texto: Nós o anunciamos, advertindo todo homem e instruindo todo homem em toda sabedoria, para apresentarmos
+      todo homem perfeito em Cristo;
+    status: ia-sem-revisao
+  '1:29':
+    texto: Para isso também me afadigo, lutando segundo a sua força, que atua poderosamente em mim.
+    status: ia-sem-revisao
+  '2:1':
+    texto: Quero, com efeito, que saibais que grande combate sustento por vós, pelos de Laodiceia e por
+      todos os que não viram o meu rosto na carne,
+    status: ia-sem-revisao
+  '2:2':
+    texto: Para que os seus corações sejam consolados, unidos no amor, e alcancem toda a riqueza da plena
+      inteligência, para o conhecimento do mistério de Deus, Cristo,
+    status: ia-sem-revisao
+  '2:3':
+    texto: Em quem estão escondidos todos os tesouros da sabedoria e do conhecimento.
+    status: ia-sem-revisao
+  '2:4':
+    texto: Digo isto para que ninguém vos engane com argumentos persuasivos.
+    status: ia-sem-revisao
+  '2:5':
+    texto: Pois, embora ausente na carne, estou convosco em espírito, alegrando-me e vendo a vossa ordem
+      e a firmeza da vossa fé em Cristo.
+    status: ia-sem-revisao
+  '2:6':
+    texto: Como, pois, recebestes o Cristo Jesus, o Senhor, nele andai,
+    status: ia-sem-revisao
+  '2:7':
+    texto: Enraizados e edificados nele, e confirmados na fé, como fostes ensinados, transbordando de
+      ação de graças.
+    status: ia-sem-revisao
+  '2:8':
+    texto: Cuidado para que ninguém vos faça presa sua por meio da filosofia e de vãs enganações, segundo
+      a tradição dos homens, segundo os elementos do mundo e não segundo Cristo;
+    status: ia-sem-revisao
+  '2:9':
+    texto: Pois nele habita corporalmente toda a plenitude da divindade,
+    status: ia-sem-revisao
+  '2:10':
+    texto: E nele estais plenificados, ele que é a cabeça de todo principado e autoridade.
+    status: ia-sem-revisao
+  '2:11':
+    texto: Nele também fostes circuncidados com uma circuncisão não feita por mão humana, no despojamento
+      do corpo da carne, na circuncisão de Cristo,
+    status: ia-sem-revisao
+  '2:12':
+    texto: Sepultados com ele no batismo, no qual também ressuscitastes com ele pela fé na ação de Deus,
+      que o ressuscitou dos mortos.
+    status: ia-sem-revisao
+  '2:13':
+    texto: E a vós, que estáveis mortos nas transgressões e na incircuncisão da vossa carne, deu-vos vida
+      com ele, perdoando-nos todas as transgressões,
+    status: ia-sem-revisao
+  '2:14':
+    texto: Cancelando o documento escrito contra nós, com suas prescrições, que nos era contrário, e eliminou-o,
+      pregando-o na cruz;
+    status: ia-sem-revisao
+  '2:15':
+    texto: Despojando os principados e as autoridades, expô-los publicamente, triunfando deles nela.
+    status: ia-sem-revisao
+  '2:16':
+    texto: Ninguém, portanto, vos julgue por comida ou bebida, ou por causa de festa, lua nova ou sábados,
+    status: ia-sem-revisao
+  '2:17':
+    texto: Que são sombra das coisas futuras, mas o corpo é de Cristo.
+    status: ia-sem-revisao
+  '2:18':
+    texto: Ninguém vos desqualifique, comprazendo-se numa humildade fingida e no culto dos anjos, insistindo
+      no que viu, inchado sem razão pela mente da sua carne,
+    status: ia-sem-revisao
+  '2:19':
+    texto: E não se mantendo ligado à Cabeça, da qual todo o corpo, nutrido e unido por articulações e
+      ligamentos, cresce com o crescimento que vem de Deus.
+    status: ia-sem-revisao
+  '2:20':
+    texto: 'Se morrestes com Cristo para os elementos do mundo, por que, como se ainda vivêsseis no mundo,
+      vos sujeitais a prescrições:'
+    status: ia-sem-revisao
+  '2:21':
+    texto: “Não toques, não proves, não manipules”,
+    status: ia-sem-revisao
+  '2:22':
+    texto: Coisas que todas se destinam a perecer pelo uso, segundo preceitos e ensinamentos dos homens?
+    status: ia-sem-revisao
+  '2:23':
+    texto: Tais coisas têm aparência de sabedoria, em culto voluntário, humildade e rigor para com o corpo,
+      mas não têm valor algum contra a satisfação da carne.
+    status: ia-sem-revisao
+  '3:1':
+    texto: Se, pois, ressuscitastes com Cristo, buscai as coisas do alto, onde Cristo está sentado à direita
+      de Deus;
+    status: ia-sem-revisao
+  '3:2':
+    texto: Pensai nas coisas do alto, não nas da terra,
+    status: ia-sem-revisao
+  '3:3':
+    texto: Pois morrestes, e a vossa vida está escondida com Cristo em Deus;
+    status: ia-sem-revisao
+  '3:4':
+    texto: Quando Cristo, que é a vossa vida, se manifestar, então também vós sereis manifestados com
+      ele na glória.
+    status: ia-sem-revisao
+  '3:5':
+    texto: 'Fazei morrer, pois, os membros que estão sobre a terra: imoralidade, impureza, paixão, desejo
+      mau e a avareza, que é idolatria;'
+    status: ia-sem-revisao
+  '3:6':
+    texto: Por causa das quais vem a ira de Deus sobre os filhos da desobediência;
+    status: ia-sem-revisao
+  '3:7':
+    texto: Entre os quais também vós andastes outrora, quando vivíeis nessas coisas.
+    status: ia-sem-revisao
+  '3:8':
+    texto: 'Agora, porém, deixai também vós tudo isso: ira, indignação, malícia, blasfêmia, palavras torpes
+      da vossa boca;'
+    status: ia-sem-revisao
+  '3:9':
+    texto: Não mintais uns aos outros, tendo-vos despojado do homem velho com suas práticas
+    status: ia-sem-revisao
+  '3:10':
+    texto: E revestido do novo, que se renova para o conhecimento, à imagem daquele que o criou,
+    status: ia-sem-revisao
+  '3:11':
+    texto: Onde não há grego e judeu, circuncisão e incircuncisão, bárbaro, cita, escravo, livre, mas
+      Cristo é tudo e está em todos.
+    status: ia-sem-revisao
+  '3:12':
+    texto: Revesti-vos, pois, como eleitos de Deus, santos e amados, de entranhas de misericórdia, bondade,
+      humildade, mansidão, longanimidade,
+    status: ia-sem-revisao
+  '3:13':
+    texto: Suportando-vos uns aos outros e perdoando-vos mutuamente, se alguém tiver queixa contra outro;
+      como o Senhor vos perdoou, assim também vós.
+    status: ia-sem-revisao
+  '3:14':
+    texto: E, sobre tudo isto, o amor, que é o vínculo da perfeição.
+    status: ia-sem-revisao
+  '3:15':
+    texto: E a paz de Cristo reine nos vossos corações, para a qual também fostes chamados em um só corpo;
+      e sede agradecidos.
+    status: ia-sem-revisao
+  '3:16':
+    texto: A palavra de Cristo habite em vós ricamente, em toda sabedoria; ensinai e admoestai-vos uns
+      aos outros com salmos, hinos e cânticos espirituais, com graça, cantando a Deus em vossos corações;
+    status: ia-sem-revisao
+  '3:17':
+    texto: E tudo o que fizerdes, em palavra ou em obra, fazei tudo em nome do Senhor Jesus, dando graças
+      por ele a Deus Pai.
+    status: ia-sem-revisao
+  '3:18':
+    texto: Mulheres, sede submissas aos maridos, como convém no Senhor.
+    status: ia-sem-revisao
+  '3:19':
+    texto: Maridos, amai as vossas mulheres e não sejais amargos para com elas.
+    status: ia-sem-revisao
+  '3:20':
+    texto: Filhos, obedecei aos pais em tudo, pois isto é agradável no Senhor.
+    status: ia-sem-revisao
+  '3:21':
+    texto: Pais, não irriteis os vossos filhos, para que não desanimem.
+    status: ia-sem-revisao
+  '3:22':
+    texto: Escravos, obedecei em tudo aos senhores segundo a carne, não só quando sois vistos, como quem
+      procura agradar aos homens, mas na simplicidade de coração, temendo o Senhor.
+    status: ia-sem-revisao
+  '3:23':
+    texto: Tudo o que fizerdes, fazei-o de coração, como para o Senhor e não para os homens,
+    status: ia-sem-revisao
+  '3:24':
+    texto: Sabendo que do Senhor recebereis, como recompensa, a herança; servi ao Senhor Cristo.
+    status: ia-sem-revisao
+  '3:25':
+    texto: Pois quem pratica a injustiça receberá a paga da injustiça que cometeu, e não há acepção de
+      pessoas.
+    status: ia-sem-revisao
+  '4:1':
+    texto: Senhores, dai aos escravos o que é justo e equitativo, sabendo que também vós tendes um Senhor
+      no céu.
+    status: ia-sem-revisao
+  '4:2':
+    texto: Perseverai na oração, vigiando nela com ação de graças,
+    status: ia-sem-revisao
+  '4:3':
+    texto: Orando ao mesmo tempo também por nós, para que Deus nos abra uma porta para a palavra, para
+      falar do mistério de Cristo, pelo qual também estou preso,
+    status: ia-sem-revisao
+  '4:4':
+    texto: Para que eu o manifeste como devo falar.
+    status: ia-sem-revisao
+  '4:5':
+    texto: Andai com sabedoria para com os de fora, aproveitando bem o tempo.
+    status: ia-sem-revisao
+  '4:6':
+    texto: A vossa palavra seja sempre amável, temperada com sal, para saberdes como convém responder
+      a cada um.
+    status: ia-sem-revisao
+  '4:7':
+    texto: Tudo o que me diz respeito vos fará saber Tíquico, o irmão amado, fiel ministro e companheiro
+      de serviço no Senhor,
+    status: ia-sem-revisao
+  '4:8':
+    texto: Que enviei a vós precisamente para que conheçais a nossa situação e ele console os vossos corações,
+    status: ia-sem-revisao
+  '4:9':
+    texto: Com Onésimo, fiel e amado irmão, que é dos vossos. Eles vos farão saber tudo o que se passa
+      aqui.
+    status: ia-sem-revisao
+  '4:10':
+    texto: 'Saúda-vos Aristarco, meu companheiro de prisão, e Marcos, primo de Barnabé (a respeito do
+      qual recebestes instruções: se for ter convosco, acolhei-o),'
+    status: ia-sem-revisao
+  '4:11':
+    texto: E Jesus, chamado Justo; estes, dos circuncisos, são os únicos colaboradores meus pelo Reino
+      de Deus, que se tornaram para mim um consolo.
+    status: ia-sem-revisao
+  '4:12':
+    texto: Saúda-vos Epafras, que é dos vossos, servo de Cristo Jesus, que sempre luta por vós nas orações,
+      para que permaneçais perfeitos e plenamente convictos em toda a vontade de Deus.
+    status: ia-sem-revisao
+  '4:13':
+    texto: Dou-lhe testemunho de que tem muito empenho por vós, pelos de Laodiceia e pelos de Hierápolis.
+    status: ia-sem-revisao
+  '4:14':
+    texto: Saúda-vos Lucas, o médico amado, e Demas.
+    status: ia-sem-revisao
+  '4:15':
+    texto: Saudai os irmãos de Laodiceia, e Ninfa e a Igreja que se reúne em sua casa.
+    status: ia-sem-revisao
+  '4:16':
+    texto: E, depois que esta carta for lida entre vós, fazei que seja lida também na Igreja dos laodicenses,
+      e que vós leiais a que vem de Laodiceia.
+    status: ia-sem-revisao
+  '4:17':
+    texto: 'E dizei a Arquipo: “Atenta ao ministério que recebeste no Senhor, para que o cumpras.”'
+    status: ia-sem-revisao
+  '4:18':
+    texto: A saudação é de minha própria mão, Paulo. Lembrai-vos das minhas cadeias. A graça esteja convosco.
+    status: ia-sem-revisao

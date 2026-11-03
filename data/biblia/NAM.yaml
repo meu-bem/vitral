@@ -1,0 +1,28 @@
+livro: NAM
+fonte: oshb
+versiculos:
+  '2:1':
+    texto: 'Eis sobre os montes os pés do mensageiro que anuncia a paz! Celebra, Judá, as tuas festas;
+      cumpre os teus votos, porque o perverso não passará mais por ti: foi totalmente exterminado.'
+    status: ia-sem-revisao
+  '2:3':
+    texto: Pois o Senhor restaura a glória de Jacó, como a glória de Israel, porque os saqueadores os
+      saquearam e destruíram os seus sarmentos.
+    status: ia-sem-revisao
+  '3:1':
+    texto: Ai da cidade sanguinária, toda ela mentira, cheia de pilhagem, de onde não cessa a rapina!
+    status: ia-sem-revisao
+  '3:2':
+    texto: Estalar de açoite, estrondo de rodas, cavalos galopando, carros saltando,
+    status: ia-sem-revisao
+  '3:3':
+    texto: 'cavaleiros avançando, lâmina de espada, brilho de lança, multidão de feridos, montões de cadáveres,
+      sem fim os corpos: tropeçam nos seus cadáveres.'
+    status: ia-sem-revisao
+  '3:6':
+    texto: Lançarei sobre ti imundícies, te desonrarei e te exporei como espetáculo.
+    status: ia-sem-revisao
+  '3:7':
+    texto: 'Todo aquele que te vir fugirá de ti e dirá: “Nínive está devastada! Quem a lamentará?” Onde
+      buscarei quem te console?'
+    status: ia-sem-revisao
