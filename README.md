@@ -8,8 +8,11 @@ Cada dia traz:
 
 - a data, o dia litúrgico, o tempo e a cor;
 - as referências da 1ª leitura, do salmo, da 2ª leitura e do evangelho, seguidas do **texto** de cada uma, em
-  tradução por IA, sem revisão humana (`data/biblia/`, ver [docs/TRADUCAO.md](docs/TRADUCAO.md));
-- QR codes, com a URL escrita ao lado, para uma busca no YouTube pelo salmo e pelo evangelho;
+  tradução por IA, sem revisão humana (`data/biblia/`, ver [docs/TRADUCAO.md](docs/TRADUCAO.md)). Cada leitura
+  vem com o anúncio do livro, as palavras de abertura ("Naquele tempo,") e a conclusão ("Palavra do Senhor."),
+  postos por regra no build, sem IA (`data/formulas.yaml`). O salmo vem em estrofes, sem refrão;
+- logo depois de cada leitura, um QR code com o título e a URL escrita, para uma busca no YouTube pelo livro e
+  pela referência (no salmo, só pelo número);
 - links para sites oficiais;
 - espaço para um comentário humano licenciado, quando houver.
 
@@ -48,7 +51,8 @@ data/  (versionado)                     src/vitral/
 ├─ calendario/santos.yaml          ├──▶ │             precedência, transferências (NUALC)
 ├─ calendario/excecoes.yaml        ┘    ├─ lectionary.py  leituras de cada dia
 ├─ lecionario/*.yaml  (referências) ──▶ ├─ book/      HTML comum → PDF (WeasyPrint) e EPUB 3
-├─ links.yaml                           ├─ build.py   um ano → dist/<ano>/
+├─ links.yaml                           ├─ proclamacao.py  anúncio, abertura, texto e conclusão de cada leitura
+├─ formulas.yaml, inicios.yaml          ├─ build.py   um ano → dist/<ano>/
 └─ fontes/  (cópias das fontes)         └─ validate.py  esquemas + lacunas
 conteudo/*.md  (textos humanos)  ─────▶ entram no dia correspondente, se válidos
 ```

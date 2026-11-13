@@ -13,12 +13,14 @@ from collections import Counter
 from datetime import date
 from pathlib import Path
 
-from .bible import parse_ref
+from .bible import BOOKS, parse_ref
 from .content import check_content
 from .data_loader import DATA_DIR, ROOT, build_year, load_yaml
+from .formulas import start_key
 from .lectionary import Lectionary
 from .liturgy import first_sunday_of_advent
 from .schema import load_schema, validate
+from .translation import lectionary_refs
 
 SCHEMAS = ROOT / "schemas"
 FILES = [
@@ -26,6 +28,8 @@ FILES = [
     (DATA_DIR / "calendario" / "regras-brasil.yaml", "regras.schema.json"),
     (DATA_DIR / "calendario" / "excecoes.yaml", "excecoes.schema.json"),
     (DATA_DIR / "links.yaml", "links.schema.json"),
+    (DATA_DIR / "formulas.yaml", "formulas.schema.json"),
+    (DATA_DIR / "inicios.yaml", "inicios.schema.json"),
 ]
 
 
@@ -70,6 +74,7 @@ def check_data() -> list[str]:
                         continue
                     if again != ref:
                         errors.append(f"{path.name}: {key}.{slot}: '{ref}' deveria ser escrito '{again}'")
+    errors += check_formulas()
     santos = load_yaml(DATA_DIR / "calendario" / "santos.yaml")["celebracoes"]
     ids = Counter(e["id"] for e in santos)
     errors += [f"santos.yaml: id repetido: {i}" for i, n in ids.items() if n > 1]
@@ -84,6 +89,26 @@ def check_data() -> list[str]:
     for e in exc.get("excecoes") or []:
         if e["celebracao"] not in ids:
             errors.append(f"excecoes.yaml: celebração inexistente: {e['celebracao']}")
+    return errors
+
+
+def check_formulas() -> list[str]:
+    """Fórmulas do livro: todos os livros presentes, aberturas existentes, exceções que apontam para leituras reais."""
+    errors: list[str] = []
+    doc = load_yaml(DATA_DIR / "formulas.yaml")
+    books = doc.get("livros", {})
+    for b in BOOKS:
+        if b.code not in books:
+            errors.append(f"formulas.yaml: livro sem entrada: {b.code}")
+    for code, entry in books.items():
+        if entry.get("abertura") and entry["abertura"] not in doc["aberturas"]:
+            errors.append(f"formulas.yaml: {code}: abertura inexistente: {entry['abertura']}")
+        if code not in ("PSA",) and "anuncio" not in entry:
+            errors.append(f"formulas.yaml: {code}: falta o anúncio da leitura")
+    starts = {start_key(r) for r in lectionary_refs(with_alternatives=True)}
+    for key in (load_yaml(DATA_DIR / "inicios.yaml") or {}).get("inicios") or {}:
+        if key not in starts:
+            errors.append(f"inicios.yaml: nenhuma leitura do Lecionário começa em '{key}'")
     return errors
 
 

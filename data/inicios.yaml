@@ -1,0 +1,443 @@
+# Exceções de abertura. Chave: o versículo onde a leitura começa (ex.: "Jo 5,17"; com letra, "Lc 9,11b").
+# Vale para toda leitura do Lecionário que começa ali, qualquer que seja o fim.
+#   abertura: palavras iniciais no lugar das automáticas ("" = nenhuma);
+#   troca: [início, substituto], troca o começo do 1º versículo (ex.: "Ele lhes respondeu" -> "Jesus lhes respondeu");
+#   motivo: por que a exceção existe.
+# Sem exceção, valem as regras de data/formulas.yaml (src/vitral/proclamacao.py). O programa não adivinha o sujeito
+# de um verbo solto: o Lecionário o escreve ("Jesus"), e aqui se faz o mesmo, à mão e com o motivo registrado.
+inicios:
+  "Jo 1,29":
+    troca: ["No dia seguinte, viu", "João viu"]
+    motivo: "sujeito implícito (João Batista)"
+  "Jo 1,35":
+    troca: ["No dia seguinte, João", "João"]
+    motivo: "o 'dia seguinte' só faz sentido com o versículo anterior"
+  "Jo 1,43":
+    troca: ["No dia seguinte, quis", "Jesus quis"]
+    motivo: "sujeito implícito (Jesus)"
+  "Jo 11,3":
+    troca: ["As irmãs mandaram", "As irmãs de Lázaro mandaram"]
+    motivo: "sem antecedente na leitura"
+  "Jo 13,31":
+    troca: ["Quando ele saiu", "Quando Judas saiu"]
+    motivo: "'ele' é Judas, mencionado antes da leitura"
+  "Jo 20,2":
+    troca: ["Corre, então, e vai", "Maria Madalena corre, então, e vai"]
+    motivo: "sujeito implícito (Maria Madalena)"
+  "Jo 4,43":
+    troca: ["Passados os dois dias, partiu", "Passados os dois dias, Jesus partiu"]
+    motivo: "sujeito implícito (Jesus)"
+  "Jo 4,5":
+    troca: ["Chegou, pois,", "Jesus chegou, pois,"]
+    motivo: "sujeito implícito (Jesus)"
+  "Jo 5,17":
+    troca: ["Ele lhes respondeu", "Jesus lhes respondeu"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Jo 6,30":
+    troca: ["Disseram-lhe, então", "Os da multidão disseram-lhe, então"]
+    motivo: "sujeito implícito (a multidão)"
+  "Jo 8,21":
+    troca: ["Disse-lhes, então, de novo", "Jesus lhes disse, então, de novo"]
+    motivo: "sujeito implícito (Jesus)"
+  "Jo 9,1":
+    troca: ["Ao passar, viu", "Ao passar, Jesus viu"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 10,1":
+    troca: ["Depois disso, o Senhor", "O Senhor"]
+    motivo: "'depois disso' só faz sentido com o versículo anterior"
+  "Lc 10,38":
+    troca: ["Enquanto caminhavam, ele", "Enquanto caminhavam, Jesus"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Lc 11,1":
+    troca: ["Aconteceu que, estando ele a orar", "Aconteceu que, estando Jesus a orar"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Lc 11,14":
+    troca: ["Ele expulsava", "Jesus expulsava"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Lc 11,27":
+    troca: ["Enquanto ele dizia isso", "Enquanto Jesus dizia isso"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Lc 11,29":
+    troca: ["Reunindo-se as multidões, começou", "Reunindo-se as multidões, Jesus começou"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 11,37":
+    troca: ["Enquanto ele falava", "Enquanto Jesus falava"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Lc 11,5":
+    troca: ["Disse-lhes ainda", "Jesus lhes disse ainda"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 12,1":
+    troca: ["Nesse meio tempo, reunindo-se milhares da multidão, a ponto de se pisarem uns aos outros, começou", "Nesse meio tempo, reunindo-se milhares da multidão, a ponto de se pisarem uns aos outros, Jesus começou"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 12,54":
+    troca: ["Dizia também", "Jesus dizia também"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 13,10":
+    troca: ["Ele ensinava", "Jesus ensinava"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Lc 13,18":
+    troca: ["Dizia, pois", "Jesus dizia, pois"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 13,22":
+    troca: ["Percorria", "Jesus percorria"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 14,1":
+    troca: ["Aconteceu que, tendo entrado", "Aconteceu que, tendo Jesus entrado"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 14,12":
+    troca: ["Dizia também", "Jesus dizia também"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 15,3":
+    troca: ["Ele lhes contou", "Jesus lhes contou"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Lc 16,1":
+    troca: ["Dizia também", "Jesus dizia também"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 17,1":
+    troca: ["Disse aos seus discípulos", "Jesus disse aos seus discípulos"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 17,11":
+    troca: ["Aconteceu que, a caminho de Jerusalém, ele", "Aconteceu que, a caminho de Jerusalém, Jesus"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Lc 17,20":
+    troca: ["Interrogado pelos fariseus", "Jesus, interrogado pelos fariseus"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 18,1":
+    troca: ["Contou-lhes", "Jesus contou-lhes"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 18,35":
+    troca: ["Aconteceu que, ao aproximar-se ele", "Aconteceu que, ao aproximar-se Jesus"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Lc 18,9":
+    troca: ["Disse também", "Jesus disse também"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 19,1":
+    troca: ["Entrando em Jericó,", "Jesus, entrando em Jericó,"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 19,11":
+    troca: ["Ao ouvirem eles isso, ele acrescentou", "Ao ouvirem eles isso, Jesus acrescentou"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Lc 19,41":
+    troca: ["Quando se aproximou", "Quando Jesus se aproximou"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 19,45":
+    troca: ["Entrando no templo,", "Jesus, entrando no templo,"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 19,28":
+    troca: ["Dito isto, ia", "Dito isto, Jesus ia"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 2,16":
+    troca: ["Foram depressa", "Os pastores foram depressa"]
+    motivo: "sujeito implícito (os pastores)"
+  "Lc 21,1":
+    troca: ["Levantando os olhos,", "Jesus, levantando os olhos,"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 21,29":
+    troca: ["Contou-lhes", "Jesus contou-lhes"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 22,14":
+    troca: ["Quando chegou a hora, pôs-se", "Quando chegou a hora, Jesus pôs-se"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 24,35":
+    troca: ["Eles contaram", "Os dois discípulos contaram"]
+    motivo: "'eles' são os dois de Emaús, mencionados antes da leitura"
+  "Lc 24,46":
+    troca: ["E lhes disse", "Jesus lhes disse"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 4,16":
+    troca: ["Foi a Nazaré", "Jesus foi a Nazaré"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 4,21":
+    troca: ["Começou a dizer-lhes", "Jesus começou a dizer-lhes"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 4,24":
+    troca: ["Acrescentou", "Jesus acrescentou"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 4,31":
+    troca: ["Desceu", "Jesus desceu"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 4,38":
+    troca: ["Levantando-se da sinagoga,", "Jesus, levantando-se da sinagoga,"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 5,12":
+    troca: ["Estando ele", "Estando Jesus"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Lc 5,17":
+    troca: ["Aconteceu, num desses dias, que ele", "Aconteceu, num desses dias, que Jesus"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Lc 5,27":
+    troca: ["Depois disso, saiu", "Depois disso, Jesus saiu"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 5,33":
+    troca: ["Eles lhe disseram", "Os fariseus e os escribas lhe disseram"]
+    motivo: "'eles' são os fariseus e escribas do versículo anterior"
+  "Lc 6,1":
+    troca: ["Aconteceu que, num sábado, ele", "Aconteceu que, num sábado, Jesus"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Lc 6,17":
+    troca: ["Descendo com eles,", "Jesus, descendo com eles,"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 6,20":
+    troca: ["Levantando os olhos", "Jesus, levantando os olhos"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 6,39":
+    troca: ["Disse-lhes também", "Jesus lhes disse também"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 6,6":
+    troca: ["Aconteceu, em outro sábado, que ele", "Aconteceu, em outro sábado, que Jesus"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Lc 7,1":
+    troca: ["Depois de terminar", "Jesus, depois de terminar"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 7,19":
+    troca: ["Enviou-os ao Senhor", "João enviou-os ao Senhor"]
+    motivo: "sujeito implícito (João Batista)"
+  "Lc 7,24":
+    troca: ["Quando os mensageiros de João partiram, começou", "Quando os mensageiros de João partiram, Jesus começou"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 8,1":
+    troca: ["Em seguida, ele", "Em seguida, Jesus"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Lc 8,4":
+    troca: ["Reunindo-se uma grande multidão e vindo a ele gente de todas as cidades, falou", "Reunindo-se uma grande multidão e vindo a ele gente de todas as cidades, Jesus falou"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 9,1":
+    troca: ["Reunindo os Doze,", "Jesus, reunindo os Doze,"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 9,11b":
+    troca: ["Ele as acolheu", "Jesus acolheu as multidões"]
+    motivo: "pronome sem antecedente (a leitura começa no meio do versículo)"
+  "Lc 9,18":
+    troca: ["Aconteceu que, estando ele", "Aconteceu que, estando Jesus"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Lc 9,22":
+    troca: ["Dizendo", "Jesus disse"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 9,23":
+    troca: ["Dizia a todos", "Jesus dizia a todos"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 9,28b":
+    troca: ["tomou consigo", "Jesus tomou consigo"]
+    motivo: "a leitura começa no meio do versículo; sujeito implícito (Jesus)"
+  "Lc 9,43b":
+    troca: ["Enquanto todos se maravilhavam com tudo o que fazia, disse", "Enquanto todos se maravilhavam com tudo o que Jesus fazia, ele disse"]
+    motivo: "a leitura começa no meio do versículo; sujeito implícito (Jesus)"
+  "Lc 9,51":
+    troca: ["Aconteceu que, ao completarem-se os dias da sua elevação, ele", "Aconteceu que, ao completarem-se os dias da sua elevação, Jesus"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Lc 10,21":
+    troca: ["Naquela mesma hora, exultou", "Naquela mesma hora, Jesus exultou"]
+    motivo: "sujeito implícito (Jesus)"
+  "Lc 24,1":
+    troca: ["No primeiro dia da semana, de madrugada bem cedo, foram", "No primeiro dia da semana, de madrugada bem cedo, as mulheres foram"]
+    motivo: "sujeito implícito (as mulheres de Lc 23,55)"
+  "Lc 6,12":
+    troca: ["Naqueles dias, ele saiu", "Naqueles dias, Jesus saiu"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Mc 1,12":
+    troca: ["Logo o Espírito o impeliu", "Logo o Espírito impeliu Jesus"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Mc 1,21":
+    troca: ["Chegaram a Cafarnaum.", "Jesus e os seus discípulos chegaram a Cafarnaum."]
+    motivo: "sujeito implícito (Jesus e os discípulos)"
+  "Mc 1,29":
+    troca: ["Logo, saindo da sinagoga, foram", "Logo, saindo da sinagoga, Jesus e os seus discípulos foram"]
+    motivo: "sujeito implícito (Jesus e os discípulos)"
+  "Mc 1,7":
+    troca: ["Proclamava", "João proclamava"]
+    motivo: "sujeito implícito (João Batista)"
+  "Mc 10,1":
+    troca: ["Levantando-se dali,", "Jesus, levantando-se dali,"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 10,17":
+    troca: ["Quando ele saía", "Quando Jesus saía"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Mc 10,2":
+    troca: ["Perguntavam-lhe", "Alguns fariseus perguntavam-lhe"]
+    motivo: "sujeito implícito (fariseus)"
+  "Mc 10,46":
+    troca: ["Chegaram a Jericó.", "Jesus e os seus discípulos chegaram a Jericó."]
+    motivo: "sujeito implícito (Jesus e os discípulos)"
+  "Mc 11,11":
+    troca: ["Entrou em Jerusalém", "Jesus entrou em Jerusalém"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 11,27":
+    troca: ["Voltaram a Jerusalém.", "Jesus e os seus discípulos voltaram a Jerusalém."]
+    motivo: "sujeito implícito (Jesus e os discípulos)"
+  "Mc 12,1":
+    troca: ["Começou a falar-lhes", "Jesus começou a falar-lhes"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 12,28b":
+    troca: ["Perguntou-lhe", "Um escriba lhe perguntou"]
+    motivo: "a leitura começa no meio do versículo; sujeito implícito (um escriba)"
+  "Mc 12,38":
+    troca: ["Dizia em seu ensinamento", "Jesus dizia em seu ensinamento"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 12,41":
+    troca: ["Sentando-se defronte", "Jesus, sentando-se defronte"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 16,15":
+    troca: ["E lhes disse", "Jesus lhes disse"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 16,9":
+    troca: ["Tendo ressuscitado", "Jesus, tendo ressuscitado"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 2,1":
+    troca: ["Tendo entrado", "Jesus, tendo entrado"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 2,13":
+    troca: ["Saiu", "Jesus saiu"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 2,23":
+    troca: ["Aconteceu que ele", "Aconteceu que Jesus"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Mc 3,1":
+    troca: ["Entrou", "Jesus entrou"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 3,13":
+    troca: ["Subiu", "Jesus subiu"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 3,20":
+    troca: ["Ele foi", "Jesus foi"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Mc 4,1":
+    troca: ["De novo começou", "De novo Jesus começou"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 4,21":
+    troca: ["E lhes dizia", "Jesus lhes dizia"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 4,26":
+    troca: ["E dizia", "Jesus dizia"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 4,35":
+    troca: ["Naquele dia, ao cair da tarde, lhes disse", "Naquele dia, ao cair da tarde, Jesus lhes disse"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 5,1":
+    troca: ["Chegaram", "Jesus e os seus discípulos chegaram"]
+    motivo: "sujeito implícito (Jesus e os discípulos)"
+  "Mc 6,1":
+    troca: ["Saiu dali", "Jesus saiu dali"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 6,34":
+    troca: ["Ao desembarcar,", "Jesus, ao desembarcar,"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 6,45":
+    troca: ["Logo obrigou", "Logo Jesus obrigou"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 6,53":
+    troca: ["Tendo atravessado,", "Jesus e os seus discípulos, tendo atravessado,"]
+    motivo: "sujeito implícito (Jesus e os discípulos)"
+  "Mc 6,7":
+    troca: ["Chamou", "Jesus chamou"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 7,14":
+    troca: ["Chamando de novo a multidão,", "Jesus, chamando de novo a multidão,"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 7,24":
+    troca: ["Levantando-se dali,", "Jesus, levantando-se dali,"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 7,31":
+    troca: ["De novo, saindo da região de Tiro,", "Jesus, saindo de novo da região de Tiro,"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 8,14":
+    troca: ["Esqueceram-se", "Os discípulos esqueceram-se"]
+    motivo: "sujeito implícito (os discípulos)"
+  "Mc 8,22":
+    troca: ["Chegaram", "Jesus e os seus discípulos chegaram"]
+    motivo: "sujeito implícito (Jesus e os discípulos)"
+  "Mc 8,34":
+    troca: ["Chamando a multidão", "Jesus, chamando a multidão"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mc 9,30":
+    troca: ["Saindo dali,", "Jesus e os seus discípulos, saindo dali,"]
+    motivo: "sujeito implícito (Jesus e os discípulos)"
+  "Mc 9,34":
+    troca: ["Eles se calavam", "Os discípulos se calavam"]
+    motivo: "pronome sem antecedente (os discípulos)"
+  "Mc 8,1":
+    troca: ["Naqueles dias, havendo de novo uma grande multidão e não tendo o que comer, chamou", "Naqueles dias, havendo de novo uma grande multidão e não tendo o que comer, Jesus chamou"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mt 10,1":
+    troca: ["Chamando os seus doze discípulos,", "Jesus, chamando os seus doze discípulos,"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mt 11,20":
+    troca: ["Começou", "Jesus começou"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mt 13,24":
+    troca: ["Propôs-lhes", "Jesus lhes propôs"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mt 13,31":
+    troca: ["Propôs-lhes", "Jesus lhes propôs"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mt 13,36":
+    troca: ["Deixando as multidões,", "Jesus, deixando as multidões,"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mt 13,54":
+    troca: ["Chegando à sua terra,", "Jesus, chegando à sua terra,"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mt 14,22":
+    troca: ["Logo obrigou", "Logo Jesus obrigou"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mt 2,13":
+    troca: ["Depois que eles partiram", "Depois que os magos partiram"]
+    motivo: "'eles' são os magos, mencionados antes da leitura"
+  "Mt 21,23":
+    troca: ["Tendo ele chegado", "Tendo Jesus chegado"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Mt 28,8":
+    troca: ["Elas,", "As mulheres,"]
+    motivo: "pronome sem antecedente (as mulheres)"
+  "Mt 4,12":
+    troca: ["Ouvindo que João fora entregue,", "Jesus, ouvindo que João fora entregue,"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mt 4,18":
+    troca: ["Caminhando", "Jesus, caminhando"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mt 5,1":
+    troca: ["Vendo as multidões,", "Jesus, vendo as multidões,"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mt 8,1":
+    troca: ["Tendo ele descido", "Tendo Jesus descido"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Mt 8,23":
+    troca: ["Tendo ele entrado", "Tendo Jesus entrado"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Mt 8,28":
+    troca: ["Tendo ele chegado", "Tendo Jesus chegado"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Mt 8,5":
+    troca: ["Tendo ele entrado", "Tendo Jesus entrado"]
+    motivo: "pronome sem antecedente (Jesus)"
+  "Mt 9,1":
+    troca: ["Entrando no barco,", "Jesus, entrando no barco,"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mt 9,18":
+    troca: ["Enquanto lhes dizia isso", "Enquanto Jesus lhes dizia isso"]
+    motivo: "sujeito implícito (Jesus)"
+  "Mt 9,36":
+    troca: ["Vendo as multidões,", "Jesus, vendo as multidões,"]
+    motivo: "sujeito implícito (Jesus)"
+  "Jo 1,19":
+    abertura: ""
+    motivo: "a leitura abre com 'Este é o testemunho de João', que já situa o texto"
+  "Jo 1,6":
+    abertura: ""
+    motivo: "a leitura abre com a apresentação de João, que já situa o texto"
+  "Jo 3,31":
+    abertura: ""
+    motivo: "não está claro quem fala (João Batista ou o evangelista); sem abertura, para não atribuir a fala"
+  "Lc 1,26":
+    abertura: ""
+    motivo: "o texto abre com 'No sexto mês', que já situa a cena"
+  "Lc 1,5":
+    abertura: ""
+    motivo: "o texto abre com 'Nos dias de Herodes', que já situa a cena"
+  "Lc 3,1":
+    abertura: ""
+    motivo: "o texto abre com a data do ministério de João, que já situa a cena"
+  "Mt 1,16":
+    abertura: ""
+    motivo: "genealogia: começa no meio da lista"
+  "Mt 1,18":
+    abertura: ""
+    motivo: "o texto abre com 'A origem de Jesus Cristo foi assim', que já situa a cena"

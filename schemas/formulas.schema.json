@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Fórmulas fixas do livro (data/formulas.yaml)",
+  "type": "object",
+  "required": ["conclusoes", "aberturas", "dispensam_abertura", "dispensam_abertura_nas_cartas", "conjuncoes_iniciais", "livros"],
+  "additionalProperties": false,
+  "properties": {
+    "conclusoes": {
+      "type": "object",
+      "required": ["leitura", "evangelho"],
+      "additionalProperties": false,
+      "properties": {"leitura": {"type": "string", "minLength": 3}, "evangelho": {"type": "string", "minLength": 3}}
+    },
+    "aberturas": {
+      "type": "object",
+      "required": ["evangelho", "discurso"],
+      "patternProperties": {"^[a-z-]+$": {"type": "string", "pattern": "[,:]$"}},
+      "additionalProperties": false
+    },
+    "dispensam_abertura": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 2}},
+    "dispensam_abertura_nas_cartas": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 2}},
+    "conjuncoes_iniciais": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+    "livros": {
+      "type": "object",
+      "patternProperties": {
+        "^[0-9A-Z]{3}$": {
+          "type": "object",
+          "required": ["nome"],
+          "additionalProperties": false,
+          "properties": {
+            "nome": {"type": "string", "minLength": 2},
+            "anuncio": {"type": "string", "minLength": 10},
+            "abertura": {"type": "string", "pattern": "^[a-z-]+$"}
+          }
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}

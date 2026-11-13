@@ -1,0 +1,124 @@
+# Fórmulas fixas do livro: nomes dos livros, anúncio, abertura e conclusão das leituras.
+#
+# Não é texto bíblico nem tradução. São os títulos e as aclamações que a liturgia usa em volta da leitura
+# (Introdução Geral ao Lecionário, n. 120-125: anúncio, palavras iniciais, "Palavra do Senhor"), escritos à mão.
+# O livro aplica estas regras no build, sem IA (src/vitral/proclamacao.py). Exceções por leitura: data/inicios.yaml.
+
+conclusoes:
+  leitura: Palavra do Senhor.
+  evangelho: Palavra da Salvação.
+
+# Palavras iniciais, antes do texto. Terminam em vírgula; o texto segue em minúscula (salvo nome próprio).
+aberturas:
+  evangelho: "Naquele tempo,"
+  discurso: "Naquele tempo, Jesus disse:"   # evangelho que começa no meio de uma fala (ver proclamacao.py)
+  naqueles-dias: "Naqueles dias,"
+  irmaos: "Irmãos,"
+  carissimo: "Caríssimo,"
+  carissimos: "Caríssimos,"
+
+# Não se acrescenta abertura quando o texto já começa com marca de tempo.
+dispensam_abertura:
+  - Naquele
+  - Naquela
+  - Naqueles
+  - Naquelas
+  - No princípio
+  - No primeiro dia
+  - Ao anoitecer
+
+# Nas cartas, também não: o texto já traz o vocativo ou o autor se apresentando.
+dispensam_abertura_nas_cartas:
+  - Irmãos
+  - Meus irmãos
+  - Caríssimo
+  - Caríssimos
+  - Amados
+  - Meus amados
+  - Filhinhos
+  - Meus filhinhos
+  - Paulo
+  - Eu, Paulo
+  - Pedro
+  - Simão Pedro
+  - Tiago
+  - Judas
+  - Eu, João
+
+# Conjunção que abre o trecho e que se tira ao proclamar ("E Maria disse" -> "Maria disse").
+conjuncoes_iniciais: [E, Mas, Pois, Então, Ora, Porém, Contudo]
+
+livros:
+  GEN: {nome: Gênesis, anuncio: Leitura do Livro do Gênesis., abertura: naqueles-dias}
+  EXO: {nome: Êxodo, anuncio: Leitura do Livro do Êxodo., abertura: naqueles-dias}
+  LEV: {nome: Levítico, anuncio: Leitura do Livro do Levítico.}
+  NUM: {nome: Números, anuncio: Leitura do Livro dos Números.}
+  DEU: {nome: Deuteronômio, anuncio: Leitura do Livro do Deuteronômio.}
+  JOS: {nome: Josué, anuncio: Leitura do Livro de Josué., abertura: naqueles-dias}
+  JDG: {nome: Juízes, anuncio: Leitura do Livro dos Juízes., abertura: naqueles-dias}
+  RUT: {nome: Rute, anuncio: Leitura do Livro de Rute., abertura: naqueles-dias}
+  1SA: {nome: 1 Samuel, anuncio: Leitura do Primeiro Livro de Samuel., abertura: naqueles-dias}
+  2SA: {nome: 2 Samuel, anuncio: Leitura do Segundo Livro de Samuel., abertura: naqueles-dias}
+  1KI: {nome: 1 Reis, anuncio: Leitura do Primeiro Livro dos Reis., abertura: naqueles-dias}
+  2KI: {nome: 2 Reis, anuncio: Leitura do Segundo Livro dos Reis., abertura: naqueles-dias}
+  1CH: {nome: 1 Crônicas, anuncio: Leitura do Primeiro Livro das Crônicas., abertura: naqueles-dias}
+  2CH: {nome: 2 Crônicas, anuncio: Leitura do Segundo Livro das Crônicas., abertura: naqueles-dias}
+  EZR: {nome: Esdras, anuncio: Leitura do Livro de Esdras., abertura: naqueles-dias}
+  NEH: {nome: Neemias, anuncio: Leitura do Livro de Neemias., abertura: naqueles-dias}
+  TOB: {nome: Tobias, anuncio: Leitura do Livro de Tobias., abertura: naqueles-dias}
+  JDT: {nome: Judite, anuncio: Leitura do Livro de Judite., abertura: naqueles-dias}
+  EST: {nome: Ester, anuncio: Leitura do Livro de Ester., abertura: naqueles-dias}
+  1MA: {nome: 1 Macabeus, anuncio: Leitura do Primeiro Livro dos Macabeus., abertura: naqueles-dias}
+  2MA: {nome: 2 Macabeus, anuncio: Leitura do Segundo Livro dos Macabeus., abertura: naqueles-dias}
+  JOB: {nome: Jó, anuncio: Leitura do Livro de Jó.}
+  PSA: {nome: Salmo}
+  PRO: {nome: Provérbios, anuncio: Leitura do Livro dos Provérbios.}
+  ECC: {nome: Eclesiastes, anuncio: Leitura do Livro do Eclesiastes.}
+  SNG: {nome: Cântico dos Cânticos, anuncio: Leitura do Livro do Cântico dos Cânticos.}
+  WIS: {nome: Sabedoria, anuncio: Leitura do Livro da Sabedoria.}
+  SIR: {nome: Eclesiástico, anuncio: Leitura do Livro do Eclesiástico.}
+  ISA: {nome: Isaías, anuncio: Leitura do Livro do Profeta Isaías.}
+  JER: {nome: Jeremias, anuncio: Leitura do Livro do Profeta Jeremias.}
+  LAM: {nome: Lamentações, anuncio: Leitura do Livro das Lamentações.}
+  BAR: {nome: Baruc, anuncio: Leitura do Livro do Profeta Baruc.}
+  EZK: {nome: Ezequiel, anuncio: Leitura do Livro do Profeta Ezequiel.}
+  DAN: {nome: Daniel, anuncio: Leitura do Livro do Profeta Daniel.}
+  HOS: {nome: Oseias, anuncio: Leitura do Livro do Profeta Oseias.}
+  JOL: {nome: Joel, anuncio: Leitura do Livro do Profeta Joel.}
+  AMO: {nome: Amós, anuncio: Leitura do Livro do Profeta Amós.}
+  OBA: {nome: Abdias, anuncio: Leitura do Livro do Profeta Abdias.}
+  JON: {nome: Jonas, anuncio: Leitura do Livro do Profeta Jonas.}
+  MIC: {nome: Miqueias, anuncio: Leitura do Livro do Profeta Miqueias.}
+  NAM: {nome: Naum, anuncio: Leitura do Livro do Profeta Naum.}
+  HAB: {nome: Habacuc, anuncio: Leitura do Livro do Profeta Habacuc.}
+  ZEP: {nome: Sofonias, anuncio: Leitura do Livro do Profeta Sofonias.}
+  HAG: {nome: Ageu, anuncio: Leitura do Livro do Profeta Ageu.}
+  ZEC: {nome: Zacarias, anuncio: Leitura do Livro do Profeta Zacarias.}
+  MAL: {nome: Malaquias, anuncio: Leitura do Livro do Profeta Malaquias.}
+  MAT: {nome: Mateus, anuncio: Proclamação do Evangelho de Jesus Cristo segundo Mateus.}
+  MRK: {nome: Marcos, anuncio: Proclamação do Evangelho de Jesus Cristo segundo Marcos.}
+  LUK: {nome: Lucas, anuncio: Proclamação do Evangelho de Jesus Cristo segundo Lucas.}
+  JHN: {nome: João, anuncio: Proclamação do Evangelho de Jesus Cristo segundo João.}
+  ACT: {nome: Atos dos Apóstolos, anuncio: Leitura dos Atos dos Apóstolos., abertura: naqueles-dias}
+  ROM: {nome: Romanos, anuncio: Leitura da Carta de São Paulo aos Romanos., abertura: irmaos}
+  1CO: {nome: 1 Coríntios, anuncio: Leitura da Primeira Carta de São Paulo aos Coríntios., abertura: irmaos}
+  2CO: {nome: 2 Coríntios, anuncio: Leitura da Segunda Carta de São Paulo aos Coríntios., abertura: irmaos}
+  GAL: {nome: Gálatas, anuncio: Leitura da Carta de São Paulo aos Gálatas., abertura: irmaos}
+  EPH: {nome: Efésios, anuncio: Leitura da Carta de São Paulo aos Efésios., abertura: irmaos}
+  PHP: {nome: Filipenses, anuncio: Leitura da Carta de São Paulo aos Filipenses., abertura: irmaos}
+  COL: {nome: Colossenses, anuncio: Leitura da Carta de São Paulo aos Colossenses., abertura: irmaos}
+  1TH: {nome: 1 Tessalonicenses, anuncio: Leitura da Primeira Carta de São Paulo aos Tessalonicenses., abertura: irmaos}
+  2TH: {nome: 2 Tessalonicenses, anuncio: Leitura da Segunda Carta de São Paulo aos Tessalonicenses., abertura: irmaos}
+  1TI: {nome: 1 Timóteo, anuncio: Leitura da Primeira Carta de São Paulo a Timóteo., abertura: carissimo}
+  2TI: {nome: 2 Timóteo, anuncio: Leitura da Segunda Carta de São Paulo a Timóteo., abertura: carissimo}
+  TIT: {nome: Tito, anuncio: Leitura da Carta de São Paulo a Tito., abertura: carissimo}
+  PHM: {nome: Filêmon, anuncio: Leitura da Carta de São Paulo a Filêmon., abertura: carissimo}
+  HEB: {nome: Hebreus, anuncio: Leitura da Carta aos Hebreus., abertura: irmaos}
+  JAS: {nome: Tiago, anuncio: Leitura da Carta de São Tiago., abertura: carissimos}
+  1PE: {nome: 1 Pedro, anuncio: Leitura da Primeira Carta de São Pedro., abertura: carissimos}
+  2PE: {nome: 2 Pedro, anuncio: Leitura da Segunda Carta de São Pedro., abertura: carissimos}
+  1JN: {nome: 1 João, anuncio: Leitura da Primeira Carta de São João., abertura: carissimos}
+  2JN: {nome: 2 João, anuncio: Leitura da Segunda Carta de São João., abertura: carissimos}
+  3JN: {nome: 3 João, anuncio: Leitura da Terceira Carta de São João., abertura: carissimos}
+  JUD: {nome: Judas, anuncio: Leitura da Carta de São Judas., abertura: carissimos}
+  REV: {nome: Apocalipse, anuncio: Leitura do Livro do Apocalipse de São João.}

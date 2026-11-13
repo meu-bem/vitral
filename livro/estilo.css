@@ -9,7 +9,7 @@
 
 html { font-family: "EB Garamond", Georgia, serif; font-size: 11pt; line-height: 1.38; color: #1d1d1d; }
 body { margin: 0; hyphens: auto; }
-h1, h2, h3, .data, .meta, .leituras th, .busca-rotulo, .url, .nota, .credito, .tabela, figcaption,
+h1, h2, h3, .data, .meta, .leituras th, .busca-chamada, .busca-rotulo, .url, .nota, .credito, .tabela, figcaption,
 .anotacoes-rotulo, .subtitulo, .ciclo { font-family: "Source Sans 3", "Helvetica Neue", Arial, sans-serif; }
 h1 { font-size: 1.5em; font-weight: bold; margin: 0 0 0.6em; }
 h2 { font-size: 1.1em; margin: 1.2em 0 0.4em; }
@@ -51,20 +51,28 @@ figcaption { font-size: 0.8em; color: #555; margin-top: 0.4em; }
 .marca { font-size: 0.7em; vertical-align: super; margin-left: 0.1em; color: #777; }
 .alt { font-size: 0.8em; color: #666; }
 
-.buscas { display: flex; gap: 0.8em; margin-top: 0.6em; }
-.busca { flex: 1; min-width: 0; }
-.qr svg { width: 22mm; height: 22mm; display: block; }
-.busca-rotulo { font-size: 0.72em; font-weight: bold; margin: 0.2em 0 0; }
-.url { font-size: 0.55em; color: #555; margin: 0; line-height: 1.25; font-family: "Source Sans 3", sans-serif; }
+/* Busca no YouTube, logo depois de cada leitura. No EPUB/Kindle: QR em PNG, empilhado e grande. */
+.busca { margin: 0.7em 0 0.9em; break-inside: avoid; page-break-inside: avoid; }
+.qr img { display: block; width: 45%; height: auto; margin: 0 0 0.3em; }
+.qr svg { width: 28mm; height: 28mm; display: block; }
+.busca-chamada { font-size: 0.65em; text-transform: uppercase; letter-spacing: 0.05em; color: #666; margin: 0; }
+.busca-rotulo { font-size: 0.8em; font-weight: bold; margin: 0.1em 0 0.15em; }
+.url { font-size: 0.6em; color: #555; margin: 0; line-height: 1.25; font-family: "Source Sans 3", sans-serif; hyphens: none; }
 
 .comentario { margin-top: 0.8em; border-top: 0.5px solid #bbb; padding-top: 0.4em; }
 .comentario p { text-align: justify; margin: 0.3em 0; }
 .credito { font-size: 0.72em; color: #555; }
 
 .leitura-texto { margin: 0.7em 0 0; }
-.leitura-texto h3 { font-size: 0.75em; font-weight: bold; color: #555; text-transform: uppercase; letter-spacing: 0.03em; margin: 0 0 0.15em; break-after: avoid; }
+.leitura-texto h3 { font-size: 0.75em; font-weight: bold; color: #555; margin: 0 0 0.15em; break-after: avoid; page-break-after: avoid; }
+.leitura-texto h3 .rot { text-transform: uppercase; letter-spacing: 0.03em; }
 .leitura-texto p { font-size: 0.88em; line-height: 1.38; margin: 0; text-align: justify; hyphens: auto; }
 sup.v { font-family: "Source Sans 3", sans-serif; font-size: 0.62em; font-weight: bold; color: #777; margin: 0 0.15em 0 0.25em; line-height: 0; }
+.leitura-texto .anuncio, .leitura-texto .conclusao { font-style: italic; font-size: 0.82em; text-align: left; margin: 0.15em 0; }
+.leitura-texto .anuncio { break-after: avoid; page-break-after: avoid; }
+.leitura-texto .conclusao { margin-top: 0.35em; break-before: avoid; page-break-before: avoid; }
+.abertura { font-style: italic; }
+.leitura-texto .estrofe { text-align: left; hyphens: none; margin: 0 0 0.45em; }
 .anotacoes { margin-top: 0.8em; }
 .anotacoes-rotulo { font-size: 0.72em; color: #777; text-transform: uppercase; letter-spacing: 0.05em; margin: 0; }
 

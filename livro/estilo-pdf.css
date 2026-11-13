@@ -14,3 +14,7 @@
 .pdf .anotacoes { border-top: 0.5px solid #ccc; min-height: 60mm;
   background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 7.5mm, #e2ddd2 7.5mm, #e2ddd2 7.8mm); }
 .pdf .tabela tr { break-inside: avoid; }
+.pdf .busca { display: flex; align-items: center; gap: 4mm; }
+.pdf .qr { flex: none; }
+.pdf .qr svg { width: 28mm; height: 28mm; }
+.pdf .busca-texto { min-width: 0; }

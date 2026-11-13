@@ -71,7 +71,7 @@ versiculos:
     texto: pois era contado entre nós e recebeu a sua parte neste ministério. —
     status: ia-sem-revisao
   '1:18':
-    texto: Este adquiriu um campo com o salário da injustiça e, caindo de cabeça, arrebentou pelo meio,
+    texto: este adquiriu um campo com o salário da injustiça e, caindo de cabeça, arrebentou pelo meio,
       e todas as suas entranhas se derramaram.
     status: ia-sem-revisao
   '1:19':
@@ -79,10 +79,10 @@ versiculos:
       chamado, na língua deles, Hacéldama, isto é, Campo de Sangue. —
     status: ia-sem-revisao
   '1:20':
-    texto: 'Pois está escrito no livro dos Salmos: ‘Fique deserta a sua morada, e não haja quem nela habite’,
+    texto: 'pois está escrito no livro dos Salmos: ‘Fique deserta a sua morada, e não haja quem nela habite’,
       e: ‘Outro tome o seu encargo.’'
     partes:
-    - 'Pois está escrito no livro dos Salmos:'
+    - 'pois está escrito no livro dos Salmos:'
     - ‘Fique deserta a sua morada, e não haja quem nela habite’,
     - 'e: ‘Outro tome o seu encargo.’'
     status: ia-sem-revisao
@@ -3005,7 +3005,7 @@ versiculos:
       dizendo: “Não encontramos nenhum mal neste homem; e se um espírito ou um anjo lhe falou —”'
     status: ia-sem-revisao
   '23:10':
-    texto: Como crescia a disputa, o comandante, temendo que Paulo fosse despedaçado por eles, mandou
+    texto: como crescia a disputa, o comandante, temendo que Paulo fosse despedaçado por eles, mandou
       descer a tropa para o arrebatar do meio deles e levá-lo à fortaleza.
     status: ia-sem-revisao
   '23:11':

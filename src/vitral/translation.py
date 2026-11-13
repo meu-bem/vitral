@@ -67,12 +67,17 @@ def load_translation(directory: Path = TRANSLATION_DIR) -> dict[str, dict[tuple[
     return out
 
 
-def lectionary_refs(root: Path = ROOT) -> list[str]:
+def lectionary_refs(root: Path = ROOT, with_alternatives: bool = False) -> list[str]:
+    """Referências do Lecionário. Com ``with_alternatives``, também as formas alternativas ("ou ...")."""
     refs: list[str] = []
     for path in sorted((root / "data" / "lecionario").glob("*.yaml")):
         doc = load_yaml(path)
         for reading in doc["leituras"].values():
-            refs += [r["ref"] for r in reading.values() if isinstance(r, dict) and "ref" in r]
+            for r in reading.values():
+                if isinstance(r, dict) and "ref" in r:
+                    refs.append(r["ref"])
+                    if with_alternatives:
+                        refs += list(r.get("alternativas", []))
     return refs
 
 

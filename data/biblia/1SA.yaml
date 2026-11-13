@@ -134,10 +134,10 @@ versiculos:
       ele não podia ver —
     status: ia-sem-revisao
   '3:3':
-    texto: A lâmpada de Deus ainda não se apagara, e Samuel estava deitado no templo do Senhor, onde estava
+    texto: a lâmpada de Deus ainda não se apagara, e Samuel estava deitado no templo do Senhor, onde estava
       a arca de Deus.
     partes:
-    - A lâmpada de Deus ainda não se apagara,
+    - a lâmpada de Deus ainda não se apagara,
     - e Samuel estava deitado no templo do Senhor, onde estava a arca de Deus.
     status: ia-sem-revisao
     observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Exceções de abertura por versículo inicial (data/inicios.yaml)",
+  "type": "object",
+  "required": ["inicios"],
+  "additionalProperties": false,
+  "properties": {
+    "inicios": {
+      "type": ["object", "null"],
+      "patternProperties": {
+        "^[1-3]?[A-Za-zÀ-ú]+ \\d+,\\d+[a-z]*$": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "abertura": {"type": "string"},
+            "troca": {"type": "array", "minItems": 2, "items": {"type": "string"}},
+            "motivo": {"type": "string"}
+          }
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}

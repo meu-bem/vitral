@@ -8,12 +8,13 @@ from urllib.parse import quote_plus
 
 from ..content import ContentItem, load_content
 from ..data_loader import build_year, load_yaml, DATA_DIR
+from ..formulas import search_query
 from ..lectionary import DayReadings, Lectionary, Reading
 from ..liturgy import LiturgicalDay, Rank, Season, first_sunday_of_advent
 from ..liturgy.temporale import MONTHS
 from ..liturgy.model import WEEKDAY_NAMES
 
-__all__ = ["BookDay", "BookYear", "build_book_year", "youtube_search"]
+__all__ = ["BookDay", "BookYear", "Search", "build_book_year", "youtube_search"]
 
 YOUTUBE = "https://www.youtube.com/results?search_query="
 
@@ -81,27 +82,10 @@ class BookDay:
     def pending(self) -> list[str]:
         return list(self.day.pending) + self.readings.pending
 
-    def _search_name(self) -> str:
-        d = self.day
-        name = d.name
-        if d.date.weekday() == 6 or d.rank in (Rank.SOLEMNITY, Rank.FEAST):
-            name += f" ano {d.sunday_cycle}"
-        return name
-
-    @property
-    def psalm_search(self) -> Search | None:
-        psalm = self.readings.get("salmo")
-        if not psalm or not psalm.display:
-            return None
-        # Só a referência e o dia litúrgico: nunca o texto do refrão.
-        return Search("Salmo responsorial", f"salmo responsorial {psalm.display} {self._search_name()}")
-
-    @property
-    def gospel_search(self) -> Search | None:
-        gospel = self.readings.get("evangelho")
-        if not gospel or not gospel.display:
-            return None
-        return Search("Evangelho", f"evangelho {gospel.display} {self._search_name()}")
+    def search_for(self, reading: Reading) -> Search | None:
+        """Busca no YouTube pela leitura: só o livro e a referência (salmo: só o número). Sem referência completa, nada."""
+        query = search_query(reading.ref, reading.slot) if reading.ref else None
+        return Search(reading.label, query) if query else None
 
     def reading_list(self) -> list[Reading]:
         return self.readings.readings

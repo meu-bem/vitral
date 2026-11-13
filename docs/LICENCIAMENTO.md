@@ -12,6 +12,7 @@ fim deste documento.
 | Nomes das celebrações | romcal (MIT), conferidos | dados sob licença aberta |
 | Imagem do calendário, QR codes, capa | gerados pelo projeto | obra própria (CC BY-SA 4.0) |
 | Textos de interface (títulos, instruções de uso) | escritos para o projeto | obra própria (CC BY-SA 4.0) |
+| Anúncio do livro, palavras de abertura e conclusão das leituras ("Leitura do Livro do Gênesis.", "Naquele tempo,", "Palavra do Senhor.") | `data/formulas.yaml`, escritos para o projeto; fórmulas litúrgicas curtas e fixas | obra própria (CC BY-SA 4.0); postos por regra no build, sem IA |
 | Texto das leituras e dos salmos | tradução própria, por IA, sem revisão humana, de `data/biblia/` (SBLGNT, OSHB, Clementina; `docs/FONTES.md`) | obra derivada de textos-base abertos, CC BY-SA 4.0; avisada na abertura e nos créditos |
 | Comentários de colaboradores | `conteudo/` | só CC0, CC BY 4.0, CC BY-SA 4.0 ou domínio público com procedência |
 | Fontes tipográficas | EB Garamond, Source Sans 3 | SIL Open Font License 1.1 |
@@ -19,7 +20,9 @@ fim deste documento.
 ## O que o livro não inclui
 
 - **Texto das leituras e dos salmos em tradução da CNBB ou qualquer outra com direitos**, nem o
-  refrão do salmo. O texto que o livro traz é a tradução própria acima, sem consultar traduções portuguesas. As buscas no YouTube usam só a referência e o nome do dia.
+  refrão do salmo. O texto que o livro traz é a tradução própria acima, sem consultar traduções portuguesas. O salmo
+  é impresso em estrofes, sem refrão (forma direta, prevista na Introdução Geral ao Lecionário, n. 20). As buscas no
+  YouTube usam só o livro e a referência (no salmo, só o número).
 - **Comentários, homilias e meditações de terceiros** sem licença aberta.
 - **Texto espiritual gerado por IA**, exceto a tradução das leituras. O código, os testes, a documentação
   técnica e os textos de interface foram escritos com apoio de IA. Nenhum comentário, oração ou meditação foi.
@@ -63,6 +66,7 @@ Ficam na página de créditos de cada livro e em `docs/FONTES.md`:
      fica registrada em `docs/relatorios/lecionario-divergencias.md`.
 3. **QR codes para buscas no YouTube.**
    - O livro aponta para buscas, não para vídeos específicos, e não endossa o que aparece.
+   - Cada leitura e cada salmo tem a sua busca, só com o livro e a referência.
    - Os resultados são conteúdo de terceiros. O aviso está na seção "Como usar".
 4. **Leituras de Nossa Senhora Aparecida.**
    - Nenhuma fonte com licença aberta traz as leituras próprias da solenidade.

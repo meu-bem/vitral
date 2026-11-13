@@ -56,16 +56,19 @@ def _span(a: str, b: str) -> str:
     return "".join(chr(i) for i in range(ord(a), ord(b) + 1))
 
 
-def reading_verses(ref_text: str) -> list[VerseText]:
-    """Versículos da referência, na ordem do Lecionário. Lista vazia se a referência não pode ser lida."""
+def reading_segments(ref_text: str) -> list[list[VerseText]]:
+    """Versículos da referência, um grupo por segmento (os pontos de "Sl 18,2-3.4-5" separam as estrofes).
+
+    Na ordem do Lecionário. Lista vazia se a referência não pode ser lida; segmento sem texto não aparece."""
     try:
         ref = parse_ref(ref_text, "br")
     except ValueError:
         return []
     verses = _translation().get(ref.book, {})
-    out: list[VerseText] = []
+    out: list[list[VerseText]] = []
     seen: set[tuple[int, int, str]] = set()
     for seg in ref.segments:
+        group: list[VerseText] = []
         for c, v in sorted(Ref(ref.book, (seg,)).verses(_max_verses())):
             entry = verses.get((c, v))
             if not entry or not entry.get("texto"):
@@ -80,5 +83,34 @@ def reading_verses(ref_text: str) -> list[VerseText]:
             if not text or (c, v, shown) in seen:
                 continue
             seen.add((c, v, shown))
-            out.append(VerseText(c, v, shown, text))
+            group.append(VerseText(c, v, shown, text))
+        if group:
+            out.append(group)
     return out
+
+
+def reading_verses(ref_text: str) -> list[VerseText]:
+    """Todos os versículos da referência, na ordem do Lecionário (sem separar por segmento)."""
+    return [v for group in reading_segments(ref_text) for v in group]
+
+
+def reading_book(ref_text: str) -> str | None:
+    """Código USFM do livro da referência, ou None se ilegível."""
+    try:
+        return parse_ref(ref_text, "br").book
+    except ValueError:
+        return None
+
+
+def open_quotes_before(book: str, chapter: int, verse: int) -> int:
+    """Quantas aspas duplas (“) estão abertas ao chegar ao versículo, contando desde o começo do livro.
+
+    A fala que atravessa capítulos (Sermão da Montanha, discurso da Ceia) continua aberta no versículo seguinte,
+    como nos dados: a abertura fica onde a fala começa e o fechamento onde ela termina."""
+    depth = 0
+    for (c, v), entry in sorted(_translation().get(book, {}).items()):
+        if (c, v) >= (chapter, verse):
+            break
+        text = entry.get("texto", "")
+        depth = max(0, depth + text.count("“") - text.count("”"))
+    return depth

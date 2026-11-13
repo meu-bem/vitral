@@ -16,7 +16,7 @@ from html import escape
 from pathlib import Path
 
 from .calendar_image import calendar_png, calendar_svg
-from .html import calendar_page, credits_page, day_section, how_to, title_page, toc_page
+from .html import calendar_page, credits_page, day_section, how_to, qr_png, title_page, toc_page
 from .model import BookYear
 
 LIVRO_DIR = Path(__file__).resolve().parents[3] / "livro"
@@ -107,6 +107,13 @@ def epub_files(book: BookYear) -> dict[str, bytes]:
     files: dict[str, bytes] = {}
     chapters: list[tuple[str, str, str]] = []  # (arquivo, título, propriedades)
 
+    def qr_img(url: str) -> str:
+        """QR em PNG (um arquivo por endereço, repartido entre os dias que o usam)."""
+        name = f"qr/{hashlib.sha1(url.encode()).hexdigest()[:12]}.png"
+        if f"OEBPS/{name}" not in files:
+            files[f"OEBPS/{name}"] = qr_png(url)
+        return f'<img src="{name}" alt="QR code da busca no YouTube"/>'
+
     def add(name: str, title: str, body: str, props: str = ""):
         files[f"OEBPS/{name}"] = _xhtml(book, title, body).encode()
         chapters.append((name, title, props))
@@ -118,7 +125,7 @@ def epub_files(book: BookYear) -> dict[str, bytes]:
     add("calendario.xhtml", "Calendário do ano",
         calendar_page(book, '<img src="calendario.png" alt="Grade do ano litúrgico com a cor de cada dia"/>'))
     for i, (label, days) in enumerate(book.months(), start=1):
-        body = f'<h1 class="mes-titulo">{escape(label)}</h1>' + "\n".join(day_section(bd) for bd in days)
+        body = f'<h1 class="mes-titulo">{escape(label)}</h1>' + "\n".join(day_section(bd, qr=qr_img) for bd in days)
         add(f"mes-{i:02d}.xhtml", label, body, "svg")
     add("creditos.xhtml", "Créditos e licenças", credits_page(book))
 
@@ -140,6 +147,8 @@ def epub_files(book: BookYear) -> dict[str, bytes]:
                 '<item id="capa" href="capa.png" media-type="image/png" properties="cover-image"/>']
     for i, f in enumerate(FONT_FILES):
         manifest.append(f'<item id="font{i}" href="fontes/{f.name}" media-type="font/ttf"/>')
+    for i, name in enumerate(sorted(n for n in files if n.startswith("OEBPS/qr/"))):
+        manifest.append(f'<item id="qr{i}" href="{name[len("OEBPS/"):]}" media-type="image/png"/>')
     spine = []
     for i, (n, _, props) in enumerate(chapters):
         p = f' properties="{props}"' if props else ""

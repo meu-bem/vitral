@@ -92,6 +92,21 @@ o versículo traz `observacao` e entra na lista abaixo. Não se mistura outra le
 | Sl 145,13cd | ausente do hebraico; traduzido da Vulgata (“O Senhor é fiel em todas as suas palavras…”) | presente |
 | Mc 16,8 | acrescenta, entre colchetes duplos, um final breve; não traduzido | sem o final breve |
 
+## Moldura da leitura e salmo
+
+A tradução em `data/biblia/` é só o texto. O que está em volta vem de `data/formulas.yaml` e é posto no build por
+`src/vitral/proclamacao.py`, sem IA, em itálico para não se confundir com a tradução:
+
+- **anúncio** do livro e **conclusão** ("Palavra do Senhor."; no evangelho, "Palavra da Salvação.");
+- **abertura**: "Naquele tempo," (evangelho), "Naqueles dias," (livros históricos e Atos), "Irmãos," e
+  "Caríssimos," (cartas). Não se põe quando o texto já abre com marca de tempo, vocativo ou o autor se apresentando,
+  nem na primeira frase de um livro. Evangelho que começa no meio de uma fala ganha "Naquele tempo, Jesus disse:";
+- cada trecho abre com maiúscula e fecha com ponto; conjunção solta no começo ("E Maria disse") cai;
+- **exceções** em `data/inicios.yaml`, por versículo inicial ("Jo 5,17"): o programa não adivinha o sujeito de um
+  verbo solto, e o Lecionário o escreve ("Jesus lhes respondeu"). Cada exceção traz o motivo.
+- **salmo**: cada trecho da referência ("Sl 18,2-3.4-5") é uma estrofe; sem refrão (`docs/LICENCIAMENTO.md`). Dois
+  trechos que o Lecionário reúne numa estrofe (ex.: "14.17") saem como duas.
+
 ## Controle de qualidade
 
 - Cada versículo tem `status`: `ia-sem-revisao` ou `revisado` (só depois de revisão humana).

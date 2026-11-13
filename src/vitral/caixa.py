@@ -108,7 +108,7 @@ _OPEN_END = re.compile(r"[,;:][" + re.escape(_CLOSE) + r"]*$")
 
 def close_sentence(text: str) -> str:
     """Fecha o trecho com ponto: vírgula, ponto e vírgula e dois-pontos finais viram ponto; sem pontuação, ganha ponto."""
-    t = text.rstrip()
+    t = re.sub(r"\s*[—–]$", "", text.rstrip())  # travessão final: a frase pode seguir no versículo cortado
     if _OPEN_END.search(t):
         return re.sub(r"[,;:]([" + re.escape(_CLOSE) + r"]*)$", r".\1", t)
     if _SENTENCE_END.search(t):
@@ -120,9 +120,9 @@ def close_sentence(text: str) -> str:
 
 
 def continues_sentence(previous: str) -> bool:
-    """O versículo seguinte continua a frase? Sim se este termina em vírgula, ponto e vírgula ou sem pontuação."""
+    """O versículo seguinte continua a frase? Sim se este termina em vírgula, ponto e vírgula, travessão ou sem pontuação."""
     t = previous.rstrip()
     if not t:
         return False
     core = t.rstrip(_CLOSE)
-    return core.endswith((",", ";")) or core[-1:].isalnum()
+    return core.endswith((",", ";", "—", "–")) or core[-1:].isalnum()

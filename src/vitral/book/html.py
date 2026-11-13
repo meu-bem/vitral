@@ -7,6 +7,7 @@ e os comentários de conteudo/ (humanos e licenciados). Nenhum texto espiritual 
 
 from __future__ import annotations
 
+from collections.abc import Callable
 from html import escape
 
 import segno
@@ -14,9 +15,10 @@ from markdown_it import MarkdownIt
 
 from ..content import LICENSE_LABELS
 from ..liturgy.model import Color
-from ..reading_text import reading_verses
+from ..lectionary import Reading
+from ..proclamacao import preparar
 from .calendar_image import FILL
-from .model import BookDay, BookYear
+from .model import BookDay, BookYear, Search
 
 _md = MarkdownIt("commonmark", {"html": False, "xhtmlOut": True, "linkify": False})
 
@@ -60,7 +62,7 @@ def e(text: object) -> str:
 
 
 def qr_svg(url: str) -> str:
-    """QR code em SVG embutido (sem dimensões fixas; o CSS define o tamanho)."""
+    """QR code em SVG embutido (sem dimensões fixas; o CSS define o tamanho). Usado no PDF."""
     qr = segno.make(url, error="m")
     svg = qr.svg_inline(scale=1, border=2, dark="#111111", omitsize=True)
     if "xmlns=" not in svg:  # XHTML (EPUB) exige o namespace no SVG embutido
@@ -68,25 +70,54 @@ def qr_svg(url: str) -> str:
     return svg.replace("<svg ", '<svg aria-hidden="true" ', 1)
 
 
+def qr_png(url: str) -> bytes:
+    """QR code em PNG, módulos de 10 px e borda de 4 módulos. O EPUB/AZW3 usa PNG: o Kindle (e o Calibre ao gerar
+    o AZW3) encolhe ou descarta o SVG embutido, e o QR sai minúsculo."""
+    import io
+
+    buf = io.BytesIO()
+    segno.make(url, error="m").save(buf, kind="png", scale=10, border=4, dark="#000000", light="#ffffff")
+    return buf.getvalue()
+
+
 def color_chip(color: Color) -> str:
     return f'<span class="chip chip-{color.name.lower()}" style="background:{FILL[color]}"></span>'
 
 
-def reading_text(label: str, ref: str | None) -> str:
-    """Texto de uma leitura: versículos numerados, em ordem. Vazio se não há referência ou tradução."""
-    verses = reading_verses(ref) if ref else []
-    if not verses:
+def _verse(v, chapter: int) -> str:
+    num = v.label if v.chapter == chapter else f"{v.chapter},{v.label}"
+    return f'<sup class="v">{e(num)}</sup>{e(v.text)}'
+
+
+def reading_block(r: Reading) -> str:
+    """Uma leitura: título, anúncio, abertura, texto e conclusão. O salmo vai em estrofes, sem refrão."""
+    p = preparar(r.slot, r.ref)
+    if not p:
         return ""
-    chapter = verses[0].chapter
-    body = []
-    for v in verses:
-        num = v.label if v.chapter == chapter else f"{v.chapter},{v.label}"
-        body.append(f'<sup class="v">{e(num)}</sup>{e(v.text)}')
-    return (f'<div class="leitura-texto"><h3>{e(label)} · {e(ref)}</h3>'
-            f'<p>{" ".join(body)}</p></div>')
+    out = [f'<div class="leitura-texto leitura-{p.kind}"><h3><span class="rot">{e(r.label)}</span> · {e(r.ref)}</h3>']
+    if p.anuncio:
+        out.append(f'<p class="anuncio">{e(p.anuncio)}</p>')
+    if p.kind == "salmo":
+        for stanza in p.blocos:
+            out.append('<p class="estrofe">' + "<br/>".join(_verse(v, p.chapter) for v in stanza) + "</p>")
+    else:
+        abertura = f'<em class="abertura">{e(p.abertura)}</em> ' if p.abertura else ""
+        body = " ".join(_verse(v, p.chapter) for group in p.blocos for v in group)
+        out.append(f'<p class="corpo">{abertura}{body}</p>')
+        out.append(f'<p class="conclusao">{e(p.conclusao)}</p>')
+    out.append("</div>")
+    return "".join(out)
 
 
-def day_section(bd: BookDay, anchor: bool = True) -> str:
+def search_block(s: Search, qr: Callable[[str], str]) -> str:
+    """Título, QR code e endereço da busca no YouTube, logo depois da leitura."""
+    return (f'<div class="busca"><div class="qr">{qr(s.url)}</div><div class="busca-texto">'
+            '<p class="busca-chamada">Busca no YouTube</p>'
+            f'<p class="busca-rotulo">{e(s.label)} · {e(s.query)}</p>'
+            f'<p class="url"><a href="{e(s.url)}">{e(s.url)}</a></p></div></div>')
+
+
+def day_section(bd: BookDay, anchor: bool = True, qr: Callable[[str], str] = qr_svg) -> str:
     d = bd.day
     h = [f'<section class="dia" id="d{bd.date.isoformat()}">' if anchor else '<section class="dia">']
     h.append(f'<p class="data">{e(bd.date_label)}</p>')
@@ -118,18 +149,10 @@ def day_section(bd: BookDay, anchor: bool = True) -> str:
     h.append("</tbody></table>")
 
     for r in bd.reading_list():
-        h.append(reading_text(r.label, r.ref))
-
-    searches = [s for s in (bd.psalm_search, bd.gospel_search) if s]
-    if searches:
-        h.append('<div class="buscas">')
-        for s in searches:
-            h.append('<div class="busca">')
-            h.append(f'<div class="qr">{qr_svg(s.url)}</div>')
-            h.append(f'<p class="busca-rotulo">Busca no YouTube: {e(s.label.lower())}</p>')
-            h.append(f'<p class="url"><a href="{e(s.url)}">{e(s.url)}</a></p>')
-            h.append("</div>")
-        h.append("</div>")
+        h.append(reading_block(r))
+        search = bd.search_for(r)
+        if search:
+            h.append(search_block(search, qr))
 
     for item in bd.content:
         h.append('<div class="comentario">')
@@ -198,9 +221,15 @@ sob responsabilidade e edição do mantenedor do projeto. Parte dos originais: o
 livros deuterocanônicos, o latim da Vulgata Clementina. Não é a tradução usada na liturgia, e onde o
 original difere da Nova Vulgata (base do Lecionário) o texto segue o original. Para a proclamação litúrgica,
 use a Bíblia ou o lecionário aprovado; os sites oficiais abaixo trazem as leituras do dia.</p>
-<p>Os QR codes abrem uma <strong>busca no YouTube</strong> pelo salmo responsorial e pelo evangelho do dia.
-A busca usa só a referência e o nome do dia; os resultados são de terceiros e mudam com o tempo.
-O endereço de cada busca também vem escrito.</p>
+<p>Logo depois de cada leitura e de cada salmo há um <strong>QR code</strong>, com o endereço escrito ao lado.
+Ele abre uma <strong>busca no YouTube</strong> pelo livro e pela referência (no salmo, só pelo número). Os resultados
+são de terceiros e mudam com o tempo.</p>
+<p>O <strong>salmo</strong> vem em estrofes, uma para cada trecho da referência, <strong>sem o refrão</strong>: o refrão
+pertence ao Lecionário, que tem direitos reservados. Para rezá-lo ou cantá-lo com o refrão, use a busca do salmo ou
+os sites oficiais abaixo.</p>
+<p>O anúncio do livro, as palavras de abertura (“Naquele tempo,”, “Irmãos,”) e a conclusão (“Palavra do
+Senhor.”, “Palavra da Salvação.”) vêm em <em>itálico</em>. São a moldura litúrgica, acrescentada pelo programa por
+regra, e não fazem parte da tradução.</p>
 <p>As referências seguem a numeração das Bíblias católicas usadas no Brasil. Quando há forma
 breve ou leitura alternativa, ela vem entre parênteses.</p>
 <p>As memórias aparecem como nota. Quando uma memória obrigatória tem leituras próprias, elas
