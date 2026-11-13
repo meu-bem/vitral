@@ -9,17 +9,17 @@ versiculos:
     texto: Damos sempre graças a Deus por todos vós, fazendo memória de vós nas nossas orações,
     status: ia-sem-revisao
   '1:3':
-    texto: Lembrando-nos sem cessar, diante de nosso Deus e Pai, da obra da vossa fé, do trabalho do vosso
+    texto: lembrando-nos sem cessar, diante de nosso Deus e Pai, da obra da vossa fé, do trabalho do vosso
       amor e da perseverança da vossa esperança em nosso Senhor Jesus Cristo,
     status: ia-sem-revisao
   '1:4':
-    texto: Sabendo, irmãos amados por Deus, da vossa eleição,
+    texto: sabendo, irmãos amados por Deus, da vossa eleição,
     status: ia-sem-revisao
   '1:5':
-    texto: Porque o nosso Evangelho não chegou até vós somente em palavra, mas também em poder, no Espírito
+    texto: porque o nosso Evangelho não chegou até vós somente em palavra, mas também em poder, no Espírito
       Santo e em plena convicção, como sabeis que fomos entre vós, por vossa causa.
     partes:
-    - Porque o nosso Evangelho não chegou até vós somente em palavra,
+    - porque o nosso Evangelho não chegou até vós somente em palavra,
     - mas também em poder, no Espírito Santo e em plena convicção,
     - como sabeis que fomos entre vós, por vossa causa.
     status: ia-sem-revisao
@@ -29,28 +29,28 @@ versiculos:
       com a alegria do Espírito Santo,
     status: ia-sem-revisao
   '1:7':
-    texto: De modo que vos tornastes modelo para todos os que creem na Macedônia e na Acaia.
+    texto: de modo que vos tornastes modelo para todos os que creem na Macedônia e na Acaia.
     status: ia-sem-revisao
   '1:8':
     texto: Pois de vós ressoou a palavra do Senhor, não somente na Macedônia e na Acaia, mas em todo lugar
       a vossa fé em Deus se divulgou, de modo que não precisamos dizer nada;
     status: ia-sem-revisao
   '1:9':
-    texto: Eles mesmos contam a nosso respeito que acolhida tivemos entre vós, e como vos convertestes
+    texto: eles mesmos contam a nosso respeito que acolhida tivemos entre vós, e como vos convertestes
       dos ídolos a Deus, para servir ao Deus vivo e verdadeiro,
     status: ia-sem-revisao
   '1:10':
-    texto: E para esperar dos céus o seu Filho, a quem ressuscitou dos mortos, Jesus, que nos livra da
+    texto: e para esperar dos céus o seu Filho, a quem ressuscitou dos mortos, Jesus, que nos livra da
       ira que vem.
     status: ia-sem-revisao
   '2:1':
     texto: Vós mesmos sabeis, irmãos, que a nossa chegada entre vós não foi vã,
     status: ia-sem-revisao
   '2:2':
-    texto: Mas, tendo antes sofrido e sido ultrajados em Filipos, como sabeis, tivemos a ousadia, em nosso
+    texto: mas, tendo antes sofrido e sido ultrajados em Filipos, como sabeis, tivemos a ousadia, em nosso
       Deus, de vos anunciar o Evangelho de Deus em meio a muito combate.
     partes:
-    - Mas, tendo antes sofrido e sido ultrajados em Filipos, como sabeis,
+    - mas, tendo antes sofrido e sido ultrajados em Filipos, como sabeis,
     - tivemos a ousadia, em nosso Deus, de vos anunciar o Evangelho de Deus em meio a muito combate.
     status: ia-sem-revisao
     observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
@@ -58,7 +58,7 @@ versiculos:
     texto: Pois a nossa exortação não procede de erro nem de impureza, nem se faz com engano,
     status: ia-sem-revisao
   '2:4':
-    texto: Mas, como fomos aprovados por Deus para que nos fosse confiado o Evangelho, assim falamos,
+    texto: mas, como fomos aprovados por Deus para que nos fosse confiado o Evangelho, assim falamos,
       não para agradar aos homens, mas a Deus, que prova os nossos corações.
     status: ia-sem-revisao
   '2:5':
@@ -66,13 +66,13 @@ versiculos:
       Deus é testemunha —,
     status: ia-sem-revisao
   '2:6':
-    texto: Nem buscamos glória dos homens, nem de vós nem de outros,
+    texto: nem buscamos glória dos homens, nem de vós nem de outros,
     status: ia-sem-revisao
   '2:7':
-    texto: Embora pudéssemos impor-nos com autoridade como apóstolos de Cristo; mas fomos bondosos no
+    texto: embora pudéssemos impor-nos com autoridade como apóstolos de Cristo; mas fomos bondosos no
       meio de vós, como uma mãe que acalenta os seus próprios filhos.
     partes:
-    - Embora pudéssemos impor-nos com autoridade como apóstolos de Cristo;
+    - embora pudéssemos impor-nos com autoridade como apóstolos de Cristo;
     - mas fomos bondosos no meio de vós, como uma mãe que acalenta os seus próprios filhos.
     status: ia-sem-revisao
     observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
@@ -89,10 +89,10 @@ versiculos:
       para convosco, que credes,
     status: ia-sem-revisao
   '2:11':
-    texto: Como sabeis que a cada um de vós, como um pai a seus filhos,
+    texto: como sabeis que a cada um de vós, como um pai a seus filhos,
     status: ia-sem-revisao
   '2:12':
-    texto: Exortávamos, consolávamos e conjurávamos, para que andásseis de modo digno de Deus, que vos
+    texto: exortávamos, consolávamos e conjurávamos, para que andásseis de modo digno de Deus, que vos
       chama ao seu Reino e glória.
     status: ia-sem-revisao
   '2:13':
@@ -106,11 +106,11 @@ versiculos:
       parte dos judeus,
     status: ia-sem-revisao
   '2:15':
-    texto: Que mataram o Senhor Jesus e os profetas e nos perseguiram, que não agradam a Deus e são contrários
+    texto: que mataram o Senhor Jesus e os profetas e nos perseguiram, que não agradam a Deus e são contrários
       a todos os homens,
     status: ia-sem-revisao
   '2:16':
-    texto: Impedindo-nos de falar às nações para que sejam salvas, completando sempre a medida dos seus
+    texto: impedindo-nos de falar às nações para que sejam salvas, completando sempre a medida dos seus
       pecados. Mas a ira chegou sobre eles até o fim.
     status: ia-sem-revisao
   '2:17':
@@ -131,14 +131,14 @@ versiculos:
     texto: Por isso, não podendo mais suportar, resolvemos ficar sozinhos em Atenas,
     status: ia-sem-revisao
   '3:2':
-    texto: E enviamos Timóteo, nosso irmão e colaborador de Deus no Evangelho de Cristo, para vos confirmar
+    texto: e enviamos Timóteo, nosso irmão e colaborador de Deus no Evangelho de Cristo, para vos confirmar
       e exortar na vossa fé,
     status: ia-sem-revisao
   '3:3':
-    texto: Para que ninguém se abale nestas tribulações. Vós mesmos sabeis que fomos destinados a isto;
+    texto: para que ninguém se abale nestas tribulações. Vós mesmos sabeis que fomos destinados a isto;
     status: ia-sem-revisao
   '3:4':
-    texto: Pois, quando estávamos convosco, vos predizíamos que haveríamos de sofrer tribulações, como
+    texto: pois, quando estávamos convosco, vos predizíamos que haveríamos de sofrer tribulações, como
       aconteceu e sabeis.
     status: ia-sem-revisao
   '3:5':
@@ -150,29 +150,29 @@ versiculos:
       amor, e de que guardais boa lembrança de nós, desejando ver-nos, como também nós a vós,
     status: ia-sem-revisao
   '3:7':
-    texto: Por isso fomos consolados, irmãos, a vosso respeito, em toda a nossa necessidade e tribulação,
+    texto: por isso fomos consolados, irmãos, a vosso respeito, em toda a nossa necessidade e tribulação,
       pela vossa fé;
     status: ia-sem-revisao
   '3:8':
-    texto: Pois agora vivemos, se vós permaneceis firmes no Senhor.
+    texto: pois agora vivemos, se vós permaneceis firmes no Senhor.
     status: ia-sem-revisao
   '3:9':
     texto: Que ação de graças podemos render a Deus por vós, por toda a alegria com que nos alegramos
       por vossa causa diante de nosso Deus,
     status: ia-sem-revisao
   '3:10':
-    texto: Pedindo noite e dia, com insistência, para ver o vosso rosto e completar o que falta à vossa
+    texto: pedindo noite e dia, com insistência, para ver o vosso rosto e completar o que falta à vossa
       fé?
     status: ia-sem-revisao
   '3:11':
     texto: O próprio Deus, nosso Pai, e nosso Senhor Jesus dirijam o nosso caminho para vós;
     status: ia-sem-revisao
   '3:12':
-    texto: E a vós o Senhor faça crescer e abundar no amor uns para com os outros e para com todos, como
+    texto: e a vós o Senhor faça crescer e abundar no amor uns para com os outros e para com todos, como
       também nós para convosco,
     status: ia-sem-revisao
   '3:13':
-    texto: Para confirmar os vossos corações irrepreensíveis em santidade diante de nosso Deus e Pai,
+    texto: para confirmar os vossos corações irrepreensíveis em santidade diante de nosso Deus e Pai,
       na vinda de nosso Senhor Jesus com todos os seus santos.
     status: ia-sem-revisao
   '4:1':
@@ -186,13 +186,13 @@ versiculos:
     texto: 'Pois esta é a vontade de Deus: a vossa santificação, que vos abstenhais da imoralidade,'
     status: ia-sem-revisao
   '4:4':
-    texto: Que cada um de vós saiba possuir o seu próprio corpo em santidade e honra,
+    texto: que cada um de vós saiba possuir o seu próprio corpo em santidade e honra,
     status: ia-sem-revisao
   '4:5':
-    texto: Não em paixão de desejo, como as nações que não conhecem a Deus,
+    texto: não em paixão de desejo, como as nações que não conhecem a Deus,
     status: ia-sem-revisao
   '4:6':
-    texto: Que ninguém ofenda nem defraude o seu irmão neste assunto, pois o Senhor é vingador de todas
+    texto: que ninguém ofenda nem defraude o seu irmão neste assunto, pois o Senhor é vingador de todas
       estas coisas, como já vos dissemos e atestamos.
     status: ia-sem-revisao
   '4:7':
@@ -207,15 +207,15 @@ versiculos:
       por Deus a amar-vos uns aos outros;
     status: ia-sem-revisao
   '4:10':
-    texto: E de fato o fazeis com todos os irmãos em toda a Macedônia. Exortamo-vos, porém, irmãos, a
+    texto: e de fato o fazeis com todos os irmãos em toda a Macedônia. Exortamo-vos, porém, irmãos, a
       progredir ainda mais,
     status: ia-sem-revisao
   '4:11':
-    texto: E a procurar viver tranquilamente, cuidar dos vossos assuntos e trabalhar com as vossas mãos,
+    texto: e a procurar viver tranquilamente, cuidar dos vossos assuntos e trabalhar com as vossas mãos,
       como vos recomendamos,
     status: ia-sem-revisao
   '4:12':
-    texto: Para que vos comporteis decentemente diante dos de fora e não tenhais necessidade de ninguém.
+    texto: para que vos comporteis decentemente diante dos de fora e não tenhais necessidade de ninguém.
     status: ia-sem-revisao
   '4:13':
     texto: Não queremos, irmãos, que ignoreis a sorte dos que adormeceram, para que não vos entristeçais
@@ -230,11 +230,11 @@ versiculos:
       não precederemos os que adormeceram;'
     status: ia-sem-revisao
   '4:16':
-    texto: Pois o próprio Senhor, com uma ordem, com voz de arcanjo e com trombeta de Deus, descerá do
+    texto: pois o próprio Senhor, com uma ordem, com voz de arcanjo e com trombeta de Deus, descerá do
       céu, e os mortos em Cristo ressuscitarão primeiro;
     status: ia-sem-revisao
   '4:17':
-    texto: Depois nós, os vivos, que tivermos ficado, seremos arrebatados juntamente com eles, nas nuvens,
+    texto: depois nós, os vivos, que tivermos ficado, seremos arrebatados juntamente com eles, nas nuvens,
       ao encontro do Senhor, nos ares; e assim estaremos sempre com o Senhor.
     status: ia-sem-revisao
   '4:18':
@@ -244,7 +244,7 @@ versiculos:
     texto: Quanto aos tempos e momentos, irmãos, não precisais que vos escrevamos,
     status: ia-sem-revisao
   '5:2':
-    texto: Pois vós mesmos sabeis perfeitamente que o dia do Senhor vem como um ladrão na noite.
+    texto: pois vós mesmos sabeis perfeitamente que o dia do Senhor vem como um ladrão na noite.
     status: ia-sem-revisao
   '5:3':
     texto: 'Quando disserem: “Paz e segurança”, então lhes sobrevirá de repente a ruína, como as dores
@@ -254,7 +254,7 @@ versiculos:
     texto: Vós, porém, irmãos, não estais nas trevas, para que esse dia vos surpreenda como um ladrão;
     status: ia-sem-revisao
   '5:5':
-    texto: Pois todos vós sois filhos da luz e filhos do dia. Não somos da noite nem das trevas.
+    texto: pois todos vós sois filhos da luz e filhos do dia. Não somos da noite nem das trevas.
     status: ia-sem-revisao
   '5:6':
     texto: Portanto, não durmamos como os demais, mas vigiemos e sejamos sóbrios.
@@ -263,15 +263,15 @@ versiculos:
     texto: Pois os que dormem dormem de noite, e os que se embriagam embriagam-se de noite;
     status: ia-sem-revisao
   '5:8':
-    texto: Nós, porém, que somos do dia, sejamos sóbrios, revestidos da couraça da fé e do amor e do capacete
+    texto: nós, porém, que somos do dia, sejamos sóbrios, revestidos da couraça da fé e do amor e do capacete
       da esperança da salvação,
     status: ia-sem-revisao
   '5:9':
-    texto: Pois Deus não nos destinou para a ira, mas para alcançarmos a salvação por nosso Senhor Jesus
+    texto: pois Deus não nos destinou para a ira, mas para alcançarmos a salvação por nosso Senhor Jesus
       Cristo,
     status: ia-sem-revisao
   '5:10':
-    texto: Que morreu por nós, para que, quer vigiemos, quer durmamos, vivamos juntos com ele.
+    texto: que morreu por nós, para que, quer vigiemos, quer durmamos, vivamos juntos com ele.
     status: ia-sem-revisao
   '5:11':
     texto: Por isso, consolai-vos uns aos outros e edificai-vos mutuamente, como já fazeis.
@@ -281,7 +281,7 @@ versiculos:
       e vos advertem,
     status: ia-sem-revisao
   '5:13':
-    texto: E que os tenhais em máxima consideração, no amor, por causa da sua obra. Vivei em paz entre
+    texto: e que os tenhais em máxima consideração, no amor, por causa da sua obra. Vivei em paz entre
       vós.
     status: ia-sem-revisao
   '5:14':
@@ -296,22 +296,22 @@ versiculos:
     texto: Alegrai-vos sempre,
     status: ia-sem-revisao
   '5:17':
-    texto: Orai sem cessar,
+    texto: orai sem cessar,
     status: ia-sem-revisao
   '5:18':
-    texto: Em tudo dai graças; pois esta é a vontade de Deus em Cristo Jesus para convosco.
+    texto: em tudo dai graças; pois esta é a vontade de Deus em Cristo Jesus para convosco.
     status: ia-sem-revisao
   '5:19':
     texto: Não extingais o Espírito,
     status: ia-sem-revisao
   '5:20':
-    texto: Não desprezeis as profecias;
+    texto: não desprezeis as profecias;
     status: ia-sem-revisao
   '5:21':
-    texto: Examinai tudo, retende o que é bom,
+    texto: examinai tudo, retende o que é bom,
     status: ia-sem-revisao
   '5:22':
-    texto: Abstende-vos de toda espécie de mal.
+    texto: abstende-vos de toda espécie de mal.
     status: ia-sem-revisao
   '5:23':
     texto: O próprio Deus da paz vos santifique totalmente, e o vosso espírito, a vossa alma e o vosso

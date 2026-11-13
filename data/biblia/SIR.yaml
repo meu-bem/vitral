@@ -89,7 +89,7 @@ versiculos:
     texto: Pois Deus honrou o pai nos filhos e, confirmando o julgamento da mãe, firmou-o sobre os filhos.
     status: ia-sem-revisao
   '3:4':
-    texto: Quem ama a Deus obterá o perdão dos pecados, abster-se-á deles e será ouvido na oração de cada
+    texto: Quem ama a Deus obterá o perdão dos pecados, se absterá deles e será ouvido na oração de cada
       dia.
     status: ia-sem-revisao
   '3:5':
@@ -116,7 +116,7 @@ versiculos:
     status: ia-sem-revisao
     observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '3:17':
-    texto: e será edificada para ti na justiça; no dia da tribulação lembrar-se-ão de ti, e os teus pecados
+    texto: e será edificada para ti na justiça; no dia da tribulação se lembrarão de ti, e os teus pecados
       se derreterão como o gelo em tempo sereno.
     status: ia-sem-revisao
   '3:18':
@@ -126,7 +126,7 @@ versiculos:
     texto: Quanto maior fores, mais te humilha em tudo, e diante de Deus encontrarás graça,
     status: ia-sem-revisao
   '3:28':
-    texto: O coração que segue dois caminhos não terá sucesso, e o perverso de coração tropeçará neles.
+    texto: o coração que segue dois caminhos não terá sucesso, e o perverso de coração tropeçará neles.
     status: ia-sem-revisao
   '3:29':
     texto: O coração mau será oprimido por dores, e o pecador acrescentará pecado a pecado.
@@ -151,13 +151,13 @@ versiculos:
     texto: Quem a escuta julgará as nações, e quem a contempla permanecerá confiante.
     status: ia-sem-revisao
   '4:17':
-    texto: Se alguém confiar nela, herdá-la-á, e os seus descendentes a possuirão com firmeza,
+    texto: Se alguém confiar nela, a herdará, e os seus descendentes a possuirão com firmeza,
     status: ia-sem-revisao
   '4:18':
     texto: pois ela caminha com ele na prova e o escolhe desde o início.
     status: ia-sem-revisao
   '4:19':
-    texto: Fará vir sobre ele temor, medo e provação; atormentá-lo-á com a sua disciplina, até o pôr à
+    texto: Fará vir sobre ele temor, medo e provação; o atormentará com a sua disciplina, até o pôr à
       prova nos seus pensamentos e confiar na sua alma.
     status: ia-sem-revisao
   '5:1':
@@ -187,7 +187,7 @@ versiculos:
     texto: Não tardes em converter-te ao Senhor e não o adies de dia em dia,
     status: ia-sem-revisao
   '6:5':
-    texto: A palavra doce multiplica os amigos e abranda os inimigos, e a língua amável abunda no homem
+    texto: a palavra doce multiplica os amigos e abranda os inimigos, e a língua amável abunda no homem
       bom.
     status: ia-sem-revisao
   '6:6':
@@ -234,14 +234,14 @@ versiculos:
     texto: Ela virá ao seu encontro como mãe honrada e o receberá como esposa da virgindade.
     status: ia-sem-revisao
   '15:3':
-    texto: Alimentá-lo-á com o pão da vida e da inteligência, e dar-lhe-á a beber a água da sabedoria
-      salutar; ele se firmará nela e não vacilará.
+    texto: Alimentá-lo-á com o pão da vida e da inteligência, e lhe dará a beber a água da sabedoria salutar;
+      ele se firmará nela e não vacilará.
     status: ia-sem-revisao
   '15:4':
     texto: Ela o sustentará, e ele não será confundido; ela o exaltará diante dos seus próximos,
     status: ia-sem-revisao
   '15:5':
-    texto: e abrirá a sua boca no meio da assembleia, enchê-lo-á do espírito de sabedoria e de inteligência
+    texto: e abrirá a sua boca no meio da assembleia, o encherá do espírito de sabedoria e de inteligência
       e o revestirá com uma veste de glória.
     status: ia-sem-revisao
   '15:6':
@@ -340,7 +340,7 @@ versiculos:
       perece a ação de graças.
     status: ia-sem-revisao
   '17:27':
-    texto: Dar-lhe-ás graças enquanto vives; vivo e são, dar-lhe-ás graças, louvarás a Deus e te gloriarás
+    texto: Tu lhe darás graças enquanto vives; vivo e são, lhe darás graças, louvarás a Deus e te gloriarás
       nas suas misericórdias.
     status: ia-sem-revisao
   '17:28':
@@ -357,7 +357,7 @@ versiculos:
     texto: abrirá a sua boca nas assembleias do Altíssimo e se gloriará diante do seu poder,
     status: ia-sem-revisao
   '24:8':
-    texto: Sozinha percorri o círculo do céu e penetrei a profundidade do abismo; caminhei sobre as ondas
+    texto: sozinha percorri o círculo do céu e penetrei a profundidade do abismo; caminhei sobre as ondas
       do mar.
     status: ia-sem-revisao
   '24:9':
@@ -549,7 +549,7 @@ versiculos:
     texto: Abrirá a boca em oração e suplicará pelos seus delitos.
     status: ia-sem-revisao
   '39:8':
-    texto: Pois, se o grande Senhor quiser, enchê-lo-á do espírito de inteligência;
+    texto: Pois, se o grande Senhor quiser, o encherá do espírito de inteligência;
     status: ia-sem-revisao
   '39:9':
     texto: e ele mesmo derramará como chuvas as palavras da sua sabedoria e, na oração, dará graças ao
@@ -560,8 +560,8 @@ versiculos:
       do Senhor.
     status: ia-sem-revisao
   '42:15':
-    texto: Lembrar-me-ei, pois, das obras do Senhor e anunciarei o que vi. Pelas palavras do Senhor existem
-      as suas obras.
+    texto: Eu me lembrarei, pois, das obras do Senhor e anunciarei o que vi. Pelas palavras do Senhor
+      existem as suas obras.
     status: ia-sem-revisao
   '42:16':
     texto: O sol, que ilumina tudo, olhou, e a obra do Senhor está cheia da sua glória.

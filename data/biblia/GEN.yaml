@@ -105,7 +105,7 @@ versiculos:
     status: ia-sem-revisao
   '1:29':
     texto: 'Deus disse: “Eis que vos dou todas as ervas que dão semente, sobre a face de toda a terra,
-      e todas as árvores que têm fruto com semente: servir-vos-ão de alimento.'
+      e todas as árvores que têm fruto com semente: vos servirão de alimento.'
     status: ia-sem-revisao
   '1:30':
     texto: E a todos os animais da terra, a todas as aves do céu e a tudo o que rasteja sobre a terra
@@ -163,7 +163,7 @@ versiculos:
       certamente morrerás.”
     status: ia-sem-revisao
   '2:18':
-    texto: 'O Senhor Deus disse: “Não é bom que o homem esteja só; far-lhe-ei uma auxiliar que lhe corresponda.”'
+    texto: 'O Senhor Deus disse: “Não é bom que o homem esteja só; lhe farei uma auxiliar que lhe corresponda.”'
     status: ia-sem-revisao
   '2:19':
     texto: O Senhor Deus formou do solo todos os animais do campo e todas as aves do céu e os levou ao
@@ -447,7 +447,7 @@ versiculos:
     texto: 'Deus disse a Noé e aos seus filhos que estavam com ele:'
     status: ia-sem-revisao
   '9:9':
-    texto: '“Eis que estabeleço a minha aliança convosco e com a vossa descendência depois de vós,'
+    texto: “Eis que estabeleço a minha aliança convosco e com a vossa descendência depois de vós,
     status: ia-sem-revisao
   '9:10':
     texto: 'e com todos os seres vivos que estão convosco: as aves, os animais domésticos e todas as feras
@@ -508,7 +508,7 @@ versiculos:
       que eu te mostrarei.'
     status: ia-sem-revisao
   '12:2':
-    texto: Farei de ti uma grande nação, abençoar-te-ei e engrandecerei o teu nome; e serás uma bênção.
+    texto: Farei de ti uma grande nação, te abençoarei e engrandecerei o teu nome; e serás uma bênção.
     status: ia-sem-revisao
   '12:3':
     texto: Abençoarei os que te abençoarem e amaldiçoarei os que te amaldiçoarem; em ti serão abençoadas
@@ -731,7 +731,7 @@ versiculos:
     texto: Já não te chamarás Abrão, mas teu nome será Abraão, porque te faço pai de uma multidão de nações.
     status: ia-sem-revisao
   '17:6':
-    texto: Tornar-te-ei extremamente fecundo, farei de ti nações, e de ti sairão reis.
+    texto: Eu te tornarei extremamente fecundo, farei de ti nações, e de ti sairão reis.
     status: ia-sem-revisao
   '17:7':
     texto: Estabelecerei a minha aliança entre mim e ti e a tua descendência depois de ti, de geração
@@ -753,7 +753,7 @@ versiculos:
     texto: 'Deus disse a Abraão: “A tua mulher Sarai não a chamarás Sarai, mas o seu nome será Sara.'
     status: ia-sem-revisao
   '17:16':
-    texto: Eu a abençoarei e dela te darei um filho; abençoá-la-ei, e ela se tornará nações, e dela sairão
+    texto: Eu a abençoarei e dela te darei um filho; a abençoarei, e ela se tornará nações, e dela sairão
       reis de povos.”
     status: ia-sem-revisao
   '17:17':
@@ -768,12 +768,12 @@ versiculos:
       com ele a minha aliança como aliança eterna, para a sua descendência depois dele.'
     status: ia-sem-revisao
   '17:20':
-    texto: 'Quanto a Ismael, eu te ouvi: eis que o abençoei, torná-lo-ei fecundo e o multiplicarei extremamente;
+    texto: 'Quanto a Ismael, eu te ouvi: eis que o abençoei, o tornarei fecundo e o multiplicarei extremamente;
       gerará doze príncipes, e farei dele uma grande nação.'
     status: ia-sem-revisao
   '17:21':
-    texto: Mas a minha aliança estabelecê-la-ei com Isaac, que Sara te dará à luz no ano que vem, por
-      esta época.”
+    texto: Mas a minha aliança a estabelecerei com Isaac, que Sara te dará à luz no ano que vem, por esta
+      época.”
     status: ia-sem-revisao
   '17:22':
     texto: Quando acabou de falar com ele, Deus subiu de junto de Abraão.
@@ -841,8 +841,7 @@ versiculos:
     texto: 'O Senhor disse: “Ocultarei eu a Abraão o que vou fazer?'
     status: ia-sem-revisao
   '18:18':
-    texto: Abraão tornar-se-á uma nação grande e poderosa, e nele serão abençoadas todas as nações da
-      terra.
+    texto: Abraão se tornará uma nação grande e poderosa, e nele serão abençoadas todas as nações da terra.
     status: ia-sem-revisao
   '18:19':
     texto: Pois eu o escolhi para que ordene a seus filhos e à sua casa depois dele que guardem o caminho
@@ -1070,7 +1069,7 @@ versiculos:
       teu filho, o teu único,'
     status: ia-sem-revisao
   '22:17':
-    texto: abençoar-te-ei e multiplicarei a tua descendência como as estrelas do céu e como a areia que
+    texto: te abençoarei e multiplicarei a tua descendência como as estrelas do céu e como a areia que
       está na praia do mar, e a tua descendência conquistará as portas dos seus inimigos.
     status: ia-sem-revisao
   '22:18':
@@ -1233,10 +1232,10 @@ versiculos:
     status: ia-sem-revisao
   '28:13':
     texto: 'E eis que o Senhor estava de pé junto a ela e dizia: “Eu sou o Senhor, o Deus de Abraão, teu
-      pai, e o Deus de Isaac. A terra em que estás deitado, dá-la-ei a ti e à tua descendência.'
+      pai, e o Deus de Isaac. A terra em que estás deitado, a darei a ti e à tua descendência.'
     status: ia-sem-revisao
   '28:14':
-    texto: A tua descendência será como o pó da terra; estender-te-ás para o ocidente e para o oriente,
+    texto: A tua descendência será como o pó da terra; te estenderás para o ocidente e para o oriente,
       para o norte e para o sul; e em ti e na tua descendência serão abençoadas todas as famílias da terra.
     status: ia-sem-revisao
   '28:15':
@@ -1265,10 +1264,10 @@ versiculos:
     texto: e eu voltar em paz à casa de meu pai, então o Senhor será o meu Deus.
     status: ia-sem-revisao
   '28:22':
-    texto: Esta pedra que ergui como estela será casa de Deus, e de tudo o que me deres, dar-te-ei o dízimo.”
+    texto: Esta pedra que ergui como estela será casa de Deus, e de tudo o que me deres, te darei o dízimo.”
     partes:
     - Esta pedra que ergui como estela será casa de Deus,
-    - e de tudo o que me deres, dar-te-ei o dízimo.”
+    - e de tudo o que me deres, te darei o dízimo.”
     status: ia-sem-revisao
     observacao: 'partes: divisão pela pontuação e pelo sentido; a do Lecionário pode diferir.'
   '32:23':
@@ -1513,7 +1512,7 @@ versiculos:
       vives.”'
     status: ia-sem-revisao
   '49:1':
-    texto: 'Jacó chamou os seus filhos e disse: “Reuni-vos, e anunciar-vos-ei o que vos acontecerá nos
+    texto: 'Jacó chamou os seus filhos e disse: “Reuni-vos, e vos anunciarei o que vos acontecerá nos
       dias futuros.”'
     status: ia-sem-revisao
   '49:2':

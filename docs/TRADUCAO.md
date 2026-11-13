@@ -9,13 +9,27 @@ A tradução é feita por IA (Claude) sob responsabilidade e edição de Mateus 
 - Português do Brasil, registro litúrgico: **vós** no plural ("Preparai", "Eu vos batizei"); **tu** no singular.
 - O nome divino (YHWH, Yah) é traduzido **"Senhor"**.
 - Aspas duplas curvas (“ ”); aspas internas, simples (‘ ’). Nada de «».
-- Cada versículo começa com maiúscula, mesmo quando continua uma frase do anterior. A citação abre no
-  versículo em que a fala começa e fecha onde termina, ainda que em versículos diferentes.
+- Versículo que continua a frase do anterior (este termina em vírgula, ponto e vírgula ou sem pontuação) começa
+  com **minúscula**, salvo nome próprio e começo de fala (aspas). A citação abre no versículo em que a fala começa
+  e fecha onde termina, ainda que em versículos diferentes. O livro abre cada trecho lido com maiúscula e o fecha
+  com ponto, então a minúscula nunca aparece no começo de uma leitura. `scripts/ajustar_caixa.py` aplica a regra
+  aos dados (idempotente) e `src/vitral/caixa.py` guarda a lista de nomes próprios, tirada do próprio texto.
+- Pronomes sem arcaísmo: "te darei", "eu vos disse isso", não "dar-te-ei" nem "vo-lo disse". A mesóclise só fica
+  quando uma forma de 3ª pessoa abre a frase ("Dir-se-á…"). `scripts/ajustar_pronomes.py` fez a conversão.
 - Títulos de salmos (“De Davi.”, “Cântico das subidas.”, “Aleluia.”) ficam no campo `titulo` do versículo 1,
   fora de `texto`: o Lecionário numera o v. 1 sem o título, e o livro não o imprime. Onde o Lecionário cita
   letras no v. 1 (Sl 28(29), 130(131), 143(144)), o título é também `partes[0]` (a letra `a`).
 - Ordem das palavras e vocabulário seguem o original, sem consultar tradução portuguesa existente.
   Trechos muito conhecidos têm risco de coincidir com versões protegidas; ver revisão por amostragem abaixo.
+
+## Semitismos
+
+Onde o grego traz um semitismo que em português soa como outra coisa, traduz-se pelo sentido e o versículo leva
+`observacao` com o literal. Critério: o hebraico e o aramaico dizem "odiar" para "preferir o outro, pôr em segundo
+lugar" (o contrário de escolher). Aplicado a Lc 14,26 ("não me prefere a seu pai…"), Jo 12,25 ("quem põe a sua vida
+em segundo plano") e Rm 9,13 ("Amei Jacó, mas preteri Esaú", citando Ml 1,2-3). Onde "odiar" é ódio de fato
+(Jo 15,18; 1Jo 3,15; Mt 5,43; Lc 16,13…), fica "odiar". As redações são próprias, sem consultar traduções
+portuguesas (ver *Estilo*).
 
 ## Daniel
 
