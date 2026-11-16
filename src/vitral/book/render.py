@@ -126,7 +126,7 @@ def epub_files(book: BookYear) -> dict[str, bytes]:
         calendar_page(book, '<img src="calendario.png" alt="Grade do ano litúrgico com a cor de cada dia"/>'))
     for i, (label, days) in enumerate(book.months(), start=1):
         body = f'<h1 class="mes-titulo">{escape(label)}</h1>' + "\n".join(day_section(bd, qr=qr_img) for bd in days)
-        add(f"mes-{i:02d}.xhtml", label, body, "svg")
+        add(f"mes-{i:02d}.xhtml", label, body)
     add("creditos.xhtml", "Créditos e licenças", credits_page(book))
 
     files["OEBPS/estilo.css"] = (LIVRO_DIR / "estilo.css").read_bytes()
